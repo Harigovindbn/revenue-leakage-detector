@@ -83,9 +83,9 @@ def rule_price(inv: dict, contract: dict, cl: dict) -> dict | None:
     qty = inv["quantity"]
     fields = [f"{cl['product_code']}.unit_price", "escalation_pct", "escalation_date"]
     if billed < expected:
-        for k in range(years):              # billed at an earlier year's price -> escalation missed
+        for k in range(years):              # billed at exactly an earlier year's price -> escalation missed
             old = price_after(base, pct, k)
-            if abs(billed - old) / old <= config.PRICE_TOLERANCE:
+            if abs(billed - old) <= config.L1_EXACT_MATCH_USD:
                 detail = (f"Billed {billed:.2f} = price before {years - k} escalation(s) of {pct}%; "
                           f"expected {expected:.2f} from {contract['escalation_date']}")
                 return make_flag("L1", inv, contract, cl["product_code"], expected * qty,
@@ -159,9 +159,12 @@ def rule_overage(usage_row: dict, contract: dict, cl: dict, base_line: dict | No
 # Orchestration
 # ==========================================================================
 
-def _prepare_contracts() -> dict[str, dict]:
+def prepare_contracts(records: list[dict] | None = None) -> dict[str, dict]:
+    """Extracted contract records (from file by default) -> {contract_id: contract} with real dates."""
+    import copy
+    records = copy.deepcopy(records) if records is not None else load_extracted_contracts()
     contracts = {}
-    for c in load_extracted_contracts():
+    for c in records:
         for k in ("start_date", "end_date", "escalation_date"):
             c[k] = parse_date(c[k])
         for ln in c["lines"]:
@@ -248,7 +251,7 @@ def run() -> pd.DataFrame:
     ensure_output_dirs()
     contract_map = pd.read_csv(config.OUTPUT_DIR / "invoice_contract_map.csv",
                                dtype={"invoice_line_id": str})
-    flags = detect(load_invoices(), contract_map, _prepare_contracts(), load_usage())
+    flags = detect(load_invoices(), contract_map, prepare_contracts(), load_usage())
 
     flags.to_csv(config.OUTPUT_DIR / "flags_all.csv", index=False)                 # full log
     visible = flags[~flags["below_threshold"]]

@@ -156,6 +156,8 @@ def _price_gap(contract: dict, lines: pd.DataFrame) -> float:
         gap += min(abs(r.unit_price - p) / p for p in options)
         if cl.get("quantity") and r.quantity != cl["quantity"]:
             gap += 1.0
+        # Discounts are deliberately NOT used here: an expired discount still on the
+        # invoice (an L2 leak) would push the invoice onto the wrong contract.
     return gap
 
 
@@ -188,10 +190,9 @@ def assign_contracts(invoices: pd.DataFrame, contracts_by_customer: dict[str, li
 # Run
 # ==========================================================================
 
-def run() -> pd.DataFrame:
-    ensure_output_dirs()
-    invoices = load_invoices()
-    contracts = load_extracted_contracts()
+def build_matches(invoices: pd.DataFrame, contracts: list[dict]) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """Return (customer_matches, invoice_contract_map) without writing any files."""
+    contracts = [dict(c) for c in contracts]
     for c in contracts:                               # JSON dates -> date objects
         for k in ("start_date", "end_date", "escalation_date"):
             c[k] = parse_date(c[k])
@@ -217,7 +218,6 @@ def run() -> pd.DataFrame:
     cols = ["invoice_customer_name", "matched_customer", "suggested_customer", "customer_id",
             "score", "method", "status", "invoice_lines"]
     matches = matches.reindex(columns=cols).sort_values(["status", "score"])
-    matches.to_csv(config.OUTPUT_DIR / "customer_matches.csv", index=False)
 
     # --- Step B
     invoices = invoices.merge(matches[["invoice_customer_name", "matched_customer", "customer_id",
@@ -231,6 +231,13 @@ def run() -> pd.DataFrame:
     out = out[["invoice_line_id", "invoice_id", "invoice_date", "customer_name", "matched_customer",
                "customer_id", "score", "method", "contract_id", "unmatched_reason"]]
     out = out.rename(columns={"score": "match_score", "method": "match_method"})
+    return matches, out
+
+
+def run() -> pd.DataFrame:
+    ensure_output_dirs()
+    matches, out = build_matches(load_invoices(), load_extracted_contracts())
+    matches.to_csv(config.OUTPUT_DIR / "customer_matches.csv", index=False)
     out.to_csv(config.OUTPUT_DIR / "invoice_contract_map.csv", index=False)
     out[out["contract_id"].isna()].to_csv(config.OUTPUT_DIR / "unmatched_invoice_lines.csv", index=False)
 

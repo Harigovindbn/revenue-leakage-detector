@@ -1,0 +1,1 @@
+flag_id,invoice_line_id,invoice_id,invoice_date,customer,invoice_customer_name,contract_id,country,product_code,rule_id,leak_type,direction,expected_amount,billed_amount,impact_usd,confidence,extraction_confidence,priority_score,evidence_clause,rule_detail,below_threshold,status,reviewed_by,note,direction_planted,planted_usd,_merge

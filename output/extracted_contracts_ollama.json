@@ -32,8 +32,8 @@
    "SMS-MSG.unit_price": 1.0,
    "SMS-MSG.discount_pct": 1.0,
    "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Blue Construction GmbH",
@@ -43,7 +43,9 @@
    "escalation_pct": "Fees shall increase by 3.5% on each anniversary of the Effective Date.",
    "escalation_date": "Fees shall increase by 3.5% on each anniversary of the Effective Date.",
    "SMS-MSG.quantity": "- SMS messages bundle [SMS-MSG]: USD 371.28 per month",
-   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 371.28 per month"
+   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 371.28 per month",
+   "SMS-MSG.tier_limit": "SMS messages bundle includes up to 50,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.",
+   "SMS-MSG.overage_rate": "SMS messages bundle includes up to 50,000 units per month. Usage above this allowance is billed at USD 0.015 per unit."
   }
  },
  {
@@ -172,8 +174,8 @@
    "SMS-MSG.unit_price": 0.5,
    "SMS-MSG.discount_pct": 1.0,
    "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0,
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0,
    "PLAT-PRO.quantity": 1.0,
    "PLAT-PRO.unit_price": 1.0,
    "PLAT-PRO.discount_pct": 1.0,
@@ -190,6 +192,8 @@
    "escalation_date": "On 01 July 2026 and annually thereafter, all unit prices will rise by 3.5 percent.",
    "SMS-MSG.quantity": null,
    "SMS-MSG.unit_price": null,
+   "SMS-MSG.tier_limit": "Overage: any SMS messages bundle usage beyond 20,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.",
+   "SMS-MSG.overage_rate": "Overage: any SMS messages bundle usage beyond 20,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.",
    "PLAT-PRO.quantity": "- Platform Pro licence (per seat) [PLAT-PRO]: 147 units at USD 84.59 per unit per month",
    "PLAT-PRO.unit_price": "- Platform Pro licence (per seat) [PLAT-PRO]: 147 units at USD 84.59 per unit per month"
   }
@@ -393,8 +397,8 @@
    "SMS-MSG.unit_price": 1.0,
    "SMS-MSG.discount_pct": 1.0,
    "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: River Foods AG",
@@ -406,7 +410,9 @@
    "DATA-STOR.quantity": "- Data storage (per TB) [DATA-STOR]: 96 units at USD 55.80 per unit per month",
    "DATA-STOR.unit_price": "- Data storage (per TB) [DATA-STOR]: 96 units at USD 55.80 per unit per month",
    "SMS-MSG.quantity": null,
-   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 361.58 per month"
+   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 361.58 per month",
+   "SMS-MSG.tier_limit": "The monthly allowance for SMS messages bundle is 50,000 units; excess units are charged at 0.015 USD each.",
+   "SMS-MSG.overage_rate": "The monthly allowance for SMS messages bundle is 50,000 units; excess units are charged at 0.015 USD each."
   }
  },
  {
@@ -458,8 +464,8 @@
    "API-CALLS.unit_price": 0.5,
    "API-CALLS.discount_pct": 0.9,
    "API-CALLS.discount_end_date": 0.9,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Coral Properties Limited",
@@ -475,7 +481,9 @@
    "API-CALLS.quantity": null,
    "API-CALLS.unit_price": null,
    "API-CALLS.discount_pct": "Customer will receive 10% off the contracted price of API calls bundle for invoices dated on or before 31 August 2025.",
-   "API-CALLS.discount_end_date": "Customer will receive 10% off the contracted price of API calls bundle for invoices dated on or before 31 August 2025."
+   "API-CALLS.discount_end_date": "Customer will receive 10% off the contracted price of API calls bundle for invoices dated on or before 31 August 2025.",
+   "API-CALLS.tier_limit": "The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each.",
+   "API-CALLS.overage_rate": "The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each."
   }
  },
  {
@@ -537,8 +545,8 @@
    "SMS-MSG.unit_price": 1.0,
    "SMS-MSG.discount_pct": 1.0,
    "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0,
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0,
    "DATA-STOR.quantity": 1.0,
    "DATA-STOR.unit_price": 1.0,
    "DATA-STOR.discount_pct": 1.0,
@@ -557,6 +565,8 @@
    "SUPP-PREM.unit_price": "- Premium support (flat) [SUPP-PREM]: USD 1,193.97 per month",
    "SMS-MSG.quantity": "- SMS messages bundle [SMS-MSG]: USD 369.44 per month",
    "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 369.44 per month",
+   "SMS-MSG.tier_limit": "SMS messages bundle includes up to 20,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.",
+   "SMS-MSG.overage_rate": "SMS messages bundle includes up to 20,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.",
    "DATA-STOR.quantity": "- Data storage (per TB) [DATA-STOR]: 40 units at USD 54.17 per unit per month",
    "DATA-STOR.unit_price": "- Data storage (per TB) [DATA-STOR]: 40 units at USD 54.17 per unit per month"
   }
@@ -594,8 +604,8 @@
    "API-CALLS.unit_price": 0.9,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Coral Systems FZE",
@@ -605,7 +615,9 @@
    "escalation_pct": "Pricing is subject to a yearly adjustment of 6% commencing 01 May 2026.",
    "escalation_date": "Pricing is subject to a yearly adjustment of 6% commencing 01 May 2026.",
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 769.57 per month",
-   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 769.57 per month"
+   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 769.57 per month",
+   "API-CALLS.tier_limit": "Overage: any API calls bundle usage beyond 100,000 units in a calendar month incurs a fee of USD 0.006 per additional unit.",
+   "API-CALLS.overage_rate": "Overage: any API calls bundle usage beyond 100,000 units in a calendar month incurs a fee of USD 0.006 per additional unit."
   }
  },
  {
@@ -673,8 +685,8 @@
    "SMS-MSG.unit_price": 0.9,
    "SMS-MSG.discount_pct": 1.0,
    "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Union Finance FZE",
@@ -688,7 +700,9 @@
    "PLAT-BASE.quantity": "- Platform licence (per seat) [PLAT-BASE]: 168 units at USD 38.66 per unit per month",
    "PLAT-BASE.unit_price": "- Platform licence (per seat) [PLAT-BASE]: 168 units at USD 38.66 per unit per month",
    "SMS-MSG.quantity": null,
-   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 376.99 per month"
+   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 376.99 per month",
+   "SMS-MSG.tier_limit": "The monthly allowance for SMS messages bundle is 50,000 units; excess units are charged at 0.015 USD each.",
+   "SMS-MSG.overage_rate": "The monthly allowance for SMS messages bundle is 50,000 units; excess units are charged at 0.015 USD each."
   }
  },
  {
@@ -882,13 +896,13 @@
    "SMS-MSG.unit_price": 0.5,
    "SMS-MSG.discount_pct": 1.0,
    "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
+   "SMS-MSG.tier_limit": 0.0,
    "SMS-MSG.overage_rate": 1.0,
    "API-CALLS.quantity": 0.5,
    "API-CALLS.unit_price": 0.5,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
+   "API-CALLS.tier_limit": 0.0,
    "API-CALLS.overage_rate": 1.0
   },
   "evidence": {
@@ -902,9 +916,11 @@
    "PLAT-BASE.unit_price": "- Platform licence (per seat) [PLAT-BASE]: 101 units at USD 40.99 per unit per month",
    "SMS-MSG.quantity": null,
    "SMS-MSG.unit_price": null,
+   "SMS-MSG.tier_limit": "The monthly allowance for SMS messages bundle is 20,000 units; excess units are charged at 0.015 USD each.",
    "SMS-MSG.overage_rate": "The monthly allowance for SMS messages bundle is 20,000 units; excess units are charged at 0.015 USD each.",
    "API-CALLS.quantity": null,
    "API-CALLS.unit_price": null,
+   "API-CALLS.tier_limit": "The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each.",
    "API-CALLS.overage_rate": "The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each."
   }
  },
@@ -1014,8 +1030,8 @@
    "API-CALLS.unit_price": 1.0,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0,
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0,
    "PLAT-BASE.quantity": 1.0,
    "PLAT-BASE.unit_price": 1.0,
    "PLAT-BASE.discount_pct": 1.0,
@@ -1034,6 +1050,8 @@
    "SUPP-PREM.unit_price": "- Premium support (flat) [SUPP-PREM]: USD 1,052.28 per month",
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 767.11 per month",
    "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 767.11 per month",
+   "API-CALLS.tier_limit": "API calls bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.",
+   "API-CALLS.overage_rate": "API calls bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.",
    "PLAT-BASE.quantity": "- Platform licence (per seat) [PLAT-BASE]: 187 units at USD 43.33 per unit per month",
    "PLAT-BASE.unit_price": "- Platform licence (per seat) [PLAT-BASE]: 187 units at USD 43.33 per unit per month"
   }
@@ -1097,7 +1115,7 @@
    "API-CALLS.unit_price": 0.8,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
+   "API-CALLS.tier_limit": 0.0,
    "API-CALLS.overage_rate": 0.8,
    "SUPP-PREM.quantity": 0.9,
    "SUPP-PREM.unit_price": 0.9,
@@ -1119,6 +1137,7 @@
    "DATA-STOR.discount_end_date": "Customer will receive 5% off the contracted price of Data storage (per TB) for invoices dated on or before 30 September 2024.",
    "API-CALLS.quantity": null,
    "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 811.69 per month",
+   "API-CALLS.tier_limit": "Overage: any API calls bundle usage beyond 100,000 units in a calendar month incurs a fee of USD 0.006 per additional unit.",
    "API-CALLS.overage_rate": "Overage: any API calls bundle usage beyond 100,000 units in a calendar month incurs a fee of USD 0.006 per additional unit.",
    "SUPP-PREM.quantity": "- Premium support (flat) [SUPP-PREM]: USD 1,170.96 per month",
    "SUPP-PREM.unit_price": "- Premium support (flat) [SUPP-PREM]: USD 1,170.96 per month"
@@ -1173,8 +1192,8 @@
    "SMS-MSG.unit_price": 1.0,
    "SMS-MSG.discount_pct": 1.0,
    "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Iron Motors Ltd",
@@ -1186,7 +1205,9 @@
    "DATA-STOR.quantity": "- Data storage (per TB) [DATA-STOR]: 146 units at USD 53.05 per unit per month",
    "DATA-STOR.unit_price": "- Data storage (per TB) [DATA-STOR]: 146 units at USD 53.05 per unit per month",
    "SMS-MSG.quantity": "- SMS messages bundle [SMS-MSG]: USD 365.91 per month",
-   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 365.91 per month"
+   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 365.91 per month",
+   "SMS-MSG.tier_limit": "Overage: any SMS messages bundle usage beyond 100,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.",
+   "SMS-MSG.overage_rate": "Overage: any SMS messages bundle usage beyond 100,000 units in a calendar month incurs a fee of USD 0.015 per additional unit."
   }
  },
  {
@@ -1222,8 +1243,8 @@
    "SMS-MSG.unit_price": 0.9,
    "SMS-MSG.discount_pct": 0.9,
    "SMS-MSG.discount_end_date": 0.9,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Red Education AG",
@@ -1235,7 +1256,9 @@
    "SMS-MSG.quantity": "- SMS messages bundle [SMS-MSG]: USD 344.41 per month",
    "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 344.41 per month",
    "SMS-MSG.discount_pct": "Introductory pricing: SMS messages bundle is discounted by 10 percent through 31 August 2025, after which standard rates apply.",
-   "SMS-MSG.discount_end_date": "Introductory pricing: SMS messages bundle is discounted by 10 percent through 31 August 2025, after which standard rates apply."
+   "SMS-MSG.discount_end_date": "Introductory pricing: SMS messages bundle is discounted by 10 percent through 31 August 2025, after which standard rates apply.",
+   "SMS-MSG.tier_limit": "Overage: any SMS messages bundle usage beyond 50,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.",
+   "SMS-MSG.overage_rate": "Overage: any SMS messages bundle usage beyond 50,000 units in a calendar month incurs a fee of USD 0.015 per additional unit."
   }
  },
  {
@@ -1358,8 +1381,8 @@
    "API-CALLS.unit_price": 1.0,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0,
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0,
    "SUPP-PREM.quantity": 1.0,
    "SUPP-PREM.unit_price": 1.0,
    "SUPP-PREM.discount_pct": 1.0,
@@ -1382,6 +1405,8 @@
    "escalation_date": "Pricing is subject to a yearly adjustment of 4% commencing 01 January 2025.",
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 766.67 per month",
    "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 766.67 per month",
+   "API-CALLS.tier_limit": "The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each.",
+   "API-CALLS.overage_rate": "The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each.",
    "SUPP-PREM.quantity": "- Premium support (flat) [SUPP-PREM]: USD 1,035.25 per month",
    "SUPP-PREM.unit_price": "- Premium support (flat) [SUPP-PREM]: USD 1,035.25 per month",
    "DATA-STOR.quantity": "- Data storage (per TB) [DATA-STOR]: 67 units at USD 59.15 per unit per month",
@@ -1837,8 +1862,8 @@
    "API-CALLS.unit_price": 1.0,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0,
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0,
    "PLAT-BASE.quantity": 1.0,
    "PLAT-BASE.unit_price": 1.0,
    "PLAT-BASE.discount_pct": 1.0,
@@ -1849,8 +1874,8 @@
    "SMS-MSG.unit_price": 1.0,
    "SMS-MSG.discount_pct": 1.0,
    "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Delta Labs Limited",
@@ -1861,6 +1886,8 @@
    "escalation_date": "Pricing is subject to a yearly adjustment of 4% commencing 01 March 2026.",
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 868.81 per month",
    "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 868.81 per month",
+   "API-CALLS.tier_limit": "The monthly allowance for API calls bundle is 500,000 units; excess units are charged at 0.006 USD each.",
+   "API-CALLS.overage_rate": "The monthly allowance for API calls bundle is 500,000 units; excess units are charged at 0.006 USD each.",
    "PLAT-BASE.quantity": "- Platform licence (per seat) [PLAT-BASE]: 161 units at USD 39.37 per unit per month",
    "PLAT-BASE.unit_price": "- Platform licence (per seat) [PLAT-BASE]: 161 units at USD 39.37 per unit per month",
    "PLAT-BASE.discount_pct": "Introductory pricing: Platform licence (per seat) is discounted by 20 percent through 30 November 2025, after which standard rates apply.",
@@ -1868,7 +1895,9 @@
    "SMS-MSG.quantity": "- SMS messages bundle [SMS-MSG]: USD 387.77 per month",
    "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 387.77 per month",
    "SMS-MSG.discount_pct": "Customer will receive 15% off the contracted price of SMS messages bundle for invoices dated on or before 30 June 2025.",
-   "SMS-MSG.discount_end_date": "Customer will receive 15% off the contracted price of SMS messages bundle for invoices dated on or before 30 June 2025."
+   "SMS-MSG.discount_end_date": "Customer will receive 15% off the contracted price of SMS messages bundle for invoices dated on or before 30 June 2025.",
+   "SMS-MSG.tier_limit": "Overage: any SMS messages bundle usage beyond 20,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.",
+   "SMS-MSG.overage_rate": "Overage: any SMS messages bundle usage beyond 20,000 units in a calendar month incurs a fee of USD 0.015 per additional unit."
   }
  },
  {
@@ -1914,14 +1943,14 @@
    "SMS-MSG.unit_price": 0.9,
    "SMS-MSG.discount_pct": 0.5,
    "SMS-MSG.discount_end_date": 0.5,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0,
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0,
    "API-CALLS.quantity": 0.9,
    "API-CALLS.unit_price": 0.9,
    "API-CALLS.discount_pct": 0.9,
    "API-CALLS.discount_end_date": 0.9,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Harbour Properties FZE",
@@ -1934,10 +1963,14 @@
    "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 381.43 per month",
    "SMS-MSG.discount_pct": null,
    "SMS-MSG.discount_end_date": null,
+   "SMS-MSG.tier_limit": "Overage: any SMS messages bundle usage beyond 20,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.",
+   "SMS-MSG.overage_rate": "Overage: any SMS messages bundle usage beyond 20,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.",
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 768.32 per month",
    "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 768.32 per month",
    "API-CALLS.discount_pct": "Introductory pricing: API calls bundle is discounted by 5 percent through 31 August 2025, after which standard rates apply.",
-   "API-CALLS.discount_end_date": "Introductory pricing: API calls bundle is discounted by 5 percent through 31 August 2025, after which standard rates apply."
+   "API-CALLS.discount_end_date": "Introductory pricing: API calls bundle is discounted by 5 percent through 31 August 2025, after which standard rates apply.",
+   "API-CALLS.tier_limit": "API calls bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.",
+   "API-CALLS.overage_rate": "API calls bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.006 per unit."
   }
  },
  {
@@ -1973,8 +2006,8 @@
    "API-CALLS.unit_price": 0.9,
    "API-CALLS.discount_pct": 0.9,
    "API-CALLS.discount_end_date": 0.9,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Red Telecom FZ-LLC",
@@ -1986,7 +2019,9 @@
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 830.20 per month",
    "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 830.20 per month",
    "API-CALLS.discount_pct": "Introductory pricing: API calls bundle is discounted by 20 percent through 30 September 2024, after which standard rates apply.",
-   "API-CALLS.discount_end_date": "Introductory pricing: API calls bundle is discounted by 20 percent through 30 September 2024, after which standard rates apply."
+   "API-CALLS.discount_end_date": "Introductory pricing: API calls bundle is discounted by 20 percent through 30 September 2024, after which standard rates apply.",
+   "API-CALLS.tier_limit": "The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each.",
+   "API-CALLS.overage_rate": "The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each."
   }
  },
  {
@@ -2054,7 +2089,7 @@
    "API-CALLS.unit_price": 0.8,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
+   "API-CALLS.tier_limit": 0.0,
    "API-CALLS.overage_rate": 0.8
   },
   "evidence": {
@@ -2074,6 +2109,7 @@
    "PLAT-PRO.discount_end_date": "Customer will receive 20% off the contracted price of Platform Pro licence (per seat) for invoices dated on or before 31 July 2024.",
    "API-CALLS.quantity": null,
    "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 847.90 per month",
+   "API-CALLS.tier_limit": "API calls bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.",
    "API-CALLS.overage_rate": "API calls bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.006 per unit."
   }
  },
@@ -2238,8 +2274,8 @@
    "API-CALLS.unit_price": 0.9,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Pioneer Pharma Limited",
@@ -2251,7 +2287,9 @@
    "DATA-STOR.quantity": "- Data storage (per TB) [DATA-STOR]: 177 units at USD 52.55 per unit per month",
    "DATA-STOR.unit_price": "- Data storage (per TB) [DATA-STOR]: 177 units at USD 52.55 per unit per month",
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 805.16 per month",
-   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 805.16 per month"
+   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 805.16 per month",
+   "API-CALLS.tier_limit": "Overage: any API calls bundle usage beyond 500,000 units in a calendar month incurs a fee of USD 0.006 per additional unit.",
+   "API-CALLS.overage_rate": "Overage: any API calls bundle usage beyond 500,000 units in a calendar month incurs a fee of USD 0.006 per additional unit."
   }
  },
  {
@@ -2438,14 +2476,14 @@
    "API-CALLS.unit_price": 1.0,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0,
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0,
    "SMS-MSG.quantity": 1.0,
    "SMS-MSG.unit_price": 1.0,
    "SMS-MSG.discount_pct": 1.0,
    "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Quantum Retail LLC",
@@ -2456,8 +2494,12 @@
    "escalation_date": "Fees shall increase by 5% on each anniversary of the Effective Date.",
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 853.16 per month",
    "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 853.16 per month",
+   "API-CALLS.tier_limit": "API calls bundle includes up to 250,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.",
+   "API-CALLS.overage_rate": "API calls bundle includes up to 250,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.",
    "SMS-MSG.quantity": "- SMS messages bundle [SMS-MSG]: USD 364.94 per month",
-   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 364.94 per month"
+   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 364.94 per month",
+   "SMS-MSG.tier_limit": "The monthly allowance for SMS messages bundle is 50,000 units; excess units are charged at 0.015 USD each.",
+   "SMS-MSG.overage_rate": "The monthly allowance for SMS messages bundle is 50,000 units; excess units are charged at 0.015 USD each."
   }
  },
  {
@@ -2509,8 +2551,8 @@
    "API-CALLS.unit_price": 0.9,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Emerald Properties Pty Ltd",
@@ -2522,7 +2564,9 @@
    "PLAT-PRO.quantity": "- Platform Pro licence (per seat) [PLAT-PRO]: 204 units at USD 75.93 per unit per month",
    "PLAT-PRO.unit_price": "- Platform Pro licence (per seat) [PLAT-PRO]: 204 units at USD 75.93 per unit per month",
    "API-CALLS.quantity": null,
-   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 865.24 per month"
+   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 865.24 per month",
+   "API-CALLS.tier_limit": "Overage: any API calls bundle usage beyond 250,000 units in a calendar month incurs a fee of USD 0.006 per additional unit.",
+   "API-CALLS.overage_rate": "Overage: any API calls bundle usage beyond 250,000 units in a calendar month incurs a fee of USD 0.006 per additional unit."
   }
  },
  {
@@ -2568,8 +2612,8 @@
    "API-CALLS.unit_price": 1.0,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0,
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0,
    "PLAT-BASE.quantity": 1.0,
    "PLAT-BASE.unit_price": 1.0,
    "PLAT-BASE.discount_pct": 1.0,
@@ -2586,6 +2630,8 @@
    "escalation_date": "On 01 April 2025 and annually thereafter, all unit prices will rise by 4 percent.",
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 867.60 per month",
    "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 867.60 per month",
+   "API-CALLS.tier_limit": "The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each.",
+   "API-CALLS.overage_rate": "The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each.",
    "PLAT-BASE.quantity": "- Platform licence (per seat) [PLAT-BASE]: 31 units at USD 44.93 per unit per month",
    "PLAT-BASE.unit_price": "- Platform licence (per seat) [PLAT-BASE]: 31 units at USD 44.93 per unit per month"
   }
@@ -2751,8 +2797,8 @@
    "API-CALLS.unit_price": 1.0,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Summit Insurance FZ-LLC",
@@ -2764,7 +2810,9 @@
    "SUPP-PREM.quantity": "- Premium support (flat) [SUPP-PREM]: USD 1,068.12 per month",
    "SUPP-PREM.unit_price": "- Premium support (flat) [SUPP-PREM]: USD 1,068.12 per month",
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 898.04 per month",
-   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 898.04 per month"
+   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 898.04 per month",
+   "API-CALLS.tier_limit": "The monthly allowance for API calls bundle is 500,000 units; excess units are charged at 0.006 USD each.",
+   "API-CALLS.overage_rate": "The monthly allowance for API calls bundle is 500,000 units; excess units are charged at 0.006 USD each."
   }
  },
  {
@@ -2826,14 +2874,14 @@
    "SMS-MSG.unit_price": 0.5,
    "SMS-MSG.discount_pct": 1.0,
    "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0,
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0,
    "API-CALLS.quantity": 0.5,
    "API-CALLS.unit_price": 0.5,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Desert Hospitality Pty Ltd",
@@ -2846,10 +2894,14 @@
    "PLAT-PRO.unit_price": "- Platform Pro licence (per seat) [PLAT-PRO]: 87 units at USD 74.11 per unit per month",
    "SMS-MSG.quantity": null,
    "SMS-MSG.unit_price": null,
+   "SMS-MSG.tier_limit": "The monthly allowance for SMS messages bundle is 100,000 units; excess units are charged at 0.015 USD each.",
+   "SMS-MSG.overage_rate": "The monthly allowance for SMS messages bundle is 100,000 units; excess units are charged at 0.015 USD each.",
    "API-CALLS.quantity": null,
    "API-CALLS.unit_price": null,
    "API-CALLS.discount_pct": "Introductory pricing: API calls bundle is discounted by 20 percent through 31 October 2024, after which standard rates apply.",
-   "API-CALLS.discount_end_date": "Introductory pricing: API calls bundle is discounted by 20 percent through 31 October 2024, after which standard rates apply."
+   "API-CALLS.discount_end_date": "Introductory pricing: API calls bundle is discounted by 20 percent through 31 October 2024, after which standard rates apply.",
+   "API-CALLS.tier_limit": "API calls bundle includes up to 500,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.",
+   "API-CALLS.overage_rate": "API calls bundle includes up to 500,000 units per month. Usage above this allowance is billed at USD 0.006 per unit."
   }
  },
  {
@@ -2917,8 +2969,8 @@
    "API-CALLS.unit_price": 0.9,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Vertex Education Ltd",
@@ -2934,7 +2986,9 @@
    "DATA-STOR.quantity": "- Data storage (per TB) [DATA-STOR]: 183 units at USD 56.71 per unit per month",
    "DATA-STOR.unit_price": "- Data storage (per TB) [DATA-STOR]: 183 units at USD 56.71 per unit per month",
    "API-CALLS.quantity": null,
-   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 773.55 per month"
+   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 773.55 per month",
+   "API-CALLS.tier_limit": "The monthly allowance for API calls bundle is 500,000 units; excess units are charged at 0.006 USD each.",
+   "API-CALLS.overage_rate": "The monthly allowance for API calls bundle is 500,000 units; excess units are charged at 0.006 USD each."
   }
  },
  {
@@ -2986,8 +3040,8 @@
    "API-CALLS.unit_price": 1.0,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Emerald Foods Pty Ltd",
@@ -2999,7 +3053,9 @@
    "SUPP-PREM.quantity": "- Premium support (flat) [SUPP-PREM]: USD 1,124.03 per month",
    "SUPP-PREM.unit_price": "- Premium support (flat) [SUPP-PREM]: USD 1,124.03 per month",
    "API-CALLS.quantity": "- API calls bundle [API-CALLS]: USD 830.52 per month",
-   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 830.52 per month"
+   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 830.52 per month",
+   "API-CALLS.tier_limit": "API calls bundle includes up to 250,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.",
+   "API-CALLS.overage_rate": "API calls bundle includes up to 250,000 units per month. Usage above this allowance is billed at USD 0.006 per unit."
   }
  },
  {
@@ -3049,10 +3105,10 @@
    "PLAT-BASE.overage_rate": 1.0,
    "SMS-MSG.quantity": 0.5,
    "SMS-MSG.unit_price": 0.9,
-   "SMS-MSG.discount_pct": 1.0,
-   "SMS-MSG.discount_end_date": 1.0,
-   "SMS-MSG.tier_limit": 1.0,
-   "SMS-MSG.overage_rate": 1.0
+   "SMS-MSG.discount_pct": 0.0,
+   "SMS-MSG.discount_end_date": 0.0,
+   "SMS-MSG.tier_limit": 0.0,
+   "SMS-MSG.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Vertex Construction Pty Ltd",
@@ -3066,7 +3122,11 @@
    "PLAT-BASE.discount_pct": null,
    "PLAT-BASE.discount_end_date": null,
    "SMS-MSG.quantity": null,
-   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 340.04 per month"
+   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 340.04 per month",
+   "SMS-MSG.discount_pct": "A promotional discount of 10% applies to SMS messages bundle until 30 September 2024.",
+   "SMS-MSG.discount_end_date": "A promotional discount of 10% applies to SMS messages bundle until 30 September 2024.",
+   "SMS-MSG.tier_limit": "SMS messages bundle includes up to 50,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.",
+   "SMS-MSG.overage_rate": "SMS messages bundle includes up to 50,000 units per month. Usage above this allowance is billed at USD 0.015 per unit."
   }
  },
  {
@@ -3179,8 +3239,8 @@
    "DATA-STOR.overage_rate": 1.0,
    "PLAT-BASE.quantity": 0.9,
    "PLAT-BASE.unit_price": 0.9,
-   "PLAT-BASE.discount_pct": 1.0,
-   "PLAT-BASE.discount_end_date": 1.0,
+   "PLAT-BASE.discount_pct": 0.0,
+   "PLAT-BASE.discount_end_date": 0.0,
    "PLAT-BASE.tier_limit": 1.0,
    "PLAT-BASE.overage_rate": 1.0
   },
@@ -3200,7 +3260,9 @@
    "DATA-STOR.discount_pct": "Customer will receive 15% off the contracted price of Data storage (per TB) for invoices dated on or before 31 October 2024.",
    "DATA-STOR.discount_end_date": "Customer will receive 15% off the contracted price of Data storage (per TB) for invoices dated on or before 31 October 2024.",
    "PLAT-BASE.quantity": "- Platform licence (per seat) [PLAT-BASE]: 182 units at USD 44.06 per unit per month",
-   "PLAT-BASE.unit_price": "- Platform licence (per seat) [PLAT-BASE]: 182 units at USD 44.06 per unit per month"
+   "PLAT-BASE.unit_price": "- Platform licence (per seat) [PLAT-BASE]: 182 units at USD 44.06 per unit per month",
+   "PLAT-BASE.discount_pct": "A promotional discount of 5% applies to Platform licence (per seat) until 31 May 2024.",
+   "PLAT-BASE.discount_end_date": "A promotional discount of 5% applies to Platform licence (per seat) until 31 May 2024."
   }
  },
  {
@@ -3335,8 +3397,8 @@
    "API-CALLS.unit_price": 0.9,
    "API-CALLS.discount_pct": 1.0,
    "API-CALLS.discount_end_date": 1.0,
-   "API-CALLS.tier_limit": 1.0,
-   "API-CALLS.overage_rate": 1.0
+   "API-CALLS.tier_limit": 0.0,
+   "API-CALLS.overage_rate": 0.0
   },
   "evidence": {
    "customer_name": "Customer: Summit Media Limited",
@@ -3350,7 +3412,9 @@
    "DATA-STOR.quantity": "- Data storage (per TB) [DATA-STOR]: 36 units at USD 52.26 per unit per month",
    "DATA-STOR.unit_price": "- Data storage (per TB) [DATA-STOR]: 36 units at USD 52.26 per unit per month",
    "API-CALLS.quantity": null,
-   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 816.84 per month"
+   "API-CALLS.unit_price": "- API calls bundle [API-CALLS]: USD 816.84 per month",
+   "API-CALLS.tier_limit": "Overage: any API calls bundle usage beyond 250,000 units in a calendar month incurs a fee of USD 0.006 per additional unit.",
+   "API-CALLS.overage_rate": "Overage: any API calls bundle usage beyond 250,000 units in a calendar month incurs a fee of USD 0.006 per additional unit."
   }
  }
 ]

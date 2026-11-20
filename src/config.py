@@ -49,6 +49,9 @@ COUNTRY_NAME_TO_CODE = {name.lower(): code for code, (name, _, _) in TAX_RATES.i
 MIN_FLAG_USD = 10.0            # flags below this are logged but hidden
 CONFIDENCE_CUTOFF = 0.8        # extracted fields below this go to the review queue
 PRICE_TOLERANCE = 0.005        # L4: price differs from contract by more than 0.5%
+L1_EXACT_MATCH_USD = 0.01      # L1: billed price equals an earlier year's price to the cent
+                               # (a missed escalation leaves the old price untouched; a 5%
+                               # keying error can land within 0.5% of it and is L4, not L1)
 TAX_RATE_TOLERANCE = 0.0001    # L5: rates are compared as decimals
 
 # --------------------------------------------------------------------------

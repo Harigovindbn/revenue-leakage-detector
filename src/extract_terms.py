@@ -425,10 +425,24 @@ def finalize(contract_id: str, raw: dict, text: str, extractor: str) -> dict:
 
     def grade(field, value):
         if value is None:
-            # A missing header value is a problem; a missing optional line term
-            # (no discount, no usage tier) is normal and needs no review.
+            # A missing header value is a problem. A missing optional line term (no
+            # discount, no usage tier) is normal - unless the contract has a clause
+            # for it naming this product, in which case the extractor missed it.
             optional = "." in field and field.split(".")[1] not in ("quantity", "unit_price")
-            confidence[field] = round(float(raw_conf.get(field, 1.0)), 2) if optional else 0.0
+            if not optional:
+                confidence[field] = 0.0
+                return
+            code, sub = field.split(".", 1)
+            pname = code_to_name.get(code)
+            words = DISCOUNT_WORDS if sub.startswith("discount") else TIER_WORDS
+            missed = pname and any(pname in ln and words.search(ln) for ln in text_lines
+                                   if not ln.startswith("-"))
+            if missed:
+                confidence[field] = 0.0
+                evidence[field] = next(ln for ln in text_lines if pname in ln and words.search(ln)
+                                       and not ln.startswith("-"))
+            else:
+                confidence[field] = round(float(raw_conf.get(field, 1.0)), 2)
             return
         c = float(raw_conf.get(field, 0.5))
         ev = find_evidence(text_lines, field, value, record, names)
@@ -526,7 +540,9 @@ def write_outputs(records: list[dict], extractor: str, activate: bool) -> None:
                     value = ln.get(sub)
                 else:
                     value = r.get(field)
-                reason = ("missing" if value is None else
+                reason = ("clause in contract but value not extracted"
+                          if value is None and r["evidence"].get(field) else
+                          "missing" if value is None else
                           "not found in contract text" if r["evidence"].get(field) is None else
                           "low model confidence")
                 w.writerow([r["contract_id"], field, value, c, reason,
