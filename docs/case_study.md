@@ -1,4 +1,4 @@
-# Case study: finding USD 2M of unbilled revenue by checking every invoice against its contract
+﻿# Case study: finding USD 2M of unbilled revenue by checking every invoice against its contract
 
 *Revenue Leakage Detector · business analysis portfolio project · synthetic data*
 
@@ -72,7 +72,7 @@ On recovery: start with the top 50 contracts (70% of the value), have account ma
 I built two contract extractors behind the same interface: a free rule-based (regex) baseline and an LLM with structured JSON output (Claude API, or a local model through Ollama).
 
 - On these templated contracts, the **regex extractor was perfect** (100% of 8,958 fields) and ran in about one second.
-- The **local 3B LLM** (free, nothing leaves the laptop) got <!--OLLAMA_ACC-->about 90%<!--/OLLAMA_ACC--> of fields right. Its typical errors were putting the usage allowance in the quantity field and missing overage terms.
+- The **local 3B LLM** (free, nothing leaves the laptop) got 90.4% of fields right on a 50-contract sample. Its typical errors were putting the usage allowance in the quantity field and missing overage terms.
 - The important design result: **no wrong LLM value reached the leak rules unchecked.** Every value is looked up in the contract text, and missing clauses are detected too. Anything the model invented or skipped went to the review queue instead of creating a false flag.
 
 The lesson I would bring to a real project: use the cheapest method that meets the accuracy target, measure it against labelled examples, and put a verification step between any AI output and a financial decision. Regex works when contracts come from a few templates. Free-form contracts from many sources are where an LLM earns its cost, and the review queue tells you how much human time it saves.

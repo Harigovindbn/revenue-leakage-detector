@@ -1,4 +1,4 @@
-# Revenue Leakage Detector
+﻿# Revenue Leakage Detector
 
 **Finding money companies have earned but never billed by checking every invoice against the contract it should follow.**
 
@@ -37,7 +37,7 @@ On a synthetic dataset of 500 contracts and 25,199 invoice lines (USD 99.2M bill
 
 Separately, **USD 112,788 of over-billing** (218 flags) was found. All of it is UAE customers charged a higher tax rate than the 5% VAT, which is a customer-relations risk rather than leakage.
 
-**Regex vs LLM extraction:** see [the evaluation report](output/evaluation_report.md). The free regex baseline is perfect on these templated contracts. The local 3B LLM (Ollama, free) got <!--OLLAMA_ACC-->about 90%<!--/OLLAMA_ACC--> of fields right. Because every extracted value is checked against the contract text, **every wrong value was sent to the review queue instead of creating a false flag**.
+**Regex vs LLM extraction:** see [the evaluation report](output/evaluation_report.md). The free regex baseline is perfect on these templated contracts. The local 3B LLM (Ollama, free) got 90.4% (50-contract sample) of fields right. Because every extracted value is checked against the contract text, **every wrong value was sent to the review queue instead of creating a false flag**.
 
 The full write-up is in the [case study](docs/case_study.md).
 

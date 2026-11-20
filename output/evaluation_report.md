@@ -131,3 +131,28 @@ Saved to `output/eval_false_positives.csv` (1) and `output/eval_false_negatives.
 | L2 | 1 | 0 |
 
 <!-- ANALYSIS -->
+
+## Analysis of errors (written after investigating each false positive and negative)
+
+### Regex extractor: targets met (precision 99.98%, recall 100%)
+
+The first evaluation run had 7 false positives and 6 false negatives. Every one was investigated before any code changed:
+
+1. **5 keying errors labelled as missed escalations (L4 reported as L1).** The generator's keying error multiplies the price by 0.95. After a 5% escalation, 0.95 × the escalated price lands within 0.25% of last year's price, inside the 0.5% tolerance. The dollar impact was right; only the label was wrong. **Fix:** a missed escalation leaves the old price untouched in the billing system, so L1 now requires the billed price to equal an earlier year's price to the cent (`L1_EXACT_MATCH_USD`). This matters because L1 and L4 point at different process owners.
+2. **1 invoice assigned to the wrong contract (remaining false positive, L0024087).** The customer holds two overlapping contracts for the same product, and the mis-keyed price happened to equal the other contract's price. I tried adding discount consistency to the contract choice. It fixed this case but moved 8 invoices with real L2 leaks onto the wrong contract, so I **reverted it**. The right fix is a process change: put the contract number on every invoice.
+
+Note on USD: the answer key records the full line difference against both L1 and L2 when they hit the same line, so planted USD (2.07M) is higher than the detector's leakage total (2.02M), which applies each rule's BRD formula separately. USD captured compares planted values of matched leaks, so it is not affected.
+
+### Ollama (llama3.2:3b, local): targets missed on the 50-contract sample
+
+Extraction accuracy was 90.4%, against the 95% target. Leakage precision was 81.5% and recall 79.2%, against 90% for both. Causes:
+
+1. **Usage tiers (L3 recall 0%).** The 3B model puts the monthly allowance into `quantity` and leaves `tier_limit` and `overage_rate` empty. With no tier, the L3 rule cannot fire, so all 87 planted overage leaks were missed.
+2. **Wrong quantities (L4 and over-billing false positives).** 14% of quantities are wrong (for example 38,835 instead of 1), so correct invoices look mis-priced. This produces 37 L4 false positives and 125 over-billing false positives.
+3. **Some discounts missed (L2 false positives).** When a discount is not extracted, a correctly discounted invoice looks like an unexplained discount.
+
+**What protected the result:** all 88 wrong values were caught by the grounding check and sent to the review queue. Zero wrong values were marked confident. In production, these flags would carry low confidence (low priority score), and a contracts admin would fix the 88 queued fields in `extraction_overrides.csv` before the flags were worked. The first version of the grounding check missed omitted clauses: an empty tier field was treated as "no tier". The check now confirms that no tier or discount clause names the product before it accepts an empty value.
+
+**Conclusion:** a 3B local model is not accurate enough on its own. A larger model (Claude via `--extractor anthropic`) or the review queue is needed to meet NFR-01. On templated contracts the regex baseline is the right choice. The LLM is for contracts that do not follow a template.
+
+The full 500-contract Ollama run was stopped at 203 contracts because of run time (about 10 s per contract on a 4 GB laptop GPU). Results for those 203 are cached in `output/cache/ollama`, so finishing it later only processes the rest.
