@@ -1,0 +1,302 @@
+customer_key,customer_name,country_code,segment,country_name,tax_label,standard_tax_rate,contracts
+C0001,Blue Construction GmbH,DE,Enterprise,Germany,VAT,0.19,1
+C0002,River Retail AG,DE,Enterprise,Germany,VAT,0.19,1
+C0003,River Systems AG,DE,SMB,Germany,VAT,0.19,2
+C0004,Desert Telecom B.V.,NL,Mid-market,Netherlands,VAT,0.21,2
+C0005,Iron Foods FZ-LLC,AE,SMB,United Arab Emirates,VAT,0.05,1
+C0006,River Foods AG,DE,Enterprise,Germany,VAT,0.19,1
+C0007,Coral Properties Limited,IE,Mid-market,Ireland,VAT,0.23,2
+C0008,Delta Media Limited,IE,Mid-market,Ireland,VAT,0.23,1
+C0009,Coral Systems FZE,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0010,Union Finance FZE,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0011,Granite Education Pty Ltd,AU,SMB,Australia,GST,0.1,3
+C0012,North Labs FZ-LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,3
+C0013,Cedar Systems DAC,IE,Mid-market,Ireland,VAT,0.23,1
+C0014,Harbour Media FZE,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0015,Sterling Motors Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0016,Apex Health Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0017,Iron Motors Ltd,NZ,SMB,New Zealand,GST,0.15,2
+C0018,Red Education AG,DE,Mid-market,Germany,VAT,0.19,3
+C0019,Orbit Logistics Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0020,Delta Travel Limited,IE,Enterprise,Ireland,VAT,0.23,1
+C0021,Titan Labs DAC,IE,Mid-market,Ireland,VAT,0.23,2
+C0022,Pacific Properties LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,5
+C0023,Harbour Pharma B.V.,NL,Mid-market,Netherlands,VAT,0.21,1
+C0024,Apex Systems DAC,IE,Mid-market,Ireland,VAT,0.23,2
+C0025,Quantum Hospitality Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0026,Pacific Logistics Limited,NZ,SMB,New Zealand,GST,0.15,1
+C0027,Delta Labs Limited,IE,Mid-market,Ireland,VAT,0.23,3
+C0028,Harbour Properties FZE,AE,Mid-market,United Arab Emirates,VAT,0.05,2
+C0029,Red Telecom FZ-LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,3
+C0030,Union Foods LLC,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0031,Summit Education FZ-LLC,AE,SMB,United Arab Emirates,VAT,0.05,1
+C0032,Silver Hospitality Limited,IE,SMB,Ireland,VAT,0.23,1
+C0033,Pioneer Pharma Limited,IE,SMB,Ireland,VAT,0.23,2
+C0034,Iron Construction Pty Ltd,AU,Enterprise,Australia,GST,0.1,3
+C0035,River Pharma Limited,IE,SMB,Ireland,VAT,0.23,1
+C0036,River Health Ltd,NZ,Enterprise,New Zealand,GST,0.15,1
+C0037,Quantum Retail LLC,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0038,Emerald Properties Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0039,Sterling Insurance AG,DE,Enterprise,Germany,VAT,0.19,2
+C0040,Atlas Motors Pty Ltd,AU,Mid-market,Australia,GST,0.1,2
+C0041,Granite Retail Limited,IE,SMB,Ireland,VAT,0.23,2
+C0042,Summit Insurance FZ-LLC,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0043,Desert Hospitality Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0044,Vertex Education Ltd,NZ,SMB,New Zealand,GST,0.15,2
+C0045,Emerald Foods Pty Ltd,AU,Enterprise,Australia,GST,0.1,2
+C0046,Vertex Construction Pty Ltd,AU,SMB,Australia,GST,0.1,3
+C0047,Nova Construction LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,3
+C0048,Orbit Education FZE,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0049,Crescent Analytics Limited,IE,SMB,Ireland,VAT,0.23,3
+C0050,Summit Media Limited,IE,Mid-market,Ireland,VAT,0.23,2
+C0051,Zenith Energy Limited,IE,SMB,Ireland,VAT,0.23,2
+C0052,Blue Finance DAC,IE,Enterprise,Ireland,VAT,0.23,2
+C0053,Bright Media B.V.,NL,SMB,Netherlands,VAT,0.21,3
+C0054,Pacific Systems B.V.,NL,SMB,Netherlands,VAT,0.21,1
+C0055,Vertex Systems FZ-LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0056,Quantum Motors Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0057,Atlas Health LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0058,Quantum Foods Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0059,Blue Insurance GmbH,DE,Enterprise,Germany,VAT,0.19,1
+C0060,Vertex Foods DAC,IE,Mid-market,Ireland,VAT,0.23,2
+C0061,Falcon Education Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0062,Emerald Finance AG,DE,Mid-market,Germany,VAT,0.19,3
+C0063,Nova Properties Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0064,Bright Finance Limited,NZ,Enterprise,New Zealand,GST,0.15,1
+C0065,Crescent Media Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0066,Pioneer Trading LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,4
+C0067,Willow Motors FZ-LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0068,Apex Foods FZ-LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,2
+C0069,North Education Limited,NZ,SMB,New Zealand,GST,0.15,2
+C0070,Vertex Insurance B.V.,NL,Enterprise,Netherlands,VAT,0.21,2
+C0071,Emerald Insurance B.V.,NL,SMB,Netherlands,VAT,0.21,1
+C0072,Pioneer Hospitality AG,DE,Mid-market,Germany,VAT,0.19,1
+C0073,Quantum Pharma B.V.,NL,Mid-market,Netherlands,VAT,0.21,1
+C0074,Cedar Labs FZE,AE,Enterprise,United Arab Emirates,VAT,0.05,2
+C0075,Summit Retail FZ-LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0076,Crescent Telecom FZ-LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,3
+C0077,Iron Pharma LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0078,River Education B.V.,NL,Mid-market,Netherlands,VAT,0.21,1
+C0079,Cedar Motors FZE,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0080,Granite Motors Limited,NZ,Mid-market,New Zealand,GST,0.15,1
+C0081,Orbit Labs FZ-LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,2
+C0082,Silver Pharma Pty Ltd,AU,Mid-market,Australia,GST,0.1,2
+C0083,Silver Health LLC,AE,SMB,United Arab Emirates,VAT,0.05,1
+C0084,Pacific Energy AG,DE,SMB,Germany,VAT,0.19,3
+C0085,Atlas Analytics Pty Ltd,AU,Enterprise,Australia,GST,0.1,3
+C0086,Crescent Finance FZ-LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0087,Willow Systems GmbH,DE,SMB,Germany,VAT,0.19,2
+C0088,Apex Travel FZE,AE,Enterprise,United Arab Emirates,VAT,0.05,2
+C0089,Coral Education B.V.,NL,Enterprise,Netherlands,VAT,0.21,2
+C0090,Delta Telecom Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0091,Nova Finance AG,DE,Mid-market,Germany,VAT,0.19,2
+C0092,Crescent Properties Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0093,Orbit Media Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0094,Desert Pharma LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,2
+C0095,Willow Construction Limited,IE,SMB,Ireland,VAT,0.23,1
+C0096,Pioneer Education GmbH,DE,Mid-market,Germany,VAT,0.19,3
+C0097,Blue Retail Pty Ltd,AU,Mid-market,Australia,GST,0.1,2
+C0098,Coral Pharma AG,DE,Mid-market,Germany,VAT,0.19,1
+C0099,Orbit Construction Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0100,Zenith Education Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0101,Apex Insurance AG,DE,Mid-market,Germany,VAT,0.19,1
+C0102,Desert Travel LLC,AE,SMB,United Arab Emirates,VAT,0.05,1
+C0103,River Travel Limited,IE,SMB,Ireland,VAT,0.23,2
+C0104,Sterling Travel DAC,IE,SMB,Ireland,VAT,0.23,4
+C0105,Delta Pharma Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0106,Vertex Health Limited,NZ,SMB,New Zealand,GST,0.15,2
+C0107,Apex Telecom Limited,IE,Mid-market,Ireland,VAT,0.23,1
+C0108,Sterling Telecom Pty Ltd,AU,Enterprise,Australia,GST,0.1,2
+C0109,Union Systems FZ-LLC,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0110,Desert Logistics Ltd,NZ,Mid-market,New Zealand,GST,0.15,1
+C0111,Falcon Travel FZE,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0112,Bright Properties Limited,IE,Enterprise,Ireland,VAT,0.23,1
+C0113,Atlas Energy LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,2
+C0114,Orbit Foods DAC,IE,Mid-market,Ireland,VAT,0.23,1
+C0115,Silver Trading Limited,NZ,Enterprise,New Zealand,GST,0.15,2
+C0116,Silver Media Pty Ltd,AU,Mid-market,Australia,GST,0.1,3
+C0117,Apex Finance Ltd,NZ,Mid-market,New Zealand,GST,0.15,1
+C0118,Union Pharma LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,2
+C0119,Delta Finance AG,DE,Enterprise,Germany,VAT,0.19,1
+C0120,Crescent Education Limited,IE,Mid-market,Ireland,VAT,0.23,1
+C0121,Apex Motors FZE,AE,Mid-market,United Arab Emirates,VAT,0.05,3
+C0122,Coral Trading Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0123,Harbour Travel Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0124,Titan Media Limited,IE,SMB,Ireland,VAT,0.23,1
+C0125,Crescent Foods FZ-LLC,AE,SMB,United Arab Emirates,VAT,0.05,1
+C0126,Willow Travel Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0127,River Energy FZ-LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,2
+C0128,Delta Retail DAC,IE,Mid-market,Ireland,VAT,0.23,2
+C0129,Quantum Construction Limited,IE,Enterprise,Ireland,VAT,0.23,1
+C0130,Vertex Pharma Limited,NZ,Mid-market,New Zealand,GST,0.15,1
+C0131,River Motors Ltd,NZ,Enterprise,New Zealand,GST,0.15,3
+C0132,Iron Media FZ-LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0133,Vertex Energy Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0134,Red Hospitality Pty Ltd,AU,Enterprise,Australia,GST,0.1,2
+C0135,Delta Energy LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0136,Iron Retail AG,DE,Mid-market,Germany,VAT,0.19,2
+C0137,Delta Education Limited,IE,Enterprise,Ireland,VAT,0.23,2
+C0138,Pacific Retail DAC,IE,Enterprise,Ireland,VAT,0.23,1
+C0139,Orbit Finance DAC,IE,Mid-market,Ireland,VAT,0.23,1
+C0140,Nova Energy Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0141,Delta Motors FZE,AE,Enterprise,United Arab Emirates,VAT,0.05,2
+C0142,Vertex Logistics FZ-LLC,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0143,Falcon Telecom FZE,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0144,Red Media DAC,IE,Enterprise,Ireland,VAT,0.23,1
+C0145,Crescent Motors Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0146,Zenith Pharma DAC,IE,Mid-market,Ireland,VAT,0.23,1
+C0147,Summit Trading FZ-LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0148,Harbour Foods GmbH,DE,Enterprise,Germany,VAT,0.19,2
+C0149,Harbour Retail Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0150,River Analytics FZE,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0151,Crescent Pharma Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0152,Silver Energy Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0153,Bright Education DAC,IE,SMB,Ireland,VAT,0.23,2
+C0154,Pioneer Logistics Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0155,Orbit Travel AG,DE,Mid-market,Germany,VAT,0.19,1
+C0156,Red Foods Limited,IE,Mid-market,Ireland,VAT,0.23,4
+C0157,Emerald Telecom Pty Ltd,AU,Mid-market,Australia,GST,0.1,2
+C0158,Orbit Hospitality LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,3
+C0159,Emerald Analytics Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0160,Crescent Hospitality Limited,IE,Enterprise,Ireland,VAT,0.23,1
+C0161,Summit Properties Limited,IE,SMB,Ireland,VAT,0.23,1
+C0162,Titan Logistics B.V.,NL,SMB,Netherlands,VAT,0.21,2
+C0163,Red Logistics Limited,NZ,SMB,New Zealand,GST,0.15,1
+C0164,North Energy FZE,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0165,Apex Analytics Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0166,Bright Insurance FZ-LLC,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0167,Nova Foods DAC,IE,SMB,Ireland,VAT,0.23,1
+C0168,Harbour Construction Pty Ltd,AU,Mid-market,Australia,GST,0.1,4
+C0169,Titan Telecom Pty Ltd,AU,Enterprise,Australia,GST,0.1,2
+C0170,Apex Education GmbH,DE,Mid-market,Germany,VAT,0.19,1
+C0171,Orbit Motors Pty Ltd,AU,Mid-market,Australia,GST,0.1,2
+C0172,Coral Energy AG,DE,SMB,Germany,VAT,0.19,1
+C0173,Sterling Education AG,DE,Enterprise,Germany,VAT,0.19,1
+C0174,Nova Health DAC,IE,Enterprise,Ireland,VAT,0.23,2
+C0175,Pacific Foods Ltd,NZ,Mid-market,New Zealand,GST,0.15,1
+C0176,Bright Telecom Limited,NZ,Enterprise,New Zealand,GST,0.15,1
+C0177,Desert Construction Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0178,Zenith Logistics B.V.,NL,Mid-market,Netherlands,VAT,0.21,1
+C0179,Desert Analytics Pty Ltd,AU,Enterprise,Australia,GST,0.1,2
+C0180,Emerald Health Limited,NZ,Mid-market,New Zealand,GST,0.15,1
+C0181,Nova Pharma Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0182,Falcon Properties FZ-LLC,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0183,Titan Health Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0184,Falcon Labs B.V.,NL,SMB,Netherlands,VAT,0.21,1
+C0185,Willow Media Pty Ltd,AU,Mid-market,Australia,GST,0.1,3
+C0186,Willow Telecom DAC,IE,SMB,Ireland,VAT,0.23,3
+C0187,Titan Hospitality B.V.,NL,Enterprise,Netherlands,VAT,0.21,1
+C0188,Silver Motors Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0189,Quantum Insurance LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0190,Union Energy Limited,IE,Enterprise,Ireland,VAT,0.23,3
+C0191,Apex Retail LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0192,Apex Properties B.V.,NL,Enterprise,Netherlands,VAT,0.21,3
+C0193,Harbour Hospitality GmbH,DE,Mid-market,Germany,VAT,0.19,1
+C0194,Coral Insurance Limited,NZ,SMB,New Zealand,GST,0.15,2
+C0195,Falcon Retail Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0196,Bright Health Ltd,NZ,SMB,New Zealand,GST,0.15,2
+C0197,Pioneer Insurance Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0198,Silver Insurance Limited,IE,Mid-market,Ireland,VAT,0.23,2
+C0199,Titan Finance Ltd,NZ,Mid-market,New Zealand,GST,0.15,2
+C0200,Vertex Trading B.V.,NL,SMB,Netherlands,VAT,0.21,1
+C0201,Falcon Construction Pty Ltd,AU,SMB,Australia,GST,0.1,4
+C0202,Falcon Motors Limited,IE,Mid-market,Ireland,VAT,0.23,2
+C0203,Union Labs Limited,NZ,Enterprise,New Zealand,GST,0.15,2
+C0204,Granite Insurance Limited,IE,Mid-market,Ireland,VAT,0.23,1
+C0205,Falcon Finance LLC,AE,SMB,United Arab Emirates,VAT,0.05,3
+C0206,Harbour Energy LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,2
+C0207,Crescent Insurance B.V.,NL,Enterprise,Netherlands,VAT,0.21,1
+C0208,Iron Energy LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,2
+C0209,North Telecom B.V.,NL,Mid-market,Netherlands,VAT,0.21,3
+C0210,Apex Hospitality GmbH,DE,Mid-market,Germany,VAT,0.19,1
+C0211,Summit Analytics DAC,IE,Mid-market,Ireland,VAT,0.23,1
+C0212,Crescent Systems Limited,NZ,Mid-market,New Zealand,GST,0.15,1
+C0213,Willow Insurance Limited,IE,Mid-market,Ireland,VAT,0.23,1
+C0214,Quantum Energy Pty Ltd,AU,Mid-market,Australia,GST,0.1,3
+C0215,Iron Insurance DAC,IE,Mid-market,Ireland,VAT,0.23,1
+C0216,Cedar Foods FZE,AE,SMB,United Arab Emirates,VAT,0.05,1
+C0217,Granite Pharma FZE,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0218,Summit Energy Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0219,Nova Trading FZ-LLC,AE,SMB,United Arab Emirates,VAT,0.05,1
+C0220,Sterling Media GmbH,DE,SMB,Germany,VAT,0.19,3
+C0221,Desert Retail Ltd,NZ,Enterprise,New Zealand,GST,0.15,2
+C0222,North Motors Ltd,NZ,Mid-market,New Zealand,GST,0.15,2
+C0223,Zenith Labs LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0224,Willow Pharma FZE,AE,Enterprise,United Arab Emirates,VAT,0.05,2
+C0225,Orbit Health B.V.,NL,SMB,Netherlands,VAT,0.21,1
+C0226,Falcon Insurance Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0227,Falcon Analytics LLC,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0228,Nova Motors B.V.,NL,SMB,Netherlands,VAT,0.21,2
+C0229,Pioneer Analytics Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0230,Silver Labs Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0231,Orbit Analytics FZ-LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,2
+C0232,Blue Energy Pty Ltd,AU,Enterprise,Australia,GST,0.1,3
+C0233,Iron Properties Pty Ltd,AU,Mid-market,Australia,GST,0.1,2
+C0234,Sterling Energy Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0235,Iron Education Limited,IE,Mid-market,Ireland,VAT,0.23,5
+C0236,Titan Travel FZE,AE,SMB,United Arab Emirates,VAT,0.05,1
+C0237,Vertex Analytics FZE,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0238,Willow Finance B.V.,NL,SMB,Netherlands,VAT,0.21,1
+C0239,Pacific Pharma B.V.,NL,Mid-market,Netherlands,VAT,0.21,1
+C0240,Titan Retail B.V.,NL,Enterprise,Netherlands,VAT,0.21,3
+C0241,Nova Telecom Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0242,Quantum Analytics Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0243,Apex Energy Ltd,NZ,SMB,New Zealand,GST,0.15,2
+C0244,Desert Labs Limited,NZ,Mid-market,New Zealand,GST,0.15,3
+C0245,Atlas Systems B.V.,NL,SMB,Netherlands,VAT,0.21,2
+C0246,Desert Properties Limited,NZ,Enterprise,New Zealand,GST,0.15,1
+C0247,Granite Properties Pty Ltd,AU,Enterprise,Australia,GST,0.1,2
+C0248,Union Logistics B.V.,NL,Enterprise,Netherlands,VAT,0.21,1
+C0249,Pioneer Media DAC,IE,SMB,Ireland,VAT,0.23,2
+C0250,Orbit Systems FZ-LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,3
+C0251,Delta Analytics Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0252,Atlas Hospitality Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0253,Nova Media B.V.,NL,Enterprise,Netherlands,VAT,0.21,5
+C0254,Orbit Pharma Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0255,Sterling Analytics Limited,NZ,Enterprise,New Zealand,GST,0.15,1
+C0256,Blue Foods AG,DE,Mid-market,Germany,VAT,0.19,1
+C0257,Iron Health Pty Ltd,AU,Mid-market,Australia,GST,0.1,2
+C0258,Atlas Trading Limited,NZ,Mid-market,New Zealand,GST,0.15,1
+C0259,Quantum Health Limited,NZ,Mid-market,New Zealand,GST,0.15,1
+C0260,Harbour Trading Limited,NZ,SMB,New Zealand,GST,0.15,1
+C0261,Sterling Labs Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0262,Falcon Logistics Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0263,Zenith Health Ltd,NZ,Mid-market,New Zealand,GST,0.15,1
+C0264,Vertex Media LLC,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0265,Cedar Telecom LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0266,Delta Health B.V.,NL,Enterprise,Netherlands,VAT,0.21,3
+C0267,Iron Labs Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0268,Apex Construction Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0269,Cedar Pharma Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0270,Red Properties Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0271,Bright Energy DAC,IE,Mid-market,Ireland,VAT,0.23,1
+C0272,Summit Systems AG,DE,SMB,Germany,VAT,0.19,1
+C0273,Zenith Properties LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0274,Pacific Health LLC,AE,SMB,United Arab Emirates,VAT,0.05,1
+C0275,Harbour Logistics GmbH,DE,Mid-market,Germany,VAT,0.19,1
+C0276,Summit Travel Pty Ltd,AU,SMB,Australia,GST,0.1,2
+C0277,Pacific Education GmbH,DE,SMB,Germany,VAT,0.19,1
+C0278,Bright Pharma Limited,IE,Mid-market,Ireland,VAT,0.23,1
+C0279,Blue Travel Limited,IE,Mid-market,Ireland,VAT,0.23,1
+C0280,River Insurance DAC,IE,Enterprise,Ireland,VAT,0.23,1
+C0281,Summit Foods Pty Ltd,AU,Enterprise,Australia,GST,0.1,1
+C0282,Bright Travel FZE,AE,Enterprise,United Arab Emirates,VAT,0.05,1
+C0283,Emerald Motors B.V.,NL,Enterprise,Netherlands,VAT,0.21,2
+C0284,Cedar Media LLC,AE,Mid-market,United Arab Emirates,VAT,0.05,1
+C0285,Union Analytics Limited,IE,SMB,Ireland,VAT,0.23,2
+C0286,Quantum Travel Pty Ltd,AU,Mid-market,Australia,GST,0.1,1
+C0287,Pioneer Energy AG,DE,Mid-market,Germany,VAT,0.19,2
+C0288,Bright Systems GmbH,DE,SMB,Germany,VAT,0.19,2
+C0289,Silver Properties Limited,NZ,SMB,New Zealand,GST,0.15,1
+C0290,Harbour Finance Ltd,NZ,Enterprise,New Zealand,GST,0.15,2
+C0291,Sterling Pharma LLC,AE,SMB,United Arab Emirates,VAT,0.05,1
+C0292,Quantum Telecom Pty Ltd,AU,Enterprise,Australia,GST,0.1,2
+C0293,Crescent Logistics B.V.,NL,Enterprise,Netherlands,VAT,0.21,2
+C0294,North Retail FZ-LLC,AE,SMB,United Arab Emirates,VAT,0.05,2
+C0295,Zenith Telecom B.V.,NL,Mid-market,Netherlands,VAT,0.21,1
+C0296,Harbour Analytics Pty Ltd,AU,SMB,Australia,GST,0.1,1
+C0297,Apex Logistics AG,DE,Mid-market,Germany,VAT,0.19,2
+C0298,Pacific Hospitality Ltd,NZ,Enterprise,New Zealand,GST,0.15,2
+C0299,Silver Foods B.V.,NL,SMB,Netherlands,VAT,0.21,2
+C0300,Harbour Insurance FZ-LLC,AE,Enterprise,United Arab Emirates,VAT,0.05,4
+UNMATCHED,(no matching contract),,,,,,0

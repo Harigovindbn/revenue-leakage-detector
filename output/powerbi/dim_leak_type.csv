@@ -1,0 +1,6 @@
+rule_id,leak_type,severity,rule,impact_formula,process_owner,sort_order
+L1,Missed price escalation,High,Invoice on/after escalation date billed at an earlier year's price,(expected price - billed price) x quantity,Billing ops: price-change calendar,1
+L2,Expired discount still applied,High,Discount still on the invoice after the discount end date,discount amount on the line,Billing ops: discount end-date setup,2
+L3,Unbilled overage,Medium,Usage above the contracted tier with no overage line,(usage - tier limit) x overage rate,Billing ops: usage-to-invoice feed,3
+L4,Wrong unit price,Medium,Unit price differs from contract price by > 0.5% with no explanation,(contract price - billed price) x quantity,Billing ops: price master data entry,4
+L5,Wrong tax rate,Medium (High if under-charged),Tax rate differs from the customer's billing-country rate,(correct rate - billed rate) x net amount,Tax team: customer tax setup,5

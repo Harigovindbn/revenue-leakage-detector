@@ -137,6 +137,7 @@ def evaluate_detection(flags: pd.DataFrame, planted: pd.DataFrame, visible_only:
                           "usd_captured_pct": captured / planted_usd if planted_usd else float("nan"),
                           "flagged_usd": g.loc[g["_merge"] != "right_only", "impact_usd"].abs().sum()})
         results[direction] = pd.DataFrame(table)
+    results["merged"] = merged
     results["false_positives"] = merged[merged["_merge"] == "left_only"]
     results["false_negatives"] = merged[merged["_merge"] == "right_only"]
     return results
@@ -230,6 +231,13 @@ def run() -> dict:
     fp, fn = det["false_positives"], det["false_negatives"]
     fp.to_csv(config.OUTPUT_DIR / "eval_false_positives.csv", index=False)
     fn.to_csv(config.OUTPUT_DIR / "eval_false_negatives.csv", index=False)
+
+    # Evaluation outcomes for the Power BI Recall / Precision measures
+    ev = det["merged"].copy()
+    ev["outcome"] = ev["_merge"].map({"both": "TP", "left_only": "FP", "right_only": "FN"})
+    config.POWERBI_DIR.mkdir(parents=True, exist_ok=True)
+    ev[["invoice_line_id", "rule_id", "direction", "outcome", "planted_usd", "impact_usd"]].rename(
+        columns={"impact_usd": "flagged_usd"}).to_csv(config.POWERBI_DIR / "eval_results.csv", index=False)
     md += [f"## False positives and negatives ({main} extractor)", "",
            f"Saved to `output/eval_false_positives.csv` ({len(fp)}) and "
            f"`output/eval_false_negatives.csv` ({len(fn)}).", "",
