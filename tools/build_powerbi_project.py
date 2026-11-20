@@ -339,6 +339,25 @@ def pages() -> list[dict]:
             ("root_causes_tax", "Root causes & tax", root_v, [])]
 
 
+def _desktop_theme_file() -> Path | None:
+    """Find the base theme JSON shipped with Power BI Desktop (Store or installer version)."""
+    import subprocess
+    roots = [Path("C:/Program Files/Microsoft Power BI Desktop")]
+    try:   # the Store app folder cannot be listed, so ask Windows where it is installed
+        out = subprocess.run(["powershell", "-NoProfile", "-Command",
+                              "(Get-AppxPackage -Name *MicrosoftPowerBIDesktop*).InstallLocation"],
+                             capture_output=True, text=True, timeout=60).stdout.strip()
+        if out:
+            roots.insert(0, Path(out.splitlines()[0]))
+    except (OSError, subprocess.SubprocessError):
+        pass
+    for root in roots:
+        f = root / "bin" / "WebView2Resources" / "minerva" / "sharedresources" / "BaseThemes" / f"{BASE_THEME}.json"
+        if f.exists():
+            return f
+    return None
+
+
 def build_report() -> None:
     d = RP / "definition"
     if d.exists():
@@ -365,11 +384,12 @@ def build_report() -> None:
     # Base theme shipped with Power BI Desktop (copied if Desktop is installed)
     theme_dst = RP / "StaticResources" / "SharedResources" / "BaseThemes" / f"{BASE_THEME}.json"
     if not theme_dst.exists():
-        for src in Path("C:/Program Files/WindowsApps").glob(
-                f"Microsoft.MicrosoftPowerBIDesktop_*/bin/WebView2Resources/minerva/sharedresources/BaseThemes/{BASE_THEME}.json"):
+        src = _desktop_theme_file()
+        if src:
             theme_dst.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy(src, theme_dst)
-            break
+        else:
+            print("  note: Power BI Desktop not found; base theme file not copied")
 
     order = []
     for page_name, display, visuals, filters in pages():
