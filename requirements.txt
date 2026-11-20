@@ -1,0 +1,6 @@
+pandas>=2.0          # tables and CSV handling
+rapidfuzz>=3.0       # fuzzy customer-name matching (FR-05)
+python-dotenv>=1.0   # loads ANTHROPIC_API_KEY from .env (NFR-04)
+anthropic>=1.0       # optional: Claude extractor
+pytest>=8.0          # tests
+# Ollama (free local LLM) is called over HTTP with the standard library; no package needed.
