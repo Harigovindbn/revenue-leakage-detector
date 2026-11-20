@@ -137,7 +137,7 @@ L0012953,INV-202402-005918,2024-02-01,Falcon Logistics Pty Ltd,Falcon Logistics 
 L0004377,INV-202402-002062,2024-02-01,Crescent Properties Pty Ltd,Crescent Properties Pty Ltd,C0092,100.0,exact_normalised,K00092,
 L0018192,INV-202402-008396,2024-02-01,North Telecom B.V.,North Telecom B.V.,C0209,100.0,exact_normalised,K00368,
 L0024937,INV-202402-X024937,2024-02-01,Vertex Logistics FZ-LLC,Vertex Logistics FZ-LLC,C0142,100.0,exact_normalised,,no active contract covers these products
-L0024982,INV-202402-X024982,2024-02-01,Delta Pharma Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024982,INV-202402-X024982,2024-02-01,Delta Pharma Ltd,Delta Pharma Pty Ltd,C0105,100.0,exact_normalised,,no active contract covers these products
 L0024954,INV-202402-X024954,2024-02-01,Sterling Pharma Ltd,,,85.0,suffix_conflict,,customer not matched
 L0017203,INV-202402-007872,2024-02-01,North Education Limited,North Education Limited,C0069,100.0,exact_normalised,K00346,
 L0004038,INV-202402-001866,2024-02-01,Silver Health LLC,Silver Health LLC,C0083,100.0,exact_normalised,K00083,
@@ -147,7 +147,7 @@ L0004984,INV-202402-002359,2024-02-01,Delta Pharma Pty Ltd,Delta Pharma Pty Ltd,
 L0022685,INV-202402-010392,2024-02-01,Delta Health B.V.,Delta Health B.V.,C0266,100.0,exact_normalised,K00456,
 L0003564,INV-202402-001682,2024-02-01,Summit Retail FZ-LLC,Summit Retail FZ-LLC,C0075,100.0,exact_normalised,K00075,
 L0015486,INV-202402-007087,2024-02-01,Nova Construction,Nova Construction LLC,C0047,100.0,exact_normalised,K00312,
-L0024981,INV-202402-X024981,2024-02-01,Silver Energy Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024981,INV-202402-X024981,2024-02-01,Silver Energy Ltd,Silver Energy Pty Ltd,C0152,100.0,exact_normalised,,no active contract covers these products
 L0018114,INV-202402-008348,2024-02-01,Red Education AG,Red Education AG,C0018,100.0,exact_normalised,K00366,
 L0000433,INV-202402-000190,2024-02-01,Union Finance FZE,Union Finance FZE,C0010,100.0,exact_normalised,K00010,
 L0012874,INV-202402-005895,2024-02-01,Sterling Labs Pty Ltd,Sterling Labs Pty Ltd,C0261,100.0,exact_normalised,K00261,
@@ -248,7 +248,7 @@ L0013720,INV-202403-006250,2024-03-01,Pacific Education GmbH,Pacific Education G
 L0024804,INV-202403-X024804,2024-03-01,Bright Construction Pty Ltd,,,77.8,none,,customer not matched
 L0011793,INV-202403-005416,2024-03-01,Titan Retail B.V.,Titan Retail B.V.,C0240,100.0,exact_normalised,K00240,
 L0000437,INV-202403-000191,2024-03-01,Union Finance FZE,Union Finance FZE,C0010,100.0,exact_normalised,K00010,
-L0024905,INV-202403-X024905,2024-03-01,Pacific Hospitality Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024905,INV-202403-X024905,2024-03-01,Pacific Hospitality Pty Ltd,Pacific Hospitality Ltd,C0298,100.0,exact_normalised,,no active contract covers these products
 L0002588,INV-202403-001173,2024-03-01,Blue Finance DAC,Blue Finance DAC,C0052,100.0,exact_normalised,K00052,
 L0012877,INV-202403-005896,2024-03-01,Sterling Labs Pty Ltd,Sterling Labs Pty Ltd,C0261,100.0,exact_normalised,K00261,
 L0012283,INV-202403-005635,2024-03-01,Orbit Systems FZ-LLC,Orbit Systems FZ-LLC,C0250,100.0,exact_normalised,K00250,
@@ -516,7 +516,7 @@ L0021562,INV-202404-009895,2024-04-01,Pioneer Trading LLC,Pioneer Trading LLC,C0
 L0012087,INV-202404-005543,2024-04-01,Atlas Systems Corp.,Atlas Systems B.V.,C0245,100.0,exact_normalised,K00245,
 L0010598,INV-202404-004909,2024-04-01,Sterling Media GmbH,Sterling Media GmbH,C0220,100.0,exact_normalised,K00220,
 L0003571,INV-202404-001684,2024-04-01,Summit Retail FZ-LLC,Summit Retail FZ-LLC,C0075,100.0,exact_normalised,K00075,
-L0024824,INV-202404-X024824,2024-04-01,Red Hospitality Limited,,,85.0,suffix_conflict,,customer not matched
+L0024824,INV-202404-X024824,2024-04-01,Red Hospitality Limited,Red Hospitality Pty Ltd,C0134,100.0,exact_normalised,,no active contract covers these products
 L0021430,INV-202404-009844,2024-04-01,Summit Media Limited,Summit Media Limited,C0050,100.0,exact_normalised,K00432,
 L0004204,INV-202404-001984,2024-04-01,Coral Education B.V.,Coral Education B.V.,C0089,100.0,exact_normalised,K00089,
 L0008902,INV-202404-004138,2024-04-01,TITAN HOSPITALITY B.V.,Titan Hospitality B.V.,C0187,100.0,exact_normalised,K00187,
@@ -1007,7 +1007,7 @@ L0010709,INV-202406-004941,2024-06-01,DesertRetail Ltd,Desert Retail Ltd,C0221,1
 L0000042,INV-202406-000028,2024-06-01,RIVER RETAIL AG,River Retail AG,C0002,100.0,exact_normalised,K00002,
 L0002857,INV-202406-001297,2024-06-01,Quantum Foods Pty Ltd,Quantum Foods Pty Ltd,C0058,100.0,exact_normalised,K00058,
 L0021436,INV-202406-009846,2024-06-01,Summit Media Limited,Summit Media Limited,C0050,100.0,exact_normalised,K00432,
-L0025095,INV-202406-X025095,2024-06-01,Quantum Hospitality Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025095,INV-202406-X025095,2024-06-01,Quantum Hospitality Ltd,Quantum Hospitality Pty Ltd,C0025,100.0,exact_normalised,,no active contract covers these products
 L0024370,INV-202406-011219,2024-06-01,Vertex Construction Pty Ltd,Vertex Construction Pty Ltd,C0046,100.0,exact_normalised,K00494,
 L0004047,INV-202406-001870,2024-06-01,Silver Health LLC,Silver Health LLC,C0083,100.0,exact_normalised,K00083,
 L0009406,INV-202406-004370,2024-06-01,Bright Health Ltd,Bright Health Ltd,C0196,100.0,exact_normalised,K00196,
@@ -1054,7 +1054,7 @@ L0008035,INV-202406-003746,2024-06-01,Harbour Construction Pty Ltd,Harbour Const
 L0004836,INV-202406-002313,2024-06-01,River Travel Limited,River Travel Limited,C0103,100.0,exact_normalised,K00103,
 L0002353,INV-202406-001074,2024-06-01,Orbit Education FZE,Orbit Education FZE,C0048,100.0,exact_normalised,K00048,
 L0015209,INV-202406-006941,2024-06-01,Atlas Energy Corp.,Atlas Energy LLC,C0113,100.0,exact_normalised,K00306,
-L0025080,INV-202406-X025080,2024-06-01,Desert Analytics Limited,,,85.0,suffix_conflict,,customer not matched
+L0025080,INV-202406-X025080,2024-06-01,Desert Analytics Limited,Desert Analytics Pty Ltd,C0179,100.0,exact_normalised,,no active contract covers these products
 L0022254,INV-202406-010175,2024-06-01,Silver Foods B.V.,Silver Foods B.V.,C0299,100.0,exact_normalised,K00447,
 L0001457,INV-202406-000639,2024-06-01,Union Foods LLC,Union Foods LLC,C0030,100.0,exact_normalised,K00030,
 L0024841,INV-202406-X024841,2024-06-01,Coral Insurance LLC,,,85.0,suffix_conflict,,customer not matched
@@ -1119,7 +1119,7 @@ L0012094,INV-202406-005545,2024-06-01,Atlas Systems Corp.,Atlas Systems B.V.,C02
 L0001456,INV-202406-000639,2024-06-01,Union Foods LLC,Union Foods LLC,C0030,100.0,exact_normalised,K00030,
 L0021568,INV-202406-009897,2024-06-01,Pioneer Trading LLC,Pioneer Trading LLC,C0066,100.0,exact_normalised,K00434,
 L0006274,INV-202406-003016,2024-06-01,Red Hospitality Pty Ltd,Red Hospitality Pty Ltd,C0134,100.0,exact_normalised,K00134,
-L0024847,INV-202406-X024847,2024-06-01,Nova Pharma Limited,,,85.0,suffix_conflict,,customer not matched
+L0024847,INV-202406-X024847,2024-06-01,Nova Pharma Limited,Nova Pharma Pty Ltd,C0181,100.0,exact_normalised,,no active contract covers these products
 L0008757,INV-202406-004061,2024-06-01,Titan Health Pty Ltd,Titan Health Pty Ltd,C0183,100.0,exact_normalised,K00183,
 L0016959,INV-202406-007771,2024-06-01,Titan Labs Corp.,Titan Labs DAC,C0021,100.0,exact_normalised,K00342,
 L0009284,INV-202406-004315,2024-06-01,Coral Insurance Limited,Coral Insurance Limited,C0194,100.0,exact_normalised,K00194,
@@ -1300,7 +1300,7 @@ L0016962,INV-202407-007772,2024-07-01,Titan Labs Corp.,Titan Labs DAC,C0021,100.
 L0024877,INV-202407-X024877,2024-07-01,Red Energy Pty Ltd,,,81.8,none,,customer not matched
 L0017078,INV-202407-007826,2024-07-01,Vertex Education Ltd,Vertex Education Ltd,C0044,100.0,exact_normalised,K00344,
 L0005381,INV-202407-002521,2024-07-01,Falcon Travel FZE,Falcon Travel FZE,C0111,100.0,exact_normalised,K00111,
-L0024754,INV-202407-X024754,2024-07-01,Falcon Logistics Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024754,INV-202407-X024754,2024-07-01,Falcon Logistics Ltd,Falcon Logistics Pty Ltd,C0262,100.0,exact_normalised,,no active contract covers these products
 L0008184,INV-202407-003786,2024-07-01,Apex Education GmbH,Apex Education GmbH,C0170,100.0,exact_normalised,K00170,
 L0002968,INV-202407-001364,2024-07-01,Falcon Education Pty Ltd,Falcon Education Pty Ltd,C0061,100.0,exact_normalised,K00061,
 L0008760,INV-202407-004062,2024-07-01,Titan Health Pty Ltd,Titan Health Pty Ltd,C0183,100.0,exact_normalised,K00183,
@@ -2544,7 +2544,7 @@ L0002032,INV-202410-000946,2024-10-01,Desert Hospitality Pty Ltd,Desert Hospital
 L0011860,INV-202410-005445,2024-10-01,Nova Telecom Pty Corp.,Nova Telecom Pty Ltd,C0241,100.0,exact_normalised,K00241,
 L0001245,INV-202410-000543,2024-10-01,Pacific Logistics Limited,Pacific Logistics Limited,C0026,100.0,exact_normalised,K00026,
 L0017087,INV-202410-007829,2024-10-01,Vertex Education Ltd,Vertex Education Ltd,C0044,100.0,exact_normalised,K00344,
-L0025123,INV-202410-X025123,2024-10-01,Harbour Construction Limited,,,85.0,suffix_conflict,,customer not matched
+L0025123,INV-202410-X025123,2024-10-01,Harbour Construction Limited,Harbour Construction Pty Ltd,C0168,100.0,exact_normalised,,no active contract covers these products
 L0009145,INV-202410-004241,2024-10-01,Apex Retail LLC,Apex Retail LLC,C0191,100.0,exact_normalised,K00191,
 L0012902,INV-202410-005903,2024-10-01,Sterling Labs Pty Ltd,Sterling Labs Pty Ltd,C0261,100.0,exact_normalised,K00261,
 L0000212,INV-202410-000089,2024-10-01,Iron Foods FZ-LLC,Iron Foods FZ-LLC,C0005,100.0,exact_normalised,K00005,
@@ -3129,7 +3129,7 @@ L0008619,INV-202411-003994,2024-11-01,EmeraldHealth Limited,Emerald Health Limit
 L0009668,INV-202411-004489,2024-11-01,Falcon Motors Limited,Falcon Motors Limited,C0202,100.0,exact_normalised,K00202,
 L0022405,INV-202411-010230,2024-11-01,Delta Motors FZE,Delta Motors FZE,C0141,100.0,exact_normalised,K00449,
 L0002367,INV-202411-001079,2024-11-01,Orbit Education FZE,Orbit Education FZE,C0048,100.0,exact_normalised,K00048,
-L0024903,INV-202411-X024903,2024-11-01,North Motors Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024903,INV-202411-X024903,2024-11-01,North Motors Pty Ltd,North Motors Ltd,C0222,100.0,exact_normalised,,no active contract covers these products
 L0010828,INV-202411-004991,2024-11-01,ZenithLabs LLC,Zenith Labs LLC,C0223,100.0,exact_normalised,K00223,
 L0005223,INV-202411-002472,2024-11-01,Union Systems FZ-LLC,Union Systems FZ-LLC,C0109,100.0,exact_normalised,K00109,
 L0014980,INV-202411-006832,2024-11-01,Orbit Labs FZ-LLC,Orbit Labs FZ-LLC,C0081,100.0,exact_normalised,K00301,
@@ -4121,7 +4121,7 @@ L0000665,INV-202412-000277,2024-12-01,Harbour Media FZE,Harbour Media FZE,C0014,
 L0018439,INV-202412-008481,2024-12-01,Silver Trading Limited,Silver Trading Limited,C0115,100.0,exact_normalised,K00371,
 L0008518,INV-202412-003953,2024-12-01,Zenith Logistics B.V.,Zenith Logistics B.V.,C0178,100.0,exact_normalised,K00178,
 L0011483,INV-202412-005255,2024-12-01,Iron Properties Pty Ltd,Iron Properties Pty Ltd,C0233,100.0,exact_normalised,K00233,
-L0024989,INV-202412-X024989,2024-12-01,Coral Insurance Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024989,INV-202412-X024989,2024-12-01,Coral Insurance Pty Ltd,Coral Insurance Limited,C0194,100.0,exact_normalised,,no active contract covers these products
 L0009939,INV-202412-004628,2024-12-01,Iron Energy LLC,Iron Energy LLC,C0208,100.0,exact_normalised,K00208,
 L0004801,INV-202412-002288,2024-12-01,Desert Travel LLC,Desert Travel LLC,C0102,100.0,exact_normalised,K00102,
 L0001047,INV-202412-000438,2024-12-01,Titan Labs Corp.,Titan Labs DAC,C0021,100.0,exact_normalised,K00021,
@@ -4354,7 +4354,7 @@ L0011607,INV-202501-005305,2025-01-01,Iron Education Limited,Iron Education Limi
 L0017277,INV-202501-007927,2025-01-01,Sterling Travel DAC,Sterling Travel DAC,C0104,100.0,exact_normalised,K00348,
 L0020846,INV-202501-009597,2025-01-01,River Motors Ltd,River Motors Ltd,C0131,100.0,exact_normalised,K00420,
 L0002458,INV-202501-001112,2025-01-01,Crescent Analytics Limited,Crescent Analytics Limited,C0049,100.0,exact_normalised,K00049,
-L0024990,INV-202501-X024990,2025-01-01,Crescent Pharma Limited,,,85.0,suffix_conflict,,customer not matched
+L0024990,INV-202501-X024990,2025-01-01,Crescent Pharma Limited,Crescent Pharma Pty Ltd,C0151,100.0,exact_normalised,,no active contract covers these products
 L0015850,INV-202501-007231,2025-01-01,Granite Education Pty Ltd,Granite Education Pty Ltd,C0011,100.0,exact_normalised,K00318,
 L0021981,INV-202501-010075,2025-01-01,Union Energy Corp.,Union Energy Limited,C0190,100.0,exact_normalised,K00442,
 L0012311,INV-202501-005645,2025-01-01,Orbit Systems FZ-LLC,Orbit Systems FZ-LLC,C0250,100.0,exact_normalised,K00250,
@@ -5353,7 +5353,7 @@ L0024682,INV-202502-011351,2025-02-01,Silver Media Pty Ltd,Silver Media Pty Ltd,
 L0020849,INV-202502-009598,2025-02-01,River Motors Ltd,River Motors Ltd,C0131,100.0,exact_normalised,K00420,
 L0023459,INV-202502-010807,2025-02-01,Delta Retail DAC,Delta Retail DAC,C0128,100.0,exact_normalised,K00475,
 L0007217,INV-202502-003391,2025-02-01,Silver Energy Pty Ltd,Silver Energy Pty Ltd,C0152,100.0,exact_normalised,K00152,
-L0025002,INV-202502-X025002,2025-02-01,Quantum Analytics Limited,,,85.0,suffix_conflict,,customer not matched
+L0025002,INV-202502-X025002,2025-02-01,Quantum Analytics Limited,Quantum Analytics Pty Ltd,C0242,100.0,exact_normalised,,no active contract covers these products
 L0014252,INV-202502-006496,2025-02-01,Pioneer Energy AG,Pioneer Energy AG,C0287,100.0,exact_normalised,K00287,
 L0001563,INV-202502-000690,2025-02-01,SilverHospitality Limited,Silver Hospitality Limited,C0032,100.0,exact_normalised,K00032,
 L0013745,INV-202502-006261,2025-02-01,Pacific Education GmbH,Pacific Education GmbH,C0277,100.0,exact_normalised,K00277,
@@ -7154,7 +7154,7 @@ L0019176,INV-202504-008815,2025-04-01,Pioneer Education GmbH,Pioneer Education G
 L0001895,INV-202504-000875,2025-04-01,Atlas Motors Pty Ltd,Atlas Motors Pty Ltd,C0040,100.0,exact_normalised,K00040,
 L0020085,INV-202504-009262,2025-04-01,Red Foods Limited,Red Foods Limited,C0156,100.0,exact_normalised,K00406,
 L0025054,INV-202504-X025054,2025-04-01,North Construction DAC,,,88.9,fuzzy,,customer not matched
-L0024873,INV-202504-X024873,2025-04-01,Pioneer Logistics Limited,,,85.0,suffix_conflict,,customer not matched
+L0024873,INV-202504-X024873,2025-04-01,Pioneer Logistics Limited,Pioneer Logistics Pty Ltd,C0154,100.0,exact_normalised,,no active contract covers these products
 L0020394,INV-202504-009385,2025-04-01,Crescent Telecom FZ-LLC,Crescent Telecom FZ-LLC,C0076,100.0,exact_normalised,K00411,
 L0001417,INV-202504-000616,2025-04-01,Red Telecom FZ-LLC,Red Telecom FZ-LLC,C0029,100.0,exact_normalised,K00029,
 L0012612,INV-202504-005780,2025-04-01,Blue Foods Corp.,Blue Foods AG,C0256,100.0,exact_normalised,K00256,
@@ -7392,7 +7392,7 @@ L0008533,INV-202505-003958,2025-05-01,Zenith Logistics B.V.,Zenith Logistics B.V
 L0008404,INV-202505-003911,2025-05-01,Bright Telecom Limited,Bright Telecom Limited,C0176,100.0,exact_normalised,K00176,
 L0022564,INV-202505-010337,2025-05-01,Silver Media Pty Ltd,Silver Media Pty Ltd,C0116,100.0,exact_normalised,K00453,
 L0009745,INV-202505-004516,2025-05-01,Union Labs Limited,Union Labs Limited,C0203,100.0,exact_normalised,K00203,
-L0025163,INV-202505-X025163,2025-05-01,Crescent Motors Limited,,,85.0,suffix_conflict,,customer not matched
+L0025163,INV-202505-X025163,2025-05-01,Crescent Motors Limited,Crescent Motors Pty Ltd,C0145,100.0,exact_normalised,,no active contract covers these products
 L0001056,INV-202505-000443,2025-05-01,Titan Labs Corp.,Titan Labs DAC,C0021,100.0,exact_normalised,K00021,
 L0006876,INV-202505-003265,2025-05-01,Zenith Pharma DAC,Zenith Pharma DAC,C0146,100.0,exact_normalised,K00146,
 L0014934,INV-202505-006804,2025-05-01,Harbour Insurance FZ-LLC,Harbour Insurance FZ-LLC,C0300,100.0,exact_normalised,K00300,
@@ -8138,7 +8138,7 @@ L0013552,INV-202505-006196,2025-05-01,Pacific Health LLC,Pacific Health LLC,C027
 L0020012,INV-202505-009239,2025-05-01,Atlas Analytics Pty Ltd,Atlas Analytics Pty Ltd,C0085,100.0,exact_normalised,K00405,
 L0005518,INV-202505-002613,2025-05-01,Silver Trading Limited,Silver Trading Limited,C0115,100.0,exact_normalised,K00115,
 L0007111,INV-202505-003355,2025-05-01,River Analytics FZE,River Analytics FZE,C0150,100.0,exact_normalised,K00150,
-L0024869,INV-202505-X024869,2025-05-01,Falcon Construction Limited,,,85.0,suffix_conflict,,customer not matched
+L0024869,INV-202505-X024869,2025-05-01,Falcon Construction Limited,Falcon Construction Pty Ltd,C0201,100.0,exact_normalised,,no active contract covers these products
 L0006112,INV-202505-002956,2025-05-01,River Motors Ltd,River Motors Ltd,C0131,100.0,exact_normalised,K00131,
 L0022198,INV-202505-010153,2025-05-01,Apex Motors FZE,Apex Motors FZE,C0121,100.0,exact_normalised,K00446,
 L0008194,INV-202505-003796,2025-05-01,Apex Education GmbH,Apex Education GmbH,C0170,100.0,exact_normalised,K00170,
@@ -8293,7 +8293,7 @@ L0012651,INV-202506-005806,2025-06-01,Iron Health Pty Ltd,Iron Health Pty Ltd,C0
 L0011021,INV-202506-005047,2025-06-01,Orbit Health B.V.,Orbit Health B.V.,C0225,100.0,exact_normalised,K00225,
 L0025003,INV-202506-X025003,2025-06-01,Vertex Travel DAC,,,74.1,none,,customer not matched
 L0018350,INV-202506-008453,2025-06-01,Emerald Telecom Pty Ltd,Emerald Telecom Pty Ltd,C0157,100.0,exact_normalised,K00370,
-L0014758,INV-202506-006712,2025-06-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014758,INV-202506-006712,2025-06-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0004295,INV-202506-002024,2025-06-01,Delta Telecom Pty Corp.,Delta Telecom Pty Ltd,C0090,100.0,exact_normalised,K00090,
 L0010279,INV-202506-004778,2025-06-01,Quantum Energy Pty,Quantum Energy Pty Ltd,C0214,100.0,exact_normalised,K00214,
 L0007373,INV-202506-003466,2025-06-01,ORBIT TRAVEL AG,Orbit Travel AG,C0155,100.0,exact_normalised,K00155,
@@ -8962,7 +8962,7 @@ L0019535,INV-202506-008973,2025-06-01,Delta Labs Limited,Delta Labs Limited,C002
 L0021997,INV-202506-010080,2025-06-01,Union Energy Corp.,Union Energy Limited,C0190,100.0,exact_normalised,K00442,
 L0016985,INV-202506-007783,2025-06-01,Titan Labs Corp.,Titan Labs DAC,C0021,100.0,exact_normalised,K00342,
 L0013427,INV-202506-006126,2025-06-01,Red Properties Pty Ltd,Red Properties Pty Ltd,C0270,100.0,exact_normalised,K00270,
-L0024953,INV-202506-X024953,2025-06-01,Harbour Finance Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024953,INV-202506-X024953,2025-06-01,Harbour Finance Pty Ltd,Harbour Finance Ltd,C0290,100.0,exact_normalised,,no active contract covers these products
 L0006881,INV-202506-003266,2025-06-01,Zenith Pharma DAC,Zenith Pharma DAC,C0146,100.0,exact_normalised,K00146,
 L0009618,INV-202506-004457,2025-06-01,Vertex Trading B.V.,Vertex Trading B.V.,C0200,100.0,exact_normalised,K00200,
 L0006516,INV-202506-003106,2025-06-01,Pacific Retail DAC,Pacific Retail DAC,C0138,100.0,exact_normalised,K00138,
@@ -9391,7 +9391,7 @@ L0014054,INV-202507-006388,2025-07-01,Bright Travel FZE,Bright Travel FZE,C0282,
 L0015241,INV-202507-006954,2025-07-01,Atlas Energy Corp.,Atlas Energy LLC,C0113,100.0,exact_normalised,K00306,
 L0010648,INV-202507-004924,2025-07-01,Sterling Media GmbH,Sterling Media GmbH,C0220,100.0,exact_normalised,K00220,
 L0003316,INV-202507-001543,2025-07-01,Apex Foods FZ-LLC,Apex Foods FZ-LLC,C0068,100.0,exact_normalised,K00068,
-L0014759,INV-202507-006713,2025-07-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014759,INV-202507-006713,2025-07-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0021900,INV-202507-010011,2025-07-01,Harbour Travel Pty Ltd,Harbour Travel Pty Ltd,C0123,100.0,exact_normalised,K00439,
 L0017806,INV-202507-008183,2025-07-01,Titan Retail B.V.,Titan Retail B.V.,C0240,100.0,exact_normalised,K00358,
 L0004105,INV-202507-001910,2025-07-01,Atlas Analytics Pty Ltd,Atlas Analytics Pty Ltd,C0085,100.0,exact_normalised,K00085,
@@ -9552,7 +9552,7 @@ L0006383,INV-202507-003058,2025-07-01,Delta Energy LLC,Delta Energy LLC,C0135,10
 L0024693,INV-202507-011356,2025-07-01,Silver Media Pty Ltd,Silver Media Pty Ltd,C0116,100.0,exact_normalised,K00500,
 L0003718,INV-202507-001730,2025-07-01,Crescent Telecom FZ-LLC,Crescent Telecom FZ-LLC,C0076,100.0,exact_normalised,K00076,
 L0017478,INV-202507-007988,2025-07-01,Falcon Construction Pty Ltd,Falcon Construction Pty Ltd,C0201,100.0,exact_normalised,K00350,
-L0024931,INV-202507-X024931,2025-07-01,Granite Education Limited,,,85.0,suffix_conflict,,customer not matched
+L0024931,INV-202507-X024931,2025-07-01,Granite Education Limited,Granite Education Pty Ltd,C0011,100.0,exact_normalised,,no active contract covers these products
 L0004765,INV-202507-002268,2025-07-01,Apex Insurance AG,Apex Insurance AG,C0101,100.0,exact_normalised,K00101,
 L0019094,INV-202507-008779,2025-07-01,Granite Education Pty Ltd,Granite Education Pty Ltd,C0011,100.0,exact_normalised,K00384,
 L0013246,INV-202507-006064,2025-07-01,Apex Construction Pty Ltd,Apex Construction Pty Ltd,C0268,100.0,exact_normalised,K00268,
@@ -9658,7 +9658,7 @@ L0004445,INV-202507-002100,2025-07-01,Orbit Media Pty Ltd,Orbit Media Pty Ltd,C0
 L0021814,INV-202507-009979,2025-07-01,River Analytics FZE,River Analytics FZE,C0150,100.0,exact_normalised,K00437,
 L0001309,INV-202507-000572,2025-07-01,Delta Labs Limited,Delta Labs Limited,C0027,100.0,exact_normalised,K00027,
 L0021486,INV-202507-009859,2025-07-01,Summit Media Limited,Summit Media Limited,C0050,100.0,exact_normalised,K00432,
-L0024933,INV-202507-X024933,2025-07-01,Falcon Education Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024933,INV-202507-X024933,2025-07-01,Falcon Education Ltd,Falcon Education Pty Ltd,C0061,100.0,exact_normalised,,no active contract covers these products
 L0007421,INV-202507-003489,2025-07-01,Red Foods Limited,Red Foods Limited,C0156,100.0,exact_normalised,K00156,
 L0004072,INV-202507-001883,2025-07-01,Silver Health LLC,Silver Health LLC,C0083,100.0,exact_normalised,K00083,
 L0007419,INV-202507-003489,2025-07-01,Red Foods Limited,Red Foods Limited,C0156,100.0,exact_normalised,K00156,
@@ -9788,7 +9788,7 @@ L0024947,INV-202507-X024947,2025-07-01,Coral Pharma AG,Coral Pharma AG,C0098,100
 L0011728,INV-202507-005383,2025-07-01,Willow Finance B.V.,Willow Finance B.V.,C0238,100.0,exact_normalised,K00238,
 L0021079,INV-202507-009696,2025-07-01,BLUE ENERGY PTY LTD,Blue Energy Pty Ltd,C0232,100.0,exact_normalised,K00425,
 L0001014,INV-202507-000426,2025-07-01,Delta Travel,Delta Travel Limited,C0020,100.0,exact_normalised,K00020,
-L0024816,INV-202507-X024816,2025-07-01,River Motors Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024816,INV-202507-X024816,2025-07-01,River Motors Pty Ltd,River Motors Ltd,C0131,100.0,exact_normalised,,no active contract covers these products
 L0022204,INV-202507-010155,2025-07-01,Apex Motors FZE,Apex Motors FZE,C0121,100.0,exact_normalised,K00446,
 L0022053,INV-202507-010097,2025-07-01,Blue Retail Pty Ltd,Blue Retail Pty Ltd,C0097,100.0,exact_normalised,K00443,
 L0012139,INV-202507-005558,2025-07-01,Atlas Systems Corp.,Atlas Systems B.V.,C0245,100.0,exact_normalised,K00245,
@@ -9970,7 +9970,7 @@ L0012334,INV-202507-005651,2025-07-01,Orbit Systems FZ-LLC,Orbit Systems FZ-LLC,
 L0007234,INV-202507-003396,2025-07-01,Silver Energy Pty Ltd,Silver Energy Pty Ltd,C0152,100.0,exact_normalised,K00152,
 L0002569,INV-202507-001161,2025-07-01,Zenith Energy Limited,Zenith Energy Limited,C0051,100.0,exact_normalised,K00051,
 L0006184,INV-202507-002980,2025-07-01,Iron Media FZ-LLC.,Iron Media FZ-LLC,C0132,100.0,exact_normalised,K00132,
-L0025167,INV-202507-X025167,2025-07-01,Falcon Motors Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025167,INV-202507-X025167,2025-07-01,Falcon Motors Pty Ltd,Falcon Motors Limited,C0202,100.0,exact_normalised,,no active contract covers these products
 L0023436,INV-202507-010795,2025-07-01,Harbour Foods GmbH,Harbour Foods GmbH,C0148,100.0,exact_normalised,K00474,
 L0004493,INV-202507-002125,2025-07-01,Desert Pharma LLC,Desert Pharma LLC,C0094,100.0,exact_normalised,K00094,
 L0012333,INV-202507-005651,2025-07-01,Orbit Systems FZ-LLC,Orbit Systems FZ-LLC,C0250,100.0,exact_normalised,K00250,
@@ -10497,7 +10497,7 @@ L0015549,INV-202508-007105,2025-08-01,Nova Construction,Nova Construction LLC,C0
 L0022285,INV-202508-010189,2025-08-01,Silver Foods B.V.,Silver Foods B.V.,C0299,100.0,exact_normalised,K00447,
 L0023533,INV-202508-010840,2025-08-01,Delta Pharma Pty Ltd,Delta Pharma Pty Ltd,C0105,100.0,exact_normalised,K00476,
 L0007542,INV-202508-003530,2025-08-01,Orbit Hospitality LLC,Orbit Hospitality LLC,C0158,100.0,exact_normalised,K00158,
-L0024884,INV-202508-X024884,2025-08-01,Orbit Logistics Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024884,INV-202508-X024884,2025-08-01,Orbit Logistics Ltd,Orbit Logistics Pty Ltd,C0019,100.0,exact_normalised,,no active contract covers these products
 L0009117,INV-202508-004221,2025-08-01,Union Energy Corp.,Union Energy Limited,C0190,100.0,exact_normalised,K00190,
 L0004878,INV-202508-002327,2025-08-01,River Travel Limited,River Travel Limited,C0103,100.0,exact_normalised,K00103,
 L0000012,INV-202508-000010,2025-08-01,Blue Construction GmbH,Blue Construction GmbH,C0001,100.0,exact_normalised,K00001,
@@ -10720,7 +10720,7 @@ L0010860,INV-202508-005000,2025-08-01,ZenithLabs LLC,Zenith Labs LLC,C0223,100.0
 L0008937,INV-202508-004154,2025-08-01,TITAN HOSPITALITY B.V.,Titan Hospitality B.V.,C0187,100.0,exact_normalised,K00187,
 L0011653,INV-202508-005334,2025-08-01,Titan Travel FZE,Titan Travel FZE,C0236,100.0,exact_normalised,K00236,
 L0023188,INV-202508-010648,2025-08-01,Bright Insurance FZ-LLC,Bright Insurance FZ-LLC,C0166,100.0,exact_normalised,K00468,
-L0024790,INV-202508-X024790,2025-08-01,Sterling Analytics Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024790,INV-202508-X024790,2025-08-01,Sterling Analytics Pty Ltd,Sterling Analytics Limited,C0255,100.0,exact_normalised,,no active contract covers these products
 L0000160,INV-202508-000071,2025-08-01,Desert Telecom B.V.,Desert Telecom B.V.,C0004,100.0,exact_normalised,K00004,
 L0022575,INV-202508-010340,2025-08-01,Silver Media Pty Ltd,Silver Media Pty Ltd,C0116,100.0,exact_normalised,K00453,
 L0004586,INV-202508-002169,2025-08-01,Pioneer Education GmbH,Pioneer Education GmbH,C0096,100.0,exact_normalised,K00096,
@@ -10728,7 +10728,7 @@ L0007157,INV-202508-003374,2025-08-01,Crescent Pharma Pty Ltd,Crescent Pharma Pt
 L0000611,INV-202508-000262,2025-08-01,Cedar Systems DAC,Cedar Systems DAC,C0013,100.0,exact_normalised,K00013,
 L0023584,INV-202508-010862,2025-08-01,Sterling Travel DAC,Sterling Travel DAC,C0104,100.0,exact_normalised,K00477,
 L0023748,INV-202508-010937,2025-08-01,Apex Properties B.V.,Apex Properties B.V.,C0192,100.0,exact_normalised,K00480,
-L0014760,INV-202508-006714,2025-08-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014760,INV-202508-006714,2025-08-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0008329,INV-202508-003855,2025-08-01,CORAL ENERGY AG,Coral Energy AG,C0172,100.0,exact_normalised,K00172,
 L0020242,INV-202508-009328,2025-08-01,North Labs FZ-LLC,North Labs FZ-LLC,C0012,100.0,exact_normalised,K00408,
 L0023531,INV-202508-010840,2025-08-01,Delta Pharma Pty Ltd,Delta Pharma Pty Ltd,C0105,100.0,exact_normalised,K00476,
@@ -12280,9 +12280,9 @@ L0018468,INV-202509-008490,2025-09-01,Silver Trading Limited,Silver Trading Limi
 L0012715,INV-202509-005837,2025-09-01,ATLAS TRADING LIMITED,Atlas Trading Limited,C0258,100.0,exact_normalised,K00258,
 L0018481,INV-202509-008495,2025-09-01,Apex Travel FZE,Apex Travel FZE,C0088,100.0,exact_normalised,K00372,
 L0005092,INV-202509-002427,2025-09-01,Apex Telecom Limited,Apex Telecom Limited,C0107,100.0,exact_normalised,K00107,
-L0024738,INV-202509-X024738,2025-09-01,Crescent Media Limited,,,85.0,suffix_conflict,,customer not matched
+L0024738,INV-202509-X024738,2025-09-01,Crescent Media Limited,Crescent Media Pty Ltd,C0065,100.0,exact_normalised,,no active contract covers these products
 L0012991,INV-202509-005937,2025-09-01,Falcon Logistics Pty Ltd,Falcon Logistics Pty Ltd,C0262,100.0,exact_normalised,K00262,
-L0014761,INV-202509-006715,2025-09-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014761,INV-202509-006715,2025-09-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0006892,INV-202509-003269,2025-09-01,Zenith Pharma DAC,Zenith Pharma DAC,C0146,100.0,exact_normalised,K00146,
 L0013256,INV-202509-006066,2025-09-01,Apex Construction Pty Ltd,Apex Construction Pty Ltd,C0268,100.0,exact_normalised,K00268,
 L0000572,INV-202509-000249,2025-09-01,North Labs FZ-LLC,North Labs FZ-LLC,C0012,100.0,exact_normalised,K00012,
@@ -12747,7 +12747,7 @@ L0022862,INV-202510-010454,2025-10-01,Crescent Properties Pty Ltd,Crescent Prope
 L0015735,INV-202510-007174,2025-10-01,Pacific Hospitality,Pacific Hospitality Ltd,C0298,100.0,exact_normalised,K00315,
 L0002814,INV-202510-001284,2025-10-01,Atlas Health LLC,Atlas Health LLC,C0057,100.0,exact_normalised,K00057,
 L0016693,INV-202510-007643,2025-10-01,WILLOW TELECOM DAC,Willow Telecom DAC,C0186,100.0,exact_normalised,K00336,
-L0014762,INV-202510-006716,2025-10-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014762,INV-202510-006716,2025-10-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0015085,INV-202510-006901,2025-10-01,WILLOW TELECOM DAC,Willow Telecom DAC,C0186,100.0,exact_normalised,K00304,
 L0004244,INV-202510-002002,2025-10-01,Coral Education B.V.,Coral Education B.V.,C0089,100.0,exact_normalised,K00089,
 L0023192,INV-202510-010650,2025-10-01,Bright Insurance FZ-LLC,Bright Insurance FZ-LLC,C0166,100.0,exact_normalised,K00468,
@@ -13126,7 +13126,7 @@ L0017588,INV-202510-008038,2025-10-01,Iron Construction Pty Ltd,Iron Constructio
 L0018524,INV-202510-008521,2025-10-01,Falcon Travel FZE,Falcon Travel FZE,C0111,100.0,exact_normalised,K00373,
 L0003729,INV-202510-001733,2025-10-01,Crescent Telecom FZ-LLC,Crescent Telecom FZ-LLC,C0076,100.0,exact_normalised,K00076,
 L0005883,INV-202510-002832,2025-10-01,Willow Travel Pty Ltd,Willow Travel Pty Ltd,C0126,100.0,exact_normalised,K00126,
-L0024843,INV-202510-X024843,2025-10-01,Orbit Pharma Limited,,,85.0,suffix_conflict,,customer not matched
+L0024843,INV-202510-X024843,2025-10-01,Orbit Pharma Limited,Orbit Pharma Pty Ltd,C0254,100.0,exact_normalised,,no active contract covers these products
 L0024234,INV-202510-011162,2025-10-01,Desert Labs Limited,Desert Labs Limited,C0244,100.0,exact_normalised,K00491,
 L0012445,INV-202510-005709,2025-10-01,ATLAS HOSPITALITY PTY LTD,Atlas Hospitality Pty Ltd,C0252,100.0,exact_normalised,K00252,
 L0024122,INV-202510-011122,2025-10-01,Delta Education Limited,Delta Education Limited,C0137,100.0,exact_normalised,K00489,
@@ -13700,7 +13700,7 @@ L0009799,INV-202511-004552,2025-11-01,Granite Insurance Limited,Granite Insuranc
 L0010768,INV-202511-004958,2025-11-01,DesertRetail Ltd,Desert Retail Ltd,C0221,100.0,exact_normalised,K00221,
 L0014947,INV-202511-006810,2025-11-01,Harbour Insurance FZ-LLC,Harbour Insurance FZ-LLC,C0300,100.0,exact_normalised,K00300,
 L0005546,INV-202511-002630,2025-11-01,Silver Media Pty Ltd,Silver Media Pty Ltd,C0116,100.0,exact_normalised,K00116,
-L0014763,INV-202511-006717,2025-11-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014763,INV-202511-006717,2025-11-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0010284,INV-202511-004783,2025-11-01,Quantum Energy Pty,Quantum Energy Pty Ltd,C0214,100.0,exact_normalised,K00214,
 L0017692,INV-202511-008114,2025-11-01,Bright  Education DAC,Bright Education DAC,C0153,100.0,exact_normalised,K00355,
 L0020629,INV-202511-009500,2025-11-01,Coral Insurance Limited,Coral Insurance Limited,C0194,100.0,exact_normalised,K00416,
@@ -14432,7 +14432,7 @@ L0005978,INV-202511-002877,2025-11-01,Delta Retail DAC,Delta Retail DAC,C0128,10
 L0020176,INV-202511-009297,2025-11-01,Iron Energy LLC,Iron Energy LLC,C0208,100.0,exact_normalised,K00407,
 L0000329,INV-202511-000145,2025-11-01,Coral Properties Limited,Coral Properties Limited,C0007,100.0,exact_normalised,K00007,
 L0011306,INV-202511-005177,2025-11-01,Silver Labs Pty Ltd,Silver Labs Pty Ltd,C0230,100.0,exact_normalised,K00230,
-L0024747,INV-202511-X024747,2025-11-01,Red Hospitality Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024747,INV-202511-X024747,2025-11-01,Red Hospitality Ltd,Red Hospitality Pty Ltd,C0134,100.0,exact_normalised,,no active contract covers these products
 L0002784,INV-202511-001271,2025-11-01,Quantum Motors Pty Ltd,Quantum Motors Pty Ltd,C0056,100.0,exact_normalised,K00056,
 L0013836,INV-202511-006295,2025-11-01,Bright Pharma Limited,Bright Pharma Limited,C0278,100.0,exact_normalised,K00278,
 L0011228,INV-202511-005129,2025-11-01,Nova Motors B.V.,Nova Motors B.V.,C0228,100.0,exact_normalised,K00228,
@@ -15294,7 +15294,7 @@ L0013572,INV-202512-006203,2025-12-01,Pacific Health LLC,Pacific Health LLC,C027
 L0014381,INV-202512-006537,2025-12-01,Bright Systems GmbH,Bright Systems GmbH,C0288,100.0,exact_normalised,K00288,
 L0021702,INV-202512-009938,2025-12-01,Blue Finance DAC,Blue Finance DAC,C0052,100.0,exact_normalised,K00435,
 L0016326,INV-202512-007462,2025-12-01,Cedar Labs,Cedar Labs FZE,C0074,100.0,exact_normalised,K00328,
-L0014764,INV-202512-006718,2025-12-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014764,INV-202512-006718,2025-12-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0004891,INV-202512-002331,2025-12-01,River Travel Limited,River Travel Limited,C0103,100.0,exact_normalised,K00103,
 L0001516,INV-202512-000657,2025-12-01,Union Foods LLC,Union Foods LLC,C0030,100.0,exact_normalised,K00030,
 L0018489,INV-202512-008498,2025-12-01,Apex Travel FZE,Apex Travel FZE,C0088,100.0,exact_normalised,K00372,
@@ -15446,7 +15446,7 @@ L0001737,INV-202512-000809,2025-12-01,QUANTUM RETAIL LLC,Quantum Retail LLC,C003
 L0013892,INV-202512-006321,2025-12-01,Blue Travel Limited,Blue Travel Limited,C0279,100.0,exact_normalised,K00279,
 L0011230,INV-202512-005130,2025-12-01,Nova Motors B.V.,Nova Motors B.V.,C0228,100.0,exact_normalised,K00228,
 L0011043,INV-202512-005053,2025-12-01,Orbit Health B.V.,Orbit Health B.V.,C0225,100.0,exact_normalised,K00225,
-L0024961,INV-202512-X024961,2025-12-01,Union Construction Ltd,,,91.4,fuzzy,,customer not matched
+L0024961,INV-202512-X024961,2025-12-01,Union Construction Ltd,Iron Construction Pty Ltd,C0034,91.4,fuzzy,,no active contract covers these products
 L0023542,INV-202512-010844,2025-12-01,Delta Pharma Pty Ltd,Delta Pharma Pty Ltd,C0105,100.0,exact_normalised,K00476,
 L0023932,INV-202512-011015,2025-12-01,Coral Properties Limited,Coral Properties Limited,C0007,100.0,exact_normalised,K00483,
 L0023277,INV-202512-010693,2025-12-01,Bright Media B.V..,Bright Media B.V.,C0053,100.0,exact_normalised,K00470,
@@ -15771,7 +15771,7 @@ L0009852,INV-202601-004594,2026-01-01,Harbour Energy LLC,Harbour Energy LLC,C020
 L0000333,INV-202601-000147,2026-01-01,Coral Properties Limited,Coral Properties Limited,C0007,100.0,exact_normalised,K00007,
 L0017314,INV-202601-007939,2026-01-01,Sterling Travel DAC,Sterling Travel DAC,C0104,100.0,exact_normalised,K00348,
 L0009827,INV-202601-004572,2026-01-01,Falcon Finance LLC,Falcon Finance LLC,C0205,100.0,exact_normalised,K00205,
-L0014765,INV-202601-006719,2026-01-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014765,INV-202601-006719,2026-01-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0016571,INV-202601-007561,2026-01-01,Titan Logistics B.V.,Titan Logistics B.V.,C0162,100.0,exact_normalised,K00333,
 L0005928,INV-202601-002850,2026-01-01,River Energy FZ-LLC,River Energy FZ-LLC,C0127,100.0,exact_normalised,K00127,
 L0017953,INV-202601-008290,2026-01-01,North Telecom B.V.,North Telecom B.V.,C0209,100.0,exact_normalised,K00363,
@@ -16646,7 +16646,7 @@ L0010572,INV-202601-004899,2026-01-01,Nova  Trading FZ-LLC,Nova Trading FZ-LLC,C
 L0005789,INV-202601-002772,2026-01-01,Harbour Travel Pty Ltd,Harbour Travel Pty Ltd,C0123,100.0,exact_normalised,K00123,
 L0022364,INV-202601-010216,2026-01-01,Sterling Insurance AG,Sterling Insurance AG,C0039,100.0,exact_normalised,K00448,
 L0024538,INV-202601-011298,2026-01-01,Pioneer Trading LLC,Pioneer Trading LLC,C0066,100.0,exact_normalised,K00497,
-L0024923,INV-202601-X024923,2026-01-01,Quantum Analytics Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024923,INV-202601-X024923,2026-01-01,Quantum Analytics Ltd,Quantum Analytics Pty Ltd,C0242,100.0,exact_normalised,,no active contract covers these products
 L0019561,INV-202601-008980,2026-01-01,Delta Labs Limited,Delta Labs Limited,C0027,100.0,exact_normalised,K00393,
 L0021772,INV-202601-009963,2026-01-01,Pioneer Trading LLC,Pioneer Trading LLC,C0066,100.0,exact_normalised,K00436,
 L0018788,INV-202601-008614,2026-01-01,Iron Retail AG,Iron Retail AG,C0136,100.0,exact_normalised,K00377,
@@ -17182,7 +17182,7 @@ L0001587,INV-202602-000702,2026-02-01,SilverHospitality Limited,Silver Hospitali
 L0014293,INV-202602-006508,2026-02-01,Pioneer Energy AG,Pioneer Energy AG,C0287,100.0,exact_normalised,K00287,
 L0004668,INV-202602-002199,2026-02-01,Blue Retail Pty Ltd,Blue Retail Pty Ltd,C0097,100.0,exact_normalised,K00097,
 L0013960,INV-202602-006348,2026-02-01,River Insurance DAC,River Insurance DAC,C0280,100.0,exact_normalised,K00280,
-L0014766,INV-202602-006720,2026-02-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014766,INV-202602-006720,2026-02-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0012248,INV-202602-005609,2026-02-01,Union Logistics B.V.,Union Logistics B.V.,C0248,100.0,exact_normalised,K00248,
 L0003641,INV-202602-001706,2026-02-01,Summit Retail FZ-LLC,Summit Retail FZ-LLC,C0075,100.0,exact_normalised,K00075,
 L0018741,INV-202602-008598,2026-02-01,Nova Media B.V.,Nova Media B.V.,C0253,100.0,exact_normalised,K00376,
@@ -18319,7 +18319,7 @@ L0002754,INV-202603-001258,2026-03-01,Vertex Systems FZ-LLC,Vertex Systems FZ-LL
 L0003745,INV-202603-001738,2026-03-01,Crescent Telecom FZ-LLC,Crescent Telecom FZ-LLC,C0076,100.0,exact_normalised,K00076,
 L0009484,INV-202603-004391,2026-03-01,Bright Health Ltd,Bright Health Ltd,C0196,100.0,exact_normalised,K00196,
 L0013964,INV-202603-006349,2026-03-01,River Insurance DAC,River Insurance DAC,C0280,100.0,exact_normalised,K00280,
-L0024949,INV-202603-X024949,2026-03-01,North Education Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024949,INV-202603-X024949,2026-03-01,North Education Pty Ltd,North Education Limited,C0069,100.0,exact_normalised,,no active contract covers these products
 L0002907,INV-202603-001318,2026-03-01,Quantum Foods Pty Ltd,Quantum Foods Pty Ltd,C0058,100.0,exact_normalised,K00058,
 L0003513,INV-202603-001657,2026-03-01,Quantum Pharma B.V.,Quantum Pharma B.V.,C0073,100.0,exact_normalised,K00073,
 L0002715,INV-202603-001237,2026-03-01,Pacific Systems B.V.,Pacific Systems B.V.,C0054,100.0,exact_normalised,K00054,
@@ -18405,7 +18405,7 @@ L0013697,INV-202603-006242,2026-03-01,Summit Travel Pty Ltd,Summit Travel Pty Lt
 L0014296,INV-202603-006509,2026-03-01,Pioneer Energy AG,Pioneer Energy AG,C0287,100.0,exact_normalised,K00287,
 L0019444,INV-202603-008916,2026-03-01,Orbit Systems FZ-LLC,Orbit Systems FZ-LLC,C0250,100.0,exact_normalised,K00390,
 L0009097,INV-202603-004211,2026-03-01,Quantum Insurance LLC,Quantum Insurance LLC,C0189,100.0,exact_normalised,K00189,
-L0014767,INV-202603-006721,2026-03-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014767,INV-202603-006721,2026-03-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0001879,INV-202603-000867,2026-03-01,Sterling Insurance AG,Sterling Insurance AG,C0039,100.0,exact_normalised,K00039,
 L0000181,INV-202603-000078,2026-03-01,Desert Telecom B.V.,Desert Telecom B.V.,C0004,100.0,exact_normalised,K00004,
 L0015258,INV-202603-006962,2026-03-01,Atlas Energy Corp.,Atlas Energy LLC,C0113,100.0,exact_normalised,K00306,
@@ -18667,7 +18667,7 @@ L0024588,INV-202603-011317,2026-03-01,Crescent Media Pty Ltd,Crescent Media Pty 
 L0010676,INV-202603-004932,2026-03-01,Sterling Media GmbH,Sterling Media GmbH,C0220,100.0,exact_normalised,K00220,
 L0007657,INV-202603-003568,2026-03-01,Emerald Analytics Pty Ltd,Emerald Analytics Pty Ltd,C0159,100.0,exact_normalised,K00159,
 L0008565,INV-202603-003968,2026-03-01,Zenith Logistics B.V.,Zenith Logistics B.V.,C0178,100.0,exact_normalised,K00178,
-L0025020,INV-202603-X025020,2026-03-01,Iron Properties Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025020,INV-202603-X025020,2026-03-01,Iron Properties Ltd,Iron Properties Pty Ltd,C0233,100.0,exact_normalised,,no active contract covers these products
 L0003037,INV-202603-001384,2026-03-01,Falcon Education Pty Ltd,Falcon Education Pty Ltd,C0061,100.0,exact_normalised,K00061,
 L0003914,INV-202603-001805,2026-03-01,Cedar  Motors FZE,Cedar Motors FZE,C0079,100.0,exact_normalised,K00079,
 L0010780,INV-202603-004962,2026-03-01,DesertRetail Ltd,Desert Retail Ltd,C0221,100.0,exact_normalised,K00221,
@@ -18936,7 +18936,7 @@ L0015799,INV-202604-007196,2026-04-01,Nova Properties Pty Ltd,Nova Properties Pt
 L0014641,INV-202604-006674,2026-04-01,North  Retail FZ-LLC,North Retail FZ-LLC,C0294,100.0,exact_normalised,K00294,
 L0020418,INV-202604-009397,2026-04-01,Crescent Telecom FZ-LLC,Crescent Telecom FZ-LLC,C0076,100.0,exact_normalised,K00411,
 L0009855,INV-202604-004597,2026-04-01,Harbour Energy LLC,Harbour Energy LLC,C0206,100.0,exact_normalised,K00206,
-L0014768,INV-202604-006722,2026-04-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014768,INV-202604-006722,2026-04-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0005560,INV-202604-002635,2026-04-01,Silver Media Pty Ltd,Silver Media Pty Ltd,C0116,100.0,exact_normalised,K00116,
 L0008266,INV-202604-003832,2026-04-01,Orbit Motors Pty Ltd,Orbit Motors Pty Ltd,C0171,100.0,exact_normalised,K00171,
 L0002579,INV-202604-001170,2026-04-01,Zenith Energy Limited,Zenith Energy Limited,C0051,100.0,exact_normalised,K00051,
@@ -19480,7 +19480,7 @@ L0022602,INV-202604-010348,2026-04-01,Silver Media Pty Ltd,Silver Media Pty Ltd,
 L0006348,INV-202604-003038,2026-04-01,Red Hospitality Pty Ltd,Red Hospitality Pty Ltd,C0134,100.0,exact_normalised,K00134,
 L0024633,INV-202604-011332,2026-04-01,Red Education AG,Red Education AG,C0018,100.0,exact_normalised,K00499,
 L0017147,INV-202604-007847,2026-04-01,Vertex Education Ltd,Vertex Education Ltd,C0044,100.0,exact_normalised,K00344,
-L0025171,INV-202604-X025171,2026-04-01,Sterling Energy Limited,,,85.0,suffix_conflict,,customer not matched
+L0025171,INV-202604-X025171,2026-04-01,Sterling Energy Limited,Sterling Energy Pty Ltd,C0234,100.0,exact_normalised,,no active contract covers these products
 L0009722,INV-202604-004506,2026-04-01,Falcon Motors Limited,Falcon Motors Limited,C0202,100.0,exact_normalised,K00202,
 L0017324,INV-202604-007942,2026-04-01,Sterling Travel DAC,Sterling Travel DAC,C0104,100.0,exact_normalised,K00348,
 L0022883,INV-202604-010460,2026-04-01,Crescent Properties Pty Ltd,Crescent Properties Pty Ltd,C0092,100.0,exact_normalised,K00459,
@@ -20217,7 +20217,7 @@ L0001625,INV-202605-000718,2026-05-01,Pioneer Pharma Limited,Pioneer Pharma Limi
 L0006486,INV-202605-003097,2026-05-01,Delta Education Limited,Delta Education Limited,C0137,100.0,exact_normalised,K00137,
 L0015752,INV-202605-007181,2026-05-01,Pacific Hospitality,Pacific Hospitality Ltd,C0298,100.0,exact_normalised,K00315,
 L0010475,INV-202605-004854,2026-05-01,Granite Pharma FZE,Granite Pharma FZE,C0217,100.0,exact_normalised,K00217,
-L0024887,INV-202605-X024887,2026-05-01,Quantum Travel Limited,,,85.0,suffix_conflict,,customer not matched
+L0024887,INV-202605-X024887,2026-05-01,Quantum Travel Limited,Quantum Travel Pty Ltd,C0286,100.0,exact_normalised,,no active contract covers these products
 L0009991,INV-202605-004645,2026-05-01,Iron Energy LLC,Iron Energy LLC,C0208,100.0,exact_normalised,K00208,
 L0018257,INV-202605-008423,2026-05-01,North Telecom B.V.,North Telecom B.V.,C0209,100.0,exact_normalised,K00368,
 L0007661,INV-202605-003570,2026-05-01,Emerald Analytics Pty Ltd,Emerald Analytics Pty Ltd,C0159,100.0,exact_normalised,K00159,
@@ -20283,7 +20283,7 @@ L0008573,INV-202605-003970,2026-05-01,Zenith Logistics B.V.,Zenith Logistics B.V
 L0020807,INV-202605-009582,2026-05-01,Nova Motors B.V.,Nova Motors B.V.,C0228,100.0,exact_normalised,K00419,
 L0013216,INV-202605-006054,2026-05-01,Iron Labs Pty Ltd,Iron Labs Pty Ltd,C0267,100.0,exact_normalised,K00267,
 L0022310,INV-202605-010198,2026-05-01,Silver Foods B.V.,Silver Foods B.V.,C0299,100.0,exact_normalised,K00447,
-L0014769,INV-202605-006723,2026-05-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014769,INV-202605-006723,2026-05-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0009629,INV-202605-004468,2026-05-01,Vertex Trading B.V.,Vertex Trading B.V.,C0200,100.0,exact_normalised,K00200,
 L0024595,INV-202605-011319,2026-05-01,Crescent Media Pty Ltd,Crescent Media Pty Ltd,C0065,100.0,exact_normalised,K00498,
 L0003876,INV-202605-001790,2026-05-01,River Education B.V.,River Education B.V.,C0078,100.0,exact_normalised,K00078,
@@ -21676,7 +21676,7 @@ L0002761,INV-202606-001261,2026-06-01,Vertex Systems FZ-LLC,Vertex Systems FZ-LL
 L0008828,INV-202606-004095,2026-06-01,Falcon Labs B.V..,Falcon Labs B.V.,C0184,100.0,exact_normalised,K00184,
 L0020644,INV-202606-009507,2026-06-01,Coral Insurance Limited,Coral Insurance Limited,C0194,100.0,exact_normalised,K00416,
 L0020376,INV-202606-009379,2026-06-01,Harbour Finance Ltd,Harbour Finance Ltd,C0290,100.0,exact_normalised,K00410,
-L0014770,INV-202606-006724,2026-06-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014770,INV-202606-006724,2026-06-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0017701,INV-202606-008121,2026-06-01,Bright  Education DAC,Bright Education DAC,C0153,100.0,exact_normalised,K00355,
 L0007865,INV-202606-003680,2026-06-01,North Energy FZE,North Energy FZE,C0164,100.0,exact_normalised,K00164,
 L0023874,INV-202606-010990,2026-06-01,Crescent Telecom FZ-LLC,Crescent Telecom FZ-LLC,C0076,100.0,exact_normalised,K00482,
@@ -21984,7 +21984,7 @@ L0023976,INV-202607-011032,2026-07-01,Iron Health Pty Ltd,Iron Health Pty Ltd,C0
 L0001663,INV-202607-000750,2026-07-01,Iron Construction Pty Ltd,Iron Construction Pty Ltd,C0034,100.0,exact_normalised,K00034,
 L0001347,INV-202607-000584,2026-07-01,Delta Labs Limited,Delta Labs Limited,C0027,100.0,exact_normalised,K00027,
 L0000602,INV-202607-000259,2026-07-01,North Labs FZ-LLC,North Labs FZ-LLC,C0012,100.0,exact_normalised,K00012,
-L0014771,INV-202607-006725,2026-07-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014771,INV-202607-006725,2026-07-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0009549,INV-202607-004429,2026-07-01,Silver Insurance Limited.,Silver Insurance Limited,C0198,100.0,exact_normalised,K00198,
 L0008865,INV-202607-004120,2026-07-01,Willow Media Pty Ltd.,Willow Media Pty Ltd,C0185,100.0,exact_normalised,K00185,
 L0011250,INV-202607-005137,2026-07-01,Nova Motors B.V.,Nova Motors B.V.,C0228,100.0,exact_normalised,K00228,
@@ -22400,7 +22400,7 @@ L0008510,INV-202607-003950,2026-07-01,Desert Construction Pty Ltd,Desert Constru
 L0013977,INV-202607-006353,2026-07-01,River Insurance DAC,River Insurance DAC,C0280,100.0,exact_normalised,K00280,
 L0010896,INV-202607-005011,2026-07-01,ZenithLabs LLC,Zenith Labs LLC,C0223,100.0,exact_normalised,K00223,
 L0022661,INV-202607-010373,2026-07-01,Falcon Construction Pty Ltd,Falcon Construction Pty Ltd,C0201,100.0,exact_normalised,K00454,
-L0024955,INV-202607-X024955,2026-07-01,Apex Telecom Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024955,INV-202607-X024955,2026-07-01,Apex Telecom Pty Ltd,Apex Telecom Limited,C0107,100.0,exact_normalised,,no active contract covers these products
 L0014010,INV-202607-006367,2026-07-01,Summit  Foods Pty Ltd,Summit Foods Pty Ltd,C0281,100.0,exact_normalised,K00281,
 L0002916,INV-202607-001322,2026-07-01,Quantum Foods Pty Ltd,Quantum Foods Pty Ltd,C0058,100.0,exact_normalised,K00058,
 L0010481,INV-202607-004856,2026-07-01,Granite Pharma FZE,Granite Pharma FZE,C0217,100.0,exact_normalised,K00217,
@@ -23136,7 +23136,7 @@ L0000952,INV-202608-000405,2026-08-01,Orbit Logistics Pty Ltd,Orbit Logistics Pt
 L0017337,INV-202608-007946,2026-08-01,Sterling Travel DAC,Sterling Travel DAC,C0104,100.0,exact_normalised,K00348,
 L0001927,INV-202608-000891,2026-08-01,Atlas Motors Pty Ltd,Atlas Motors Pty Ltd,C0040,100.0,exact_normalised,K00040,
 L0009514,INV-202608-004411,2026-08-01,Pioneer Insurance Pty Ltd,Pioneer Insurance Pty Ltd,C0197,100.0,exact_normalised,K00197,
-L0014772,INV-202608-006726,2026-08-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014772,INV-202608-006726,2026-08-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0004458,INV-202608-002113,2026-08-01,Orbit Media Pty Ltd,Orbit Media Pty Ltd,C0093,100.0,exact_normalised,K00093,
 L0023500,INV-202608-010825,2026-08-01,Delta Retail DAC,Delta Retail DAC,C0128,100.0,exact_normalised,K00475,
 L0007198,INV-202608-003386,2026-08-01,Crescent Pharma Pty Ltd,Crescent Pharma Pty Ltd,C0151,100.0,exact_normalised,K00151,
@@ -23490,7 +23490,7 @@ L0020139,INV-202609-009279,2026-09-01,Red Foods Limited,Red Foods Limited,C0156,
 L0014966,INV-202609-006820,2026-09-01,Harbour Insurance FZ-LLC,Harbour Insurance FZ-LLC,C0300,100.0,exact_normalised,K00300,
 L0004570,INV-202609-002161,2026-09-01,Willow Construction Limited,Willow Construction Limited,C0095,100.0,exact_normalised,K00095,
 L0014752,INV-202609-006710,2026-09-01,Zenith Telecom B.V.,Zenith Telecom B.V.,C0295,100.0,exact_normalised,K00295,
-L0014773,INV-202609-006727,2026-09-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014773,INV-202609-006727,2026-09-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0000311,INV-202609-000136,2026-09-01,River Foods Corp.,River Foods AG,C0006,100.0,exact_normalised,K00006,
 L0002805,INV-202609-001281,2026-09-01,Quantum Motors Pty Ltd,Quantum Motors Pty Ltd,C0056,100.0,exact_normalised,K00056,
 L0012380,INV-202609-005665,2026-09-01,Orbit Systems FZ-LLC,Orbit Systems FZ-LLC,C0250,100.0,exact_normalised,K00250,
@@ -24506,7 +24506,7 @@ L0002437,INV-202610-001102,2026-10-01,Orbit Education FZE,Orbit Education FZE,C0
 L0024344,INV-202610-011197,2026-10-01,Summit Insurance Corp.,Summit Insurance FZ-LLC,C0042,100.0,exact_normalised,K00492,
 L0012533,INV-202610-005757,2026-10-01,Orbit Pharma Pty Ltd,Orbit Pharma Pty Ltd,C0254,100.0,exact_normalised,K00254,
 L0000355,INV-202610-000156,2026-10-01,Coral Properties Limited,Coral Properties Limited,C0007,100.0,exact_normalised,K00007,
-L0014774,INV-202610-006728,2026-10-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014774,INV-202610-006728,2026-10-01,HarbourAnalyticsPty Ltd,Harbour Analytics Pty Ltd,C0296,100.0,exact_normalised,K00296,
 L0019266,INV-202610-008851,2026-10-01,Granite Retail Limited,Granite Retail Limited,C0041,100.0,exact_normalised,K00387,
 L0008591,INV-202610-003975,2026-10-01,Zenith Logistics B.V.,Zenith Logistics B.V.,C0178,100.0,exact_normalised,K00178,
 L0012187,INV-202610-005573,2026-10-01,Atlas Systems Corp.,Atlas Systems B.V.,C0245,100.0,exact_normalised,K00245,

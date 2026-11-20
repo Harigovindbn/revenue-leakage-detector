@@ -29,7 +29,8 @@ from src.common import (ensure_output_dirs, escalations_applied, load_customers,
 # Legal suffix -> countries where it is used (a GmbH is never an Australian Pty Ltd)
 SUFFIX_COUNTRIES = {
     "llc": {"AE"}, "fz llc": {"AE"}, "fze": {"AE"}, "pty ltd": {"AU"},
-    "limited": {"NZ", "IE"}, "ltd": {"NZ", "IE"}, "gmbh": {"DE"}, "ag": {"DE"},
+    "limited": {"NZ", "IE", "AU"}, "ltd": {"NZ", "IE", "AU"},   # "Pty Ltd" is also a Ltd
+    "pty": {"AU"}, "gmbh": {"DE"}, "ag": {"DE"},
     "bv": {"NL"}, "dac": {"IE"},
 }
 
