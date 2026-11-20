@@ -1,0 +1,994 @@
+contract_id,customer_name,country,start_date,end_date,escalation_pct,escalation_date,product_code,product_name,quantity,unit_price,discount_pct,discount_end_date,tier_limit,overage_rate,min_confidence
+K00001,Blue Construction GmbH,DE,2024-11-01,2027-10-31,3.5,2025-11-01,SMS-MSG,SMS messages bundle,1,371.28,,,50000,0.015,0.9
+K00002,River Retail AG,DE,2024-03-01,2026-02-28,7.0,2025-03-01,DATA-STOR,Data storage (per TB),176,59.47,,,,,1.0
+K00002,River Retail AG,DE,2024-03-01,2026-02-28,7.0,2025-03-01,PLAT-BASE,Platform licence (per seat),183,41.79,,,,,1.0
+K00002,River Retail AG,DE,2024-03-01,2026-02-28,7.0,2025-03-01,SUPP-PREM,Premium support (flat),1,1046.86,,,,,1.0
+K00003,River Systems AG,DE,2025-07-01,2028-06-30,3.5,2026-07-01,SMS-MSG,SMS messages bundle,1,388.35,,,20000,0.015,1.0
+K00003,River Systems AG,DE,2025-07-01,2028-06-30,3.5,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),147,84.59,,,,,1.0
+K00004,Desert Telecom B.V.,NL,2025-02-01,2027-01-31,4.0,2026-02-01,PLAT-BASE,Platform licence (per seat),190,38.87,,,,,1.0
+K00004,Desert Telecom B.V.,NL,2025-02-01,2027-01-31,4.0,2026-02-01,DATA-STOR,Data storage (per TB),101,51.46,,,,,1.0
+K00004,Desert Telecom B.V.,NL,2025-02-01,2027-01-31,4.0,2026-02-01,SUPP-PREM,Premium support (flat),1,1128.53,,,,,1.0
+K00005,Iron Foods FZ-LLC,AE,2024-07-01,2026-06-30,5.0,2025-07-01,SUPP-PREM,Premium support (flat),1,1058.13,5.0,2025-02-28,,,0.9
+K00005,Iron Foods FZ-LLC,AE,2024-07-01,2026-06-30,5.0,2025-07-01,PLAT-BASE,Platform licence (per seat),67,41.48,,,,,0.9
+K00006,River Foods AG,DE,2024-07-01,2027-06-30,3.5,2025-07-01,DATA-STOR,Data storage (per TB),96,55.8,,,,,0.9
+K00006,River Foods AG,DE,2024-07-01,2027-06-30,3.5,2025-07-01,SMS-MSG,SMS messages bundle,1,361.58,,,50000,0.015,0.9
+K00007,Coral Properties Limited,IE,2025-04-01,2028-03-31,3.5,2026-04-01,PLAT-BASE,Platform licence (per seat),194,44.08,15.0,2025-10-31,,,1.0
+K00007,Coral Properties Limited,IE,2025-04-01,2028-03-31,3.5,2026-04-01,API-CALLS,API calls bundle,1,843.18,10.0,2025-08-31,250000,0.006,1.0
+K00008,Delta Media Limited,IE,2025-08-01,2027-07-31,5.0,2026-08-01,SUPP-PREM,Premium support (flat),1,1193.97,,,,,0.9
+K00008,Delta Media Limited,IE,2025-08-01,2027-07-31,5.0,2026-08-01,SMS-MSG,SMS messages bundle,1,369.44,,,20000,0.015,0.9
+K00008,Delta Media Limited,IE,2025-08-01,2027-07-31,5.0,2026-08-01,DATA-STOR,Data storage (per TB),40,54.17,,,,,0.9
+K00009,Coral Systems FZE,AE,2025-05-01,2027-04-30,6.0,2026-05-01,API-CALLS,API calls bundle,1,769.57,,,100000,0.006,1.0
+K00010,Union Finance FZE,AE,2024-02-01,2026-01-31,5.0,2025-02-01,PLAT-PRO,Platform Pro licence (per seat),134,72.37,,,,,1.0
+K00010,Union Finance FZE,AE,2024-02-01,2026-01-31,5.0,2025-02-01,PLAT-BASE,Platform licence (per seat),168,38.66,,,,,1.0
+K00010,Union Finance FZE,AE,2024-02-01,2026-01-31,5.0,2025-02-01,SMS-MSG,SMS messages bundle,1,376.99,,,50000,0.015,1.0
+K00011,Granite Education Pty Ltd,AU,2024-01-01,2025-12-31,6.0,2025-01-01,PLAT-BASE,Platform licence (per seat),75,41.82,,,,,1.0
+K00012,North Labs FZ-LLC,AE,2024-10-01,2026-09-30,6.0,2025-10-01,DATA-STOR,Data storage (per TB),139,59.26,10.0,2025-04-30,,,0.9
+K00012,North Labs FZ-LLC,AE,2024-10-01,2026-09-30,6.0,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),73,82.64,,,,,0.9
+K00012,North Labs FZ-LLC,AE,2024-10-01,2026-09-30,6.0,2025-10-01,PLAT-BASE,Platform licence (per seat),250,38.78,,,,,0.9
+K00013,Cedar Systems DAC,IE,2025-08-01,2027-07-31,7.0,2026-08-01,PLAT-BASE,Platform licence (per seat),101,40.99,,,,,0.9
+K00013,Cedar Systems DAC,IE,2025-08-01,2027-07-31,7.0,2026-08-01,SMS-MSG,SMS messages bundle,1,343.37,,,20000,0.015,0.9
+K00013,Cedar Systems DAC,IE,2025-08-01,2027-07-31,7.0,2026-08-01,API-CALLS,API calls bundle,1,776.16,,,250000,0.006,0.9
+K00014,Harbour Media FZE,AE,2024-12-01,2026-11-30,6.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),182,83.74,,,,,1.0
+K00015,Sterling Motors Pty Ltd,AU,2025-05-01,2028-04-30,3.0,2026-05-01,SUPP-PREM,Premium support (flat),1,1052.28,,,,,0.9
+K00015,Sterling Motors Pty Ltd,AU,2025-05-01,2028-04-30,3.0,2026-05-01,API-CALLS,API calls bundle,1,767.11,,,100000,0.006,0.9
+K00015,Sterling Motors Pty Ltd,AU,2025-05-01,2028-04-30,3.0,2026-05-01,PLAT-BASE,Platform licence (per seat),187,43.33,,,,,0.9
+K00016,Apex Health Pty Ltd,AU,2024-03-01,2027-02-28,3.5,2025-03-01,DATA-STOR,Data storage (per TB),194,54.45,5.0,2024-09-30,,,1.0
+K00016,Apex Health Pty Ltd,AU,2024-03-01,2027-02-28,3.5,2025-03-01,API-CALLS,API calls bundle,1,811.69,,,100000,0.006,1.0
+K00016,Apex Health Pty Ltd,AU,2024-03-01,2027-02-28,3.5,2025-03-01,SUPP-PREM,Premium support (flat),1,1170.96,,,,,1.0
+K00017,Iron Motors Ltd,NZ,2025-09-01,2028-08-31,4.0,2026-09-01,DATA-STOR,Data storage (per TB),146,53.05,,,,,1.0
+K00017,Iron Motors Ltd,NZ,2025-09-01,2028-08-31,4.0,2026-09-01,SMS-MSG,SMS messages bundle,1,365.91,,,100000,0.015,1.0
+K00018,Red Education AG,DE,2025-01-01,2026-12-31,6.0,2026-01-01,SMS-MSG,SMS messages bundle,1,344.41,10.0,2025-08-31,50000,0.015,1.0
+K00019,Orbit Logistics Pty Ltd,AU,2025-01-01,2026-12-31,3.0,2026-01-01,DATA-STOR,Data storage (per TB),31,57.85,10.0,2025-06-30,,,1.0
+K00019,Orbit Logistics Pty Ltd,AU,2025-01-01,2026-12-31,3.0,2026-01-01,SUPP-PREM,Premium support (flat),1,1119.85,,,,,1.0
+K00020,Delta Travel Limited,IE,2024-01-01,2025-12-31,4.0,2025-01-01,API-CALLS,API calls bundle,1,766.67,,,250000,0.006,1.0
+K00020,Delta Travel Limited,IE,2024-01-01,2025-12-31,4.0,2025-01-01,SUPP-PREM,Premium support (flat),1,1035.25,,,,,1.0
+K00020,Delta Travel Limited,IE,2024-01-01,2025-12-31,4.0,2025-01-01,DATA-STOR,Data storage (per TB),67,59.15,,,,,1.0
+K00021,Titan Labs DAC,IE,2024-06-01,2027-05-31,3.5,2025-06-01,SUPP-PREM,Premium support (flat),1,1046.27,15.0,2024-11-30,,,1.0
+K00021,Titan Labs DAC,IE,2024-06-01,2027-05-31,3.5,2025-06-01,DATA-STOR,Data storage (per TB),97,58.04,10.0,2025-01-31,,,1.0
+K00022,Pacific Properties LLC,AE,2025-08-01,2027-07-31,5.0,2026-08-01,PLAT-BASE,Platform licence (per seat),163,40.49,,,,,1.0
+K00022,Pacific Properties LLC,AE,2025-08-01,2027-07-31,5.0,2026-08-01,DATA-STOR,Data storage (per TB),117,58.76,,,,,1.0
+K00023,Harbour Pharma B.V.,NL,2025-08-01,2027-07-31,4.0,2026-08-01,PLAT-PRO,Platform Pro licence (per seat),106,74.51,,,,,1.0
+K00023,Harbour Pharma B.V.,NL,2025-08-01,2027-07-31,4.0,2026-08-01,DATA-STOR,Data storage (per TB),182,53.62,,,,,1.0
+K00023,Harbour Pharma B.V.,NL,2025-08-01,2027-07-31,4.0,2026-08-01,SUPP-PREM,Premium support (flat),1,1194.2,,,,,1.0
+K00024,Apex Systems DAC,IE,2024-11-01,2027-10-31,4.0,2025-11-01,SUPP-PREM,Premium support (flat),1,1187.77,10.0,2025-06-30,,,0.9
+K00024,Apex Systems DAC,IE,2024-11-01,2027-10-31,4.0,2025-11-01,PLAT-BASE,Platform licence (per seat),191,38.43,,,,,0.9
+K00025,Quantum Hospitality Pty Ltd,AU,2024-08-01,2027-07-31,4.0,2025-08-01,DATA-STOR,Data storage (per TB),40,57.06,,,,,1.0
+K00026,Pacific Logistics Limited,NZ,2024-09-01,2027-08-31,7.0,2025-09-01,DATA-STOR,Data storage (per TB),158,55.04,,,,,1.0
+K00026,Pacific Logistics Limited,NZ,2024-09-01,2027-08-31,7.0,2025-09-01,PLAT-BASE,Platform licence (per seat),134,40.96,,,,,1.0
+K00027,Delta Labs Limited,IE,2025-03-01,2027-02-28,4.0,2026-03-01,API-CALLS,API calls bundle,1,868.81,,,500000,0.006,1.0
+K00027,Delta Labs Limited,IE,2025-03-01,2027-02-28,4.0,2026-03-01,PLAT-BASE,Platform licence (per seat),161,39.37,20.0,2025-11-30,,,1.0
+K00027,Delta Labs Limited,IE,2025-03-01,2027-02-28,4.0,2026-03-01,SMS-MSG,SMS messages bundle,1,387.77,15.0,2025-06-30,20000,0.015,1.0
+K00028,Harbour Properties FZE,AE,2025-06-01,2027-05-31,5.0,2026-06-01,SMS-MSG,SMS messages bundle,1,381.43,,,20000,0.015,1.0
+K00028,Harbour Properties FZE,AE,2025-06-01,2027-05-31,5.0,2026-06-01,API-CALLS,API calls bundle,1,768.32,5.0,2025-08-31,100000,0.006,1.0
+K00029,Red Telecom FZ-LLC,AE,2024-05-01,2027-04-30,4.0,2025-05-01,API-CALLS,API calls bundle,1,830.2,20.0,2024-09-30,250000,0.006,1.0
+K00030,Union Foods LLC,AE,2024-02-01,2026-01-31,3.0,2025-02-01,PLAT-BASE,Platform licence (per seat),146,41.73,20.0,2024-07-31,,,1.0
+K00030,Union Foods LLC,AE,2024-02-01,2026-01-31,3.0,2025-02-01,PLAT-PRO,Platform Pro licence (per seat),52,77.41,20.0,2024-07-31,,,1.0
+K00030,Union Foods LLC,AE,2024-02-01,2026-01-31,3.0,2025-02-01,API-CALLS,API calls bundle,1,847.9,,,100000,0.006,1.0
+K00031,Summit Education FZ-LLC,AE,2025-03-01,2028-02-29,3.0,2026-03-01,SUPP-PREM,Premium support (flat),1,1155.42,,,,,1.0
+K00032,Silver Hospitality Limited,IE,2024-03-01,2026-02-28,6.0,2025-03-01,PLAT-PRO,Platform Pro licence (per seat),176,73.7,,,,,1.0
+K00032,Silver Hospitality Limited,IE,2024-03-01,2026-02-28,6.0,2025-03-01,DATA-STOR,Data storage (per TB),168,55.75,,,,,1.0
+K00033,Pioneer Pharma Limited,IE,2025-02-01,2028-01-31,6.0,2026-02-01,DATA-STOR,Data storage (per TB),177,52.55,,,,,1.0
+K00033,Pioneer Pharma Limited,IE,2025-02-01,2028-01-31,6.0,2026-02-01,API-CALLS,API calls bundle,1,805.16,,,500000,0.006,1.0
+K00034,Iron Construction Pty Ltd,AU,2024-05-01,2027-04-30,3.0,2025-05-01,PLAT-PRO,Platform Pro licence (per seat),41,77.01,,,,,1.0
+K00035,River Pharma Limited,IE,2025-03-01,2027-02-28,6.0,2026-03-01,DATA-STOR,Data storage (per TB),182,56.72,,,,,0.9
+K00036,River Health Ltd,NZ,2024-06-01,2026-05-31,5.0,2025-06-01,SUPP-PREM,Premium support (flat),1,1171.56,,,,,0.9
+K00037,Quantum Retail LLC,AE,2025-01-01,2026-12-31,5.0,2026-01-01,API-CALLS,API calls bundle,1,853.16,,,250000,0.006,0.9
+K00037,Quantum Retail LLC,AE,2025-01-01,2026-12-31,5.0,2026-01-01,SMS-MSG,SMS messages bundle,1,364.94,,,50000,0.015,0.9
+K00038,Emerald Properties Pty Ltd,AU,2024-03-01,2026-02-28,3.5,2025-03-01,PLAT-PRO,Platform Pro licence (per seat),204,75.93,,,,,1.0
+K00038,Emerald Properties Pty Ltd,AU,2024-03-01,2026-02-28,3.5,2025-03-01,API-CALLS,API calls bundle,1,865.24,,,250000,0.006,1.0
+K00039,Sterling Insurance AG,DE,2024-04-01,2026-03-31,4.0,2025-04-01,API-CALLS,API calls bundle,1,867.6,,,250000,0.006,1.0
+K00039,Sterling Insurance AG,DE,2024-04-01,2026-03-31,4.0,2025-04-01,PLAT-BASE,Platform licence (per seat),31,44.93,,,,,1.0
+K00040,Atlas Motors Pty Ltd,AU,2024-09-01,2027-08-31,3.0,2025-09-01,PLAT-BASE,Platform licence (per seat),35,44.09,,,,,1.0
+K00040,Atlas Motors Pty Ltd,AU,2024-09-01,2027-08-31,3.0,2025-09-01,DATA-STOR,Data storage (per TB),212,53.13,,,,,1.0
+K00041,Granite Retail Limited,IE,2024-12-01,2027-11-30,3.5,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),150,82.52,,,,,0.9
+K00042,Summit Insurance FZ-LLC,AE,2024-10-01,2026-09-30,4.0,2025-10-01,SUPP-PREM,Premium support (flat),1,1068.12,,,,,1.0
+K00042,Summit Insurance FZ-LLC,AE,2024-10-01,2026-09-30,4.0,2025-10-01,API-CALLS,API calls bundle,1,898.04,,,500000,0.006,1.0
+K00043,Desert Hospitality Pty Ltd,AU,2024-05-01,2027-04-30,3.0,2025-05-01,PLAT-PRO,Platform Pro licence (per seat),87,74.11,,,,,1.0
+K00043,Desert Hospitality Pty Ltd,AU,2024-05-01,2027-04-30,3.0,2025-05-01,SMS-MSG,SMS messages bundle,1,385.69,,,100000,0.015,1.0
+K00043,Desert Hospitality Pty Ltd,AU,2024-05-01,2027-04-30,3.0,2025-05-01,API-CALLS,API calls bundle,1,784.19,20.0,2024-10-31,500000,0.006,1.0
+K00044,Vertex Education Ltd,NZ,2024-04-01,2027-03-31,6.0,2025-04-01,SUPP-PREM,Premium support (flat),1,1078.91,5.0,2024-11-30,,,0.9
+K00044,Vertex Education Ltd,NZ,2024-04-01,2027-03-31,6.0,2025-04-01,DATA-STOR,Data storage (per TB),183,56.71,,,,,0.9
+K00044,Vertex Education Ltd,NZ,2024-04-01,2027-03-31,6.0,2025-04-01,API-CALLS,API calls bundle,1,773.55,,,500000,0.006,0.9
+K00045,Emerald Foods Pty Ltd,AU,2025-03-01,2027-02-28,5.0,2026-03-01,SUPP-PREM,Premium support (flat),1,1124.03,,,,,1.0
+K00045,Emerald Foods Pty Ltd,AU,2025-03-01,2027-02-28,5.0,2026-03-01,API-CALLS,API calls bundle,1,830.52,,,250000,0.006,1.0
+K00046,Vertex Construction Pty Ltd,AU,2024-02-01,2026-01-31,3.0,2025-02-01,PLAT-BASE,Platform licence (per seat),45,44.52,,,,,1.0
+K00046,Vertex Construction Pty Ltd,AU,2024-02-01,2026-01-31,3.0,2025-02-01,SMS-MSG,SMS messages bundle,1,340.04,10.0,2024-09-30,50000,0.015,1.0
+K00047,Nova Construction LLC,AE,2024-10-01,2026-09-30,7.0,2025-10-01,SUPP-PREM,Premium support (flat),1,1139.61,,,,,1.0
+K00048,Orbit Education FZE,AE,2024-02-01,2027-01-31,7.0,2025-02-01,PLAT-PRO,Platform Pro licence (per seat),5,81.22,5.0,2024-05-31,,,0.9
+K00048,Orbit Education FZE,AE,2024-02-01,2027-01-31,7.0,2025-02-01,DATA-STOR,Data storage (per TB),118,55.67,15.0,2024-10-31,,,0.9
+K00048,Orbit Education FZE,AE,2024-02-01,2027-01-31,7.0,2025-02-01,PLAT-BASE,Platform licence (per seat),182,44.06,5.0,2024-05-31,,,0.9
+K00049,Crescent Analytics Limited,IE,2024-04-01,2026-03-31,4.0,2025-04-01,PLAT-PRO,Platform Pro licence (per seat),197,82.11,,,,,1.0
+K00049,Crescent Analytics Limited,IE,2024-04-01,2026-03-31,4.0,2025-04-01,DATA-STOR,Data storage (per TB),178,56.77,5.0,2024-10-31,,,1.0
+K00050,Summit Media Limited,IE,2025-03-01,2028-02-29,7.0,2026-03-01,PLAT-PRO,Platform Pro licence (per seat),27,83.21,,,,,1.0
+K00050,Summit Media Limited,IE,2025-03-01,2028-02-29,7.0,2026-03-01,DATA-STOR,Data storage (per TB),36,52.26,,,,,1.0
+K00050,Summit Media Limited,IE,2025-03-01,2028-02-29,7.0,2026-03-01,API-CALLS,API calls bundle,1,816.84,,,250000,0.006,1.0
+K00051,Zenith Energy Limited,IE,2024-05-01,2026-04-30,4.0,2025-05-01,API-CALLS,API calls bundle,1,846.13,,,500000,0.006,1.0
+K00052,Blue Finance DAC,IE,2024-01-01,2026-12-31,3.5,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),205,80.49,,,,,0.9
+K00052,Blue Finance DAC,IE,2024-01-01,2026-12-31,3.5,2025-01-01,DATA-STOR,Data storage (per TB),131,59.59,,,,,0.9
+K00052,Blue Finance DAC,IE,2024-01-01,2026-12-31,3.5,2025-01-01,SUPP-PREM,Premium support (flat),1,1063.39,,,,,0.9
+K00053,Bright Media B.V.,NL,2024-03-01,2026-02-28,4.0,2025-03-01,DATA-STOR,Data storage (per TB),150,58.75,,,,,1.0
+K00054,Pacific Systems B.V.,NL,2025-07-01,2027-06-30,5.0,2026-07-01,PLAT-BASE,Platform licence (per seat),8,42.21,5.0,2025-09-30,,,0.9
+K00055,Vertex Systems FZ-LLC,AE,2025-02-01,2028-01-31,7.0,2026-02-01,DATA-STOR,Data storage (per TB),142,51.74,,,,,0.9
+K00055,Vertex Systems FZ-LLC,AE,2025-02-01,2028-01-31,7.0,2026-02-01,SMS-MSG,SMS messages bundle,1,349.16,,,20000,0.015,0.9
+K00056,Quantum Motors Pty Ltd,AU,2025-06-01,2027-05-31,3.5,2026-06-01,API-CALLS,API calls bundle,1,806.87,,,250000,0.006,1.0
+K00056,Quantum Motors Pty Ltd,AU,2025-06-01,2027-05-31,3.5,2026-06-01,PLAT-BASE,Platform licence (per seat),19,43.96,20.0,2025-08-31,,,1.0
+K00057,Atlas Health LLC,AE,2025-09-01,2027-08-31,4.0,2026-09-01,SMS-MSG,SMS messages bundle,1,340.76,,,20000,0.015,1.0
+K00057,Atlas Health LLC,AE,2025-09-01,2027-08-31,4.0,2026-09-01,PLAT-PRO,Platform Pro licence (per seat),248,74.34,,,,,1.0
+K00057,Atlas Health LLC,AE,2025-09-01,2027-08-31,4.0,2026-09-01,PLAT-BASE,Platform licence (per seat),215,41.74,,,,,1.0
+K00058,Quantum Foods Pty Ltd,AU,2024-06-01,2027-05-31,3.5,2025-06-01,SMS-MSG,SMS messages bundle,1,386.29,,,20000,0.015,0.9
+K00058,Quantum Foods Pty Ltd,AU,2024-06-01,2027-05-31,3.5,2025-06-01,PLAT-BASE,Platform licence (per seat),139,41.15,5.0,2024-11-30,,,0.9
+K00059,Blue Insurance GmbH,DE,2025-01-01,2026-12-31,5.0,2026-01-01,SUPP-PREM,Premium support (flat),1,1048.32,,,,,0.9
+K00060,Vertex Foods DAC,IE,2025-08-01,2027-07-31,3.5,2026-08-01,PLAT-BASE,Platform licence (per seat),8,44.05,20.0,2025-12-31,,,1.0
+K00061,Falcon Education Pty Ltd,AU,2024-06-01,2026-05-31,3.0,2025-06-01,SMS-MSG,SMS messages bundle,1,359.31,,,50000,0.015,1.0
+K00061,Falcon Education Pty Ltd,AU,2024-06-01,2026-05-31,3.0,2025-06-01,DATA-STOR,Data storage (per TB),216,53.88,15.0,2024-08-31,,,1.0
+K00061,Falcon Education Pty Ltd,AU,2024-06-01,2026-05-31,3.0,2025-06-01,PLAT-PRO,Platform Pro licence (per seat),50,83.75,5.0,2024-11-30,,,1.0
+K00062,Emerald Finance AG,DE,2025-04-01,2028-03-31,4.0,2026-04-01,DATA-STOR,Data storage (per TB),149,52.81,,,,,1.0
+K00062,Emerald Finance AG,DE,2025-04-01,2028-03-31,4.0,2026-04-01,PLAT-BASE,Platform licence (per seat),67,43.24,,,,,1.0
+K00062,Emerald Finance AG,DE,2025-04-01,2028-03-31,4.0,2026-04-01,SUPP-PREM,Premium support (flat),1,1126.5,,,,,1.0
+K00063,Nova Properties Pty Ltd,AU,2024-07-01,2026-06-30,3.5,2025-07-01,PLAT-BASE,Platform licence (per seat),167,41.91,,,,,0.9
+K00063,Nova Properties Pty Ltd,AU,2024-07-01,2026-06-30,3.5,2025-07-01,PLAT-PRO,Platform Pro licence (per seat),248,83.43,,,,,0.9
+K00064,Bright Finance Limited,NZ,2025-01-01,2027-12-31,3.0,2026-01-01,DATA-STOR,Data storage (per TB),20,55.43,,,,,1.0
+K00065,Crescent Media Pty Ltd,AU,2024-05-01,2027-04-30,3.0,2025-05-01,API-CALLS,API calls bundle,1,820.76,,,250000,0.006,1.0
+K00066,Pioneer Trading LLC,AE,2024-03-01,2026-02-28,6.0,2025-03-01,PLAT-BASE,Platform licence (per seat),116,42.08,,,,,0.9
+K00066,Pioneer Trading LLC,AE,2024-03-01,2026-02-28,6.0,2025-03-01,API-CALLS,API calls bundle,1,782.65,15.0,2024-11-30,250000,0.006,0.9
+K00067,Willow Motors FZ-LLC,AE,2024-11-01,2027-10-31,5.0,2025-11-01,PLAT-PRO,Platform Pro licence (per seat),202,73.99,,,,,1.0
+K00068,Apex Foods FZ-LLC,AE,2024-06-01,2026-05-31,3.5,2025-06-01,DATA-STOR,Data storage (per TB),202,55.82,15.0,2024-11-30,,,0.9
+K00068,Apex Foods FZ-LLC,AE,2024-06-01,2026-05-31,3.5,2025-06-01,PLAT-BASE,Platform licence (per seat),45,39.06,,,,,0.9
+K00069,North Education Limited,NZ,2024-11-01,2026-10-31,3.5,2025-11-01,PLAT-PRO,Platform Pro licence (per seat),96,81.32,,,,,0.9
+K00069,North Education Limited,NZ,2024-11-01,2026-10-31,3.5,2025-11-01,PLAT-BASE,Platform licence (per seat),81,38.58,10.0,2025-01-31,,,0.9
+K00070,Vertex Insurance B.V.,NL,2025-04-01,2027-03-31,3.0,2026-04-01,PLAT-BASE,Platform licence (per seat),217,38.33,,,,,1.0
+K00071,Emerald Insurance B.V.,NL,2024-08-01,2026-07-31,3.5,2025-08-01,SMS-MSG,SMS messages bundle,1,374.94,,,50000,0.015,1.0
+K00071,Emerald Insurance B.V.,NL,2024-08-01,2026-07-31,3.5,2025-08-01,PLAT-BASE,Platform licence (per seat),21,38.76,20.0,2025-04-30,,,1.0
+K00072,Pioneer Hospitality AG,DE,2024-12-01,2026-11-30,3.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),115,84.03,,,,,1.0
+K00073,Quantum Pharma B.V.,NL,2025-02-01,2028-01-31,3.0,2026-02-01,PLAT-PRO,Platform Pro licence (per seat),52,74.99,20.0,2025-05-31,,,1.0
+K00073,Quantum Pharma B.V.,NL,2025-02-01,2028-01-31,3.0,2026-02-01,SUPP-PREM,Premium support (flat),1,1131.45,15.0,2025-07-31,,,1.0
+K00074,Cedar Labs FZE,AE,2025-07-01,2028-06-30,3.0,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),231,74.79,,,,,0.9
+K00074,Cedar Labs FZE,AE,2025-07-01,2028-06-30,3.0,2026-07-01,DATA-STOR,Data storage (per TB),210,53.24,,,,,0.9
+K00075,Summit Retail FZ-LLC,AE,2024-01-01,2026-12-31,7.0,2025-01-01,DATA-STOR,Data storage (per TB),51,54.5,10.0,2024-03-31,,,1.0
+K00075,Summit Retail FZ-LLC,AE,2024-01-01,2026-12-31,7.0,2025-01-01,SUPP-PREM,Premium support (flat),1,1160.14,20.0,2024-07-31,,,1.0
+K00075,Summit Retail FZ-LLC,AE,2024-01-01,2026-12-31,7.0,2025-01-01,API-CALLS,API calls bundle,1,843.84,,,100000,0.006,1.0
+K00076,Crescent Telecom FZ-LLC,AE,2024-04-01,2026-03-31,7.0,2025-04-01,SMS-MSG,SMS messages bundle,1,374.54,,,50000,0.015,1.0
+K00076,Crescent Telecom FZ-LLC,AE,2024-04-01,2026-03-31,7.0,2025-04-01,PLAT-BASE,Platform licence (per seat),221,43.91,10.0,2024-10-31,,,1.0
+K00076,Crescent Telecom FZ-LLC,AE,2024-04-01,2026-03-31,7.0,2025-04-01,PLAT-PRO,Platform Pro licence (per seat),96,81.66,,,,,1.0
+K00077,Iron Pharma LLC,AE,2024-01-01,2026-12-31,6.0,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),14,74.49,10.0,2024-07-31,,,1.0
+K00077,Iron Pharma LLC,AE,2024-01-01,2026-12-31,6.0,2025-01-01,DATA-STOR,Data storage (per TB),5,55.74,,,,,1.0
+K00077,Iron Pharma LLC,AE,2024-01-01,2026-12-31,6.0,2025-01-01,SUPP-PREM,Premium support (flat),1,1130.54,,,,,1.0
+K00078,River Education B.V.,NL,2024-12-01,2026-11-30,4.0,2025-12-01,API-CALLS,API calls bundle,1,860.13,,,100000,0.006,0.9
+K00079,Cedar Motors FZE,AE,2025-06-01,2028-05-31,3.0,2026-06-01,DATA-STOR,Data storage (per TB),87,54.03,10.0,2026-01-31,,,1.0
+K00079,Cedar Motors FZE,AE,2025-06-01,2028-05-31,3.0,2026-06-01,API-CALLS,API calls bundle,1,871.9,,,250000,0.006,1.0
+K00079,Cedar Motors FZE,AE,2025-06-01,2028-05-31,3.0,2026-06-01,PLAT-BASE,Platform licence (per seat),148,39.43,,,,,1.0
+K00080,Granite Motors Limited,NZ,2025-09-01,2028-08-31,3.5,2026-09-01,DATA-STOR,Data storage (per TB),181,53.76,10.0,2026-04-30,,,1.0
+K00081,Orbit Labs FZ-LLC,AE,2025-08-01,2028-07-31,6.0,2026-08-01,SUPP-PREM,Premium support (flat),1,1135.14,20.0,2025-11-30,,,0.9
+K00081,Orbit Labs FZ-LLC,AE,2025-08-01,2028-07-31,6.0,2026-08-01,API-CALLS,API calls bundle,1,775.5,,,250000,0.006,0.9
+K00081,Orbit Labs FZ-LLC,AE,2025-08-01,2028-07-31,6.0,2026-08-01,PLAT-PRO,Platform Pro licence (per seat),231,74.39,,,,,0.9
+K00082,Silver Pharma Pty Ltd,AU,2024-12-01,2027-11-30,3.0,2025-12-01,SMS-MSG,SMS messages bundle,1,344.07,,,50000,0.015,1.0
+K00083,Silver Health LLC,AE,2024-01-01,2025-12-31,5.0,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),101,78.54,,,,,1.0
+K00083,Silver Health LLC,AE,2024-01-01,2025-12-31,5.0,2025-01-01,DATA-STOR,Data storage (per TB),217,54.38,,,,,1.0
+K00084,Pacific Energy AG,DE,2025-08-01,2027-07-31,3.5,2026-08-01,SUPP-PREM,Premium support (flat),1,1023.61,5.0,2025-10-31,,,1.0
+K00085,Atlas Analytics Pty Ltd,AU,2025-01-01,2026-12-31,7.0,2026-01-01,SUPP-PREM,Premium support (flat),1,1126.93,,,,,0.9
+K00086,Crescent Finance FZ-LLC,AE,2025-05-01,2027-04-30,5.0,2026-05-01,API-CALLS,API calls bundle,1,885.12,15.0,2025-08-31,100000,0.006,1.0
+K00087,Willow Systems GmbH,DE,2025-02-01,2028-01-31,7.0,2026-02-01,PLAT-BASE,Platform licence (per seat),151,38.59,,,,,0.9
+K00088,Apex Travel FZE,AE,2025-05-01,2027-04-30,3.0,2026-05-01,PLAT-BASE,Platform licence (per seat),165,43.81,,,,,1.0
+K00088,Apex Travel FZE,AE,2025-05-01,2027-04-30,3.0,2026-05-01,SUPP-PREM,Premium support (flat),1,1055.94,10.0,2025-12-31,,,1.0
+K00089,Coral Education B.V.,NL,2024-03-01,2027-02-28,3.0,2025-03-01,DATA-STOR,Data storage (per TB),72,59.05,20.0,2024-06-30,,,1.0
+K00089,Coral Education B.V.,NL,2024-03-01,2027-02-28,3.0,2025-03-01,SMS-MSG,SMS messages bundle,1,362.89,,,20000,0.015,1.0
+K00090,Delta Telecom Pty Ltd,AU,2024-09-01,2027-08-31,5.0,2025-09-01,API-CALLS,API calls bundle,1,785.4,,,500000,0.006,1.0
+K00090,Delta Telecom Pty Ltd,AU,2024-09-01,2027-08-31,5.0,2025-09-01,PLAT-BASE,Platform licence (per seat),93,38.83,,,,,1.0
+K00091,Nova Finance AG,DE,2025-02-01,2027-01-31,6.0,2026-02-01,API-CALLS,API calls bundle,1,895.36,,,500000,0.006,1.0
+K00091,Nova Finance AG,DE,2025-02-01,2027-01-31,6.0,2026-02-01,DATA-STOR,Data storage (per TB),230,55.27,15.0,2025-04-30,,,1.0
+K00092,Crescent Properties Pty Ltd,AU,2024-02-01,2026-01-31,3.0,2025-02-01,PLAT-PRO,Platform Pro licence (per seat),211,84.65,5.0,2024-07-31,,,0.9
+K00092,Crescent Properties Pty Ltd,AU,2024-02-01,2026-01-31,3.0,2025-02-01,SMS-MSG,SMS messages bundle,1,380.99,,,20000,0.015,0.9
+K00093,Orbit Media Pty Ltd,AU,2024-05-01,2027-04-30,4.0,2025-05-01,PLAT-BASE,Platform licence (per seat),106,40.87,,,,,1.0
+K00094,Desert Pharma LLC,AE,2024-10-01,2027-09-30,3.0,2025-10-01,API-CALLS,API calls bundle,1,780.19,5.0,2024-12-31,100000,0.006,1.0
+K00094,Desert Pharma LLC,AE,2024-10-01,2027-09-30,3.0,2025-10-01,SMS-MSG,SMS messages bundle,1,346.06,,,50000,0.015,1.0
+K00094,Desert Pharma LLC,AE,2024-10-01,2027-09-30,3.0,2025-10-01,DATA-STOR,Data storage (per TB),229,58.92,,,,,1.0
+K00095,Willow Construction Limited,IE,2025-01-01,2027-12-31,6.0,2026-01-01,PLAT-PRO,Platform Pro licence (per seat),41,75.76,,,,,1.0
+K00096,Pioneer Education GmbH,DE,2025-02-01,2027-01-31,5.0,2026-02-01,SMS-MSG,SMS messages bundle,1,342.96,,,50000,0.015,1.0
+K00096,Pioneer Education GmbH,DE,2025-02-01,2027-01-31,5.0,2026-02-01,PLAT-PRO,Platform Pro licence (per seat),10,83.69,,,,,1.0
+K00097,Blue Retail Pty Ltd,AU,2024-11-01,2027-10-31,4.0,2025-11-01,SMS-MSG,SMS messages bundle,1,348.06,,,100000,0.015,1.0
+K00097,Blue Retail Pty Ltd,AU,2024-11-01,2027-10-31,4.0,2025-11-01,PLAT-BASE,Platform licence (per seat),73,43.82,,,,,1.0
+K00097,Blue Retail Pty Ltd,AU,2024-11-01,2027-10-31,4.0,2025-11-01,PLAT-PRO,Platform Pro licence (per seat),27,79.96,10.0,2025-07-31,,,1.0
+K00098,Coral Pharma AG,DE,2025-05-01,2028-04-30,3.0,2026-05-01,PLAT-BASE,Platform licence (per seat),134,40.35,,,,,1.0
+K00099,Orbit Construction Pty Ltd,AU,2025-06-01,2027-05-31,3.5,2026-06-01,PLAT-BASE,Platform licence (per seat),121,39.93,15.0,2026-01-31,,,0.9
+K00100,Zenith Education Pty Ltd,AU,2025-01-01,2027-12-31,6.0,2026-01-01,SMS-MSG,SMS messages bundle,1,341.83,,,50000,0.015,1.0
+K00101,Apex Insurance AG,DE,2025-04-01,2027-03-31,5.0,2026-04-01,SUPP-PREM,Premium support (flat),1,1170.78,5.0,2025-08-31,,,1.0
+K00101,Apex Insurance AG,DE,2025-04-01,2027-03-31,5.0,2026-04-01,PLAT-PRO,Platform Pro licence (per seat),223,72.88,,,,,1.0
+K00102,Desert Travel LLC,AE,2024-08-01,2026-07-31,7.0,2025-08-01,SUPP-PREM,Premium support (flat),1,1137.29,,,,,1.0
+K00103,River Travel Limited,IE,2024-01-01,2026-12-31,3.5,2025-01-01,PLAT-BASE,Platform licence (per seat),246,42.36,,,,,1.0
+K00103,River Travel Limited,IE,2024-01-01,2026-12-31,3.5,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),169,84.58,20.0,2024-09-30,,,1.0
+K00103,River Travel Limited,IE,2024-01-01,2026-12-31,3.5,2025-01-01,SUPP-PREM,Premium support (flat),1,1065.36,,,,,1.0
+K00104,Sterling Travel DAC,IE,2025-06-01,2028-05-31,6.0,2026-06-01,SMS-MSG,SMS messages bundle,1,357.91,,,20000,0.015,0.9
+K00104,Sterling Travel DAC,IE,2025-06-01,2028-05-31,6.0,2026-06-01,SUPP-PREM,Premium support (flat),1,1080.53,15.0,2026-02-28,,,0.9
+K00104,Sterling Travel DAC,IE,2025-06-01,2028-05-31,6.0,2026-06-01,API-CALLS,API calls bundle,1,853.58,10.0,2025-12-31,500000,0.006,0.9
+K00105,Delta Pharma Pty Ltd,AU,2024-02-01,2027-01-31,7.0,2025-02-01,SMS-MSG,SMS messages bundle,1,341.53,,,50000,0.015,1.0
+K00106,Vertex Health Limited,NZ,2024-09-01,2027-08-31,5.0,2025-09-01,API-CALLS,API calls bundle,1,860.59,,,500000,0.006,0.9
+K00107,Apex Telecom Limited,IE,2024-12-01,2026-11-30,7.0,2025-12-01,SMS-MSG,SMS messages bundle,1,370.44,,,20000,0.015,0.9
+K00107,Apex Telecom Limited,IE,2024-12-01,2026-11-30,7.0,2025-12-01,SUPP-PREM,Premium support (flat),1,1177.77,5.0,2025-05-31,,,0.9
+K00108,Sterling Telecom Pty Ltd,AU,2024-09-01,2026-08-31,7.0,2025-09-01,PLAT-BASE,Platform licence (per seat),228,39.76,,,,,0.9
+K00108,Sterling Telecom Pty Ltd,AU,2024-09-01,2026-08-31,7.0,2025-09-01,PLAT-PRO,Platform Pro licence (per seat),89,82.3,,,,,0.9
+K00108,Sterling Telecom Pty Ltd,AU,2024-09-01,2026-08-31,7.0,2025-09-01,SUPP-PREM,Premium support (flat),1,1125.4,,,,,0.9
+K00109,Union Systems FZ-LLC,AE,2024-04-01,2027-03-31,3.0,2025-04-01,API-CALLS,API calls bundle,1,828.75,,,100000,0.006,1.0
+K00109,Union Systems FZ-LLC,AE,2024-04-01,2027-03-31,3.0,2025-04-01,SMS-MSG,SMS messages bundle,1,392.05,,,50000,0.015,1.0
+K00109,Union Systems FZ-LLC,AE,2024-04-01,2027-03-31,3.0,2025-04-01,PLAT-BASE,Platform licence (per seat),227,41.04,,,,,1.0
+K00110,Desert Logistics Ltd,NZ,2024-05-01,2026-04-30,4.0,2025-05-01,DATA-STOR,Data storage (per TB),51,58.76,,,,,1.0
+K00110,Desert Logistics Ltd,NZ,2024-05-01,2026-04-30,4.0,2025-05-01,PLAT-PRO,Platform Pro licence (per seat),166,78.47,,,,,1.0
+K00110,Desert Logistics Ltd,NZ,2024-05-01,2026-04-30,4.0,2025-05-01,SUPP-PREM,Premium support (flat),1,1076.41,20.0,2024-09-30,,,1.0
+K00111,Falcon Travel FZE,AE,2024-06-01,2026-05-31,5.0,2025-06-01,PLAT-PRO,Platform Pro licence (per seat),167,80.08,,,,,1.0
+K00112,Bright Properties Limited,IE,2025-03-01,2028-02-29,5.0,2026-03-01,PLAT-PRO,Platform Pro licence (per seat),198,83.62,,,,,0.9
+K00112,Bright Properties Limited,IE,2025-03-01,2028-02-29,5.0,2026-03-01,SUPP-PREM,Premium support (flat),1,1054.3,,,,,0.9
+K00112,Bright Properties Limited,IE,2025-03-01,2028-02-29,5.0,2026-03-01,PLAT-BASE,Platform licence (per seat),68,42.48,15.0,2025-07-31,,,0.9
+K00113,Atlas Energy LLC,AE,2025-01-01,2027-12-31,3.5,2026-01-01,SUPP-PREM,Premium support (flat),1,1190.72,,,,,0.9
+K00114,Orbit Foods DAC,IE,2025-06-01,2028-05-31,5.0,2026-06-01,SUPP-PREM,Premium support (flat),1,1199.31,,,,,1.0
+K00115,Silver Trading Limited,NZ,2024-07-01,2026-06-30,5.0,2025-07-01,SMS-MSG,SMS messages bundle,1,399.09,,,20000,0.015,1.0
+K00116,Silver Media Pty Ltd,AU,2025-08-01,2027-07-31,3.0,2026-08-01,PLAT-BASE,Platform licence (per seat),164,43.46,5.0,2026-03-31,,,0.9
+K00116,Silver Media Pty Ltd,AU,2025-08-01,2027-07-31,3.0,2026-08-01,DATA-STOR,Data storage (per TB),17,58.53,,,,,0.9
+K00116,Silver Media Pty Ltd,AU,2025-08-01,2027-07-31,3.0,2026-08-01,SUPP-PREM,Premium support (flat),1,1095.02,,,,,0.9
+K00117,Apex Finance Ltd,NZ,2025-07-01,2028-06-30,5.0,2026-07-01,SMS-MSG,SMS messages bundle,1,381.14,,,20000,0.015,0.9
+K00118,Union Pharma LLC,AE,2024-04-01,2027-03-31,6.0,2025-04-01,DATA-STOR,Data storage (per TB),31,58.48,,,,,1.0
+K00119,Delta Finance AG,DE,2025-09-01,2027-08-31,4.0,2026-09-01,DATA-STOR,Data storage (per TB),56,52.79,,,,,1.0
+K00120,Crescent Education Limited,IE,2025-06-01,2027-05-31,4.0,2026-06-01,PLAT-PRO,Platform Pro licence (per seat),238,79.24,20.0,2025-10-31,,,0.9
+K00120,Crescent Education Limited,IE,2025-06-01,2027-05-31,4.0,2026-06-01,PLAT-BASE,Platform licence (per seat),27,38.34,,,,,0.9
+K00121,Apex Motors FZE,AE,2025-08-01,2028-07-31,3.5,2026-08-01,PLAT-BASE,Platform licence (per seat),121,42.6,,,,,1.0
+K00121,Apex Motors FZE,AE,2025-08-01,2028-07-31,3.5,2026-08-01,SMS-MSG,SMS messages bundle,1,357.76,10.0,2026-04-30,50000,0.015,1.0
+K00121,Apex Motors FZE,AE,2025-08-01,2028-07-31,3.5,2026-08-01,SUPP-PREM,Premium support (flat),1,1072.3,,,,,1.0
+K00122,Coral Trading Pty Ltd,AU,2024-11-01,2027-10-31,7.0,2025-11-01,PLAT-BASE,Platform licence (per seat),174,44.0,,,,,1.0
+K00123,Harbour Travel Pty Ltd,AU,2024-12-01,2027-11-30,5.0,2025-12-01,SMS-MSG,SMS messages bundle,1,362.36,20.0,2025-05-31,50000,0.015,0.9
+K00123,Harbour Travel Pty Ltd,AU,2024-12-01,2027-11-30,5.0,2025-12-01,PLAT-BASE,Platform licence (per seat),103,40.08,,,,,0.9
+K00124,Titan Media Limited,IE,2025-05-01,2028-04-30,7.0,2026-05-01,PLAT-BASE,Platform licence (per seat),190,39.14,10.0,2025-07-31,,,1.0
+K00125,Crescent Foods FZ-LLC,AE,2025-08-01,2028-07-31,6.0,2026-08-01,API-CALLS,API calls bundle,1,816.27,,,250000,0.006,1.0
+K00126,Willow Travel Pty Ltd,AU,2024-05-01,2027-04-30,5.0,2025-05-01,DATA-STOR,Data storage (per TB),172,51.57,,,,,1.0
+K00126,Willow Travel Pty Ltd,AU,2024-05-01,2027-04-30,5.0,2025-05-01,PLAT-BASE,Platform licence (per seat),178,43.01,,,,,1.0
+K00127,River Energy FZ-LLC,AE,2025-08-01,2027-07-31,7.0,2026-08-01,API-CALLS,API calls bundle,1,823.43,15.0,2026-03-31,500000,0.006,0.9
+K00127,River Energy FZ-LLC,AE,2025-08-01,2027-07-31,7.0,2026-08-01,SMS-MSG,SMS messages bundle,1,363.09,,,100000,0.015,0.9
+K00127,River Energy FZ-LLC,AE,2025-08-01,2027-07-31,7.0,2026-08-01,PLAT-BASE,Platform licence (per seat),7,42.39,,,,,0.9
+K00128,Delta Retail DAC,IE,2024-06-01,2027-05-31,5.0,2025-06-01,DATA-STOR,Data storage (per TB),89,53.89,,,,,0.9
+K00129,Quantum Construction Limited,IE,2024-02-01,2026-01-31,6.0,2025-02-01,PLAT-PRO,Platform Pro licence (per seat),210,78.1,,,,,1.0
+K00129,Quantum Construction Limited,IE,2024-02-01,2026-01-31,6.0,2025-02-01,PLAT-BASE,Platform licence (per seat),132,38.84,,,,,1.0
+K00130,Vertex Pharma Limited,NZ,2024-05-01,2027-04-30,7.0,2025-05-01,DATA-STOR,Data storage (per TB),147,54.71,,,,,0.9
+K00131,River Motors Ltd,NZ,2024-04-01,2027-03-31,6.0,2025-04-01,SMS-MSG,SMS messages bundle,1,361.8,,,20000,0.015,1.0
+K00131,River Motors Ltd,NZ,2024-04-01,2027-03-31,6.0,2025-04-01,DATA-STOR,Data storage (per TB),89,58.6,,,,,1.0
+K00131,River Motors Ltd,NZ,2024-04-01,2027-03-31,6.0,2025-04-01,SUPP-PREM,Premium support (flat),1,1131.56,,,,,1.0
+K00132,Iron Media FZ-LLC,AE,2025-01-01,2027-12-31,3.0,2026-01-01,PLAT-PRO,Platform Pro licence (per seat),167,76.78,,,,,1.0
+K00132,Iron Media FZ-LLC,AE,2025-01-01,2027-12-31,3.0,2026-01-01,PLAT-BASE,Platform licence (per seat),138,40.22,,,,,1.0
+K00132,Iron Media FZ-LLC,AE,2025-01-01,2027-12-31,3.0,2026-01-01,SUPP-PREM,Premium support (flat),1,1039.14,,,,,1.0
+K00133,Vertex Energy Pty Ltd,AU,2025-05-01,2027-04-30,7.0,2026-05-01,PLAT-BASE,Platform licence (per seat),53,42.37,20.0,2025-08-31,,,1.0
+K00133,Vertex Energy Pty Ltd,AU,2025-05-01,2027-04-30,7.0,2026-05-01,SUPP-PREM,Premium support (flat),1,1160.66,,,,,1.0
+K00134,Red Hospitality Pty Ltd,AU,2024-04-01,2027-03-31,3.0,2025-04-01,API-CALLS,API calls bundle,1,826.75,,,500000,0.006,1.0
+K00134,Red Hospitality Pty Ltd,AU,2024-04-01,2027-03-31,3.0,2025-04-01,PLAT-BASE,Platform licence (per seat),132,39.16,5.0,2024-10-31,,,1.0
+K00134,Red Hospitality Pty Ltd,AU,2024-04-01,2027-03-31,3.0,2025-04-01,DATA-STOR,Data storage (per TB),128,58.55,,,,,1.0
+K00135,Delta Energy LLC,AE,2024-06-01,2026-05-31,7.0,2025-06-01,DATA-STOR,Data storage (per TB),160,56.92,,,,,1.0
+K00136,Iron Retail AG,DE,2025-05-01,2028-04-30,5.0,2026-05-01,PLAT-PRO,Platform Pro licence (per seat),80,84.54,,,,,1.0
+K00136,Iron Retail AG,DE,2025-05-01,2028-04-30,5.0,2026-05-01,SUPP-PREM,Premium support (flat),1,1044.01,,,,,1.0
+K00136,Iron Retail AG,DE,2025-05-01,2028-04-30,5.0,2026-05-01,DATA-STOR,Data storage (per TB),196,57.3,,,,,1.0
+K00137,Delta Education Limited,IE,2025-07-01,2028-06-30,7.0,2026-07-01,SMS-MSG,SMS messages bundle,1,352.58,15.0,2026-02-28,100000,0.015,1.0
+K00137,Delta Education Limited,IE,2025-07-01,2028-06-30,7.0,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),250,81.31,15.0,2026-02-28,,,1.0
+K00137,Delta Education Limited,IE,2025-07-01,2028-06-30,7.0,2026-07-01,API-CALLS,API calls bundle,1,812.55,,,250000,0.006,1.0
+K00138,Pacific Retail DAC,IE,2025-03-01,2028-02-29,5.0,2026-03-01,PLAT-BASE,Platform licence (per seat),176,39.23,15.0,2025-11-30,,,1.0
+K00138,Pacific Retail DAC,IE,2025-03-01,2028-02-29,5.0,2026-03-01,SMS-MSG,SMS messages bundle,1,399.01,5.0,2025-10-31,100000,0.015,1.0
+K00138,Pacific Retail DAC,IE,2025-03-01,2028-02-29,5.0,2026-03-01,DATA-STOR,Data storage (per TB),143,52.84,20.0,2025-05-31,,,1.0
+K00139,Orbit Finance DAC,IE,2025-07-01,2027-06-30,7.0,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),209,82.25,,,,,0.9
+K00139,Orbit Finance DAC,IE,2025-07-01,2027-06-30,7.0,2026-07-01,API-CALLS,API calls bundle,1,858.55,,,100000,0.006,0.9
+K00140,Nova Energy Pty Ltd,AU,2025-01-01,2027-12-31,7.0,2026-01-01,PLAT-BASE,Platform licence (per seat),227,39.62,,,,,1.0
+K00140,Nova Energy Pty Ltd,AU,2025-01-01,2027-12-31,7.0,2026-01-01,SMS-MSG,SMS messages bundle,1,392.21,,,20000,0.015,1.0
+K00140,Nova Energy Pty Ltd,AU,2025-01-01,2027-12-31,7.0,2026-01-01,SUPP-PREM,Premium support (flat),1,1146.83,,,,,1.0
+K00141,Delta Motors FZE,AE,2025-08-01,2027-07-31,7.0,2026-08-01,DATA-STOR,Data storage (per TB),24,59.85,10.0,2026-03-31,,,1.0
+K00141,Delta Motors FZE,AE,2025-08-01,2027-07-31,7.0,2026-08-01,PLAT-PRO,Platform Pro licence (per seat),114,77.06,15.0,2025-11-30,,,1.0
+K00142,Vertex Logistics FZ-LLC,AE,2024-09-01,2026-08-31,4.0,2025-09-01,PLAT-BASE,Platform licence (per seat),87,39.29,,,,,1.0
+K00143,Falcon Telecom FZE,AE,2025-09-01,2028-08-31,5.0,2026-09-01,SUPP-PREM,Premium support (flat),1,1114.57,,,,,0.9
+K00143,Falcon Telecom FZE,AE,2025-09-01,2028-08-31,5.0,2026-09-01,PLAT-BASE,Platform licence (per seat),206,41.76,,,,,0.9
+K00143,Falcon Telecom FZE,AE,2025-09-01,2028-08-31,5.0,2026-09-01,SMS-MSG,SMS messages bundle,1,364.96,,,100000,0.015,0.9
+K00144,Red Media DAC,IE,2024-12-01,2026-11-30,3.5,2025-12-01,SUPP-PREM,Premium support (flat),1,1059.32,,,,,0.9
+K00144,Red Media DAC,IE,2024-12-01,2026-11-30,3.5,2025-12-01,SMS-MSG,SMS messages bundle,1,371.83,,,100000,0.015,0.9
+K00145,Crescent Motors Pty Ltd,AU,2024-01-01,2025-12-31,7.0,2025-01-01,SMS-MSG,SMS messages bundle,1,376.82,5.0,2024-08-31,100000,0.015,1.0
+K00146,Zenith Pharma DAC,IE,2025-01-01,2026-12-31,5.0,2026-01-01,SUPP-PREM,Premium support (flat),1,1112.58,,,,,1.0
+K00146,Zenith Pharma DAC,IE,2025-01-01,2026-12-31,5.0,2026-01-01,PLAT-BASE,Platform licence (per seat),80,41.54,,,,,1.0
+K00146,Zenith Pharma DAC,IE,2025-01-01,2026-12-31,5.0,2026-01-01,SMS-MSG,SMS messages bundle,1,351.55,5.0,2025-04-30,100000,0.015,1.0
+K00147,Summit Trading FZ-LLC,AE,2025-07-01,2027-06-30,7.0,2026-07-01,SMS-MSG,SMS messages bundle,1,390.14,,,20000,0.015,1.0
+K00147,Summit Trading FZ-LLC,AE,2025-07-01,2027-06-30,7.0,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),194,81.21,,,,,1.0
+K00147,Summit Trading FZ-LLC,AE,2025-07-01,2027-06-30,7.0,2026-07-01,DATA-STOR,Data storage (per TB),245,56.82,10.0,2025-09-30,,,1.0
+K00148,Harbour Foods GmbH,DE,2024-12-01,2026-11-30,3.0,2025-12-01,SUPP-PREM,Premium support (flat),1,1120.46,,,,,1.0
+K00149,Harbour Retail Pty Ltd,AU,2024-08-01,2027-07-31,5.0,2025-08-01,DATA-STOR,Data storage (per TB),177,51.15,5.0,2025-03-31,,,1.0
+K00149,Harbour Retail Pty Ltd,AU,2024-08-01,2027-07-31,5.0,2025-08-01,SMS-MSG,SMS messages bundle,1,343.79,,,100000,0.015,1.0
+K00149,Harbour Retail Pty Ltd,AU,2024-08-01,2027-07-31,5.0,2025-08-01,SUPP-PREM,Premium support (flat),1,1146.16,5.0,2024-12-31,,,1.0
+K00150,River Analytics FZE,AE,2024-11-01,2026-10-31,4.0,2025-11-01,DATA-STOR,Data storage (per TB),12,58.4,,,,,0.9
+K00150,River Analytics FZE,AE,2024-11-01,2026-10-31,4.0,2025-11-01,SMS-MSG,SMS messages bundle,1,372.01,,,20000,0.015,0.9
+K00151,Crescent Pharma Pty Ltd,AU,2025-07-01,2028-06-30,7.0,2026-07-01,SMS-MSG,SMS messages bundle,1,373.21,5.0,2025-09-30,100000,0.015,1.0
+K00151,Crescent Pharma Pty Ltd,AU,2025-07-01,2028-06-30,7.0,2026-07-01,SUPP-PREM,Premium support (flat),1,1090.93,,,,,1.0
+K00151,Crescent Pharma Pty Ltd,AU,2025-07-01,2028-06-30,7.0,2026-07-01,PLAT-BASE,Platform licence (per seat),58,38.82,,,,,1.0
+K00152,Silver Energy Pty Ltd,AU,2024-12-01,2026-11-30,5.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),218,75.07,5.0,2025-03-31,,,1.0
+K00152,Silver Energy Pty Ltd,AU,2024-12-01,2026-11-30,5.0,2025-12-01,SMS-MSG,SMS messages bundle,1,374.04,,,20000,0.015,1.0
+K00152,Silver Energy Pty Ltd,AU,2024-12-01,2026-11-30,5.0,2025-12-01,API-CALLS,API calls bundle,1,890.87,,,500000,0.006,1.0
+K00153,Bright Education DAC,IE,2025-07-01,2027-06-30,4.0,2026-07-01,PLAT-BASE,Platform licence (per seat),129,43.15,,,,,1.0
+K00153,Bright Education DAC,IE,2025-07-01,2027-06-30,4.0,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),176,76.8,,,,,1.0
+K00154,Pioneer Logistics Pty Ltd,AU,2024-04-01,2027-03-31,6.0,2025-04-01,SUPP-PREM,Premium support (flat),1,1107.46,,,,,0.9
+K00155,Orbit Travel AG,DE,2024-11-01,2026-10-31,6.0,2025-11-01,DATA-STOR,Data storage (per TB),68,51.04,,,,,1.0
+K00155,Orbit Travel AG,DE,2024-11-01,2026-10-31,6.0,2025-11-01,PLAT-PRO,Platform Pro licence (per seat),169,81.33,,,,,1.0
+K00156,Red Foods Limited,IE,2025-01-01,2026-12-31,7.0,2026-01-01,DATA-STOR,Data storage (per TB),83,54.23,,,,,1.0
+K00156,Red Foods Limited,IE,2025-01-01,2026-12-31,7.0,2026-01-01,SMS-MSG,SMS messages bundle,1,346.53,,,100000,0.015,1.0
+K00157,Emerald Telecom Pty Ltd,AU,2024-10-01,2026-09-30,6.0,2025-10-01,SMS-MSG,SMS messages bundle,1,393.53,,,100000,0.015,1.0
+K00157,Emerald Telecom Pty Ltd,AU,2024-10-01,2026-09-30,6.0,2025-10-01,PLAT-BASE,Platform licence (per seat),153,43.74,,,,,1.0
+K00157,Emerald Telecom Pty Ltd,AU,2024-10-01,2026-09-30,6.0,2025-10-01,API-CALLS,API calls bundle,1,844.65,,,100000,0.006,1.0
+K00158,Orbit Hospitality LLC,AE,2025-07-01,2028-06-30,7.0,2026-07-01,DATA-STOR,Data storage (per TB),155,59.02,,,,,1.0
+K00158,Orbit Hospitality LLC,AE,2025-07-01,2028-06-30,7.0,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),123,75.96,,,,,1.0
+K00159,Emerald Analytics Pty Ltd,AU,2024-04-01,2027-03-31,4.0,2025-04-01,PLAT-PRO,Platform Pro licence (per seat),40,81.9,,,,,1.0
+K00159,Emerald Analytics Pty Ltd,AU,2024-04-01,2027-03-31,4.0,2025-04-01,API-CALLS,API calls bundle,1,789.18,,,500000,0.006,1.0
+K00159,Emerald Analytics Pty Ltd,AU,2024-04-01,2027-03-31,4.0,2025-04-01,SMS-MSG,SMS messages bundle,1,398.06,,,100000,0.015,1.0
+K00160,Crescent Hospitality Limited,IE,2025-01-01,2026-12-31,3.5,2026-01-01,PLAT-BASE,Platform licence (per seat),64,40.03,10.0,2025-07-31,,,1.0
+K00161,Summit Properties Limited,IE,2025-01-01,2027-12-31,5.0,2026-01-01,PLAT-BASE,Platform licence (per seat),87,44.87,15.0,2025-09-30,,,0.9
+K00162,Titan Logistics B.V.,NL,2025-08-01,2027-07-31,5.0,2026-08-01,API-CALLS,API calls bundle,1,834.75,,,250000,0.006,0.9
+K00162,Titan Logistics B.V.,NL,2025-08-01,2027-07-31,5.0,2026-08-01,PLAT-BASE,Platform licence (per seat),108,39.75,,,,,0.9
+K00163,Red Logistics Limited,NZ,2024-12-01,2027-11-30,5.0,2025-12-01,API-CALLS,API calls bundle,1,884.07,5.0,2025-06-30,250000,0.006,1.0
+K00164,North Energy FZE,AE,2024-08-01,2026-07-31,3.5,2025-08-01,SMS-MSG,SMS messages bundle,1,364.88,,,50000,0.015,0.9
+K00164,North Energy FZE,AE,2024-08-01,2026-07-31,3.5,2025-08-01,PLAT-BASE,Platform licence (per seat),127,41.5,,,,,0.9
+K00164,North Energy FZE,AE,2024-08-01,2026-07-31,3.5,2025-08-01,PLAT-PRO,Platform Pro licence (per seat),170,79.78,,,,,0.9
+K00165,Apex Analytics Pty Ltd,AU,2024-01-01,2025-12-31,3.0,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),42,83.61,15.0,2024-04-30,,,1.0
+K00165,Apex Analytics Pty Ltd,AU,2024-01-01,2025-12-31,3.0,2025-01-01,SMS-MSG,SMS messages bundle,1,364.33,,,100000,0.015,1.0
+K00165,Apex Analytics Pty Ltd,AU,2024-01-01,2025-12-31,3.0,2025-01-01,PLAT-BASE,Platform licence (per seat),191,44.18,,,,,1.0
+K00166,Bright Insurance FZ-LLC,AE,2024-10-01,2026-09-30,3.5,2025-10-01,DATA-STOR,Data storage (per TB),110,52.97,,,,,1.0
+K00166,Bright Insurance FZ-LLC,AE,2024-10-01,2026-09-30,3.5,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),215,82.38,,,,,1.0
+K00167,Nova Foods DAC,IE,2025-09-01,2028-08-31,3.5,2026-09-01,DATA-STOR,Data storage (per TB),63,56.32,,,,,0.9
+K00167,Nova Foods DAC,IE,2025-09-01,2028-08-31,3.5,2026-09-01,API-CALLS,API calls bundle,1,782.85,20.0,2026-05-31,100000,0.006,0.9
+K00168,Harbour Construction Pty Ltd,AU,2024-04-01,2026-03-31,5.0,2025-04-01,PLAT-BASE,Platform licence (per seat),173,38.88,5.0,2024-12-31,,,0.9
+K00168,Harbour Construction Pty Ltd,AU,2024-04-01,2026-03-31,5.0,2025-04-01,API-CALLS,API calls bundle,1,823.25,,,250000,0.006,0.9
+K00168,Harbour Construction Pty Ltd,AU,2024-04-01,2026-03-31,5.0,2025-04-01,SMS-MSG,SMS messages bundle,1,342.61,,,100000,0.015,0.9
+K00169,Titan Telecom Pty Ltd,AU,2025-05-01,2028-04-30,4.0,2026-05-01,SMS-MSG,SMS messages bundle,1,365.53,,,50000,0.015,0.9
+K00169,Titan Telecom Pty Ltd,AU,2025-05-01,2028-04-30,4.0,2026-05-01,API-CALLS,API calls bundle,1,796.39,20.0,2025-09-30,100000,0.006,0.9
+K00169,Titan Telecom Pty Ltd,AU,2025-05-01,2028-04-30,4.0,2026-05-01,PLAT-BASE,Platform licence (per seat),207,43.04,5.0,2025-11-30,,,0.9
+K00170,Apex Education GmbH,DE,2024-07-01,2027-06-30,5.0,2025-07-01,DATA-STOR,Data storage (per TB),69,56.86,20.0,2025-01-31,,,1.0
+K00171,Orbit Motors Pty Ltd,AU,2024-10-01,2027-09-30,3.5,2025-10-01,DATA-STOR,Data storage (per TB),128,56.03,15.0,2025-04-30,,,1.0
+K00171,Orbit Motors Pty Ltd,AU,2024-10-01,2027-09-30,3.5,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),193,81.25,5.0,2025-05-31,,,1.0
+K00171,Orbit Motors Pty Ltd,AU,2024-10-01,2027-09-30,3.5,2025-10-01,SUPP-PREM,Premium support (flat),1,1160.96,,,,,1.0
+K00172,Coral Energy AG,DE,2024-04-01,2026-03-31,6.0,2025-04-01,API-CALLS,API calls bundle,1,859.1,20.0,2024-11-30,500000,0.006,1.0
+K00172,Coral Energy AG,DE,2024-04-01,2026-03-31,6.0,2025-04-01,SMS-MSG,SMS messages bundle,1,345.47,,,20000,0.015,1.0
+K00173,Sterling Education AG,DE,2025-09-01,2028-08-31,3.0,2026-09-01,SUPP-PREM,Premium support (flat),1,1034.41,20.0,2026-02-28,,,1.0
+K00174,Nova Health DAC,IE,2025-06-01,2028-05-31,7.0,2026-06-01,PLAT-PRO,Platform Pro licence (per seat),117,80.41,15.0,2025-09-30,,,1.0
+K00175,Pacific Foods Ltd,NZ,2025-09-01,2027-08-31,6.0,2026-09-01,SUPP-PREM,Premium support (flat),1,1063.07,10.0,2025-11-30,,,0.9
+K00176,Bright Telecom Limited,NZ,2025-02-01,2028-01-31,7.0,2026-02-01,PLAT-PRO,Platform Pro licence (per seat),22,81.65,,,,,1.0
+K00176,Bright Telecom Limited,NZ,2025-02-01,2028-01-31,7.0,2026-02-01,API-CALLS,API calls bundle,1,839.2,,,500000,0.006,1.0
+K00176,Bright Telecom Limited,NZ,2025-02-01,2028-01-31,7.0,2026-02-01,PLAT-BASE,Platform licence (per seat),94,44.43,,,,,1.0
+K00177,Desert Construction Pty Ltd,AU,2024-10-01,2026-09-30,6.0,2025-10-01,DATA-STOR,Data storage (per TB),49,51.04,,,,,1.0
+K00177,Desert Construction Pty Ltd,AU,2024-10-01,2026-09-30,6.0,2025-10-01,API-CALLS,API calls bundle,1,779.37,,,100000,0.006,1.0
+K00178,Zenith Logistics B.V.,NL,2024-12-01,2026-11-30,6.0,2025-12-01,API-CALLS,API calls bundle,1,895.42,,,500000,0.006,0.9
+K00178,Zenith Logistics B.V.,NL,2024-12-01,2026-11-30,6.0,2025-12-01,SUPP-PREM,Premium support (flat),1,1063.79,,,,,0.9
+K00178,Zenith Logistics B.V.,NL,2024-12-01,2026-11-30,6.0,2025-12-01,DATA-STOR,Data storage (per TB),179,57.98,,,,,0.9
+K00179,Desert Analytics Pty Ltd,AU,2025-08-01,2027-07-31,5.0,2026-08-01,DATA-STOR,Data storage (per TB),61,56.7,,,,,0.9
+K00180,Emerald Health Limited,NZ,2024-08-01,2027-07-31,5.0,2025-08-01,API-CALLS,API calls bundle,1,798.51,,,100000,0.006,1.0
+K00180,Emerald Health Limited,NZ,2024-08-01,2027-07-31,5.0,2025-08-01,PLAT-BASE,Platform licence (per seat),92,43.3,10.0,2025-01-31,,,1.0
+K00180,Emerald Health Limited,NZ,2024-08-01,2027-07-31,5.0,2025-08-01,SUPP-PREM,Premium support (flat),1,1059.34,,,,,1.0
+K00181,Nova Pharma Pty Ltd,AU,2024-07-01,2026-06-30,5.0,2025-07-01,SMS-MSG,SMS messages bundle,1,354.52,10.0,2025-03-31,50000,0.015,1.0
+K00182,Falcon Properties FZ-LLC,AE,2025-09-01,2028-08-31,3.5,2026-09-01,PLAT-BASE,Platform licence (per seat),174,42.81,,,,,1.0
+K00183,Titan Health Pty Ltd,AU,2024-01-01,2025-12-31,5.0,2025-01-01,DATA-STOR,Data storage (per TB),130,58.82,15.0,2024-06-30,,,1.0
+K00183,Titan Health Pty Ltd,AU,2024-01-01,2025-12-31,5.0,2025-01-01,API-CALLS,API calls bundle,1,842.85,,,100000,0.006,1.0
+K00184,Falcon Labs B.V.,NL,2025-03-01,2028-02-29,6.0,2026-03-01,DATA-STOR,Data storage (per TB),35,55.11,,,,,0.9
+K00184,Falcon Labs B.V.,NL,2025-03-01,2028-02-29,6.0,2026-03-01,PLAT-PRO,Platform Pro licence (per seat),181,78.12,10.0,2025-08-31,,,0.9
+K00185,Willow Media Pty Ltd,AU,2024-11-01,2027-10-31,6.0,2025-11-01,API-CALLS,API calls bundle,1,800.48,,,250000,0.006,1.0
+K00186,Willow Telecom DAC,IE,2025-09-01,2028-08-31,4.0,2026-09-01,PLAT-PRO,Platform Pro licence (per seat),100,81.18,,,,,1.0
+K00186,Willow Telecom DAC,IE,2025-09-01,2028-08-31,4.0,2026-09-01,DATA-STOR,Data storage (per TB),120,54.61,10.0,2026-03-31,,,1.0
+K00187,Titan Hospitality B.V.,NL,2024-04-01,2027-03-31,3.5,2025-04-01,PLAT-PRO,Platform Pro licence (per seat),194,82.45,5.0,2024-07-31,,,0.9
+K00187,Titan Hospitality B.V.,NL,2024-04-01,2027-03-31,3.5,2025-04-01,SMS-MSG,SMS messages bundle,1,348.07,,,100000,0.015,0.9
+K00188,Silver Motors Pty Ltd,AU,2024-11-01,2027-10-31,4.0,2025-11-01,PLAT-BASE,Platform licence (per seat),20,42.91,15.0,2025-04-30,,,1.0
+K00188,Silver Motors Pty Ltd,AU,2024-11-01,2027-10-31,4.0,2025-11-01,DATA-STOR,Data storage (per TB),195,51.87,,,,,1.0
+K00188,Silver Motors Pty Ltd,AU,2024-11-01,2027-10-31,4.0,2025-11-01,SMS-MSG,SMS messages bundle,1,361.66,,,100000,0.015,1.0
+K00189,Quantum Insurance LLC,AE,2024-09-01,2027-08-31,3.0,2025-09-01,SMS-MSG,SMS messages bundle,1,351.94,,,100000,0.015,1.0
+K00189,Quantum Insurance LLC,AE,2024-09-01,2027-08-31,3.0,2025-09-01,API-CALLS,API calls bundle,1,837.69,,,250000,0.006,1.0
+K00190,Union Energy Limited,IE,2025-06-01,2028-05-31,7.0,2026-06-01,DATA-STOR,Data storage (per TB),123,56.52,,,,,1.0
+K00191,Apex Retail LLC,AE,2024-05-01,2026-04-30,7.0,2025-05-01,DATA-STOR,Data storage (per TB),222,56.14,,,,,1.0
+K00191,Apex Retail LLC,AE,2024-05-01,2026-04-30,7.0,2025-05-01,API-CALLS,API calls bundle,1,775.68,15.0,2024-12-31,250000,0.006,1.0
+K00192,Apex Properties B.V.,NL,2024-09-01,2027-08-31,4.0,2025-09-01,SMS-MSG,SMS messages bundle,1,371.26,,,50000,0.015,1.0
+K00192,Apex Properties B.V.,NL,2024-09-01,2027-08-31,4.0,2025-09-01,API-CALLS,API calls bundle,1,789.82,10.0,2025-04-30,100000,0.006,1.0
+K00193,Harbour Hospitality GmbH,DE,2024-03-01,2026-02-28,3.5,2025-03-01,PLAT-BASE,Platform licence (per seat),126,44.57,,,,,0.9
+K00194,Coral Insurance Limited,NZ,2024-01-01,2026-12-31,6.0,2025-01-01,PLAT-BASE,Platform licence (per seat),44,40.02,20.0,2024-05-31,,,1.0
+K00195,Falcon Retail Pty Ltd,AU,2024-10-01,2027-09-30,7.0,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),225,80.71,,,,,0.9
+K00195,Falcon Retail Pty Ltd,AU,2024-10-01,2027-09-30,7.0,2025-10-01,PLAT-BASE,Platform licence (per seat),124,44.08,,,,,0.9
+K00195,Falcon Retail Pty Ltd,AU,2024-10-01,2027-09-30,7.0,2025-10-01,API-CALLS,API calls bundle,1,837.98,,,250000,0.006,0.9
+K00196,Bright Health Ltd,NZ,2024-05-01,2026-04-30,6.0,2025-05-01,SMS-MSG,SMS messages bundle,1,371.41,,,100000,0.015,1.0
+K00196,Bright Health Ltd,NZ,2024-05-01,2026-04-30,6.0,2025-05-01,API-CALLS,API calls bundle,1,887.7,,,250000,0.006,1.0
+K00196,Bright Health Ltd,NZ,2024-05-01,2026-04-30,6.0,2025-05-01,DATA-STOR,Data storage (per TB),118,58.24,,,,,1.0
+K00197,Pioneer Insurance Pty Ltd,AU,2025-02-01,2028-01-31,3.5,2026-02-01,API-CALLS,API calls bundle,1,875.08,,,100000,0.006,1.0
+K00198,Silver Insurance Limited,IE,2025-04-01,2027-03-31,7.0,2026-04-01,SUPP-PREM,Premium support (flat),1,1157.86,,,,,1.0
+K00198,Silver Insurance Limited,IE,2025-04-01,2027-03-31,7.0,2026-04-01,PLAT-BASE,Platform licence (per seat),208,42.28,15.0,2025-07-31,,,1.0
+K00199,Titan Finance Ltd,NZ,2025-07-01,2028-06-30,5.0,2026-07-01,SMS-MSG,SMS messages bundle,1,353.24,,,20000,0.015,1.0
+K00199,Titan Finance Ltd,NZ,2025-07-01,2028-06-30,5.0,2026-07-01,DATA-STOR,Data storage (per TB),200,53.16,,,,,1.0
+K00199,Titan Finance Ltd,NZ,2025-07-01,2028-06-30,5.0,2026-07-01,API-CALLS,API calls bundle,1,847.78,,,500000,0.006,1.0
+K00200,Vertex Trading B.V.,NL,2024-10-01,2027-09-30,5.0,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),33,73.99,,,,,1.0
+K00201,Falcon Construction Pty Ltd,AU,2025-09-01,2028-08-31,4.0,2026-09-01,PLAT-PRO,Platform Pro licence (per seat),17,72.5,,,,,1.0
+K00201,Falcon Construction Pty Ltd,AU,2025-09-01,2028-08-31,4.0,2026-09-01,SUPP-PREM,Premium support (flat),1,1023.98,,,,,1.0
+K00202,Falcon Motors Limited,IE,2024-10-01,2027-09-30,3.5,2025-10-01,PLAT-BASE,Platform licence (per seat),131,39.27,20.0,2025-02-28,,,0.9
+K00202,Falcon Motors Limited,IE,2024-10-01,2027-09-30,3.5,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),100,78.6,,,,,0.9
+K00202,Falcon Motors Limited,IE,2024-10-01,2027-09-30,3.5,2025-10-01,SMS-MSG,SMS messages bundle,1,387.49,10.0,2024-12-31,50000,0.015,0.9
+K00203,Union Labs Limited,NZ,2025-02-01,2027-01-31,6.0,2026-02-01,SUPP-PREM,Premium support (flat),1,1167.11,,,,,0.9
+K00204,Granite Insurance Limited,IE,2024-05-01,2026-04-30,5.0,2025-05-01,PLAT-PRO,Platform Pro licence (per seat),193,74.79,,,,,1.0
+K00204,Granite Insurance Limited,IE,2024-05-01,2026-04-30,5.0,2025-05-01,PLAT-BASE,Platform licence (per seat),58,41.77,,,,,1.0
+K00205,Falcon Finance LLC,AE,2024-11-01,2027-10-31,3.5,2025-11-01,SMS-MSG,SMS messages bundle,1,396.25,20.0,2025-06-30,100000,0.015,0.9
+K00206,Harbour Energy LLC,AE,2025-01-01,2026-12-31,7.0,2026-01-01,PLAT-PRO,Platform Pro licence (per seat),88,80.32,15.0,2025-07-31,,,1.0
+K00207,Crescent Insurance B.V.,NL,2024-09-01,2026-08-31,3.0,2025-09-01,DATA-STOR,Data storage (per TB),27,54.34,20.0,2024-11-30,,,1.0
+K00207,Crescent Insurance B.V.,NL,2024-09-01,2026-08-31,3.0,2025-09-01,API-CALLS,API calls bundle,1,810.69,15.0,2025-04-30,500000,0.006,1.0
+K00207,Crescent Insurance B.V.,NL,2024-09-01,2026-08-31,3.0,2025-09-01,PLAT-PRO,Platform Pro licence (per seat),32,79.09,10.0,2025-01-31,,,1.0
+K00208,Iron Energy LLC,AE,2024-12-01,2027-11-30,7.0,2025-12-01,DATA-STOR,Data storage (per TB),15,53.26,,,,,0.9
+K00208,Iron Energy LLC,AE,2024-12-01,2027-11-30,7.0,2025-12-01,SUPP-PREM,Premium support (flat),1,1098.75,20.0,2025-03-31,,,0.9
+K00208,Iron Energy LLC,AE,2024-12-01,2027-11-30,7.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),87,79.18,,,,,0.9
+K00209,North Telecom B.V.,NL,2024-10-01,2026-09-30,3.0,2025-10-01,SUPP-PREM,Premium support (flat),1,1117.49,,,,,1.0
+K00209,North Telecom B.V.,NL,2024-10-01,2026-09-30,3.0,2025-10-01,SMS-MSG,SMS messages bundle,1,386.56,,,100000,0.015,1.0
+K00210,Apex Hospitality GmbH,DE,2024-07-01,2026-06-30,6.0,2025-07-01,PLAT-PRO,Platform Pro licence (per seat),142,80.64,,,,,1.0
+K00210,Apex Hospitality GmbH,DE,2024-07-01,2026-06-30,6.0,2025-07-01,SUPP-PREM,Premium support (flat),1,1054.18,,,,,1.0
+K00210,Apex Hospitality GmbH,DE,2024-07-01,2026-06-30,6.0,2025-07-01,PLAT-BASE,Platform licence (per seat),44,43.42,,,,,1.0
+K00211,Summit Analytics DAC,IE,2024-11-01,2027-10-31,7.0,2025-11-01,API-CALLS,API calls bundle,1,853.95,,,100000,0.006,0.9
+K00212,Crescent Systems Limited,NZ,2024-05-01,2026-04-30,3.0,2025-05-01,PLAT-PRO,Platform Pro licence (per seat),169,72.66,,,,,0.9
+K00212,Crescent Systems Limited,NZ,2024-05-01,2026-04-30,3.0,2025-05-01,PLAT-BASE,Platform licence (per seat),139,42.69,,,,,0.9
+K00213,Willow Insurance Limited,IE,2025-08-01,2028-07-31,3.0,2026-08-01,SMS-MSG,SMS messages bundle,1,395.81,,,20000,0.015,1.0
+K00213,Willow Insurance Limited,IE,2025-08-01,2028-07-31,3.0,2026-08-01,PLAT-BASE,Platform licence (per seat),218,44.52,5.0,2025-12-31,,,1.0
+K00213,Willow Insurance Limited,IE,2025-08-01,2028-07-31,3.0,2026-08-01,API-CALLS,API calls bundle,1,891.66,,,250000,0.006,1.0
+K00214,Quantum Energy Pty Ltd,AU,2024-02-01,2027-01-31,6.0,2025-02-01,SUPP-PREM,Premium support (flat),1,1034.03,5.0,2024-04-30,,,0.9
+K00215,Iron Insurance DAC,IE,2025-06-01,2028-05-31,3.5,2026-06-01,PLAT-PRO,Platform Pro licence (per seat),147,79.37,,,,,0.9
+K00215,Iron Insurance DAC,IE,2025-06-01,2028-05-31,3.5,2026-06-01,API-CALLS,API calls bundle,1,779.24,,,500000,0.006,0.9
+K00215,Iron Insurance DAC,IE,2025-06-01,2028-05-31,3.5,2026-06-01,SMS-MSG,SMS messages bundle,1,380.47,,,100000,0.015,0.9
+K00216,Cedar Foods FZE,AE,2024-04-01,2026-03-31,3.5,2025-04-01,SUPP-PREM,Premium support (flat),1,1188.03,,,,,1.0
+K00216,Cedar Foods FZE,AE,2024-04-01,2026-03-31,3.5,2025-04-01,PLAT-PRO,Platform Pro licence (per seat),88,79.26,,,,,1.0
+K00216,Cedar Foods FZE,AE,2024-04-01,2026-03-31,3.5,2025-04-01,DATA-STOR,Data storage (per TB),167,54.71,,,,,1.0
+K00217,Granite Pharma FZE,AE,2024-11-01,2026-10-31,6.0,2025-11-01,API-CALLS,API calls bundle,1,813.6,,,250000,0.006,0.9
+K00217,Granite Pharma FZE,AE,2024-11-01,2026-10-31,6.0,2025-11-01,SUPP-PREM,Premium support (flat),1,1091.48,,,,,0.9
+K00218,Summit Energy Pty Ltd,AU,2024-10-01,2026-09-30,6.0,2025-10-01,PLAT-BASE,Platform licence (per seat),59,44.89,,,,,1.0
+K00218,Summit Energy Pty Ltd,AU,2024-10-01,2026-09-30,6.0,2025-10-01,SUPP-PREM,Premium support (flat),1,1023.91,,,,,1.0
+K00219,Nova Trading FZ-LLC,AE,2024-10-01,2026-09-30,3.0,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),232,75.63,,,,,1.0
+K00219,Nova Trading FZ-LLC,AE,2024-10-01,2026-09-30,3.0,2025-10-01,SMS-MSG,SMS messages bundle,1,353.98,20.0,2025-04-30,50000,0.015,1.0
+K00220,Sterling Media GmbH,DE,2024-03-01,2027-02-28,5.0,2025-03-01,SMS-MSG,SMS messages bundle,1,375.71,20.0,2024-05-31,50000,0.015,1.0
+K00220,Sterling Media GmbH,DE,2024-03-01,2027-02-28,5.0,2025-03-01,API-CALLS,API calls bundle,1,889.45,,,250000,0.006,1.0
+K00220,Sterling Media GmbH,DE,2024-03-01,2027-02-28,5.0,2025-03-01,PLAT-BASE,Platform licence (per seat),111,43.77,,,,,1.0
+K00221,Desert Retail Ltd,NZ,2024-05-01,2026-04-30,7.0,2025-05-01,PLAT-BASE,Platform licence (per seat),15,40.31,,,,,1.0
+K00221,Desert Retail Ltd,NZ,2024-05-01,2026-04-30,7.0,2025-05-01,DATA-STOR,Data storage (per TB),88,56.08,,,,,1.0
+K00221,Desert Retail Ltd,NZ,2024-05-01,2026-04-30,7.0,2025-05-01,SMS-MSG,SMS messages bundle,1,353.25,,,20000,0.015,1.0
+K00222,North Motors Ltd,NZ,2025-02-01,2028-01-31,6.0,2026-02-01,PLAT-PRO,Platform Pro licence (per seat),206,77.76,,,,,1.0
+K00223,Zenith Labs LLC,AE,2024-05-01,2027-04-30,3.0,2025-05-01,PLAT-BASE,Platform licence (per seat),107,40.02,,,,,1.0
+K00223,Zenith Labs LLC,AE,2024-05-01,2027-04-30,3.0,2025-05-01,API-CALLS,API calls bundle,1,869.47,,,100000,0.006,1.0
+K00223,Zenith Labs LLC,AE,2024-05-01,2027-04-30,3.0,2025-05-01,DATA-STOR,Data storage (per TB),55,55.33,,,,,1.0
+K00224,Willow Pharma FZE,AE,2025-08-01,2027-07-31,6.0,2026-08-01,API-CALLS,API calls bundle,1,774.67,,,250000,0.006,1.0
+K00224,Willow Pharma FZE,AE,2025-08-01,2027-07-31,6.0,2026-08-01,PLAT-PRO,Platform Pro licence (per seat),27,84.03,20.0,2026-01-31,,,1.0
+K00224,Willow Pharma FZE,AE,2025-08-01,2027-07-31,6.0,2026-08-01,SMS-MSG,SMS messages bundle,1,351.43,,,50000,0.015,1.0
+K00225,Orbit Health B.V.,NL,2024-01-01,2026-12-31,3.5,2025-01-01,DATA-STOR,Data storage (per TB),241,54.96,,,,,0.9
+K00225,Orbit Health B.V.,NL,2024-01-01,2026-12-31,3.5,2025-01-01,API-CALLS,API calls bundle,1,791.96,5.0,2024-03-31,250000,0.006,0.9
+K00225,Orbit Health B.V.,NL,2024-01-01,2026-12-31,3.5,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),163,75.35,,,,,0.9
+K00226,Falcon Insurance Pty Ltd,AU,2024-10-01,2026-09-30,4.0,2025-10-01,SUPP-PREM,Premium support (flat),1,1101.01,10.0,2025-05-31,,,1.0
+K00227,Falcon Analytics LLC,AE,2024-07-01,2027-06-30,6.0,2025-07-01,PLAT-PRO,Platform Pro licence (per seat),174,79.68,,,,,1.0
+K00227,Falcon Analytics LLC,AE,2024-07-01,2027-06-30,6.0,2025-07-01,PLAT-BASE,Platform licence (per seat),20,39.97,15.0,2024-09-30,,,1.0
+K00227,Falcon Analytics LLC,AE,2024-07-01,2027-06-30,6.0,2025-07-01,DATA-STOR,Data storage (per TB),22,59.51,,,,,1.0
+K00228,Nova Motors B.V.,NL,2024-10-01,2027-09-30,3.0,2025-10-01,DATA-STOR,Data storage (per TB),186,55.58,15.0,2025-03-31,,,0.9
+K00228,Nova Motors B.V.,NL,2024-10-01,2027-09-30,3.0,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),52,79.03,20.0,2025-04-30,,,0.9
+K00228,Nova Motors B.V.,NL,2024-10-01,2027-09-30,3.0,2025-10-01,SMS-MSG,SMS messages bundle,1,341.29,,,20000,0.015,0.9
+K00229,Pioneer Analytics Pty Ltd,AU,2024-11-01,2027-10-31,5.0,2025-11-01,PLAT-BASE,Platform licence (per seat),95,40.59,,,,,1.0
+K00230,Silver Labs Pty Ltd,AU,2024-11-01,2026-10-31,6.0,2025-11-01,SMS-MSG,SMS messages bundle,1,355.46,,,50000,0.015,1.0
+K00231,Orbit Analytics FZ-LLC,AE,2024-01-01,2026-12-31,3.5,2025-01-01,SMS-MSG,SMS messages bundle,1,345.27,,,50000,0.015,1.0
+K00231,Orbit Analytics FZ-LLC,AE,2024-01-01,2026-12-31,3.5,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),228,80.89,,,,,1.0
+K00232,Blue Energy Pty Ltd,AU,2024-08-01,2027-07-31,3.5,2025-08-01,SUPP-PREM,Premium support (flat),1,1079.27,,,,,1.0
+K00232,Blue Energy Pty Ltd,AU,2024-08-01,2027-07-31,3.5,2025-08-01,API-CALLS,API calls bundle,1,792.91,,,100000,0.006,1.0
+K00233,Iron Properties Pty Ltd,AU,2024-07-01,2026-06-30,4.0,2025-07-01,PLAT-PRO,Platform Pro licence (per seat),149,80.62,,,,,0.9
+K00233,Iron Properties Pty Ltd,AU,2024-07-01,2026-06-30,4.0,2025-07-01,DATA-STOR,Data storage (per TB),147,53.86,,,,,0.9
+K00233,Iron Properties Pty Ltd,AU,2024-07-01,2026-06-30,4.0,2025-07-01,SMS-MSG,SMS messages bundle,1,383.17,,,20000,0.015,0.9
+K00234,Sterling Energy Pty Ltd,AU,2024-05-01,2026-04-30,4.0,2025-05-01,DATA-STOR,Data storage (per TB),244,54.99,,,,,1.0
+K00234,Sterling Energy Pty Ltd,AU,2024-05-01,2026-04-30,4.0,2025-05-01,SUPP-PREM,Premium support (flat),1,1134.63,,,,,1.0
+K00235,Iron Education Limited,IE,2024-06-01,2026-05-31,3.0,2025-06-01,API-CALLS,API calls bundle,1,848.29,,,500000,0.006,1.0
+K00236,Titan Travel FZE,AE,2024-08-01,2026-07-31,3.5,2025-08-01,PLAT-BASE,Platform licence (per seat),221,39.16,,,,,0.9
+K00236,Titan Travel FZE,AE,2024-08-01,2026-07-31,3.5,2025-08-01,DATA-STOR,Data storage (per TB),100,57.41,20.0,2025-01-31,,,0.9
+K00237,Vertex Analytics FZE,AE,2024-06-01,2026-05-31,3.5,2025-06-01,SUPP-PREM,Premium support (flat),1,1191.04,10.0,2025-02-28,,,1.0
+K00238,Willow Finance B.V.,NL,2024-06-01,2027-05-31,6.0,2025-06-01,DATA-STOR,Data storage (per TB),203,54.85,20.0,2025-01-31,,,1.0
+K00238,Willow Finance B.V.,NL,2024-06-01,2027-05-31,6.0,2025-06-01,PLAT-PRO,Platform Pro licence (per seat),195,80.05,,,,,1.0
+K00239,Pacific Pharma B.V.,NL,2025-07-01,2027-06-30,6.0,2026-07-01,PLAT-BASE,Platform licence (per seat),106,41.75,,,,,0.9
+K00239,Pacific Pharma B.V.,NL,2025-07-01,2027-06-30,6.0,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),104,72.75,,,,,0.9
+K00240,Titan Retail B.V.,NL,2024-02-01,2026-01-31,4.0,2025-02-01,SUPP-PREM,Premium support (flat),1,1049.97,5.0,2024-09-30,,,1.0
+K00240,Titan Retail B.V.,NL,2024-02-01,2026-01-31,4.0,2025-02-01,DATA-STOR,Data storage (per TB),217,52.28,,,,,1.0
+K00241,Nova Telecom Pty Ltd,AU,2024-04-01,2026-03-31,3.5,2025-04-01,API-CALLS,API calls bundle,1,820.83,20.0,2024-10-31,250000,0.006,1.0
+K00241,Nova Telecom Pty Ltd,AU,2024-04-01,2026-03-31,3.5,2025-04-01,PLAT-PRO,Platform Pro licence (per seat),230,83.67,,,,,1.0
+K00241,Nova Telecom Pty Ltd,AU,2024-04-01,2026-03-31,3.5,2025-04-01,DATA-STOR,Data storage (per TB),182,53.25,,,,,1.0
+K00242,Quantum Analytics Pty Ltd,AU,2024-06-01,2026-05-31,3.0,2025-06-01,SMS-MSG,SMS messages bundle,1,345.12,,,100000,0.015,1.0
+K00242,Quantum Analytics Pty Ltd,AU,2024-06-01,2026-05-31,3.0,2025-06-01,SUPP-PREM,Premium support (flat),1,1162.39,,,,,1.0
+K00243,Apex Energy Ltd,NZ,2024-06-01,2027-05-31,6.0,2025-06-01,SUPP-PREM,Premium support (flat),1,1121.79,,,,,1.0
+K00244,Desert Labs Limited,NZ,2024-06-01,2026-05-31,3.5,2025-06-01,PLAT-BASE,Platform licence (per seat),201,40.34,,,,,0.9
+K00244,Desert Labs Limited,NZ,2024-06-01,2026-05-31,3.5,2025-06-01,DATA-STOR,Data storage (per TB),51,53.6,10.0,2024-09-30,,,0.9
+K00244,Desert Labs Limited,NZ,2024-06-01,2026-05-31,3.5,2025-06-01,SUPP-PREM,Premium support (flat),1,1157.77,20.0,2025-02-28,,,0.9
+K00245,Atlas Systems B.V.,NL,2024-01-01,2026-12-31,3.5,2025-01-01,DATA-STOR,Data storage (per TB),158,54.98,,,,,1.0
+K00245,Atlas Systems B.V.,NL,2024-01-01,2026-12-31,3.5,2025-01-01,SMS-MSG,SMS messages bundle,1,354.68,10.0,2024-03-31,100000,0.015,1.0
+K00245,Atlas Systems B.V.,NL,2024-01-01,2026-12-31,3.5,2025-01-01,API-CALLS,API calls bundle,1,772.43,5.0,2024-08-31,250000,0.006,1.0
+K00246,Desert Properties Limited,NZ,2025-09-01,2028-08-31,4.0,2026-09-01,PLAT-BASE,Platform licence (per seat),50,41.06,15.0,2026-03-31,,,1.0
+K00247,Granite Properties Pty Ltd,AU,2025-09-01,2027-08-31,5.0,2026-09-01,PLAT-BASE,Platform licence (per seat),87,43.44,,,,,0.9
+K00247,Granite Properties Pty Ltd,AU,2025-09-01,2027-08-31,5.0,2026-09-01,SMS-MSG,SMS messages bundle,1,362.74,,,20000,0.015,0.9
+K00248,Union Logistics B.V.,NL,2025-07-01,2027-06-30,4.0,2026-07-01,SMS-MSG,SMS messages bundle,1,391.56,,,50000,0.015,1.0
+K00249,Pioneer Media DAC,IE,2025-06-01,2027-05-31,7.0,2026-06-01,PLAT-BASE,Platform licence (per seat),166,42.11,,,,,1.0
+K00250,Orbit Systems FZ-LLC,AE,2024-03-01,2027-02-28,7.0,2025-03-01,SUPP-PREM,Premium support (flat),1,1066.74,,,,,1.0
+K00250,Orbit Systems FZ-LLC,AE,2024-03-01,2027-02-28,7.0,2025-03-01,DATA-STOR,Data storage (per TB),242,56.61,20.0,2024-09-30,,,1.0
+K00250,Orbit Systems FZ-LLC,AE,2024-03-01,2027-02-28,7.0,2025-03-01,SMS-MSG,SMS messages bundle,1,369.86,,,20000,0.015,1.0
+K00251,Delta Analytics Pty Ltd,AU,2024-08-01,2027-07-31,3.5,2025-08-01,DATA-STOR,Data storage (per TB),35,56.63,,,,,0.9
+K00252,Atlas Hospitality Pty Ltd,AU,2024-07-01,2027-06-30,5.0,2025-07-01,API-CALLS,API calls bundle,1,766.53,,,100000,0.006,1.0
+K00252,Atlas Hospitality Pty Ltd,AU,2024-07-01,2027-06-30,5.0,2025-07-01,PLAT-PRO,Platform Pro licence (per seat),22,75.49,,,,,1.0
+K00253,Nova Media B.V.,NL,2025-06-01,2028-05-31,3.0,2026-06-01,SUPP-PREM,Premium support (flat),1,1150.39,,,,,0.9
+K00253,Nova Media B.V.,NL,2025-06-01,2028-05-31,3.0,2026-06-01,DATA-STOR,Data storage (per TB),49,51.26,15.0,2026-01-31,,,0.9
+K00254,Orbit Pharma Pty Ltd,AU,2025-04-01,2027-03-31,7.0,2026-04-01,SMS-MSG,SMS messages bundle,1,367.64,,,100000,0.015,1.0
+K00255,Sterling Analytics Limited,NZ,2025-04-01,2028-03-31,7.0,2026-04-01,SUPP-PREM,Premium support (flat),1,1119.93,15.0,2025-12-31,,,1.0
+K00255,Sterling Analytics Limited,NZ,2025-04-01,2028-03-31,7.0,2026-04-01,API-CALLS,API calls bundle,1,872.43,,,100000,0.006,1.0
+K00255,Sterling Analytics Limited,NZ,2025-04-01,2028-03-31,7.0,2026-04-01,SMS-MSG,SMS messages bundle,1,356.83,,,20000,0.015,1.0
+K00256,Blue Foods AG,DE,2025-01-01,2026-12-31,6.0,2026-01-01,API-CALLS,API calls bundle,1,780.77,,,250000,0.006,0.9
+K00257,Iron Health Pty Ltd,AU,2024-11-01,2026-10-31,4.0,2025-11-01,PLAT-PRO,Platform Pro licence (per seat),248,78.01,,,,,1.0
+K00257,Iron Health Pty Ltd,AU,2024-11-01,2026-10-31,4.0,2025-11-01,SUPP-PREM,Premium support (flat),1,1114.52,15.0,2025-07-31,,,1.0
+K00258,Atlas Trading Limited,NZ,2024-07-01,2026-06-30,5.0,2025-07-01,API-CALLS,API calls bundle,1,790.68,,,250000,0.006,0.9
+K00258,Atlas Trading Limited,NZ,2024-07-01,2026-06-30,5.0,2025-07-01,PLAT-PRO,Platform Pro licence (per seat),203,78.93,,,,,0.9
+K00259,Quantum Health Limited,NZ,2024-04-01,2026-03-31,3.5,2025-04-01,DATA-STOR,Data storage (per TB),84,52.04,,,,,1.0
+K00259,Quantum Health Limited,NZ,2024-04-01,2026-03-31,3.5,2025-04-01,API-CALLS,API calls bundle,1,857.75,,,500000,0.006,1.0
+K00260,Harbour Trading Limited,NZ,2024-12-01,2027-11-30,3.0,2025-12-01,SMS-MSG,SMS messages bundle,1,374.65,,,50000,0.015,1.0
+K00260,Harbour Trading Limited,NZ,2024-12-01,2027-11-30,3.0,2025-12-01,SUPP-PREM,Premium support (flat),1,1057.77,15.0,2025-04-30,,,1.0
+K00260,Harbour Trading Limited,NZ,2024-12-01,2027-11-30,3.0,2025-12-01,PLAT-BASE,Platform licence (per seat),176,43.47,10.0,2025-03-31,,,1.0
+K00261,Sterling Labs Pty Ltd,AU,2024-01-01,2025-12-31,3.5,2025-01-01,SUPP-PREM,Premium support (flat),1,1189.79,,,,,1.0
+K00261,Sterling Labs Pty Ltd,AU,2024-01-01,2025-12-31,3.5,2025-01-01,SMS-MSG,SMS messages bundle,1,374.44,15.0,2024-07-31,20000,0.015,1.0
+K00261,Sterling Labs Pty Ltd,AU,2024-01-01,2025-12-31,3.5,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),125,73.91,,,,,1.0
+K00262,Falcon Logistics Pty Ltd,AU,2024-02-01,2026-01-31,5.0,2025-02-01,DATA-STOR,Data storage (per TB),233,57.34,,,,,1.0
+K00262,Falcon Logistics Pty Ltd,AU,2024-02-01,2026-01-31,5.0,2025-02-01,PLAT-PRO,Platform Pro licence (per seat),184,82.91,,,,,1.0
+K00263,Zenith Health Ltd,NZ,2024-12-01,2027-11-30,4.0,2025-12-01,SMS-MSG,SMS messages bundle,1,398.42,,,50000,0.015,1.0
+K00263,Zenith Health Ltd,NZ,2024-12-01,2027-11-30,4.0,2025-12-01,API-CALLS,API calls bundle,1,777.54,,,500000,0.006,1.0
+K00263,Zenith Health Ltd,NZ,2024-12-01,2027-11-30,4.0,2025-12-01,PLAT-BASE,Platform licence (per seat),180,41.33,,,,,1.0
+K00264,Vertex Media LLC,AE,2025-04-01,2028-03-31,3.5,2026-04-01,API-CALLS,API calls bundle,1,799.84,,,250000,0.006,0.9
+K00265,Cedar Telecom LLC,AE,2024-12-01,2027-11-30,5.0,2025-12-01,DATA-STOR,Data storage (per TB),127,52.02,,,,,1.0
+K00266,Delta Health B.V.,NL,2024-06-01,2027-05-31,4.0,2025-06-01,API-CALLS,API calls bundle,1,778.9,,,500000,0.006,0.9
+K00267,Iron Labs Pty Ltd,AU,2024-11-01,2026-10-31,4.0,2025-11-01,API-CALLS,API calls bundle,1,797.21,,,100000,0.006,1.0
+K00267,Iron Labs Pty Ltd,AU,2024-11-01,2026-10-31,4.0,2025-11-01,DATA-STOR,Data storage (per TB),103,59.77,10.0,2025-07-31,,,1.0
+K00268,Apex Construction Pty Ltd,AU,2025-03-01,2028-02-29,6.0,2026-03-01,SMS-MSG,SMS messages bundle,1,379.76,,,20000,0.015,1.0
+K00268,Apex Construction Pty Ltd,AU,2025-03-01,2028-02-29,6.0,2026-03-01,PLAT-PRO,Platform Pro licence (per seat),219,81.33,,,,,1.0
+K00268,Apex Construction Pty Ltd,AU,2025-03-01,2028-02-29,6.0,2026-03-01,API-CALLS,API calls bundle,1,844.94,,,250000,0.006,1.0
+K00269,Cedar Pharma Pty Ltd,AU,2024-04-01,2027-03-31,3.5,2025-04-01,PLAT-BASE,Platform licence (per seat),213,38.98,,,,,0.9
+K00269,Cedar Pharma Pty Ltd,AU,2024-04-01,2027-03-31,3.5,2025-04-01,API-CALLS,API calls bundle,1,875.68,,,250000,0.006,0.9
+K00270,Red Properties Pty Ltd,AU,2024-03-01,2026-02-28,3.5,2025-03-01,SMS-MSG,SMS messages bundle,1,379.65,,,50000,0.015,1.0
+K00270,Red Properties Pty Ltd,AU,2024-03-01,2026-02-28,3.5,2025-03-01,PLAT-BASE,Platform licence (per seat),152,40.88,,,,,1.0
+K00270,Red Properties Pty Ltd,AU,2024-03-01,2026-02-28,3.5,2025-03-01,PLAT-PRO,Platform Pro licence (per seat),229,74.87,,,,,1.0
+K00271,Bright Energy DAC,IE,2025-08-01,2028-07-31,5.0,2026-08-01,PLAT-BASE,Platform licence (per seat),135,38.3,,,,,0.9
+K00271,Bright Energy DAC,IE,2025-08-01,2028-07-31,5.0,2026-08-01,API-CALLS,API calls bundle,1,782.22,5.0,2025-10-31,250000,0.006,0.9
+K00272,Summit Systems AG,DE,2025-01-01,2026-12-31,4.0,2026-01-01,DATA-STOR,Data storage (per TB),105,57.32,,,,,1.0
+K00273,Zenith Properties LLC,AE,2025-01-01,2027-12-31,5.0,2026-01-01,SMS-MSG,SMS messages bundle,1,350.4,20.0,2025-09-30,20000,0.015,0.9
+K00274,Pacific Health LLC,AE,2025-03-01,2027-02-28,4.0,2026-03-01,PLAT-PRO,Platform Pro licence (per seat),9,73.16,20.0,2025-10-31,,,0.9
+K00274,Pacific Health LLC,AE,2025-03-01,2027-02-28,4.0,2026-03-01,SMS-MSG,SMS messages bundle,1,399.41,20.0,2025-11-30,20000,0.015,0.9
+K00274,Pacific Health LLC,AE,2025-03-01,2027-02-28,4.0,2026-03-01,PLAT-BASE,Platform licence (per seat),159,43.58,,,,,0.9
+K00275,Harbour Logistics GmbH,DE,2025-09-01,2027-08-31,5.0,2026-09-01,DATA-STOR,Data storage (per TB),113,53.03,,,,,0.9
+K00275,Harbour Logistics GmbH,DE,2025-09-01,2027-08-31,5.0,2026-09-01,SMS-MSG,SMS messages bundle,1,374.68,15.0,2026-02-28,100000,0.015,0.9
+K00275,Harbour Logistics GmbH,DE,2025-09-01,2027-08-31,5.0,2026-09-01,SUPP-PREM,Premium support (flat),1,1123.74,5.0,2026-03-31,,,0.9
+K00276,Summit Travel Pty Ltd,AU,2025-01-01,2026-12-31,6.0,2026-01-01,PLAT-BASE,Platform licence (per seat),25,41.39,,,,,1.0
+K00276,Summit Travel Pty Ltd,AU,2025-01-01,2026-12-31,6.0,2026-01-01,PLAT-PRO,Platform Pro licence (per seat),67,80.03,,,,,1.0
+K00276,Summit Travel Pty Ltd,AU,2025-01-01,2026-12-31,6.0,2026-01-01,SUPP-PREM,Premium support (flat),1,1153.5,,,,,1.0
+K00277,Pacific Education GmbH,DE,2024-03-01,2027-02-28,6.0,2025-03-01,API-CALLS,API calls bundle,1,828.3,,,500000,0.006,1.0
+K00277,Pacific Education GmbH,DE,2024-03-01,2027-02-28,6.0,2025-03-01,PLAT-BASE,Platform licence (per seat),89,42.12,,,,,1.0
+K00278,Bright Pharma Limited,IE,2024-10-01,2027-09-30,3.5,2025-10-01,SMS-MSG,SMS messages bundle,1,343.69,,,50000,0.015,1.0
+K00278,Bright Pharma Limited,IE,2024-10-01,2027-09-30,3.5,2025-10-01,SUPP-PREM,Premium support (flat),1,1123.11,,,,,1.0
+K00278,Bright Pharma Limited,IE,2024-10-01,2027-09-30,3.5,2025-10-01,API-CALLS,API calls bundle,1,804.39,,,500000,0.006,1.0
+K00279,Blue Travel Limited,IE,2024-10-01,2027-09-30,3.0,2025-10-01,SUPP-PREM,Premium support (flat),1,1065.37,,,,,1.0
+K00280,River Insurance DAC,IE,2024-10-01,2027-09-30,3.0,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),99,80.65,,,,,1.0
+K00280,River Insurance DAC,IE,2024-10-01,2027-09-30,3.0,2025-10-01,API-CALLS,API calls bundle,1,800.27,10.0,2025-06-30,500000,0.006,1.0
+K00280,River Insurance DAC,IE,2024-10-01,2027-09-30,3.0,2025-10-01,SMS-MSG,SMS messages bundle,1,341.99,,,20000,0.015,1.0
+K00281,Summit Foods Pty Ltd,AU,2025-09-01,2027-08-31,5.0,2026-09-01,DATA-STOR,Data storage (per TB),190,56.95,,,,,1.0
+K00281,Summit Foods Pty Ltd,AU,2025-09-01,2027-08-31,5.0,2026-09-01,PLAT-PRO,Platform Pro licence (per seat),192,74.94,,,,,1.0
+K00282,Bright Travel FZE,AE,2024-02-01,2027-01-31,3.0,2025-02-01,DATA-STOR,Data storage (per TB),196,53.71,,,,,0.9
+K00282,Bright Travel FZE,AE,2024-02-01,2027-01-31,3.0,2025-02-01,SMS-MSG,SMS messages bundle,1,395.35,,,20000,0.015,0.9
+K00283,Emerald Motors B.V.,NL,2025-02-01,2028-01-31,4.0,2026-02-01,PLAT-BASE,Platform licence (per seat),119,44.51,,,,,1.0
+K00283,Emerald Motors B.V.,NL,2025-02-01,2028-01-31,4.0,2026-02-01,SUPP-PREM,Premium support (flat),1,1076.82,,,,,1.0
+K00284,Cedar Media LLC,AE,2024-02-01,2026-01-31,6.0,2025-02-01,API-CALLS,API calls bundle,1,810.22,,,250000,0.006,1.0
+K00284,Cedar Media LLC,AE,2024-02-01,2026-01-31,6.0,2025-02-01,SUPP-PREM,Premium support (flat),1,1065.96,,,,,1.0
+K00285,Union Analytics Limited,IE,2025-04-01,2027-03-31,7.0,2026-04-01,API-CALLS,API calls bundle,1,810.55,,,500000,0.006,1.0
+K00286,Quantum Travel Pty Ltd,AU,2024-11-01,2026-10-31,7.0,2025-11-01,PLAT-BASE,Platform licence (per seat),139,41.03,20.0,2025-03-31,,,1.0
+K00287,Pioneer Energy AG,DE,2024-10-01,2027-09-30,3.5,2025-10-01,PLAT-BASE,Platform licence (per seat),168,44.67,5.0,2024-12-31,,,1.0
+K00287,Pioneer Energy AG,DE,2024-10-01,2027-09-30,3.5,2025-10-01,SMS-MSG,SMS messages bundle,1,347.79,,,100000,0.015,1.0
+K00287,Pioneer Energy AG,DE,2024-10-01,2027-09-30,3.5,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),210,80.51,,,,,1.0
+K00288,Bright Systems GmbH,DE,2024-04-01,2026-03-31,4.0,2025-04-01,PLAT-BASE,Platform licence (per seat),182,43.44,,,,,1.0
+K00288,Bright Systems GmbH,DE,2024-04-01,2026-03-31,4.0,2025-04-01,DATA-STOR,Data storage (per TB),87,57.93,5.0,2024-08-31,,,1.0
+K00288,Bright Systems GmbH,DE,2024-04-01,2026-03-31,4.0,2025-04-01,SUPP-PREM,Premium support (flat),1,1088.9,,,,,1.0
+K00289,Silver Properties Limited,NZ,2024-03-01,2027-02-28,4.0,2025-03-01,DATA-STOR,Data storage (per TB),56,59.81,,,,,0.9
+K00290,Harbour Finance Ltd,NZ,2024-07-01,2027-06-30,3.0,2025-07-01,PLAT-PRO,Platform Pro licence (per seat),238,80.45,,,,,1.0
+K00290,Harbour Finance Ltd,NZ,2024-07-01,2027-06-30,3.0,2025-07-01,API-CALLS,API calls bundle,1,799.96,15.0,2025-03-31,100000,0.006,1.0
+K00291,Sterling Pharma LLC,AE,2025-05-01,2027-04-30,7.0,2026-05-01,SMS-MSG,SMS messages bundle,1,363.43,,,20000,0.015,0.9
+K00292,Quantum Telecom Pty Ltd,AU,2025-02-01,2027-01-31,6.0,2026-02-01,DATA-STOR,Data storage (per TB),191,54.64,,,,,1.0
+K00292,Quantum Telecom Pty Ltd,AU,2025-02-01,2027-01-31,6.0,2026-02-01,SMS-MSG,SMS messages bundle,1,387.12,20.0,2025-09-30,100000,0.015,1.0
+K00293,Crescent Logistics B.V.,NL,2025-05-01,2027-04-30,6.0,2026-05-01,SUPP-PREM,Premium support (flat),1,1092.11,,,,,1.0
+K00293,Crescent Logistics B.V.,NL,2025-05-01,2027-04-30,6.0,2026-05-01,SMS-MSG,SMS messages bundle,1,397.53,,,20000,0.015,1.0
+K00294,North Retail FZ-LLC,AE,2024-12-01,2026-11-30,5.0,2025-12-01,SMS-MSG,SMS messages bundle,1,350.6,,,20000,0.015,1.0
+K00294,North Retail FZ-LLC,AE,2024-12-01,2026-11-30,5.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),81,80.67,,,,,1.0
+K00295,Zenith Telecom B.V.,NL,2024-04-01,2027-03-31,5.0,2025-04-01,DATA-STOR,Data storage (per TB),11,51.32,,,,,1.0
+K00295,Zenith Telecom B.V.,NL,2024-04-01,2027-03-31,5.0,2025-04-01,PLAT-PRO,Platform Pro licence (per seat),130,79.81,,,,,1.0
+K00295,Zenith Telecom B.V.,NL,2024-04-01,2027-03-31,5.0,2025-04-01,API-CALLS,API calls bundle,1,872.02,,,500000,0.006,1.0
+K00296,Harbour Analytics Pty Ltd,AU,2025-06-01,2028-05-31,3.0,2026-06-01,SUPP-PREM,Premium support (flat),1,1161.8,5.0,2025-09-30,,,0.9
+K00297,Apex Logistics AG,DE,2025-06-01,2028-05-31,7.0,2026-06-01,PLAT-PRO,Platform Pro licence (per seat),14,84.04,,,,,1.0
+K00297,Apex Logistics AG,DE,2025-06-01,2028-05-31,7.0,2026-06-01,API-CALLS,API calls bundle,1,831.0,,,100000,0.006,1.0
+K00297,Apex Logistics AG,DE,2025-06-01,2028-05-31,7.0,2026-06-01,SMS-MSG,SMS messages bundle,1,395.08,10.0,2025-08-31,20000,0.015,1.0
+K00298,Pacific Hospitality Ltd,NZ,2024-02-01,2027-01-31,3.0,2025-02-01,API-CALLS,API calls bundle,1,773.63,10.0,2024-04-30,100000,0.006,1.0
+K00299,Silver Foods B.V.,NL,2025-03-01,2028-02-29,7.0,2026-03-01,PLAT-BASE,Platform licence (per seat),87,41.93,,,,,1.0
+K00299,Silver Foods B.V.,NL,2025-03-01,2028-02-29,7.0,2026-03-01,API-CALLS,API calls bundle,1,872.07,,,100000,0.006,1.0
+K00300,Harbour Insurance FZ-LLC,AE,2024-12-01,2026-11-30,3.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),117,79.31,5.0,2025-03-31,,,0.9
+K00300,Harbour Insurance FZ-LLC,AE,2024-12-01,2026-11-30,3.0,2025-12-01,SUPP-PREM,Premium support (flat),1,1172.53,,,,,0.9
+K00301,Orbit Labs FZ-LLC,AE,2024-01-01,2026-12-31,3.0,2025-01-01,PLAT-BASE,Platform licence (per seat),156,43.02,,,,,1.0
+K00302,Quantum Energy Pty Ltd,AU,2025-05-01,2027-04-30,3.5,2026-05-01,API-CALLS,API calls bundle,1,820.62,,,100000,0.006,0.9
+K00302,Quantum Energy Pty Ltd,AU,2025-05-01,2027-04-30,3.5,2026-05-01,DATA-STOR,Data storage (per TB),51,51.34,,,,,0.9
+K00303,Vertex Construction Pty Ltd,AU,2024-11-01,2027-10-31,5.0,2025-11-01,PLAT-PRO,Platform Pro licence (per seat),140,73.75,,,,,1.0
+K00304,Willow Telecom DAC,IE,2025-07-01,2027-06-30,5.0,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),208,74.72,20.0,2025-12-31,,,1.0
+K00304,Willow Telecom DAC,IE,2025-07-01,2027-06-30,5.0,2026-07-01,SUPP-PREM,Premium support (flat),1,1140.63,15.0,2025-11-30,,,1.0
+K00304,Willow Telecom DAC,IE,2025-07-01,2027-06-30,5.0,2026-07-01,PLAT-BASE,Platform licence (per seat),162,39.95,,,,,1.0
+K00305,Iron Properties Pty Ltd,AU,2024-02-01,2026-01-31,7.0,2025-02-01,PLAT-PRO,Platform Pro licence (per seat),34,78.43,10.0,2024-09-30,,,0.9
+K00305,Iron Properties Pty Ltd,AU,2024-02-01,2026-01-31,7.0,2025-02-01,SMS-MSG,SMS messages bundle,1,374.79,15.0,2024-05-31,50000,0.015,0.9
+K00305,Iron Properties Pty Ltd,AU,2024-02-01,2026-01-31,7.0,2025-02-01,PLAT-BASE,Platform licence (per seat),30,40.45,20.0,2024-10-31,,,0.9
+K00306,Atlas Energy LLC,AE,2024-03-01,2027-02-28,6.0,2025-03-01,PLAT-PRO,Platform Pro licence (per seat),121,84.08,15.0,2024-06-30,,,0.9
+K00306,Atlas Energy LLC,AE,2024-03-01,2027-02-28,6.0,2025-03-01,SMS-MSG,SMS messages bundle,1,351.65,,,50000,0.015,0.9
+K00307,Sterling Travel DAC,IE,2024-12-01,2026-11-30,3.0,2025-12-01,SUPP-PREM,Premium support (flat),1,1044.57,,,,,1.0
+K00308,Iron Education Limited,IE,2025-03-01,2027-02-28,4.0,2026-03-01,API-CALLS,API calls bundle,1,871.59,,,500000,0.006,1.0
+K00308,Iron Education Limited,IE,2025-03-01,2027-02-28,4.0,2026-03-01,PLAT-PRO,Platform Pro licence (per seat),152,83.8,,,,,1.0
+K00309,Union Pharma LLC,AE,2024-03-01,2027-02-28,6.0,2025-03-01,API-CALLS,API calls bundle,1,828.92,20.0,2024-10-31,250000,0.006,1.0
+K00310,River Energy FZ-LLC,AE,2024-12-01,2027-11-30,6.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),16,77.58,20.0,2025-07-31,,,1.0
+K00310,River Energy FZ-LLC,AE,2024-12-01,2027-11-30,6.0,2025-12-01,API-CALLS,API calls bundle,1,769.54,,,500000,0.006,1.0
+K00310,River Energy FZ-LLC,AE,2024-12-01,2027-11-30,6.0,2025-12-01,PLAT-BASE,Platform licence (per seat),183,43.72,,,,,1.0
+K00311,Blue Energy Pty Ltd,AU,2025-05-01,2027-04-30,3.0,2026-05-01,SMS-MSG,SMS messages bundle,1,383.91,15.0,2025-08-31,20000,0.015,1.0
+K00312,Nova Construction LLC,AE,2024-01-01,2026-12-31,7.0,2025-01-01,DATA-STOR,Data storage (per TB),123,59.79,,,,,1.0
+K00312,Nova Construction LLC,AE,2024-01-01,2026-12-31,7.0,2025-01-01,API-CALLS,API calls bundle,1,883.02,15.0,2024-08-31,250000,0.006,1.0
+K00312,Nova Construction LLC,AE,2024-01-01,2026-12-31,7.0,2025-01-01,PLAT-BASE,Platform licence (per seat),225,42.53,,,,,1.0
+K00313,Silver Insurance Limited,IE,2024-12-01,2026-11-30,4.0,2025-12-01,SMS-MSG,SMS messages bundle,1,372.55,,,20000,0.015,1.0
+K00313,Silver Insurance Limited,IE,2024-12-01,2026-11-30,4.0,2025-12-01,API-CALLS,API calls bundle,1,775.93,,,250000,0.006,1.0
+K00314,Red Telecom FZ-LLC,AE,2025-06-01,2028-05-31,3.0,2026-06-01,DATA-STOR,Data storage (per TB),98,51.37,5.0,2025-12-31,,,1.0
+K00314,Red Telecom FZ-LLC,AE,2025-06-01,2028-05-31,3.0,2026-06-01,API-CALLS,API calls bundle,1,792.64,5.0,2026-01-31,250000,0.006,1.0
+K00315,Pacific Hospitality Ltd,NZ,2024-08-01,2026-07-31,4.0,2025-08-01,API-CALLS,API calls bundle,1,802.41,,,100000,0.006,0.9
+K00315,Pacific Hospitality Ltd,NZ,2024-08-01,2026-07-31,4.0,2025-08-01,DATA-STOR,Data storage (per TB),133,55.07,,,,,0.9
+K00316,Nova Properties Pty Ltd,AU,2025-04-01,2028-03-31,5.0,2026-04-01,SMS-MSG,SMS messages bundle,1,393.51,20.0,2025-07-31,50000,0.015,1.0
+K00316,Nova Properties Pty Ltd,AU,2025-04-01,2028-03-31,5.0,2026-04-01,PLAT-BASE,Platform licence (per seat),32,44.71,5.0,2025-11-30,,,1.0
+K00316,Nova Properties Pty Ltd,AU,2025-04-01,2028-03-31,5.0,2026-04-01,PLAT-PRO,Platform Pro licence (per seat),57,74.17,,,,,1.0
+K00317,North Labs FZ-LLC,AE,2024-10-01,2027-09-30,7.0,2025-10-01,DATA-STOR,Data storage (per TB),118,54.12,,,,,1.0
+K00318,Granite Education Pty Ltd,AU,2024-10-01,2026-09-30,3.0,2025-10-01,API-CALLS,API calls bundle,1,852.03,,,250000,0.006,1.0
+K00319,Harbour Construction Pty Ltd,AU,2025-05-01,2028-04-30,5.0,2026-05-01,SUPP-PREM,Premium support (flat),1,1050.91,20.0,2025-09-30,,,1.0
+K00320,Quantum Hospitality Pty Ltd,AU,2024-05-01,2027-04-30,4.0,2025-05-01,API-CALLS,API calls bundle,1,889.76,,,500000,0.006,1.0
+K00321,Desert Pharma LLC,AE,2024-06-01,2026-05-31,3.5,2025-06-01,SUPP-PREM,Premium support (flat),1,1123.41,,,,,0.9
+K00322,Union Energy Limited,IE,2024-07-01,2026-06-30,6.0,2025-07-01,SUPP-PREM,Premium support (flat),1,1087.12,,,,,1.0
+K00322,Union Energy Limited,IE,2024-07-01,2026-06-30,6.0,2025-07-01,SMS-MSG,SMS messages bundle,1,349.76,5.0,2024-12-31,50000,0.015,1.0
+K00322,Union Energy Limited,IE,2024-07-01,2026-06-30,6.0,2025-07-01,PLAT-PRO,Platform Pro licence (per seat),247,82.05,,,,,1.0
+K00323,North Energy FZE,AE,2024-06-01,2026-05-31,7.0,2025-06-01,SUPP-PREM,Premium support (flat),1,1181.28,,,,,1.0
+K00323,North Energy FZE,AE,2024-06-01,2026-05-31,7.0,2025-06-01,SMS-MSG,SMS messages bundle,1,385.25,,,100000,0.015,1.0
+K00323,North Energy FZE,AE,2024-06-01,2026-05-31,7.0,2025-06-01,DATA-STOR,Data storage (per TB),191,58.2,,,,,1.0
+K00324,Falcon Analytics LLC,AE,2024-12-01,2026-11-30,7.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),34,80.89,,,,,1.0
+K00325,Harbour Energy LLC,AE,2025-09-01,2027-08-31,5.0,2026-09-01,PLAT-BASE,Platform licence (per seat),154,42.58,,,,,0.9
+K00325,Harbour Energy LLC,AE,2025-09-01,2027-08-31,5.0,2026-09-01,API-CALLS,API calls bundle,1,870.47,5.0,2026-03-31,250000,0.006,0.9
+K00326,Emerald Foods Pty Ltd,AU,2025-06-01,2028-05-31,3.5,2026-06-01,API-CALLS,API calls bundle,1,887.64,,,250000,0.006,0.9
+K00326,Emerald Foods Pty Ltd,AU,2025-06-01,2028-05-31,3.5,2026-06-01,SMS-MSG,SMS messages bundle,1,382.96,,,50000,0.015,0.9
+K00326,Emerald Foods Pty Ltd,AU,2025-06-01,2028-05-31,3.5,2026-06-01,PLAT-BASE,Platform licence (per seat),77,40.77,,,,,0.9
+K00327,Orbit Hospitality LLC,AE,2025-04-01,2027-03-31,3.5,2026-04-01,SMS-MSG,SMS messages bundle,1,388.22,20.0,2025-11-30,50000,0.015,0.9
+K00327,Orbit Hospitality LLC,AE,2025-04-01,2027-03-31,3.5,2026-04-01,DATA-STOR,Data storage (per TB),155,52.26,,,,,0.9
+K00328,Cedar Labs FZE,AE,2024-07-01,2027-06-30,5.0,2025-07-01,SUPP-PREM,Premium support (flat),1,1035.92,,,,,0.9
+K00328,Cedar Labs FZE,AE,2024-07-01,2027-06-30,5.0,2025-07-01,PLAT-BASE,Platform licence (per seat),111,44.42,20.0,2025-02-28,,,0.9
+K00328,Cedar Labs FZE,AE,2024-07-01,2027-06-30,5.0,2025-07-01,DATA-STOR,Data storage (per TB),56,59.23,20.0,2024-11-30,,,0.9
+K00329,Pacific Properties LLC,AE,2024-11-01,2027-10-31,5.0,2025-11-01,PLAT-PRO,Platform Pro licence (per seat),44,82.34,20.0,2025-01-31,,,1.0
+K00329,Pacific Properties LLC,AE,2024-11-01,2027-10-31,5.0,2025-11-01,PLAT-BASE,Platform licence (per seat),111,44.28,10.0,2025-01-31,,,1.0
+K00330,Vertex Logistics FZ-LLC,AE,2025-05-01,2027-04-30,6.0,2026-05-01,DATA-STOR,Data storage (per TB),165,58.82,,,,,1.0
+K00330,Vertex Logistics FZ-LLC,AE,2025-05-01,2027-04-30,6.0,2026-05-01,API-CALLS,API calls bundle,1,896.52,,,100000,0.006,1.0
+K00330,Vertex Logistics FZ-LLC,AE,2025-05-01,2027-04-30,6.0,2026-05-01,SMS-MSG,SMS messages bundle,1,383.98,,,20000,0.015,1.0
+K00331,Pacific Energy AG,DE,2025-08-01,2027-07-31,3.5,2026-08-01,PLAT-PRO,Platform Pro licence (per seat),97,72.92,,,,,0.9
+K00331,Pacific Energy AG,DE,2025-08-01,2027-07-31,3.5,2026-08-01,SUPP-PREM,Premium support (flat),1,1184.18,,,,,0.9
+K00331,Pacific Energy AG,DE,2025-08-01,2027-07-31,3.5,2026-08-01,SMS-MSG,SMS messages bundle,1,357.39,,,100000,0.015,0.9
+K00332,Atlas Motors Pty Ltd,AU,2025-06-01,2027-05-31,7.0,2026-06-01,API-CALLS,API calls bundle,1,866.6,,,500000,0.006,0.9
+K00333,Titan Logistics B.V.,NL,2024-11-01,2027-10-31,7.0,2025-11-01,PLAT-BASE,Platform licence (per seat),215,42.17,10.0,2025-05-31,,,1.0
+K00333,Titan Logistics B.V.,NL,2024-11-01,2027-10-31,7.0,2025-11-01,API-CALLS,API calls bundle,1,870.14,,,250000,0.006,1.0
+K00334,Pacific Energy AG,DE,2024-04-01,2026-03-31,3.5,2025-04-01,API-CALLS,API calls bundle,1,847.81,,,500000,0.006,1.0
+K00335,Emerald Motors B.V.,NL,2024-04-01,2027-03-31,5.0,2025-04-01,PLAT-PRO,Platform Pro licence (per seat),127,84.02,,,,,0.9
+K00336,Willow Telecom DAC,IE,2024-05-01,2027-04-30,6.0,2025-05-01,PLAT-PRO,Platform Pro licence (per seat),213,72.62,10.0,2025-01-31,,,0.9
+K00336,Willow Telecom DAC,IE,2024-05-01,2027-04-30,6.0,2025-05-01,SUPP-PREM,Premium support (flat),1,1143.85,,,,,0.9
+K00337,Sterling Telecom Pty Ltd,AU,2024-05-01,2026-04-30,5.0,2025-05-01,PLAT-BASE,Platform licence (per seat),128,38.38,,,,,0.9
+K00338,Pacific Properties LLC,AE,2024-07-01,2026-06-30,3.0,2025-07-01,API-CALLS,API calls bundle,1,781.05,15.0,2025-02-28,250000,0.006,1.0
+K00338,Pacific Properties LLC,AE,2024-07-01,2026-06-30,3.0,2025-07-01,PLAT-BASE,Platform licence (per seat),36,38.9,,,,,1.0
+K00338,Pacific Properties LLC,AE,2024-07-01,2026-06-30,3.0,2025-07-01,DATA-STOR,Data storage (per TB),235,52.85,15.0,2024-09-30,,,1.0
+K00339,Falcon Telecom FZE,AE,2025-08-01,2028-07-31,4.0,2026-08-01,SMS-MSG,SMS messages bundle,1,370.29,5.0,2026-02-28,20000,0.015,1.0
+K00339,Falcon Telecom FZE,AE,2025-08-01,2028-07-31,4.0,2026-08-01,API-CALLS,API calls bundle,1,790.86,5.0,2026-03-31,250000,0.006,1.0
+K00339,Falcon Telecom FZE,AE,2025-08-01,2028-07-31,4.0,2026-08-01,PLAT-PRO,Platform Pro licence (per seat),134,74.98,,,,,1.0
+K00340,Desert Labs Limited,NZ,2025-01-01,2026-12-31,5.0,2026-01-01,PLAT-PRO,Platform Pro licence (per seat),102,82.89,,,,,1.0
+K00341,Vertex Media LLC,AE,2024-08-01,2027-07-31,3.0,2025-08-01,PLAT-BASE,Platform licence (per seat),39,38.99,,,,,1.0
+K00341,Vertex Media LLC,AE,2024-08-01,2027-07-31,3.0,2025-08-01,DATA-STOR,Data storage (per TB),78,54.25,,,,,1.0
+K00342,Titan Labs DAC,IE,2024-03-01,2027-02-28,5.0,2025-03-01,DATA-STOR,Data storage (per TB),180,57.63,,,,,1.0
+K00342,Titan Labs DAC,IE,2024-03-01,2027-02-28,5.0,2025-03-01,API-CALLS,API calls bundle,1,824.93,,,500000,0.006,1.0
+K00343,Sterling Media GmbH,DE,2024-07-01,2026-06-30,5.0,2025-07-01,PLAT-PRO,Platform Pro licence (per seat),130,84.98,,,,,1.0
+K00343,Sterling Media GmbH,DE,2024-07-01,2026-06-30,5.0,2025-07-01,PLAT-BASE,Platform licence (per seat),138,40.93,,,,,1.0
+K00344,Vertex Education Ltd,NZ,2024-05-01,2026-04-30,5.0,2025-05-01,PLAT-BASE,Platform licence (per seat),55,40.71,,,,,1.0
+K00344,Vertex Education Ltd,NZ,2024-05-01,2026-04-30,5.0,2025-05-01,PLAT-PRO,Platform Pro licence (per seat),108,79.84,20.0,2024-12-31,,,1.0
+K00344,Vertex Education Ltd,NZ,2024-05-01,2026-04-30,5.0,2025-05-01,SMS-MSG,SMS messages bundle,1,385.89,,,100000,0.015,1.0
+K00345,Falcon Finance LLC,AE,2024-12-01,2027-11-30,7.0,2025-12-01,DATA-STOR,Data storage (per TB),201,53.51,,,,,1.0
+K00345,Falcon Finance LLC,AE,2024-12-01,2027-11-30,7.0,2025-12-01,API-CALLS,API calls bundle,1,781.5,,,250000,0.006,1.0
+K00346,North Education Limited,NZ,2024-01-01,2025-12-31,7.0,2025-01-01,DATA-STOR,Data storage (per TB),50,57.1,,,,,0.9
+K00347,Harbour Construction Pty Ltd,AU,2024-06-01,2027-05-31,6.0,2025-06-01,SMS-MSG,SMS messages bundle,1,385.1,,,50000,0.015,1.0
+K00348,Sterling Travel DAC,IE,2024-10-01,2027-09-30,5.0,2025-10-01,SUPP-PREM,Premium support (flat),1,1191.46,20.0,2024-12-31,,,1.0
+K00348,Sterling Travel DAC,IE,2024-10-01,2027-09-30,5.0,2025-10-01,API-CALLS,API calls bundle,1,807.47,,,250000,0.006,1.0
+K00348,Sterling Travel DAC,IE,2024-10-01,2027-09-30,5.0,2025-10-01,PLAT-BASE,Platform licence (per seat),50,38.49,,,,,1.0
+K00349,Red Foods Limited,IE,2024-06-01,2027-05-31,5.0,2025-06-01,DATA-STOR,Data storage (per TB),130,56.12,,,,,0.9
+K00349,Red Foods Limited,IE,2024-06-01,2027-05-31,5.0,2025-06-01,SMS-MSG,SMS messages bundle,1,381.12,,,100000,0.015,0.9
+K00349,Red Foods Limited,IE,2024-06-01,2027-05-31,5.0,2025-06-01,PLAT-BASE,Platform licence (per seat),45,42.05,,,,,0.9
+K00350,Falcon Construction Pty Ltd,AU,2024-09-01,2027-08-31,6.0,2025-09-01,SMS-MSG,SMS messages bundle,1,359.23,,,20000,0.015,1.0
+K00350,Falcon Construction Pty Ltd,AU,2024-09-01,2027-08-31,6.0,2025-09-01,SUPP-PREM,Premium support (flat),1,1043.08,,,,,1.0
+K00350,Falcon Construction Pty Ltd,AU,2024-09-01,2027-08-31,6.0,2025-09-01,API-CALLS,API calls bundle,1,874.29,15.0,2025-02-28,500000,0.006,1.0
+K00351,Desert Construction Pty Ltd,AU,2024-12-01,2027-11-30,4.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),84,75.24,,,,,1.0
+K00352,Iron Construction Pty Ltd,AU,2024-11-01,2026-10-31,4.0,2025-11-01,SUPP-PREM,Premium support (flat),1,1138.4,,,,,1.0
+K00352,Iron Construction Pty Ltd,AU,2024-11-01,2026-10-31,4.0,2025-11-01,PLAT-BASE,Platform licence (per seat),112,41.72,20.0,2025-05-31,,,1.0
+K00352,Iron Construction Pty Ltd,AU,2024-11-01,2026-10-31,4.0,2025-11-01,DATA-STOR,Data storage (per TB),151,53.85,,,,,1.0
+K00353,North Retail FZ-LLC,AE,2024-04-01,2027-03-31,3.0,2025-04-01,SUPP-PREM,Premium support (flat),1,1109.41,,,,,1.0
+K00354,Nova Health DAC,IE,2024-06-01,2027-05-31,4.0,2025-06-01,DATA-STOR,Data storage (per TB),206,56.72,10.0,2024-10-31,,,1.0
+K00355,Bright Education DAC,IE,2025-08-01,2028-07-31,3.5,2026-08-01,SMS-MSG,SMS messages bundle,1,390.65,,,20000,0.015,0.9
+K00356,Nova Energy Pty Ltd,AU,2024-03-01,2027-02-28,5.0,2025-03-01,SMS-MSG,SMS messages bundle,1,389.42,,,100000,0.015,0.9
+K00357,North Motors Ltd,NZ,2025-07-01,2028-06-30,3.5,2026-07-01,API-CALLS,API calls bundle,1,826.19,5.0,2026-02-28,500000,0.006,0.9
+K00357,North Motors Ltd,NZ,2025-07-01,2028-06-30,3.5,2026-07-01,SMS-MSG,SMS messages bundle,1,391.76,,,100000,0.015,0.9
+K00358,Titan Retail B.V.,NL,2024-10-01,2027-09-30,6.0,2025-10-01,API-CALLS,API calls bundle,1,792.09,10.0,2025-05-31,250000,0.006,1.0
+K00359,Pioneer Logistics Pty Ltd,AU,2025-03-01,2028-02-29,4.0,2026-03-01,SMS-MSG,SMS messages bundle,1,352.21,15.0,2025-10-31,50000,0.015,1.0
+K00360,Apex Motors FZE,AE,2025-02-01,2027-01-31,3.0,2026-02-01,PLAT-PRO,Platform Pro licence (per seat),84,82.41,,,,,1.0
+K00361,Pioneer Energy AG,DE,2025-03-01,2028-02-29,7.0,2026-03-01,PLAT-PRO,Platform Pro licence (per seat),12,75.73,15.0,2025-10-31,,,1.0
+K00362,Pacific Properties LLC,AE,2025-05-01,2027-04-30,3.0,2026-05-01,SUPP-PREM,Premium support (flat),1,1128.29,,,,,1.0
+K00363,North Telecom B.V.,NL,2025-01-01,2026-12-31,5.0,2026-01-01,PLAT-PRO,Platform Pro licence (per seat),133,79.53,,,,,1.0
+K00363,North Telecom B.V.,NL,2025-01-01,2026-12-31,5.0,2026-01-01,SMS-MSG,SMS messages bundle,1,371.32,,,100000,0.015,1.0
+K00363,North Telecom B.V.,NL,2025-01-01,2026-12-31,5.0,2026-01-01,PLAT-BASE,Platform licence (per seat),69,44.54,,,,,1.0
+K00364,Nova Construction LLC,AE,2024-08-01,2026-07-31,4.0,2025-08-01,SMS-MSG,SMS messages bundle,1,396.13,10.0,2024-11-30,20000,0.015,1.0
+K00364,Nova Construction LLC,AE,2024-08-01,2026-07-31,4.0,2025-08-01,DATA-STOR,Data storage (per TB),70,54.96,,,,,1.0
+K00364,Nova Construction LLC,AE,2024-08-01,2026-07-31,4.0,2025-08-01,PLAT-PRO,Platform Pro licence (per seat),141,72.96,,,,,1.0
+K00365,Quantum Foods Pty Ltd,AU,2024-11-01,2027-10-31,5.0,2025-11-01,PLAT-PRO,Platform Pro licence (per seat),99,78.31,,,,,0.9
+K00365,Quantum Foods Pty Ltd,AU,2024-11-01,2027-10-31,5.0,2025-11-01,SUPP-PREM,Premium support (flat),1,1023.79,,,,,0.9
+K00366,Red Education AG,DE,2024-02-01,2026-01-31,4.0,2025-02-01,SMS-MSG,SMS messages bundle,1,394.19,10.0,2024-10-31,100000,0.015,0.9
+K00366,Red Education AG,DE,2024-02-01,2026-01-31,4.0,2025-02-01,SUPP-PREM,Premium support (flat),1,1021.42,,,,,0.9
+K00367,River Motors Ltd,NZ,2024-11-01,2026-10-31,3.5,2025-11-01,DATA-STOR,Data storage (per TB),230,56.68,,,,,1.0
+K00368,North Telecom B.V.,NL,2024-02-01,2027-01-31,3.0,2025-02-01,DATA-STOR,Data storage (per TB),90,59.34,,,,,1.0
+K00368,North Telecom B.V.,NL,2024-02-01,2027-01-31,3.0,2025-02-01,SMS-MSG,SMS messages bundle,1,392.61,,,20000,0.015,1.0
+K00369,Red Hospitality Pty Ltd,AU,2025-06-01,2027-05-31,4.0,2026-06-01,API-CALLS,API calls bundle,1,858.85,,,100000,0.006,1.0
+K00369,Red Hospitality Pty Ltd,AU,2025-06-01,2027-05-31,4.0,2026-06-01,SUPP-PREM,Premium support (flat),1,1053.07,,,,,1.0
+K00369,Red Hospitality Pty Ltd,AU,2025-06-01,2027-05-31,4.0,2026-06-01,DATA-STOR,Data storage (per TB),5,56.77,,,,,1.0
+K00370,Emerald Telecom Pty Ltd,AU,2024-11-01,2026-10-31,3.0,2025-11-01,SMS-MSG,SMS messages bundle,1,387.56,,,50000,0.015,1.0
+K00370,Emerald Telecom Pty Ltd,AU,2024-11-01,2026-10-31,3.0,2025-11-01,PLAT-PRO,Platform Pro licence (per seat),39,83.39,15.0,2025-07-31,,,1.0
+K00370,Emerald Telecom Pty Ltd,AU,2024-11-01,2026-10-31,3.0,2025-11-01,DATA-STOR,Data storage (per TB),99,51.76,20.0,2025-07-31,,,1.0
+K00371,Silver Trading Limited,NZ,2024-01-01,2025-12-31,6.0,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),184,74.78,,,,,0.9
+K00371,Silver Trading Limited,NZ,2024-01-01,2025-12-31,6.0,2025-01-01,PLAT-BASE,Platform licence (per seat),163,38.59,,,,,0.9
+K00371,Silver Trading Limited,NZ,2024-01-01,2025-12-31,6.0,2025-01-01,DATA-STOR,Data storage (per TB),27,53.34,,,,,0.9
+K00372,Apex Travel FZE,AE,2025-08-01,2027-07-31,3.0,2026-08-01,DATA-STOR,Data storage (per TB),187,52.07,15.0,2025-12-31,,,1.0
+K00372,Apex Travel FZE,AE,2025-08-01,2027-07-31,3.0,2026-08-01,SMS-MSG,SMS messages bundle,1,362.92,,,50000,0.015,1.0
+K00373,Falcon Travel FZE,AE,2024-10-01,2026-09-30,5.0,2025-10-01,PLAT-BASE,Platform licence (per seat),72,40.21,20.0,2025-01-31,,,0.9
+K00374,Iron Education Limited,IE,2024-03-01,2026-02-28,5.0,2025-03-01,SMS-MSG,SMS messages bundle,1,381.21,,,100000,0.015,1.0
+K00374,Iron Education Limited,IE,2024-03-01,2026-02-28,5.0,2025-03-01,DATA-STOR,Data storage (per TB),157,54.81,5.0,2024-09-30,,,1.0
+K00375,Orbit Motors Pty Ltd,AU,2024-08-01,2027-07-31,4.0,2025-08-01,API-CALLS,API calls bundle,1,799.24,,,500000,0.006,0.9
+K00375,Orbit Motors Pty Ltd,AU,2024-08-01,2027-07-31,4.0,2025-08-01,PLAT-BASE,Platform licence (per seat),176,44.85,,,,,0.9
+K00375,Orbit Motors Pty Ltd,AU,2024-08-01,2027-07-31,4.0,2025-08-01,SMS-MSG,SMS messages bundle,1,398.08,10.0,2024-12-31,100000,0.015,0.9
+K00376,Nova Media B.V.,NL,2024-12-01,2027-11-30,3.5,2025-12-01,API-CALLS,API calls bundle,1,800.15,10.0,2025-05-31,250000,0.006,1.0
+K00376,Nova Media B.V.,NL,2024-12-01,2027-11-30,3.5,2025-12-01,DATA-STOR,Data storage (per TB),196,58.51,,,,,1.0
+K00376,Nova Media B.V.,NL,2024-12-01,2027-11-30,3.5,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),236,77.73,,,,,1.0
+K00377,Iron Retail AG,DE,2025-06-01,2028-05-31,5.0,2026-06-01,SMS-MSG,SMS messages bundle,1,385.82,,,20000,0.015,1.0
+K00377,Iron Retail AG,DE,2025-06-01,2028-05-31,5.0,2026-06-01,DATA-STOR,Data storage (per TB),167,59.31,,,,,1.0
+K00378,Harbour Properties FZE,AE,2024-07-01,2026-06-30,3.0,2025-07-01,DATA-STOR,Data storage (per TB),185,53.34,,,,,1.0
+K00379,Vertex Foods DAC,IE,2025-05-01,2027-04-30,5.0,2026-05-01,API-CALLS,API calls bundle,1,831.55,,,500000,0.006,1.0
+K00379,Vertex Foods DAC,IE,2025-05-01,2027-04-30,5.0,2026-05-01,DATA-STOR,Data storage (per TB),28,52.11,15.0,2025-08-31,,,1.0
+K00379,Vertex Foods DAC,IE,2025-05-01,2027-04-30,5.0,2026-05-01,SMS-MSG,SMS messages bundle,1,385.0,,,50000,0.015,1.0
+K00380,Harbour Insurance FZ-LLC,AE,2024-08-01,2026-07-31,6.0,2025-08-01,DATA-STOR,Data storage (per TB),68,59.28,,,,,1.0
+K00381,Crescent Analytics Limited,IE,2024-12-01,2026-11-30,4.0,2025-12-01,PLAT-BASE,Platform licence (per seat),248,42.23,15.0,2025-03-31,,,1.0
+K00381,Crescent Analytics Limited,IE,2024-12-01,2026-11-30,4.0,2025-12-01,DATA-STOR,Data storage (per TB),186,55.14,,,,,1.0
+K00381,Crescent Analytics Limited,IE,2024-12-01,2026-11-30,4.0,2025-12-01,SUPP-PREM,Premium support (flat),1,1101.73,,,,,1.0
+K00382,River Systems AG,DE,2024-12-01,2026-11-30,7.0,2025-12-01,SUPP-PREM,Premium support (flat),1,1043.28,,,,,1.0
+K00382,River Systems AG,DE,2024-12-01,2026-11-30,7.0,2025-12-01,API-CALLS,API calls bundle,1,873.21,,,250000,0.006,1.0
+K00383,Red Telecom FZ-LLC,AE,2024-03-01,2027-02-28,3.0,2025-03-01,PLAT-PRO,Platform Pro licence (per seat),226,84.55,,,,,1.0
+K00384,Granite Education Pty Ltd,AU,2024-08-01,2026-07-31,5.0,2025-08-01,SMS-MSG,SMS messages bundle,1,347.24,,,50000,0.015,1.0
+K00384,Granite Education Pty Ltd,AU,2024-08-01,2026-07-31,5.0,2025-08-01,PLAT-PRO,Platform Pro licence (per seat),240,81.63,,,,,1.0
+K00385,Apex Foods FZ-LLC,AE,2025-01-01,2026-12-31,4.0,2026-01-01,DATA-STOR,Data storage (per TB),149,55.29,,,,,1.0
+K00385,Apex Foods FZ-LLC,AE,2025-01-01,2026-12-31,4.0,2026-01-01,SMS-MSG,SMS messages bundle,1,345.41,,,50000,0.015,1.0
+K00386,Pioneer Education GmbH,DE,2025-03-01,2028-02-29,3.0,2026-03-01,DATA-STOR,Data storage (per TB),187,56.83,20.0,2025-09-30,,,1.0
+K00386,Pioneer Education GmbH,DE,2025-03-01,2028-02-29,3.0,2026-03-01,PLAT-PRO,Platform Pro licence (per seat),79,78.94,,,,,1.0
+K00387,Granite Retail Limited,IE,2025-05-01,2028-04-30,3.5,2026-05-01,SUPP-PREM,Premium support (flat),1,1073.19,5.0,2025-07-31,,,1.0
+K00387,Granite Retail Limited,IE,2025-05-01,2028-04-30,3.5,2026-05-01,PLAT-PRO,Platform Pro licence (per seat),110,78.76,15.0,2025-09-30,,,1.0
+K00387,Granite Retail Limited,IE,2025-05-01,2028-04-30,3.5,2026-05-01,DATA-STOR,Data storage (per TB),133,51.74,20.0,2025-08-31,,,1.0
+K00388,Falcon Motors Limited,IE,2024-02-01,2026-01-31,5.0,2025-02-01,SUPP-PREM,Premium support (flat),1,1150.34,,,,,0.9
+K00388,Falcon Motors Limited,IE,2024-02-01,2026-01-31,5.0,2025-02-01,API-CALLS,API calls bundle,1,825.74,,,250000,0.006,0.9
+K00389,Pioneer Education GmbH,DE,2024-08-01,2026-07-31,3.0,2025-08-01,SUPP-PREM,Premium support (flat),1,1116.19,5.0,2024-10-31,,,1.0
+K00389,Pioneer Education GmbH,DE,2024-08-01,2026-07-31,3.0,2025-08-01,PLAT-BASE,Platform licence (per seat),182,41.47,,,,,1.0
+K00389,Pioneer Education GmbH,DE,2024-08-01,2026-07-31,3.0,2025-08-01,DATA-STOR,Data storage (per TB),195,56.92,,,,,1.0
+K00390,Orbit Systems FZ-LLC,AE,2024-11-01,2027-10-31,7.0,2025-11-01,SMS-MSG,SMS messages bundle,1,345.26,5.0,2025-07-31,20000,0.015,0.9
+K00390,Orbit Systems FZ-LLC,AE,2024-11-01,2027-10-31,7.0,2025-11-01,DATA-STOR,Data storage (per TB),224,59.73,20.0,2025-06-30,,,0.9
+K00390,Orbit Systems FZ-LLC,AE,2024-11-01,2027-10-31,7.0,2025-11-01,SUPP-PREM,Premium support (flat),1,1063.52,,,,,0.9
+K00391,Summit Travel Pty Ltd,AU,2024-07-01,2026-06-30,4.0,2025-07-01,DATA-STOR,Data storage (per TB),34,54.8,10.0,2025-02-28,,,1.0
+K00392,Pioneer Media DAC,IE,2025-04-01,2027-03-31,5.0,2026-04-01,SUPP-PREM,Premium support (flat),1,1122.5,,,,,1.0
+K00393,Delta Labs Limited,IE,2024-12-01,2026-11-30,3.0,2025-12-01,DATA-STOR,Data storage (per TB),157,57.63,,,,,0.9
+K00393,Delta Labs Limited,IE,2024-12-01,2026-11-30,3.0,2025-12-01,SMS-MSG,SMS messages bundle,1,399.94,,,20000,0.015,0.9
+K00393,Delta Labs Limited,IE,2024-12-01,2026-11-30,3.0,2025-12-01,API-CALLS,API calls bundle,1,830.62,,,500000,0.006,0.9
+K00394,Orbit Systems FZ-LLC,AE,2024-08-01,2026-07-31,6.0,2025-08-01,SUPP-PREM,Premium support (flat),1,1068.21,,,,,0.9
+K00394,Orbit Systems FZ-LLC,AE,2024-08-01,2026-07-31,6.0,2025-08-01,API-CALLS,API calls bundle,1,885.03,,,100000,0.006,0.9
+K00394,Orbit Systems FZ-LLC,AE,2024-08-01,2026-07-31,6.0,2025-08-01,PLAT-BASE,Platform licence (per seat),93,44.59,,,,,0.9
+K00395,Willow Pharma FZE,AE,2024-01-01,2025-12-31,4.0,2025-01-01,SUPP-PREM,Premium support (flat),1,1061.78,15.0,2024-07-31,,,0.9
+K00395,Willow Pharma FZE,AE,2024-01-01,2025-12-31,4.0,2025-01-01,DATA-STOR,Data storage (per TB),124,57.44,15.0,2024-08-31,,,0.9
+K00396,Quantum Energy Pty Ltd,AU,2025-01-01,2027-12-31,3.5,2026-01-01,SMS-MSG,SMS messages bundle,1,380.02,10.0,2025-07-31,20000,0.015,1.0
+K00396,Quantum Energy Pty Ltd,AU,2025-01-01,2027-12-31,3.5,2026-01-01,PLAT-BASE,Platform licence (per seat),246,43.61,,,,,1.0
+K00397,Red Foods Limited,IE,2024-08-01,2026-07-31,6.0,2025-08-01,SUPP-PREM,Premium support (flat),1,1178.56,,,,,0.9
+K00398,Silver Pharma Pty Ltd,AU,2024-06-01,2026-05-31,3.0,2025-06-01,API-CALLS,API calls bundle,1,795.6,15.0,2024-10-31,500000,0.006,1.0
+K00399,Apex Systems DAC,IE,2025-07-01,2028-06-30,3.5,2026-07-01,API-CALLS,API calls bundle,1,890.1,,,250000,0.006,0.9
+K00399,Apex Systems DAC,IE,2025-07-01,2028-06-30,3.5,2026-07-01,PLAT-BASE,Platform licence (per seat),198,44.75,5.0,2026-03-31,,,0.9
+K00399,Apex Systems DAC,IE,2025-07-01,2028-06-30,3.5,2026-07-01,SMS-MSG,SMS messages bundle,1,386.93,,,20000,0.015,0.9
+K00400,Pacific Properties LLC,AE,2025-06-01,2027-05-31,3.5,2026-06-01,SUPP-PREM,Premium support (flat),1,1048.27,20.0,2026-02-28,,,0.9
+K00401,Zenith Energy Limited,IE,2024-06-01,2027-05-31,4.0,2025-06-01,PLAT-PRO,Platform Pro licence (per seat),111,77.85,,,,,1.0
+K00402,Desert Telecom B.V.,NL,2024-09-01,2027-08-31,4.0,2025-09-01,PLAT-BASE,Platform licence (per seat),188,40.05,,,,,1.0
+K00403,Willow Media Pty Ltd,AU,2024-09-01,2026-08-31,6.0,2025-09-01,PLAT-PRO,Platform Pro licence (per seat),110,82.47,,,,,1.0
+K00404,Iron Education Limited,IE,2025-06-01,2028-05-31,3.0,2026-06-01,SMS-MSG,SMS messages bundle,1,388.37,15.0,2025-11-30,20000,0.015,0.9
+K00405,Atlas Analytics Pty Ltd,AU,2025-03-01,2027-02-28,5.0,2026-03-01,SMS-MSG,SMS messages bundle,1,398.66,,,100000,0.015,1.0
+K00405,Atlas Analytics Pty Ltd,AU,2025-03-01,2027-02-28,5.0,2026-03-01,PLAT-PRO,Platform Pro licence (per seat),80,83.42,,,,,1.0
+K00405,Atlas Analytics Pty Ltd,AU,2025-03-01,2027-02-28,5.0,2026-03-01,PLAT-BASE,Platform licence (per seat),184,44.23,,,,,1.0
+K00406,Red Foods Limited,IE,2024-11-01,2027-10-31,3.0,2025-11-01,API-CALLS,API calls bundle,1,825.24,,,100000,0.006,1.0
+K00406,Red Foods Limited,IE,2024-11-01,2027-10-31,3.0,2025-11-01,PLAT-PRO,Platform Pro licence (per seat),163,80.21,,,,,1.0
+K00406,Red Foods Limited,IE,2024-11-01,2027-10-31,3.0,2025-11-01,DATA-STOR,Data storage (per TB),232,57.28,,,,,1.0
+K00407,Iron Energy LLC,AE,2024-07-01,2027-06-30,3.0,2025-07-01,DATA-STOR,Data storage (per TB),143,55.68,5.0,2025-01-31,,,1.0
+K00407,Iron Energy LLC,AE,2024-07-01,2027-06-30,3.0,2025-07-01,PLAT-PRO,Platform Pro licence (per seat),198,78.9,,,,,1.0
+K00408,North Labs FZ-LLC,AE,2024-01-01,2026-12-31,3.5,2025-01-01,SMS-MSG,SMS messages bundle,1,399.22,,,20000,0.015,0.9
+K00408,North Labs FZ-LLC,AE,2024-01-01,2026-12-31,3.5,2025-01-01,DATA-STOR,Data storage (per TB),71,58.57,,,,,0.9
+K00409,Falcon Properties FZ-LLC,AE,2024-05-01,2026-04-30,7.0,2025-05-01,SUPP-PREM,Premium support (flat),1,1152.63,,,,,1.0
+K00409,Falcon Properties FZ-LLC,AE,2024-05-01,2026-04-30,7.0,2025-05-01,API-CALLS,API calls bundle,1,897.7,,,500000,0.006,1.0
+K00410,Harbour Finance Ltd,NZ,2025-06-01,2027-05-31,4.0,2026-06-01,SMS-MSG,SMS messages bundle,1,382.86,,,100000,0.015,1.0
+K00410,Harbour Finance Ltd,NZ,2025-06-01,2027-05-31,4.0,2026-06-01,API-CALLS,API calls bundle,1,779.21,,,500000,0.006,1.0
+K00410,Harbour Finance Ltd,NZ,2025-06-01,2027-05-31,4.0,2026-06-01,PLAT-PRO,Platform Pro licence (per seat),97,82.74,,,,,1.0
+K00411,Crescent Telecom FZ-LLC,AE,2025-03-01,2028-02-29,3.0,2026-03-01,PLAT-PRO,Platform Pro licence (per seat),24,74.99,,,,,1.0
+K00411,Crescent Telecom FZ-LLC,AE,2025-03-01,2028-02-29,3.0,2026-03-01,DATA-STOR,Data storage (per TB),155,55.74,,,,,1.0
+K00412,Union Labs Limited,NZ,2024-09-01,2027-08-31,7.0,2025-09-01,SMS-MSG,SMS messages bundle,1,383.9,,,50000,0.015,1.0
+K00412,Union Labs Limited,NZ,2024-09-01,2027-08-31,7.0,2025-09-01,DATA-STOR,Data storage (per TB),37,52.3,,,,,1.0
+K00413,Iron Education Limited,IE,2024-05-01,2026-04-30,7.0,2025-05-01,PLAT-BASE,Platform licence (per seat),99,44.62,,,,,0.9
+K00413,Iron Education Limited,IE,2024-05-01,2026-04-30,7.0,2025-05-01,PLAT-PRO,Platform Pro licence (per seat),223,73.76,,,,,0.9
+K00414,Emerald Finance AG,DE,2025-01-01,2027-12-31,3.0,2026-01-01,SUPP-PREM,Premium support (flat),1,1074.89,,,,,0.9
+K00415,Crescent Pharma Pty Ltd,AU,2025-05-01,2027-04-30,3.5,2026-05-01,DATA-STOR,Data storage (per TB),60,59.0,20.0,2025-07-31,,,1.0
+K00415,Crescent Pharma Pty Ltd,AU,2025-05-01,2027-04-30,3.5,2026-05-01,PLAT-BASE,Platform licence (per seat),227,40.6,20.0,2025-11-30,,,1.0
+K00415,Crescent Pharma Pty Ltd,AU,2025-05-01,2027-04-30,3.5,2026-05-01,SUPP-PREM,Premium support (flat),1,1101.43,,,,,1.0
+K00416,Coral Insurance Limited,NZ,2025-05-01,2027-04-30,3.5,2026-05-01,DATA-STOR,Data storage (per TB),191,52.34,,,,,1.0
+K00416,Coral Insurance Limited,NZ,2025-05-01,2027-04-30,3.5,2026-05-01,SMS-MSG,SMS messages bundle,1,387.99,,,100000,0.015,1.0
+K00417,Titan Finance Ltd,NZ,2024-08-01,2027-07-31,4.0,2025-08-01,DATA-STOR,Data storage (per TB),186,58.79,15.0,2025-02-28,,,1.0
+K00417,Titan Finance Ltd,NZ,2024-08-01,2027-07-31,4.0,2025-08-01,SUPP-PREM,Premium support (flat),1,1135.9,5.0,2025-02-28,,,1.0
+K00417,Titan Finance Ltd,NZ,2024-08-01,2027-07-31,4.0,2025-08-01,PLAT-BASE,Platform licence (per seat),133,43.32,,,,,1.0
+K00418,Emerald Finance AG,DE,2025-06-01,2027-05-31,3.0,2026-06-01,PLAT-PRO,Platform Pro licence (per seat),219,82.83,,,,,1.0
+K00419,Nova Motors B.V.,NL,2024-03-01,2027-02-28,5.0,2025-03-01,PLAT-BASE,Platform licence (per seat),111,41.2,15.0,2024-08-31,,,1.0
+K00419,Nova Motors B.V.,NL,2024-03-01,2027-02-28,5.0,2025-03-01,SUPP-PREM,Premium support (flat),1,1040.64,10.0,2024-07-31,,,1.0
+K00420,River Motors Ltd,NZ,2024-04-01,2026-03-31,4.0,2025-04-01,PLAT-PRO,Platform Pro licence (per seat),187,74.56,20.0,2024-06-30,,,1.0
+K00420,River Motors Ltd,NZ,2024-04-01,2026-03-31,4.0,2025-04-01,PLAT-BASE,Platform licence (per seat),87,41.04,5.0,2024-06-30,,,1.0
+K00420,River Motors Ltd,NZ,2024-04-01,2026-03-31,4.0,2025-04-01,SUPP-PREM,Premium support (flat),1,1155.38,,,,,1.0
+K00421,Nova Media B.V.,NL,2025-06-01,2028-05-31,3.0,2026-06-01,DATA-STOR,Data storage (per TB),128,54.66,10.0,2025-08-31,,,1.0
+K00421,Nova Media B.V.,NL,2025-06-01,2028-05-31,3.0,2026-06-01,API-CALLS,API calls bundle,1,895.07,10.0,2025-10-31,500000,0.006,1.0
+K00422,Pioneer Analytics Pty Ltd,AU,2024-03-01,2026-02-28,3.5,2025-03-01,PLAT-PRO,Platform Pro licence (per seat),113,79.1,,,,,0.9
+K00423,Union Analytics Limited,IE,2025-04-01,2027-03-31,3.0,2026-04-01,SUPP-PREM,Premium support (flat),1,1030.83,,,,,1.0
+K00423,Union Analytics Limited,IE,2025-04-01,2027-03-31,3.0,2026-04-01,PLAT-PRO,Platform Pro licence (per seat),69,75.73,,,,,1.0
+K00423,Union Analytics Limited,IE,2025-04-01,2027-03-31,3.0,2026-04-01,PLAT-BASE,Platform licence (per seat),94,40.82,,,,,1.0
+K00424,Union Systems FZ-LLC,AE,2025-08-01,2028-07-31,3.0,2026-08-01,API-CALLS,API calls bundle,1,777.11,10.0,2026-03-31,500000,0.006,1.0
+K00424,Union Systems FZ-LLC,AE,2025-08-01,2028-07-31,3.0,2026-08-01,PLAT-BASE,Platform licence (per seat),115,40.14,15.0,2026-03-31,,,1.0
+K00424,Union Systems FZ-LLC,AE,2025-08-01,2028-07-31,3.0,2026-08-01,SUPP-PREM,Premium support (flat),1,1134.33,,,,,1.0
+K00425,Blue Energy Pty Ltd,AU,2024-10-01,2026-09-30,7.0,2025-10-01,PLAT-PRO,Platform Pro licence (per seat),89,84.48,10.0,2025-05-31,,,1.0
+K00425,Blue Energy Pty Ltd,AU,2024-10-01,2026-09-30,7.0,2025-10-01,DATA-STOR,Data storage (per TB),6,56.48,,,,,1.0
+K00426,Coral Education B.V.,NL,2025-02-01,2028-01-31,5.0,2026-02-01,SMS-MSG,SMS messages bundle,1,393.55,,,100000,0.015,1.0
+K00426,Coral Education B.V.,NL,2025-02-01,2028-01-31,5.0,2026-02-01,PLAT-BASE,Platform licence (per seat),213,39.08,,,,,1.0
+K00426,Coral Education B.V.,NL,2025-02-01,2028-01-31,5.0,2026-02-01,API-CALLS,API calls bundle,1,846.18,5.0,2025-04-30,250000,0.006,1.0
+K00427,Orbit Construction Pty Ltd,AU,2025-03-01,2027-02-28,3.5,2026-03-01,SMS-MSG,SMS messages bundle,1,351.49,,,100000,0.015,0.9
+K00427,Orbit Construction Pty Ltd,AU,2025-03-01,2027-02-28,3.5,2026-03-01,SUPP-PREM,Premium support (flat),1,1165.51,20.0,2025-07-31,,,0.9
+K00428,Nova Media B.V.,NL,2025-09-01,2027-08-31,3.0,2026-09-01,DATA-STOR,Data storage (per TB),131,56.12,10.0,2026-04-30,,,1.0
+K00428,Nova Media B.V.,NL,2025-09-01,2027-08-31,3.0,2026-09-01,PLAT-BASE,Platform licence (per seat),159,42.79,,,,,1.0
+K00428,Nova Media B.V.,NL,2025-09-01,2027-08-31,3.0,2026-09-01,SUPP-PREM,Premium support (flat),1,1031.76,5.0,2025-12-31,,,1.0
+K00429,Quantum Telecom Pty Ltd,AU,2024-08-01,2027-07-31,3.5,2025-08-01,SMS-MSG,SMS messages bundle,1,380.66,20.0,2024-10-31,100000,0.015,1.0
+K00430,Delta Labs Limited,IE,2024-11-01,2027-10-31,5.0,2025-11-01,API-CALLS,API calls bundle,1,813.8,,,100000,0.006,1.0
+K00430,Delta Labs Limited,IE,2024-11-01,2027-10-31,5.0,2025-11-01,DATA-STOR,Data storage (per TB),76,53.02,,,,,1.0
+K00430,Delta Labs Limited,IE,2024-11-01,2027-10-31,5.0,2025-11-01,SMS-MSG,SMS messages bundle,1,371.94,10.0,2025-03-31,50000,0.015,1.0
+K00431,Crescent Logistics B.V.,NL,2024-01-01,2025-12-31,7.0,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),89,74.76,,,,,1.0
+K00432,Summit Media Limited,IE,2024-01-01,2026-12-31,5.0,2025-01-01,SMS-MSG,SMS messages bundle,1,354.83,15.0,2024-09-30,50000,0.015,1.0
+K00432,Summit Media Limited,IE,2024-01-01,2026-12-31,5.0,2025-01-01,SUPP-PREM,Premium support (flat),1,1080.05,,,,,1.0
+K00432,Summit Media Limited,IE,2024-01-01,2026-12-31,5.0,2025-01-01,API-CALLS,API calls bundle,1,892.38,,,500000,0.006,1.0
+K00433,Crescent Analytics Limited,IE,2025-04-01,2027-03-31,3.0,2026-04-01,DATA-STOR,Data storage (per TB),222,53.82,,,,,1.0
+K00434,Pioneer Trading LLC,AE,2024-03-01,2027-02-28,3.0,2025-03-01,DATA-STOR,Data storage (per TB),148,57.1,20.0,2024-08-31,,,1.0
+K00434,Pioneer Trading LLC,AE,2024-03-01,2027-02-28,3.0,2025-03-01,PLAT-BASE,Platform licence (per seat),64,43.33,,,,,1.0
+K00434,Pioneer Trading LLC,AE,2024-03-01,2027-02-28,3.0,2025-03-01,API-CALLS,API calls bundle,1,871.31,20.0,2024-08-31,500000,0.006,1.0
+K00435,Blue Finance DAC,IE,2024-12-01,2026-11-30,5.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),187,72.41,10.0,2025-06-30,,,1.0
+K00435,Blue Finance DAC,IE,2024-12-01,2026-11-30,5.0,2025-12-01,PLAT-BASE,Platform licence (per seat),95,41.69,,,,,1.0
+K00435,Blue Finance DAC,IE,2024-12-01,2026-11-30,5.0,2025-12-01,API-CALLS,API calls bundle,1,862.82,10.0,2025-08-31,250000,0.006,1.0
+K00436,Pioneer Trading LLC,AE,2024-11-01,2027-10-31,6.0,2025-11-01,SUPP-PREM,Premium support (flat),1,1179.34,,,,,1.0
+K00436,Pioneer Trading LLC,AE,2024-11-01,2027-10-31,6.0,2025-11-01,API-CALLS,API calls bundle,1,784.9,,,250000,0.006,1.0
+K00437,River Analytics FZE,AE,2025-01-01,2026-12-31,6.0,2026-01-01,PLAT-PRO,Platform Pro licence (per seat),218,78.72,,,,,1.0
+K00437,River Analytics FZE,AE,2025-01-01,2026-12-31,6.0,2026-01-01,PLAT-BASE,Platform licence (per seat),93,38.62,10.0,2025-08-31,,,1.0
+K00437,River Analytics FZE,AE,2025-01-01,2026-12-31,6.0,2026-01-01,SMS-MSG,SMS messages bundle,1,387.12,20.0,2025-08-31,50000,0.015,1.0
+K00438,Titan Retail B.V.,NL,2025-09-01,2028-08-31,6.0,2026-09-01,API-CALLS,API calls bundle,1,821.52,5.0,2026-02-28,100000,0.006,1.0
+K00438,Titan Retail B.V.,NL,2025-09-01,2028-08-31,6.0,2026-09-01,SUPP-PREM,Premium support (flat),1,1020.67,10.0,2026-02-28,,,1.0
+K00439,Harbour Travel Pty Ltd,AU,2025-05-01,2028-04-30,7.0,2026-05-01,PLAT-PRO,Platform Pro licence (per seat),23,76.88,,,,,0.9
+K00439,Harbour Travel Pty Ltd,AU,2025-05-01,2028-04-30,7.0,2026-05-01,PLAT-BASE,Platform licence (per seat),41,41.99,10.0,2025-12-31,,,0.9
+K00440,Willow Media Pty Ltd,AU,2024-02-01,2026-01-31,3.5,2025-02-01,PLAT-PRO,Platform Pro licence (per seat),189,83.54,10.0,2024-05-31,,,1.0
+K00441,Nova Finance AG,DE,2024-09-01,2026-08-31,3.0,2025-09-01,DATA-STOR,Data storage (per TB),231,56.89,10.0,2025-01-31,,,0.9
+K00442,Union Energy Limited,IE,2025-01-01,2026-12-31,6.0,2026-01-01,DATA-STOR,Data storage (per TB),241,52.3,10.0,2025-04-30,,,1.0
+K00442,Union Energy Limited,IE,2025-01-01,2026-12-31,6.0,2026-01-01,PLAT-BASE,Platform licence (per seat),86,42.94,,,,,1.0
+K00442,Union Energy Limited,IE,2025-01-01,2026-12-31,6.0,2026-01-01,API-CALLS,API calls bundle,1,896.89,,,100000,0.006,1.0
+K00443,Blue Retail Pty Ltd,AU,2025-07-01,2028-06-30,3.5,2026-07-01,SMS-MSG,SMS messages bundle,1,387.74,,,20000,0.015,1.0
+K00444,Harbour Insurance FZ-LLC,AE,2025-05-01,2027-04-30,7.0,2026-05-01,SMS-MSG,SMS messages bundle,1,343.89,,,100000,0.015,1.0
+K00444,Harbour Insurance FZ-LLC,AE,2025-05-01,2027-04-30,7.0,2026-05-01,API-CALLS,API calls bundle,1,884.13,,,500000,0.006,1.0
+K00445,Delta Health B.V.,NL,2025-04-01,2027-03-31,4.0,2026-04-01,SMS-MSG,SMS messages bundle,1,368.43,,,100000,0.015,1.0
+K00445,Delta Health B.V.,NL,2025-04-01,2027-03-31,4.0,2026-04-01,DATA-STOR,Data storage (per TB),154,59.29,,,,,1.0
+K00445,Delta Health B.V.,NL,2025-04-01,2027-03-31,4.0,2026-04-01,API-CALLS,API calls bundle,1,792.97,,,100000,0.006,1.0
+K00446,Apex Motors FZE,AE,2025-02-01,2027-01-31,4.0,2026-02-01,API-CALLS,API calls bundle,1,891.29,5.0,2025-05-31,250000,0.006,0.9
+K00446,Apex Motors FZE,AE,2025-02-01,2027-01-31,4.0,2026-02-01,PLAT-PRO,Platform Pro licence (per seat),137,76.01,,,,,0.9
+K00447,Silver Foods B.V.,NL,2024-02-01,2027-01-31,6.0,2025-02-01,DATA-STOR,Data storage (per TB),99,54.89,,,,,1.0
+K00447,Silver Foods B.V.,NL,2024-02-01,2027-01-31,6.0,2025-02-01,SMS-MSG,SMS messages bundle,1,359.02,20.0,2024-05-31,50000,0.015,1.0
+K00448,Sterling Insurance AG,DE,2025-01-01,2026-12-31,4.0,2026-01-01,API-CALLS,API calls bundle,1,890.09,15.0,2025-03-31,100000,0.006,1.0
+K00448,Sterling Insurance AG,DE,2025-01-01,2026-12-31,4.0,2026-01-01,PLAT-BASE,Platform licence (per seat),177,40.5,,,,,1.0
+K00448,Sterling Insurance AG,DE,2025-01-01,2026-12-31,4.0,2026-01-01,SUPP-PREM,Premium support (flat),1,1074.49,,,,,1.0
+K00449,Delta Motors FZE,AE,2024-07-01,2026-06-30,7.0,2025-07-01,PLAT-BASE,Platform licence (per seat),93,40.15,,,,,1.0
+K00449,Delta Motors FZE,AE,2024-07-01,2026-06-30,7.0,2025-07-01,SUPP-PREM,Premium support (flat),1,1092.69,,,,,1.0
+K00450,Apex Logistics AG,DE,2024-01-01,2026-12-31,7.0,2025-01-01,DATA-STOR,Data storage (per TB),190,53.05,,,,,1.0
+K00451,Apex Energy Ltd,NZ,2024-08-01,2027-07-31,7.0,2025-08-01,PLAT-BASE,Platform licence (per seat),114,43.96,,,,,0.9
+K00451,Apex Energy Ltd,NZ,2024-08-01,2027-07-31,7.0,2025-08-01,SUPP-PREM,Premium support (flat),1,1145.63,20.0,2025-04-30,,,0.9
+K00452,Apex Properties B.V.,NL,2024-05-01,2026-04-30,4.0,2025-05-01,DATA-STOR,Data storage (per TB),218,58.29,,,,,1.0
+K00453,Silver Media Pty Ltd,AU,2025-03-01,2028-02-29,7.0,2026-03-01,API-CALLS,API calls bundle,1,844.24,,,500000,0.006,1.0
+K00453,Silver Media Pty Ltd,AU,2025-03-01,2028-02-29,7.0,2026-03-01,SUPP-PREM,Premium support (flat),1,1185.99,15.0,2025-09-30,,,1.0
+K00453,Silver Media Pty Ltd,AU,2025-03-01,2028-02-29,7.0,2026-03-01,SMS-MSG,SMS messages bundle,1,376.18,,,100000,0.015,1.0
+K00454,Falcon Construction Pty Ltd,AU,2025-01-01,2026-12-31,5.0,2026-01-01,PLAT-PRO,Platform Pro licence (per seat),150,73.64,,,,,0.9
+K00454,Falcon Construction Pty Ltd,AU,2025-01-01,2026-12-31,5.0,2026-01-01,DATA-STOR,Data storage (per TB),82,56.75,5.0,2025-08-31,,,0.9
+K00455,Iron Motors Ltd,NZ,2025-09-01,2028-08-31,3.0,2026-09-01,DATA-STOR,Data storage (per TB),64,53.55,5.0,2026-02-28,,,1.0
+K00456,Delta Health B.V.,NL,2024-01-01,2025-12-31,4.0,2025-01-01,DATA-STOR,Data storage (per TB),38,59.91,,,,,1.0
+K00456,Delta Health B.V.,NL,2024-01-01,2025-12-31,4.0,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),22,78.35,,,,,1.0
+K00457,Vertex Health Limited,NZ,2024-05-01,2026-04-30,4.0,2025-05-01,SMS-MSG,SMS messages bundle,1,376.22,,,50000,0.015,0.9
+K00457,Vertex Health Limited,NZ,2024-05-01,2026-04-30,4.0,2025-05-01,DATA-STOR,Data storage (per TB),180,55.52,,,,,0.9
+K00457,Vertex Health Limited,NZ,2024-05-01,2026-04-30,4.0,2025-05-01,PLAT-PRO,Platform Pro licence (per seat),41,74.82,,,,,0.9
+K00458,Falcon Finance LLC,AE,2025-09-01,2027-08-31,6.0,2026-09-01,DATA-STOR,Data storage (per TB),193,56.19,20.0,2026-01-31,,,0.9
+K00458,Falcon Finance LLC,AE,2025-09-01,2027-08-31,6.0,2026-09-01,SMS-MSG,SMS messages bundle,1,382.7,,,50000,0.015,0.9
+K00458,Falcon Finance LLC,AE,2025-09-01,2027-08-31,6.0,2026-09-01,API-CALLS,API calls bundle,1,876.16,,,100000,0.006,0.9
+K00459,Crescent Properties Pty Ltd,AU,2025-09-01,2028-08-31,5.0,2026-09-01,PLAT-PRO,Platform Pro licence (per seat),247,77.27,10.0,2026-01-31,,,0.9
+K00459,Crescent Properties Pty Ltd,AU,2025-09-01,2028-08-31,5.0,2026-09-01,API-CALLS,API calls bundle,1,837.59,,,500000,0.006,0.9
+K00459,Crescent Properties Pty Ltd,AU,2025-09-01,2028-08-31,5.0,2026-09-01,PLAT-BASE,Platform licence (per seat),189,42.96,,,,,0.9
+K00460,Nova Media B.V.,NL,2025-02-01,2027-01-31,4.0,2026-02-01,API-CALLS,API calls bundle,1,868.48,,,250000,0.006,1.0
+K00461,Atlas Analytics Pty Ltd,AU,2024-09-01,2026-08-31,6.0,2025-09-01,PLAT-BASE,Platform licence (per seat),177,42.56,,,,,1.0
+K00462,Bright Health Ltd,NZ,2024-12-01,2027-11-30,3.5,2025-12-01,SUPP-PREM,Premium support (flat),1,1040.64,,,,,0.9
+K00463,Harbour Construction Pty Ltd,AU,2025-04-01,2028-03-31,5.0,2026-04-01,SMS-MSG,SMS messages bundle,1,348.42,,,50000,0.015,0.9
+K00463,Harbour Construction Pty Ltd,AU,2025-04-01,2028-03-31,5.0,2026-04-01,PLAT-PRO,Platform Pro licence (per seat),9,74.43,,,,,0.9
+K00463,Harbour Construction Pty Ltd,AU,2025-04-01,2028-03-31,5.0,2026-04-01,DATA-STOR,Data storage (per TB),36,52.6,,,,,0.9
+K00464,Falcon Construction Pty Ltd,AU,2024-06-01,2026-05-31,7.0,2025-06-01,SUPP-PREM,Premium support (flat),1,1084.46,5.0,2025-01-31,,,1.0
+K00464,Falcon Construction Pty Ltd,AU,2024-06-01,2026-05-31,7.0,2025-06-01,PLAT-PRO,Platform Pro licence (per seat),17,77.89,,,,,1.0
+K00464,Falcon Construction Pty Ltd,AU,2024-06-01,2026-05-31,7.0,2025-06-01,DATA-STOR,Data storage (per TB),169,58.3,,,,,1.0
+K00465,Bright Media B.V.,NL,2025-02-01,2028-01-31,5.0,2026-02-01,PLAT-BASE,Platform licence (per seat),201,43.46,10.0,2025-06-30,,,1.0
+K00466,River Travel Limited,IE,2024-04-01,2026-03-31,5.0,2025-04-01,SUPP-PREM,Premium support (flat),1,1167.69,,,,,0.9
+K00467,Pioneer Pharma Limited,IE,2024-08-01,2026-07-31,7.0,2025-08-01,PLAT-BASE,Platform licence (per seat),32,41.06,,,,,1.0
+K00468,Bright Insurance FZ-LLC,AE,2025-07-01,2027-06-30,6.0,2026-07-01,DATA-STOR,Data storage (per TB),32,53.09,,,,,1.0
+K00468,Bright Insurance FZ-LLC,AE,2025-07-01,2027-06-30,6.0,2026-07-01,SMS-MSG,SMS messages bundle,1,350.42,,,50000,0.015,1.0
+K00468,Bright Insurance FZ-LLC,AE,2025-07-01,2027-06-30,6.0,2026-07-01,PLAT-BASE,Platform licence (per seat),59,38.33,,,,,1.0
+K00469,Iron Construction Pty Ltd,AU,2024-10-01,2027-09-30,3.0,2025-10-01,DATA-STOR,Data storage (per TB),158,53.71,,,,,0.9
+K00470,Bright Media B.V.,NL,2025-07-01,2027-06-30,4.0,2026-07-01,SUPP-PREM,Premium support (flat),1,1079.77,,,,,1.0
+K00470,Bright Media B.V.,NL,2025-07-01,2027-06-30,4.0,2026-07-01,DATA-STOR,Data storage (per TB),86,58.96,,,,,1.0
+K00470,Bright Media B.V.,NL,2025-07-01,2027-06-30,4.0,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),22,80.75,,,,,1.0
+K00471,Harbour Insurance FZ-LLC,AE,2025-04-01,2028-03-31,6.0,2026-04-01,API-CALLS,API calls bundle,1,844.31,5.0,2025-08-31,100000,0.006,1.0
+K00472,Sterling Media GmbH,DE,2024-09-01,2026-08-31,3.0,2025-09-01,SUPP-PREM,Premium support (flat),1,1047.3,5.0,2024-12-31,,,0.9
+K00472,Sterling Media GmbH,DE,2024-09-01,2026-08-31,3.0,2025-09-01,PLAT-PRO,Platform Pro licence (per seat),247,79.88,,,,,0.9
+K00473,Titan Telecom Pty Ltd,AU,2024-05-01,2027-04-30,4.0,2025-05-01,API-CALLS,API calls bundle,1,871.89,,,250000,0.006,1.0
+K00474,Harbour Foods GmbH,DE,2024-01-01,2025-12-31,7.0,2025-01-01,PLAT-PRO,Platform Pro licence (per seat),237,79.13,,,,,1.0
+K00475,Delta Retail DAC,IE,2024-08-01,2027-07-31,6.0,2025-08-01,SMS-MSG,SMS messages bundle,1,343.88,10.0,2024-10-31,50000,0.015,1.0
+K00475,Delta Retail DAC,IE,2024-08-01,2027-07-31,6.0,2025-08-01,PLAT-BASE,Platform licence (per seat),57,39.21,10.0,2025-02-28,,,1.0
+K00476,Delta Pharma Pty Ltd,AU,2024-08-01,2026-07-31,5.0,2025-08-01,PLAT-PRO,Platform Pro licence (per seat),50,75.37,,,,,0.9
+K00476,Delta Pharma Pty Ltd,AU,2024-08-01,2026-07-31,5.0,2025-08-01,SMS-MSG,SMS messages bundle,1,358.19,,,100000,0.015,0.9
+K00477,Sterling Travel DAC,IE,2024-10-01,2027-09-30,3.0,2025-10-01,DATA-STOR,Data storage (per TB),117,52.51,,,,,1.0
+K00477,Sterling Travel DAC,IE,2024-10-01,2027-09-30,3.0,2025-10-01,SMS-MSG,SMS messages bundle,1,376.56,,,50000,0.015,1.0
+K00478,Granite Properties Pty Ltd,AU,2024-01-01,2026-12-31,5.0,2025-01-01,API-CALLS,API calls bundle,1,785.63,20.0,2024-06-30,500000,0.006,0.9
+K00478,Granite Properties Pty Ltd,AU,2024-01-01,2026-12-31,5.0,2025-01-01,SMS-MSG,SMS messages bundle,1,356.99,,,100000,0.015,0.9
+K00479,Quantum Retail LLC,AE,2024-12-01,2026-11-30,7.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),225,72.3,,,,,0.9
+K00480,Apex Properties B.V.,NL,2025-05-01,2028-04-30,5.0,2026-05-01,SUPP-PREM,Premium support (flat),1,1075.41,,,,,1.0
+K00480,Apex Properties B.V.,NL,2025-05-01,2028-04-30,5.0,2026-05-01,DATA-STOR,Data storage (per TB),231,51.64,5.0,2025-10-31,,,1.0
+K00480,Apex Properties B.V.,NL,2025-05-01,2028-04-30,5.0,2026-05-01,API-CALLS,API calls bundle,1,786.92,,,250000,0.006,1.0
+K00481,Desert Analytics Pty Ltd,AU,2025-06-01,2028-05-31,7.0,2026-06-01,PLAT-BASE,Platform licence (per seat),67,43.22,,,,,1.0
+K00481,Desert Analytics Pty Ltd,AU,2025-06-01,2028-05-31,7.0,2026-06-01,DATA-STOR,Data storage (per TB),97,59.29,,,,,1.0
+K00481,Desert Analytics Pty Ltd,AU,2025-06-01,2028-05-31,7.0,2026-06-01,API-CALLS,API calls bundle,1,856.32,,,500000,0.006,1.0
+K00482,Crescent Telecom FZ-LLC,AE,2024-09-01,2027-08-31,7.0,2025-09-01,API-CALLS,API calls bundle,1,843.08,,,500000,0.006,1.0
+K00483,Coral Properties Limited,IE,2024-04-01,2026-03-31,7.0,2025-04-01,DATA-STOR,Data storage (per TB),25,59.77,,,,,0.9
+K00483,Coral Properties Limited,IE,2024-04-01,2026-03-31,7.0,2025-04-01,API-CALLS,API calls bundle,1,790.49,20.0,2024-08-31,250000,0.006,0.9
+K00484,Iron Health Pty Ltd,AU,2025-06-01,2028-05-31,6.0,2026-06-01,SMS-MSG,SMS messages bundle,1,346.56,,,100000,0.015,1.0
+K00484,Iron Health Pty Ltd,AU,2025-06-01,2028-05-31,6.0,2026-06-01,PLAT-BASE,Platform licence (per seat),41,40.57,10.0,2026-01-31,,,1.0
+K00485,Orbit Hospitality LLC,AE,2024-01-01,2025-12-31,5.0,2025-01-01,SMS-MSG,SMS messages bundle,1,365.07,,,50000,0.015,0.9
+K00486,Desert Retail Ltd,NZ,2024-06-01,2026-05-31,4.0,2025-06-01,PLAT-PRO,Platform Pro licence (per seat),133,78.45,,,,,1.0
+K00487,Orbit Analytics FZ-LLC,AE,2025-08-01,2027-07-31,3.5,2026-08-01,PLAT-PRO,Platform Pro licence (per seat),228,84.78,,,,,1.0
+K00487,Orbit Analytics FZ-LLC,AE,2025-08-01,2027-07-31,3.5,2026-08-01,SMS-MSG,SMS messages bundle,1,377.61,10.0,2025-10-31,100000,0.015,1.0
+K00487,Orbit Analytics FZ-LLC,AE,2025-08-01,2027-07-31,3.5,2026-08-01,SUPP-PREM,Premium support (flat),1,1087.99,15.0,2025-10-31,,,1.0
+K00488,Atlas Systems B.V.,NL,2025-05-01,2027-04-30,3.0,2026-05-01,SMS-MSG,SMS messages bundle,1,374.95,5.0,2025-10-31,20000,0.015,1.0
+K00489,Delta Education Limited,IE,2025-05-01,2028-04-30,4.0,2026-05-01,SUPP-PREM,Premium support (flat),1,1199.9,,,,,1.0
+K00489,Delta Education Limited,IE,2025-05-01,2028-04-30,4.0,2026-05-01,SMS-MSG,SMS messages bundle,1,396.46,,,100000,0.015,1.0
+K00490,Union Foods LLC,AE,2024-12-01,2027-11-30,3.0,2025-12-01,DATA-STOR,Data storage (per TB),227,56.42,,,,,1.0
+K00490,Union Foods LLC,AE,2024-12-01,2027-11-30,3.0,2025-12-01,PLAT-PRO,Platform Pro licence (per seat),197,84.38,,,,,1.0
+K00490,Union Foods LLC,AE,2024-12-01,2027-11-30,3.0,2025-12-01,PLAT-BASE,Platform licence (per seat),163,40.74,,,,,1.0
+K00491,Desert Labs Limited,NZ,2025-06-01,2028-05-31,7.0,2026-06-01,SUPP-PREM,Premium support (flat),1,1177.22,,,,,1.0
+K00491,Desert Labs Limited,NZ,2025-06-01,2028-05-31,7.0,2026-06-01,PLAT-BASE,Platform licence (per seat),178,43.22,,,,,1.0
+K00491,Desert Labs Limited,NZ,2025-06-01,2028-05-31,7.0,2026-06-01,SMS-MSG,SMS messages bundle,1,376.41,,,50000,0.015,1.0
+K00492,Summit Insurance FZ-LLC,AE,2024-12-01,2027-11-30,5.0,2025-12-01,PLAT-BASE,Platform licence (per seat),187,42.35,5.0,2025-03-31,,,0.9
+K00492,Summit Insurance FZ-LLC,AE,2024-12-01,2027-11-30,5.0,2025-12-01,DATA-STOR,Data storage (per TB),218,51.78,,,,,0.9
+K00492,Summit Insurance FZ-LLC,AE,2024-12-01,2027-11-30,5.0,2025-12-01,SUPP-PREM,Premium support (flat),1,1118.77,,,,,0.9
+K00493,Willow Systems GmbH,DE,2025-04-01,2027-03-31,5.0,2026-04-01,PLAT-PRO,Platform Pro licence (per seat),197,74.95,,,,,1.0
+K00494,Vertex Construction Pty Ltd,AU,2024-04-01,2027-03-31,7.0,2025-04-01,DATA-STOR,Data storage (per TB),70,52.98,,,,,1.0
+K00494,Vertex Construction Pty Ltd,AU,2024-04-01,2027-03-31,7.0,2025-04-01,SUPP-PREM,Premium support (flat),1,1191.27,,,,,1.0
+K00495,Vertex Insurance B.V.,NL,2025-07-01,2028-06-30,3.0,2026-07-01,PLAT-PRO,Platform Pro licence (per seat),158,82.02,15.0,2025-12-31,,,0.9
+K00495,Vertex Insurance B.V.,NL,2025-07-01,2028-06-30,3.0,2026-07-01,API-CALLS,API calls bundle,1,865.3,,,500000,0.006,0.9
+K00496,Bright Systems GmbH,DE,2025-03-01,2027-02-28,3.5,2026-03-01,PLAT-BASE,Platform licence (per seat),194,38.85,,,,,0.9
+K00496,Bright Systems GmbH,DE,2025-03-01,2027-02-28,3.5,2026-03-01,SMS-MSG,SMS messages bundle,1,351.29,,,20000,0.015,0.9
+K00497,Pioneer Trading LLC,AE,2024-11-01,2027-10-31,6.0,2025-11-01,PLAT-BASE,Platform licence (per seat),221,41.87,,,,,1.0
+K00497,Pioneer Trading LLC,AE,2024-11-01,2027-10-31,6.0,2025-11-01,API-CALLS,API calls bundle,1,822.2,,,250000,0.006,1.0
+K00498,Crescent Media Pty Ltd,AU,2025-06-01,2027-05-31,3.0,2026-06-01,DATA-STOR,Data storage (per TB),80,58.35,,,,,1.0
+K00498,Crescent Media Pty Ltd,AU,2025-06-01,2027-05-31,3.0,2026-06-01,SUPP-PREM,Premium support (flat),1,1109.97,,,,,1.0
+K00498,Crescent Media Pty Ltd,AU,2025-06-01,2027-05-31,3.0,2026-06-01,PLAT-PRO,Platform Pro licence (per seat),42,79.92,,,,,1.0
+K00499,Red Education AG,DE,2025-09-01,2028-08-31,4.0,2026-09-01,PLAT-BASE,Platform licence (per seat),60,42.51,,,,,0.9
+K00499,Red Education AG,DE,2025-09-01,2028-08-31,4.0,2026-09-01,SUPP-PREM,Premium support (flat),1,1146.75,,,,,0.9
+K00499,Red Education AG,DE,2025-09-01,2028-08-31,4.0,2026-09-01,DATA-STOR,Data storage (per TB),90,59.83,10.0,2026-05-31,,,0.9
+K00500,Silver Media Pty Ltd,AU,2024-02-01,2026-01-31,5.0,2025-02-01,SMS-MSG,SMS messages bundle,1,399.46,,,100000,0.015,1.0
+K00500,Silver Media Pty Ltd,AU,2024-02-01,2026-01-31,5.0,2025-02-01,PLAT-PRO,Platform Pro licence (per seat),126,77.64,,,,,1.0

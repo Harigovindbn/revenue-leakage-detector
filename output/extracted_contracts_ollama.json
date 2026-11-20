@@ -1,0 +1,197 @@
+[
+ {
+  "contract_id": "K00001",
+  "source_file": "contracts/K00001.txt",
+  "extractor": "ollama",
+  "customer_name": "Blue Construction GmbH",
+  "country": "DE",
+  "start_date": "2024-11-01",
+  "end_date": "2027-10-31",
+  "escalation_pct": 3.5,
+  "escalation_date": "2025-11-01",
+  "lines": [
+   {
+    "product_code": "SMS-MSG",
+    "product_name": "SMS messages bundle",
+    "quantity": 1,
+    "unit_price": 371.28,
+    "discount_pct": null,
+    "discount_end_date": null,
+    "tier_limit": null,
+    "overage_rate": null
+   }
+  ],
+  "confidence": {
+   "customer_name": 1.0,
+   "country": 1.0,
+   "start_date": 1.0,
+   "end_date": 1.0,
+   "escalation_pct": 1.0,
+   "escalation_date": 1.0,
+   "SMS-MSG.quantity": 1.0,
+   "SMS-MSG.unit_price": 1.0,
+   "SMS-MSG.discount_pct": 1.0,
+   "SMS-MSG.discount_end_date": 1.0,
+   "SMS-MSG.tier_limit": 1.0,
+   "SMS-MSG.overage_rate": 1.0
+  },
+  "evidence": {
+   "customer_name": "Customer: Blue Construction GmbH",
+   "country": "Registered country: Germany",
+   "start_date": "Effective Date: 01 November 2024",
+   "end_date": "Term: until 31 October 2027",
+   "escalation_pct": "Fees shall increase by 3.5% on each anniversary of the Effective Date.",
+   "escalation_date": "Fees shall increase by 3.5% on each anniversary of the Effective Date.",
+   "SMS-MSG.quantity": "- SMS messages bundle [SMS-MSG]: USD 371.28 per month",
+   "SMS-MSG.unit_price": "- SMS messages bundle [SMS-MSG]: USD 371.28 per month"
+  }
+ },
+ {
+  "contract_id": "K00002",
+  "source_file": "contracts/K00002.txt",
+  "extractor": "ollama",
+  "customer_name": "River Retail AG",
+  "country": "DE",
+  "start_date": "2024-03-01",
+  "end_date": "2026-02-28",
+  "escalation_pct": 7.0,
+  "escalation_date": "2025-03-01",
+  "lines": [
+   {
+    "product_code": "DATA-STOR",
+    "product_name": "Data storage (per TB)",
+    "quantity": 176,
+    "unit_price": 59.47,
+    "discount_pct": null,
+    "discount_end_date": null,
+    "tier_limit": null,
+    "overage_rate": null
+   },
+   {
+    "product_code": "PLAT-BASE",
+    "product_name": "Platform licence (per seat)",
+    "quantity": 183,
+    "unit_price": 41.79,
+    "discount_pct": null,
+    "discount_end_date": null,
+    "tier_limit": null,
+    "overage_rate": null
+   },
+   {
+    "product_code": "SUPP-PREM",
+    "product_name": "Premium support (flat)",
+    "quantity": 1,
+    "unit_price": 1046.86,
+    "discount_pct": null,
+    "discount_end_date": null,
+    "tier_limit": null,
+    "overage_rate": null
+   }
+  ],
+  "confidence": {
+   "customer_name": 1.0,
+   "country": 1.0,
+   "start_date": 1.0,
+   "end_date": 1.0,
+   "escalation_pct": 1.0,
+   "escalation_date": 1.0,
+   "DATA-STOR.quantity": 1.0,
+   "DATA-STOR.unit_price": 1.0,
+   "DATA-STOR.discount_pct": 1.0,
+   "DATA-STOR.discount_end_date": 1.0,
+   "DATA-STOR.tier_limit": 1.0,
+   "DATA-STOR.overage_rate": 1.0,
+   "PLAT-BASE.quantity": 1.0,
+   "PLAT-BASE.unit_price": 1.0,
+   "PLAT-BASE.discount_pct": 1.0,
+   "PLAT-BASE.discount_end_date": 1.0,
+   "PLAT-BASE.tier_limit": 1.0,
+   "PLAT-BASE.overage_rate": 1.0,
+   "SUPP-PREM.quantity": 1.0,
+   "SUPP-PREM.unit_price": 1.0,
+   "SUPP-PREM.discount_pct": 1.0,
+   "SUPP-PREM.discount_end_date": 1.0,
+   "SUPP-PREM.tier_limit": 1.0,
+   "SUPP-PREM.overage_rate": 1.0
+  },
+  "evidence": {
+   "customer_name": "Customer: River Retail AG",
+   "country": "Registered country: Germany",
+   "start_date": "Effective Date: 01 March 2024",
+   "end_date": "Term: until 28 February 2026",
+   "escalation_pct": "The Supplier may apply an annual uplift of 7% to the Fees, effective from the first anniversary (01 March 2025).",
+   "escalation_date": "The Supplier may apply an annual uplift of 7% to the Fees, effective from the first anniversary (01 March 2025).",
+   "DATA-STOR.quantity": "- Data storage (per TB) [DATA-STOR]: 176 units at USD 59.47 per unit per month",
+   "DATA-STOR.unit_price": "- Data storage (per TB) [DATA-STOR]: 176 units at USD 59.47 per unit per month",
+   "PLAT-BASE.quantity": "- Platform licence (per seat) [PLAT-BASE]: 183 units at USD 41.79 per unit per month",
+   "PLAT-BASE.unit_price": "- Platform licence (per seat) [PLAT-BASE]: 183 units at USD 41.79 per unit per month",
+   "SUPP-PREM.quantity": "- Premium support (flat) [SUPP-PREM]: USD 1,046.86 per month",
+   "SUPP-PREM.unit_price": "- Premium support (flat) [SUPP-PREM]: USD 1,046.86 per month"
+  }
+ },
+ {
+  "contract_id": "K00003",
+  "source_file": "contracts/K00003.txt",
+  "extractor": "ollama",
+  "customer_name": "River Systems AG",
+  "country": "DE",
+  "start_date": "2025-07-01",
+  "end_date": "2028-06-30",
+  "escalation_pct": 3.5,
+  "escalation_date": "2026-07-01",
+  "lines": [
+   {
+    "product_code": "SMS-MSG",
+    "product_name": "SMS messages bundle",
+    "quantity": 38835,
+    "unit_price": 84.59,
+    "discount_pct": null,
+    "discount_end_date": null,
+    "tier_limit": null,
+    "overage_rate": null
+   },
+   {
+    "product_code": "PLAT-PRO",
+    "product_name": "Platform Pro licence (per seat)",
+    "quantity": 147,
+    "unit_price": 84.59,
+    "discount_pct": null,
+    "discount_end_date": null,
+    "tier_limit": null,
+    "overage_rate": null
+   }
+  ],
+  "confidence": {
+   "customer_name": 1.0,
+   "country": 1.0,
+   "start_date": 1.0,
+   "end_date": 1.0,
+   "escalation_pct": 1.0,
+   "escalation_date": 1.0,
+   "SMS-MSG.quantity": 0.5,
+   "SMS-MSG.unit_price": 0.5,
+   "SMS-MSG.discount_pct": 1.0,
+   "SMS-MSG.discount_end_date": 1.0,
+   "SMS-MSG.tier_limit": 1.0,
+   "SMS-MSG.overage_rate": 1.0,
+   "PLAT-PRO.quantity": 1.0,
+   "PLAT-PRO.unit_price": 1.0,
+   "PLAT-PRO.discount_pct": 1.0,
+   "PLAT-PRO.discount_end_date": 1.0,
+   "PLAT-PRO.tier_limit": 1.0,
+   "PLAT-PRO.overage_rate": 1.0
+  },
+  "evidence": {
+   "customer_name": "Customer: River Systems AG",
+   "country": "Registered country: Germany",
+   "start_date": "Effective Date: 01 July 2025",
+   "end_date": "Term: until 30 June 2028",
+   "escalation_pct": "On 01 July 2026 and annually thereafter, all unit prices will rise by 3.5 percent.",
+   "escalation_date": "On 01 July 2026 and annually thereafter, all unit prices will rise by 3.5 percent.",
+   "SMS-MSG.quantity": null,
+   "SMS-MSG.unit_price": null,
+   "PLAT-PRO.quantity": "- Platform Pro licence (per seat) [PLAT-PRO]: 147 units at USD 84.59 per unit per month",
+   "PLAT-PRO.unit_price": "- Platform Pro licence (per seat) [PLAT-PRO]: 147 units at USD 84.59 per unit per month"
+  }
+ }
+]
