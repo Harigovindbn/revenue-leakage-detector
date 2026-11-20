@@ -1,0 +1,176 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "table_flags",
+  "position": {
+    "x": 16,
+    "y": 124,
+    "z": 4000,
+    "width": 820,
+    "height": 588,
+    "tabOrder": 4000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_flags"
+                    }
+                  },
+                  "Property": "flag_id"
+                }
+              },
+              "queryRef": "fact_flags.flag_id",
+              "nativeQueryRef": "flag_id"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_flags"
+                    }
+                  },
+                  "Property": "invoice_id"
+                }
+              },
+              "queryRef": "fact_flags.invoice_id",
+              "nativeQueryRef": "invoice_id"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dim_customer"
+                    }
+                  },
+                  "Property": "customer_name"
+                }
+              },
+              "queryRef": "dim_customer.customer_name",
+              "nativeQueryRef": "customer_name"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dim_leak_type"
+                    }
+                  },
+                  "Property": "leak_type"
+                }
+              },
+              "queryRef": "dim_leak_type.leak_type",
+              "nativeQueryRef": "leak_type"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_flags"
+                    }
+                  },
+                  "Property": "impact_usd"
+                }
+              },
+              "queryRef": "fact_flags.impact_usd",
+              "nativeQueryRef": "impact_usd"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_flags"
+                    }
+                  },
+                  "Property": "confidence"
+                }
+              },
+              "queryRef": "fact_flags.confidence",
+              "nativeQueryRef": "confidence"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_flags"
+                    }
+                  },
+                  "Property": "priority_score"
+                }
+              },
+              "queryRef": "fact_flags.priority_score",
+              "nativeQueryRef": "priority_score"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_flags"
+                    }
+                  },
+                  "Property": "status"
+                }
+              },
+              "queryRef": "fact_flags.status",
+              "nativeQueryRef": "status"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "fact_flags"
+                  }
+                },
+                "Property": "priority_score"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": false
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Flags ranked by priority (impact x confidence). Click a row to see its evidence.'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

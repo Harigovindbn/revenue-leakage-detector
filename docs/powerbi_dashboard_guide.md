@@ -1,12 +1,23 @@
 # Power BI dashboard guide
 
-This guide builds the three-page Finance dashboard (FR-10) from the tables in `output/powerbi/`. Allow about 2–3 hours the first time. Power BI Desktop is free on Windows.
+This guide explains the three-page Finance dashboard (FR-10) built from the tables in `output/powerbi/`. Power BI Desktop is free on Windows.
 
-Run the pipeline first so the tables are up to date:
+## Quick start: open the ready-made dashboard
+
+The dashboard is already built as a Power BI Project in `powerbi/`:
 
 ```powershell
-.\.venv\Scripts\python.exe -m src.run_pipeline
+.\.venv\Scripts\python.exe -m src.run_pipeline               # refresh the CSV tables
+.\.venv\Scripts\python.exe tools\build_powerbi_project.py    # regenerate the project (optional)
+start powerbi\RevenueLeakage.pbip                            # open in Power BI Desktop
 ```
+
+1. In Power BI Desktop, click **Home → Refresh** to load the data. A new project opens with empty tables.
+2. If the project is in a different folder from the one it was generated in, first go to **Transform data → Edit parameters** and set `DataFolder` to your `output\powerbi\` folder, ending with a backslash.
+3. Check the pages, adjust the layout to taste, then **File → Save**. Power BI saves back into the same `powerbi/` folder, so your changes go into git as readable text.
+4. Optionally **File → Save as → .pbix** if you want a single file to share.
+
+The rest of this guide explains how each part was built, so you can rebuild it from scratch or answer interview questions about it.
 
 ## 1. The data model
 
@@ -81,8 +92,10 @@ CALCULATE (
     SUM ( fact_flags[impact_usd] ),
     fact_flags[direction] = "Under-billed",
     fact_flags[is_visible] = TRUE (),
-    fact_flags[status] <> "False alarm"          // US-04: false alarms excluded
+    KEEPFILTERS ( fact_flags[status] <> "False alarm" )   // US-04: false alarms excluded
 )
+// KEEPFILTERS matters: without it this filter would replace the status filter in
+// Confirmed Leakage below, and Confirmed would always equal the total.
 
 Confirmed Leakage =
 CALCULATE ( [Total Leakage], fact_flags[status] = "Confirmed" )
@@ -104,7 +117,7 @@ CALCULATE (
     COUNTROWS ( fact_flags ),
     fact_flags[direction] = "Under-billed",
     fact_flags[is_visible] = TRUE (),
-    fact_flags[status] <> "False alarm"
+    KEEPFILTERS ( fact_flags[status] <> "False alarm" )
 )
 
 Hidden Flags (< USD 10) =

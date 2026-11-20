@@ -1,0 +1,31 @@
+relationship rel_01_fact_flags_dim_date
+	fromColumn: fact_flags.date_key
+	toColumn: dim_date.date_key
+
+relationship rel_02_fact_flags_dim_customer
+	fromColumn: fact_flags.customer_key
+	toColumn: dim_customer.customer_key
+
+relationship rel_03_fact_flags_dim_contract
+	fromColumn: fact_flags.contract_id
+	toColumn: dim_contract.contract_id
+
+relationship rel_04_fact_flags_dim_leak_type
+	fromColumn: fact_flags.rule_id
+	toColumn: dim_leak_type.rule_id
+
+relationship rel_05_fact_invoice_lines_dim_date
+	fromColumn: fact_invoice_lines.date_key
+	toColumn: dim_date.date_key
+
+relationship rel_06_fact_invoice_lines_dim_customer
+	fromColumn: fact_invoice_lines.customer_key
+	toColumn: dim_customer.customer_key
+
+relationship rel_07_fact_invoice_lines_dim_contract
+	fromColumn: fact_invoice_lines.contract_id
+	toColumn: dim_contract.contract_id
+
+relationship rel_08_eval_results_dim_leak_type
+	fromColumn: eval_results.rule_id
+	toColumn: dim_leak_type.rule_id

@@ -1,0 +1,88 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "card_amounts",
+  "position": {
+    "x": 848,
+    "y": 124,
+    "z": 5000,
+    "width": 416,
+    "height": 150,
+    "tabOrder": 5000
+  },
+  "visual": {
+    "visualType": "multiRowCard",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_flags"
+                    }
+                  },
+                  "Property": "Expected Amount"
+                }
+              },
+              "queryRef": "fact_flags.Expected Amount",
+              "nativeQueryRef": "Expected Amount"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_flags"
+                    }
+                  },
+                  "Property": "Billed Amount"
+                }
+              },
+              "queryRef": "fact_flags.Billed Amount",
+              "nativeQueryRef": "Billed Amount"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_flags"
+                    }
+                  },
+                  "Property": "Flag Impact"
+                }
+              },
+              "queryRef": "fact_flags.Flag Impact",
+              "nativeQueryRef": "Flag Impact"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Selected flag: expected vs billed'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

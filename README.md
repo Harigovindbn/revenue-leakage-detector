@@ -101,7 +101,13 @@ python -m venv .venv
 
 # run the tests
 .\.venv\Scripts\python.exe -m pytest -q
+
+# (re)build the Power BI dashboard project, then open it and click Home > Refresh
+.\.venv\Scripts\python.exe tools\build_powerbi_project.py
+start powerbi\RevenueLeakage.pbip
 ```
+
+**Power BI dashboard:** `powerbi/RevenueLeakage.pbip` is a Power BI Project. It holds the star-schema model, 8 relationships, 30 DAX measures and three pages: Executive summary, Flag review, and Root causes & tax. Open it in Power BI Desktop and click **Refresh** to load the CSVs. If you cloned the repo to another folder, first set the `DataFolder` parameter (Transform data → Edit parameters) to your `output\powerbi\` path. [docs/powerbi_dashboard_guide.md](docs/powerbi_dashboard_guide.md) explains every measure and visual.
 
 **Using an LLM extractor instead of regex:**
 
@@ -137,6 +143,9 @@ src/
   evaluate.py          NFR-01     precision / recall / USD captured, extraction accuracy
   export_powerbi.py    FR-10, 11  star-schema tables for Power BI
   run_pipeline.py      entry point: python -m src.run_pipeline
+tools/
+  build_powerbi_project.py   generates the Power BI Project (model, measures, report pages)
+powerbi/               RevenueLeakage.pbip: open in Power BI Desktop
 tests/                 pytest: every leak rule, name matching, extraction grounding
 docs/                  BRD, process map, Power BI guide, case study
 output/                flags, review queue, evaluation report, powerbi/ tables
@@ -186,7 +195,7 @@ Real contract and invoice data is confidential, so `generate_data.py` builds a r
 - [x] Rule engine for leak types L1–L5, ranked by dollar impact × confidence
 - [x] Accuracy evaluation against the answer key (target: ≥ 90% recall and precision)
 - [x] Power BI data model and dashboard build guide ([guide](docs/powerbi_dashboard_guide.md))
-- [ ] Power BI dashboard built in Power BI Desktop (screenshots to follow)
+- [x] Power BI dashboard: three-page Power BI Project in [`powerbi/`](powerbi/) (screenshots to follow)
 - [ ] User acceptance testing with finance professionals
 - [x] Case study write-up: findings, root causes, recommendations ([case study](docs/case_study.md))
 

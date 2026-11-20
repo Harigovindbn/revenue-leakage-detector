@@ -1,0 +1,1 @@
+expression DataFolder = "C:\Users\harig\OneDrive\Desktop\Project\BA  project\output\powerbi\" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]

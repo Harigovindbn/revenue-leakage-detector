@@ -1,0 +1,41 @@
+table dim_leak_type
+
+	column rule_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: rule_id
+
+	column leak_type
+		dataType: string
+		summarizeBy: none
+		sourceColumn: leak_type
+		sortByColumn: sort_order
+
+	column severity
+		dataType: string
+		summarizeBy: none
+		sourceColumn: severity
+
+	column rule
+		dataType: string
+		summarizeBy: none
+		sourceColumn: rule
+
+	column impact_formula
+		dataType: string
+		summarizeBy: none
+		sourceColumn: impact_formula
+
+	column process_owner
+		dataType: string
+		summarizeBy: none
+		sourceColumn: process_owner
+
+	column sort_order
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: sort_order
+
+	partition dim_leak_type = m
+		mode: import
+		source = let Source = Csv.Document(File.Contents(DataFolder & "dim_leak_type.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]), Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]), Typed = Table.TransformColumnTypes(Promoted, {{"rule_id", type text}, {"leak_type", type text}, {"severity", type text}, {"rule", type text}, {"impact_formula", type text}, {"process_owner", type text}, {"sort_order", Int64.Type}}, "en-US") in Typed

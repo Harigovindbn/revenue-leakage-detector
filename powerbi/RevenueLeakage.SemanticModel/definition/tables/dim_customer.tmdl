@@ -1,0 +1,45 @@
+table dim_customer
+
+	column customer_key
+		dataType: string
+		summarizeBy: none
+		sourceColumn: customer_key
+
+	column customer_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: customer_name
+
+	column country_code
+		dataType: string
+		summarizeBy: none
+		sourceColumn: country_code
+
+	column segment
+		dataType: string
+		summarizeBy: none
+		sourceColumn: segment
+
+	column country_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: country_name
+
+	column tax_label
+		dataType: string
+		summarizeBy: none
+		sourceColumn: tax_label
+
+	column standard_tax_rate
+		dataType: double
+		summarizeBy: none
+		sourceColumn: standard_tax_rate
+
+	column contracts
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: contracts
+
+	partition dim_customer = m
+		mode: import
+		source = let Source = Csv.Document(File.Contents(DataFolder & "dim_customer.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]), Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]), Typed = Table.TransformColumnTypes(Promoted, {{"customer_key", type text}, {"customer_name", type text}, {"country_code", type text}, {"segment", type text}, {"country_name", type text}, {"tax_label", type text}, {"standard_tax_rate", type number}, {"contracts", Int64.Type}}, "en-US") in Typed
