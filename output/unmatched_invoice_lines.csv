@@ -1,0 +1,512 @@
+invoice_line_id,invoice_id,invoice_date,customer_name,matched_customer,customer_id,match_score,match_method,contract_id,unmatched_reason
+L0024805,INV-202401-X024805,2024-01-01,Union Foods DAC,,,85.0,suffix_conflict,,customer not matched
+L0024813,INV-202401-X024813,2024-01-01,Silver Insurance LLC,,,85.0,suffix_conflict,,customer not matched
+L0024909,INV-202401-X024909,2024-01-01,Blue Foods Limited,,,85.0,suffix_conflict,,customer not matched
+L0024798,INV-202401-X024798,2024-01-01,Orbit Foods Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024779,INV-202401-X024779,2024-01-01,River Construction Pty Ltd,,,86.5,fuzzy,,customer not matched
+L0025062,INV-202401-X025062,2024-01-01,Nova Retail AG,,,78.3,none,,customer not matched
+L0025139,INV-202401-X025139,2024-01-01,Blue Insurance Limited,,,85.0,suffix_conflict,,customer not matched
+L0025112,INV-202401-X025112,2024-01-01,Titan Properties B.V.,,,78.8,none,,customer not matched
+L0025126,INV-202401-X025126,2024-01-01,Harbour Construction B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024900,INV-202401-X024900,2024-01-01,Orbit Travel B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025028,INV-202401-X025028,2024-01-01,Union Travel DAC,,,72.0,none,,customer not matched
+L0024910,INV-202401-X024910,2024-01-01,Blue Labs Limited,,,63.2,none,,customer not matched
+L0024750,INV-202401-X024750,2024-01-01,Sterling Finance LLC,,,88.2,fuzzy,,customer not matched
+L0024784,INV-202401-X024784,2024-01-01,Sterling Logistics Limited,,,78.8,none,,customer not matched
+L0024885,INV-202401-X024885,2024-01-01,Bright Hospitality DAC,,,77.8,none,,customer not matched
+L0025146,INV-202401-X025146,2024-01-01,Union Properties Limited,,,78.8,none,,customer not matched
+L0024997,INV-202401-X024997,2024-01-01,Emerald Motors Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025008,INV-202401-X025008,2024-01-01,Quantum Trading Limited,,,75.9,none,,customer not matched
+L0024774,INV-202402-X024774,2024-02-01,River Energy Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025114,INV-202402-X025114,2024-02-01,Quantum Foods B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025164,INV-202402-X025164,2024-02-01,Pioneer Insurance B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024812,INV-202402-X024812,2024-02-01,Vertex Systems B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025124,INV-202402-X025124,2024-02-01,Pioneer Pharma Limited,Pioneer Pharma Limited,C0033,100.0,exact_normalised,,no active contract covers these products
+L0025197,INV-202402-X025197,2024-02-01,Quantum Media LLC,,,74.1,none,,customer not matched
+L0024937,INV-202402-X024937,2024-02-01,Vertex Logistics FZ-LLC,Vertex Logistics FZ-LLC,C0142,100.0,exact_normalised,,no active contract covers these products
+L0024982,INV-202402-X024982,2024-02-01,Delta Pharma Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024954,INV-202402-X024954,2024-02-01,Sterling Pharma Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024981,INV-202402-X024981,2024-02-01,Silver Energy Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024707,INV-202402-X024707,2024-02-01,Falcon Travel B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024734,INV-202402-X024734,2024-02-01,Coral Education B.V.,Coral Education B.V.,C0089,100.0,exact_normalised,,no active contract covers these products
+L0024833,INV-202403-X024833,2024-03-01,Iron Hospitality FZ-LLC,,,85.7,fuzzy,,customer not matched
+L0024753,INV-202403-X024753,2024-03-01,Emerald Systems LLC,,,78.6,none,,customer not matched
+L0025066,INV-202403-X025066,2024-03-01,Iron Properties B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025155,INV-202403-X025155,2024-03-01,North Systems Pty Ltd,,,84.6,none,,customer not matched
+L0025140,INV-202403-X025140,2024-03-01,North Trading Limited,,,80.0,none,,customer not matched
+L0024736,INV-202403-X024736,2024-03-01,Union Trading LLC,,,64.0,none,,customer not matched
+L0024875,INV-202403-X024875,2024-03-01,Atlas Insurance B.V.,,,80.0,none,,customer not matched
+L0025185,INV-202403-X025185,2024-03-01,Emerald Telecom FZ-LLC,,,85.0,suffix_conflict,,customer not matched
+L0024804,INV-202403-X024804,2024-03-01,Bright Construction Pty Ltd,,,77.8,none,,customer not matched
+L0024905,INV-202403-X024905,2024-03-01,Pacific Hospitality Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025110,INV-202403-X025110,2024-03-01,Vertex Properties Limited,,,83.9,none,,customer not matched
+L0024945,INV-202403-X024945,2024-03-01,Granite Analytics LLC,,,81.2,none,,customer not matched
+L0025170,INV-202403-X025170,2024-03-01,Blue Finance Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025085,INV-202403-X025085,2024-03-01,North Foods Limited,,,81.8,none,,customer not matched
+L0025091,INV-202403-X025091,2024-03-01,Summit Logistics Ltd,,,77.4,none,,customer not matched
+L0025006,INV-202403-X025006,2024-03-01,Granite Analytics Limited,,,81.2,none,,customer not matched
+L0024946,INV-202403-X024946,2024-03-01,Orbit Energy AG,,,83.3,none,,customer not matched
+L0024710,INV-202403-X024710,2024-03-01,Iron Motors AG,,,85.0,suffix_conflict,,customer not matched
+L0024733,INV-202403-X024733,2024-03-01,Quantum Trading Pty Ltd,,,75.9,none,,customer not matched
+L0025014,INV-202403-X025014,2024-03-01,Willow Analytics FZ-LLC,,,77.4,none,,customer not matched
+L0025096,INV-202403-X025096,2024-03-01,Apex Telecom AG,,,85.0,suffix_conflict,,customer not matched
+L0025051,INV-202403-X025051,2024-03-01,Atlas Travel Limited,,,75.0,none,,customer not matched
+L0025040,INV-202404-X025040,2024-04-01,Granite Media AG,,,74.1,none,,customer not matched
+L0025010,INV-202404-X025010,2024-04-01,Apex Analytics B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024928,INV-202404-X024928,2024-04-01,Granite Trading DAC,,,75.9,none,,customer not matched
+L0025100,INV-202404-X025100,2024-04-01,Cedar Media DAC,,,85.0,suffix_conflict,,customer not matched
+L0025093,INV-202404-X025093,2024-04-01,Delta Construction GmbH,,,86.5,fuzzy,,customer not matched
+L0025041,INV-202404-X025041,2024-04-01,Summit Foods Pty Ltd,Summit Foods Pty Ltd,C0281,100.0,exact_normalised,,no active contract covers these products
+L0024706,INV-202404-X024706,2024-04-01,Zenith Trading Pty Ltd,,,71.4,none,,customer not matched
+L0025026,INV-202404-X025026,2024-04-01,Red Energy Pty Ltd,,,81.8,none,,customer not matched
+L0025031,INV-202404-X025031,2024-04-01,Summit Energy FZ-LLC,,,85.0,suffix_conflict,,customer not matched
+L0024824,INV-202404-X024824,2024-04-01,Red Hospitality Limited,,,85.0,suffix_conflict,,customer not matched
+L0025142,INV-202404-X025142,2024-04-01,Apex Insurance Limited,,,85.0,suffix_conflict,,customer not matched
+L0024726,INV-202404-X024726,2024-04-01,Falcon Construction DAC,,,85.0,suffix_conflict,,customer not matched
+L0025007,INV-202404-X025007,2024-04-01,Red Media GmbH,,,85.0,suffix_conflict,,customer not matched
+L0024775,INV-202404-X024775,2024-04-01,Cedar Construction Ltd,,,80.0,none,,customer not matched
+L0024983,INV-202405-X024983,2024-05-01,Bright Education Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024807,INV-202405-X024807,2024-05-01,Summit Motors Pty Ltd,,,80.0,none,,customer not matched
+L0024708,INV-202405-X024708,2024-05-01,Bright Systems DAC,,,85.0,suffix_conflict,,customer not matched
+L0024782,INV-202405-X024782,2024-05-01,Apex Systems B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024857,INV-202405-X024857,2024-05-01,Union Retail DAC,,,75.0,none,,customer not matched
+L0024729,INV-202405-X024729,2024-05-01,Atlas Hospitality FZE,,,85.0,suffix_conflict,,customer not matched
+L0024932,INV-202405-X024932,2024-05-01,Red Pharma B.V.,,,81.8,none,,customer not matched
+L0024929,INV-202405-X024929,2024-05-01,Cedar Finance GmbH,,,76.9,none,,customer not matched
+L0024741,INV-202405-X024741,2024-05-01,Bright Media AG,,,85.0,suffix_conflict,,customer not matched
+L0025183,INV-202405-X025183,2024-05-01,Crescent Telecom Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024868,INV-202405-X024868,2024-05-01,Quantum Pharma DAC,,,85.0,suffix_conflict,,customer not matched
+L0025082,INV-202405-X025082,2024-05-01,Union Motors AG,,,78.3,none,,customer not matched
+L0024916,INV-202405-X024916,2024-05-01,Willow Retail Limited,,,76.9,none,,customer not matched
+L0024967,INV-202405-X024967,2024-05-01,Iron Foods B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025025,INV-202406-X025025,2024-06-01,Silver Travel Limited,,,88.0,fuzzy,,customer not matched
+L0025058,INV-202406-X025058,2024-06-01,Granite Trading Limited,,,75.9,none,,customer not matched
+L0025094,INV-202406-X025094,2024-06-01,Coral Logistics LLC,,,77.4,none,,customer not matched
+L0025095,INV-202406-X025095,2024-06-01,Quantum Hospitality Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024854,INV-202406-X024854,2024-06-01,Iron Health GmbH,,,85.0,suffix_conflict,,customer not matched
+L0024806,INV-202406-X024806,2024-06-01,Zenith Logistics B.V.,Zenith Logistics B.V.,C0178,100.0,exact_normalised,,no active contract covers these products
+L0025080,INV-202406-X025080,2024-06-01,Desert Analytics Limited,,,85.0,suffix_conflict,,customer not matched
+L0024841,INV-202406-X024841,2024-06-01,Coral Insurance LLC,,,85.0,suffix_conflict,,customer not matched
+L0025131,INV-202406-X025131,2024-06-01,Granite Energy AG,,,76.9,none,,customer not matched
+L0024922,INV-202406-X024922,2024-06-01,Apex Media LLC,,,66.7,none,,customer not matched
+L0025144,INV-202406-X025144,2024-06-01,Falcon Retail B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024995,INV-202406-X024995,2024-06-01,Blue Pharma FZ-LLC,,,72.0,none,,customer not matched
+L0024847,INV-202406-X024847,2024-06-01,Nova Pharma Limited,,,85.0,suffix_conflict,,customer not matched
+L0025113,INV-202406-X025113,2024-06-01,Apex Construction B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024896,INV-202406-X024896,2024-06-01,Sterling Insurance Limited,,,85.0,suffix_conflict,,customer not matched
+L0024771,INV-202406-X024771,2024-06-01,Quantum Travel Pty Ltd,Quantum Travel Pty Ltd,C0286,100.0,exact_normalised,,no active contract covers these products
+L0024856,INV-202407-X024856,2024-07-01,Blue Trading Ltd,,,76.9,none,,customer not matched
+L0024877,INV-202407-X024877,2024-07-01,Red Energy Pty Ltd,,,81.8,none,,customer not matched
+L0024754,INV-202407-X024754,2024-07-01,Falcon Logistics Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025018,INV-202407-X025018,2024-07-01,Blue Labs AG,,,63.2,none,,customer not matched
+L0025024,INV-202407-X025024,2024-07-01,Iron Media DAC,,,85.0,suffix_conflict,,customer not matched
+L0024991,INV-202407-X024991,2024-07-01,Bright Hospitality AG,,,77.8,none,,customer not matched
+L0024904,INV-202407-X024904,2024-07-01,Iron Labs B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025034,INV-202407-X025034,2024-07-01,Cedar Media Limited,,,85.0,suffix_conflict,,customer not matched
+L0024925,INV-202407-X024925,2024-07-01,Titan Logistics AG,,,85.0,suffix_conflict,,customer not matched
+L0024951,INV-202407-X024951,2024-07-01,Willow Telecom Limited,Willow Telecom DAC,C0186,100.0,exact_normalised,,no active contract covers these products
+L0024858,INV-202407-X024858,2024-07-01,Iron Media B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024850,INV-202407-X024850,2024-07-01,Pacific Analytics Ltd,,,76.5,none,,customer not matched
+L0024844,INV-202407-X024844,2024-07-01,Red Motors FZE,,,81.8,none,,customer not matched
+L0025101,INV-202408-X025101,2024-08-01,Red Foods LLC,,,85.0,suffix_conflict,,customer not matched
+L0025069,INV-202408-X025069,2024-08-01,Emerald Analytics DAC,,,85.0,suffix_conflict,,customer not matched
+L0025165,INV-202408-X025165,2024-08-01,Sterling Logistics AG,,,78.8,none,,customer not matched
+L0024899,INV-202408-X024899,2024-08-01,Quantum Labs Limited,,,72.0,none,,customer not matched
+L0024943,INV-202408-X024943,2024-08-01,Iron Energy Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025023,INV-202408-X025023,2024-08-01,Delta Properties FZ-LLC,,,84.8,none,,customer not matched
+L0024768,INV-202408-X024768,2024-08-01,Crescent Labs Limited,,,75.0,none,,customer not matched
+L0025132,INV-202408-X025132,2024-08-01,Union Motors Limited,,,78.3,none,,customer not matched
+L0024845,INV-202408-X024845,2024-08-01,Emerald Foods FZE,,,85.0,suffix_conflict,,customer not matched
+L0024895,INV-202408-X024895,2024-08-01,Falcon Hospitality LLC,,,80.0,none,,customer not matched
+L0024755,INV-202409-X024755,2024-09-01,Cedar Insurance Ltd,,,80.0,none,,customer not matched
+L0024716,INV-202409-X024716,2024-09-01,Iron Pharma Limited,,,85.0,suffix_conflict,,customer not matched
+L0025078,INV-202409-X025078,2024-09-01,Cedar Telecom FZE,Cedar Telecom LLC,C0265,100.0,exact_normalised,,no active contract covers these products
+L0024800,INV-202409-X024800,2024-09-01,Emerald Energy LLC,,,76.9,none,,customer not matched
+L0025099,INV-202409-X025099,2024-09-01,Granite Hospitality Ltd,,,80.0,none,,customer not matched
+L0024781,INV-202409-X024781,2024-09-01,Cedar Construction B.V.,,,80.0,none,,customer not matched
+L0025021,INV-202409-X025021,2024-09-01,Falcon Finance Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024770,INV-202409-X024770,2024-09-01,Nova Logistics B.V.,,,82.8,none,,customer not matched
+L0024907,INV-202409-X024907,2024-09-01,Desert Media B.V.,,,78.3,none,,customer not matched
+L0024711,INV-202409-X024711,2024-09-01,Union Systems Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025123,INV-202410-X025123,2024-10-01,Harbour Construction Limited,,,85.0,suffix_conflict,,customer not matched
+L0024898,INV-202410-X024898,2024-10-01,Harbour Hospitality AG,Harbour Hospitality GmbH,C0193,100.0,exact_normalised,,no active contract covers these products
+L0024918,INV-202410-X024918,2024-10-01,Crescent Trading B.V.,,,73.3,none,,customer not matched
+L0024756,INV-202410-X024756,2024-10-01,Nova Retail GmbH,,,78.3,none,,customer not matched
+L0024940,INV-202410-X024940,2024-10-01,Harbour Labs DAC,,,72.0,none,,customer not matched
+L0025119,INV-202410-X025119,2024-10-01,Union Finance AG,,,85.0,suffix_conflict,,customer not matched
+L0025067,INV-202410-X025067,2024-10-01,Delta Logistics GmbH,,,83.9,none,,customer not matched
+L0024963,INV-202410-X024963,2024-10-01,Union Insurance B.V.,,,89.7,fuzzy,,customer not matched
+L0024924,INV-202410-X024924,2024-10-01,Atlas Motors B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024730,INV-202411-X024730,2024-11-01,Emerald Health B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024969,INV-202411-X024969,2024-11-01,Red Systems Pty Ltd,,,83.3,none,,customer not matched
+L0024912,INV-202411-X024912,2024-11-01,Union Energy Limited,Union Energy Limited,C0190,100.0,exact_normalised,,no active contract covers these products
+L0024970,INV-202411-X024970,2024-11-01,Vertex Trading Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024830,INV-202411-X024830,2024-11-01,River Logistics Pty Ltd,,,85.7,fuzzy,,customer not matched
+L0024903,INV-202411-X024903,2024-11-01,North Motors Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025182,INV-202411-X025182,2024-11-01,Zenith Retail Pty Ltd,,,76.9,none,,customer not matched
+L0025055,INV-202411-X025055,2024-11-01,Willow Systems Limited,,,85.0,suffix_conflict,,customer not matched
+L0024980,INV-202411-X024980,2024-11-01,Willow Hospitality Limited,,,77.8,none,,customer not matched
+L0024786,INV-202411-X024786,2024-11-01,Emerald Labs AG,,,72.0,none,,customer not matched
+L0024759,INV-202411-X024759,2024-11-01,Atlas Construction FZ-LLC,,,80.0,none,,customer not matched
+L0024919,INV-202411-X024919,2024-11-01,Summit Labs Limited,,,69.6,none,,customer not matched
+L0024948,INV-202411-X024948,2024-11-01,Pioneer Travel Ltd,,,76.9,none,,customer not matched
+L0024823,INV-202411-X024823,2024-11-01,Vertex Construction B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024855,INV-202411-X024855,2024-11-01,Vertex Pharma Limited,Vertex Pharma Limited,C0130,100.0,exact_normalised,,no active contract covers these products
+L0025047,INV-202411-X025047,2024-11-01,Desert Insurance Pty Ltd,,,82.4,none,,customer not matched
+L0025000,INV-202412-X025000,2024-12-01,Coral Retail Ltd,,,75.0,none,,customer not matched
+L0025004,INV-202412-X025004,2024-12-01,Emerald Energy GmbH,,,76.9,none,,customer not matched
+L0025109,INV-202412-X025109,2024-12-01,River Insurance Ltd,River Insurance DAC,C0280,100.0,exact_normalised,,no active contract covers these products
+L0024748,INV-202412-X024748,2024-12-01,Union Health LLC,,,87.0,fuzzy,,customer not matched
+L0025129,INV-202412-X025129,2024-12-01,Vertex Media FZ-LLC,Vertex Media LLC,C0264,100.0,exact_normalised,,no active contract covers these products
+L0025030,INV-202412-X025030,2024-12-01,Harbour Media Limited,,,85.0,suffix_conflict,,customer not matched
+L0024838,INV-202412-X024838,2024-12-01,Desert Motors LLC,,,80.0,none,,customer not matched
+L0025160,INV-202412-X025160,2024-12-01,North Logistics LLC,,,86.7,fuzzy,,customer not matched
+L0025032,INV-202412-X025032,2024-12-01,Desert Construction B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024814,INV-202412-X024814,2024-12-01,Sterling Health LLC,,,75.9,none,,customer not matched
+L0024749,INV-202412-X024749,2024-12-01,Emerald Construction B.V.,,,82.1,none,,customer not matched
+L0025049,INV-202412-X025049,2024-12-01,Cedar Trading Limited,,,76.9,none,,customer not matched
+L0025052,INV-202412-X025052,2024-12-01,Desert Finance Limited,,,81.5,none,,customer not matched
+L0024989,INV-202412-X024989,2024-12-01,Coral Insurance Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024737,INV-202412-X024737,2024-12-01,Orbit Trading Ltd,,,76.9,none,,customer not matched
+L0025090,INV-202412-X025090,2024-12-01,Silver Travel Limited,,,88.0,fuzzy,,customer not matched
+L0025190,INV-202501-X025190,2025-01-01,Summit Construction B.V.,,,81.1,none,,customer not matched
+L0024990,INV-202501-X024990,2025-01-01,Crescent Pharma Limited,,,85.0,suffix_conflict,,customer not matched
+L0024808,INV-202501-X024808,2025-01-01,Union Retail B.V.,,,75.0,none,,customer not matched
+L0024763,INV-202501-X024763,2025-01-01,Crescent Energy Limited,,,71.0,none,,customer not matched
+L0024792,INV-202501-X024792,2025-01-01,Blue Properties B.V.,,,80.0,none,,customer not matched
+L0024930,INV-202501-X024930,2025-01-01,Granite Insurance GmbH,,,85.0,suffix_conflict,,customer not matched
+L0024999,INV-202501-X024999,2025-01-01,Vertex Pharma B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025135,INV-202501-X025135,2025-01-01,Pioneer Motors DAC,,,76.9,none,,customer not matched
+L0025174,INV-202501-X025174,2025-01-01,River Health B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024852,INV-202501-X024852,2025-01-01,Orbit Hospitality Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024865,INV-202501-X024865,2025-01-01,Sterling Education LLC,,,85.0,suffix_conflict,,customer not matched
+L0024944,INV-202501-X024944,2025-01-01,Vertex Travel Ltd,,,74.1,none,,customer not matched
+L0025116,INV-202501-X025116,2025-01-01,Delta Travel B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025044,INV-202501-X025044,2025-01-01,Cedar Trading B.V.,,,76.9,none,,customer not matched
+L0024913,INV-202501-X024913,2025-01-01,North Education LLC,,,85.0,suffix_conflict,,customer not matched
+L0024902,INV-202501-X024902,2025-01-01,Emerald Education FZE,,,80.0,none,,customer not matched
+L0025159,INV-202502-X025159,2025-02-01,Pioneer Logistics B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025137,INV-202502-X025137,2025-02-01,Titan Analytics Pty Ltd,,,80.0,none,,customer not matched
+L0024994,INV-202502-X024994,2025-02-01,Union Health LLC,,,87.0,fuzzy,,customer not matched
+L0024837,INV-202502-X024837,2025-02-01,Bright Analytics FZE,,,83.9,none,,customer not matched
+L0025002,INV-202502-X025002,2025-02-01,Quantum Analytics Limited,,,85.0,suffix_conflict,,customer not matched
+L0025046,INV-202502-X025046,2025-02-01,Atlas Telecom B.V.,,,76.9,none,,customer not matched
+L0025048,INV-202502-X025048,2025-02-01,Silver Systems B.V.,,,88.9,fuzzy,,customer not matched
+L0024966,INV-202502-X024966,2025-02-01,Titan Labs GmbH,,,85.0,suffix_conflict,,customer not matched
+L0024939,INV-202503-X024939,2025-03-01,Cedar Hospitality DAC,,,80.0,none,,customer not matched
+L0024742,INV-202503-X024742,2025-03-01,Blue Systems B.V.,,,75.0,none,,customer not matched
+L0025106,INV-202503-X025106,2025-03-01,North Pharma LLC,,,83.3,none,,customer not matched
+L0025141,INV-202503-X025141,2025-03-01,Titan Finance FZ-LLC,,,85.0,suffix_conflict,,customer not matched
+L0025128,INV-202503-X025128,2025-03-01,Red Analytics Pty Ltd,,,85.7,fuzzy,,customer not matched
+L0025136,INV-202503-X025136,2025-03-01,Quantum Telecom GmbH,,,85.0,suffix_conflict,,customer not matched
+L0025027,INV-202503-X025027,2025-03-01,Vertex Foods Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025077,INV-202503-X025077,2025-03-01,Harbour Construction GmbH,,,85.0,suffix_conflict,,customer not matched
+L0025013,INV-202503-X025013,2025-03-01,Orbit Travel B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024762,INV-202503-X024762,2025-03-01,Silver Pharma LLC,,,85.0,suffix_conflict,,customer not matched
+L0024992,INV-202503-X024992,2025-03-01,Bright Travel Limited,,,85.0,suffix_conflict,,customer not matched
+L0025173,INV-202503-X025173,2025-03-01,Orbit Construction Pty Ltd,Orbit Construction Pty Ltd,C0099,100.0,exact_normalised,,no active contract covers these products
+L0025015,INV-202503-X025015,2025-03-01,Blue Hospitality Pty Ltd,,,81.2,none,,customer not matched
+L0025103,INV-202503-X025103,2025-03-01,Atlas Foods Limited,,,78.3,none,,customer not matched
+L0024714,INV-202504-X024714,2025-04-01,Pioneer Motors AG,,,76.9,none,,customer not matched
+L0025175,INV-202504-X025175,2025-04-01,Orbit Telecom B.V.,,,84.6,none,,customer not matched
+L0024724,INV-202504-X024724,2025-04-01,Falcon Foods B.V.,,,80.0,none,,customer not matched
+L0024722,INV-202504-X024722,2025-04-01,Pioneer Construction DAC,,,86.5,fuzzy,,customer not matched
+L0025011,INV-202504-X025011,2025-04-01,Coral Motors Pty Ltd,,,76.9,none,,customer not matched
+L0024888,INV-202504-X024888,2025-04-01,Red Finance B.V.,,,75.0,none,,customer not matched
+L0024859,INV-202504-X024859,2025-04-01,Pioneer Pharma LLC,,,85.0,suffix_conflict,,customer not matched
+L0025001,INV-202504-X025001,2025-04-01,Red Pharma Limited,,,81.8,none,,customer not matched
+L0025177,INV-202504-X025177,2025-04-01,Union Health GmbH,,,87.0,fuzzy,,customer not matched
+L0024827,INV-202504-X024827,2025-04-01,Union Hospitality DAC,,,83.3,none,,customer not matched
+L0025057,INV-202504-X025057,2025-04-01,Orbit Insurance Pty Ltd,,,85.7,fuzzy,,customer not matched
+L0024996,INV-202504-X024996,2025-04-01,Summit Construction Ltd,,,81.1,none,,customer not matched
+L0025054,INV-202504-X025054,2025-04-01,North Construction DAC,,,88.9,fuzzy,,customer not matched
+L0024873,INV-202504-X024873,2025-04-01,Pioneer Logistics Limited,,,85.0,suffix_conflict,,customer not matched
+L0025022,INV-202505-X025022,2025-05-01,Iron Media Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025162,INV-202505-X025162,2025-05-01,Delta Logistics Limited,,,83.9,none,,customer not matched
+L0025163,INV-202505-X025163,2025-05-01,Crescent Motors Limited,,,85.0,suffix_conflict,,customer not matched
+L0024819,INV-202505-X024819,2025-05-01,North Motors Limited,North Motors Ltd,C0222,100.0,exact_normalised,,no active contract covers these products
+L0024839,INV-202505-X024839,2025-05-01,Granite Health FZE,,,78.6,none,,customer not matched
+L0024998,INV-202505-X024998,2025-05-01,Atlas Retail DAC,,,75.0,none,,customer not matched
+L0025120,INV-202505-X025120,2025-05-01,Nova Trading B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024801,INV-202505-X024801,2025-05-01,Sterling Health AG,,,75.9,none,,customer not matched
+L0025053,INV-202505-X025053,2025-05-01,Vertex Logistics Limited,,,85.0,suffix_conflict,,customer not matched
+L0024803,INV-202505-X024803,2025-05-01,Summit Trading GmbH,,,85.0,suffix_conflict,,customer not matched
+L0024758,INV-202505-X024758,2025-05-01,Cedar Telecom Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024785,INV-202505-X024785,2025-05-01,Apex Systems Limited,Apex Systems DAC,C0024,100.0,exact_normalised,,no active contract covers these products
+L0024962,INV-202505-X024962,2025-05-01,Titan Insurance Pty Ltd,,,85.7,fuzzy,,customer not matched
+L0024906,INV-202505-X024906,2025-05-01,Nova Labs Ltd,,,73.7,none,,customer not matched
+L0025079,INV-202505-X025079,2025-05-01,Titan Analytics Limited,,,80.0,none,,customer not matched
+L0025199,INV-202505-X025199,2025-05-01,Silver Insurance Limited,Silver Insurance Limited,C0198,100.0,exact_normalised,,no active contract covers these products
+L0024869,INV-202505-X024869,2025-05-01,Falcon Construction Limited,,,85.0,suffix_conflict,,customer not matched
+L0025180,INV-202506-X025180,2025-06-01,Blue Logistics Pty Ltd,,,78.6,none,,customer not matched
+L0024764,INV-202506-X024764,2025-06-01,Coral Analytics DAC,,,81.2,none,,customer not matched
+L0025003,INV-202506-X025003,2025-06-01,Vertex Travel DAC,,,74.1,none,,customer not matched
+L0014758,INV-202506-006712,2025-06-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025072,INV-202506-X025072,2025-06-01,Sterling Motors FZ-LLC,,,85.0,suffix_conflict,,customer not matched
+L0024952,INV-202506-X024952,2025-06-01,Union Retail Limited,,,75.0,none,,customer not matched
+L0024732,INV-202506-X024732,2025-06-01,Pacific Hospitality GmbH,,,85.0,suffix_conflict,,customer not matched
+L0025089,INV-202506-X025089,2025-06-01,North Health B.V.,,,83.3,none,,customer not matched
+L0024832,INV-202506-X024832,2025-06-01,Desert Logistics B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025105,INV-202506-X025105,2025-06-01,Desert Labs DAC,Desert Labs Limited,C0244,100.0,exact_normalised,,no active contract covers these products
+L0025149,INV-202506-X025149,2025-06-01,Harbour Retail B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024809,INV-202506-X024809,2025-06-01,Silver Motors Pty Ltd,Silver Motors Pty Ltd,C0188,100.0,exact_normalised,,no active contract covers these products
+L0024953,INV-202506-X024953,2025-06-01,Harbour Finance Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024840,INV-202506-X024840,2025-06-01,Crescent Logistics B.V.,Crescent Logistics B.V.,C0293,100.0,exact_normalised,,no active contract covers these products
+L0024767,INV-202506-X024767,2025-06-01,Silver Trading Limited,Silver Trading Limited,C0115,100.0,exact_normalised,,no active contract covers these products
+L0025145,INV-202506-X025145,2025-06-01,Iron Health Pty Ltd,Iron Health Pty Ltd,C0257,100.0,exact_normalised,,no active contract covers these products
+L0024822,INV-202506-X024822,2025-06-01,North Health FZ-LLC,,,83.3,none,,customer not matched
+L0024766,INV-202507-X024766,2025-07-01,Orbit Finance DAC,Orbit Finance DAC,C0139,100.0,exact_normalised,,no active contract covers these products
+L0025039,INV-202507-X025039,2025-07-01,Blue Hospitality LLC,,,81.2,none,,customer not matched
+L0024959,INV-202507-X024959,2025-07-01,Desert Motors B.V.,,,80.0,none,,customer not matched
+L0024867,INV-202507-X024867,2025-07-01,Pacific Labs B.V.,,,72.0,none,,customer not matched
+L0025036,INV-202507-X025036,2025-07-01,Atlas Telecom DAC,,,76.9,none,,customer not matched
+L0024934,INV-202507-X024934,2025-07-01,Crescent Health B.V.,,,75.9,none,,customer not matched
+L0014759,INV-202507-006713,2025-07-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025152,INV-202507-X025152,2025-07-01,Cedar Systems Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024727,INV-202507-X024727,2025-07-01,Orbit Energy Pty Ltd,,,83.3,none,,customer not matched
+L0025134,INV-202507-X025134,2025-07-01,Titan Logistics FZE,,,85.0,suffix_conflict,,customer not matched
+L0024931,INV-202507-X024931,2025-07-01,Granite Education Limited,,,85.0,suffix_conflict,,customer not matched
+L0024933,INV-202507-X024933,2025-07-01,Falcon Education Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025083,INV-202507-X025083,2025-07-01,Union Media Pty Ltd,,,76.2,none,,customer not matched
+L0025198,INV-202507-X025198,2025-07-01,Titan Insurance Limited,,,85.7,fuzzy,,customer not matched
+L0024828,INV-202507-X024828,2025-07-01,Silver Logistics GmbH,,,81.2,none,,customer not matched
+L0024947,INV-202507-X024947,2025-07-01,Coral Pharma AG,Coral Pharma AG,C0098,100.0,exact_normalised,,no active contract covers these products
+L0024816,INV-202507-X024816,2025-07-01,River Motors Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025065,INV-202507-X025065,2025-07-01,Coral Motors B.V.,,,76.9,none,,customer not matched
+L0024745,INV-202507-X024745,2025-07-01,Blue Labs B.V.,,,63.2,none,,customer not matched
+L0025167,INV-202507-X025167,2025-07-01,Falcon Motors Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025074,INV-202508-X025074,2025-08-01,Willow Energy Limited,,,75.0,none,,customer not matched
+L0024979,INV-202508-X024979,2025-08-01,Titan Telecom Pty Ltd,Titan Telecom Pty Ltd,C0169,100.0,exact_normalised,,no active contract covers these products
+L0025087,INV-202508-X025087,2025-08-01,Zenith Insurance Pty Ltd,,,75.0,none,,customer not matched
+L0025196,INV-202508-X025196,2025-08-01,Pioneer Insurance DAC,,,85.0,suffix_conflict,,customer not matched
+L0024884,INV-202508-X024884,2025-08-01,Orbit Logistics Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024964,INV-202508-X024964,2025-08-01,Crescent Foods AG,,,85.0,suffix_conflict,,customer not matched
+L0024871,INV-202508-X024871,2025-08-01,Nova Travel Pty Ltd,,,72.7,none,,customer not matched
+L0025086,INV-202508-X025086,2025-08-01,Blue Analytics Ltd,,,78.6,none,,customer not matched
+L0024790,INV-202508-X024790,2025-08-01,Sterling Analytics Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014760,INV-202508-006714,2025-08-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024817,INV-202508-X024817,2025-08-01,Vertex Media Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024802,INV-202508-X024802,2025-08-01,Union Motors Pty Ltd,,,78.3,none,,customer not matched
+L0025192,INV-202508-X025192,2025-08-01,North Energy B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025189,INV-202508-X025189,2025-08-01,Willow Media DAC,,,85.0,suffix_conflict,,customer not matched
+L0024835,INV-202508-X024835,2025-08-01,Nova Systems Limited,,,80.0,none,,customer not matched
+L0025181,INV-202508-X025181,2025-08-01,Pioneer Education B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025092,INV-202508-X025092,2025-08-01,Silver Energy LLC,,,85.0,suffix_conflict,,customer not matched
+L0025029,INV-202509-X025029,2025-09-01,Zenith Trading Pty Ltd,,,71.4,none,,customer not matched
+L0025063,INV-202509-X025063,2025-09-01,Iron Hospitality B.V.,,,85.7,fuzzy,,customer not matched
+L0024842,INV-202509-X024842,2025-09-01,Pacific Health Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025176,INV-202509-X025176,2025-09-01,Zenith Media Ltd,,,72.0,none,,customer not matched
+L0025017,INV-202509-X025017,2025-09-01,Granite Analytics Limited,,,81.2,none,,customer not matched
+L0024988,INV-202509-X024988,2025-09-01,Pacific Construction FZ-LLC,,,76.9,none,,customer not matched
+L0025088,INV-202509-X025088,2025-09-01,Blue Logistics DAC,,,78.6,none,,customer not matched
+L0024872,INV-202509-X024872,2025-09-01,Summit Energy Pty Ltd,Summit Energy Pty Ltd,C0218,100.0,exact_normalised,,no active contract covers these products
+L0024976,INV-202509-X024976,2025-09-01,Quantum Education GmbH,,,76.5,none,,customer not matched
+L0025148,INV-202509-X025148,2025-09-01,Summit Telecom B.V.,,,74.1,none,,customer not matched
+L0024780,INV-202509-X024780,2025-09-01,Titan Construction Pty Ltd,,,85.7,fuzzy,,customer not matched
+L0024719,INV-202509-X024719,2025-09-01,Blue Finance Ltd,Blue Finance DAC,C0052,100.0,exact_normalised,,no active contract covers these products
+L0024720,INV-202509-X024720,2025-09-01,Zenith Insurance Pty Ltd,,,75.0,none,,customer not matched
+L0024893,INV-202509-X024893,2025-09-01,Willow Analytics FZ-LLC,,,77.4,none,,customer not matched
+L0024744,INV-202509-X024744,2025-09-01,Iron Motors FZ-LLC,,,85.0,suffix_conflict,,customer not matched
+L0024920,INV-202509-X024920,2025-09-01,Emerald Motors B.V.,Emerald Motors B.V.,C0283,100.0,exact_normalised,,no active contract covers these products
+L0024728,INV-202509-X024728,2025-09-01,Harbour Pharma Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024738,INV-202509-X024738,2025-09-01,Crescent Media Limited,,,85.0,suffix_conflict,,customer not matched
+L0014761,INV-202509-006715,2025-09-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024926,INV-202510-X024926,2025-10-01,Summit Logistics B.V.,,,77.4,none,,customer not matched
+L0024731,INV-202510-X024731,2025-10-01,Pacific Trading LLC,,,75.9,none,,customer not matched
+L0024725,INV-202510-X024725,2025-10-01,Zenith Trading B.V.,,,71.4,none,,customer not matched
+L0024897,INV-202510-X024897,2025-10-01,River Logistics B.V.,,,85.7,fuzzy,,customer not matched
+L0025172,INV-202510-X025172,2025-10-01,Bright Motors AG,,,74.1,none,,customer not matched
+L0024908,INV-202510-X024908,2025-10-01,Nova Health GmbH,,,85.0,suffix_conflict,,customer not matched
+L0025158,INV-202510-X025158,2025-10-01,Willow Pharma Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014762,INV-202510-006716,2025-10-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025154,INV-202510-X025154,2025-10-01,Pacific Education FZ-LLC,,,85.0,suffix_conflict,,customer not matched
+L0025108,INV-202510-X025108,2025-10-01,Union Travel DAC,,,72.0,none,,customer not matched
+L0024864,INV-202510-X024864,2025-10-01,Nova Motors Limited,,,85.0,suffix_conflict,,customer not matched
+L0025111,INV-202510-X025111,2025-10-01,Nova Health Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024843,INV-202510-X024843,2025-10-01,Orbit Pharma Limited,,,85.0,suffix_conflict,,customer not matched
+L0025035,INV-202510-X025035,2025-10-01,Pioneer Telecom GmbH,,,75.9,none,,customer not matched
+L0024709,INV-202510-X024709,2025-10-01,Titan Trading Limited,,,76.9,none,,customer not matched
+L0024831,INV-202510-X024831,2025-10-01,Emerald Systems Pty Ltd,,,78.6,none,,customer not matched
+L0024985,INV-202510-X024985,2025-10-01,Crescent Foods Limited,,,85.0,suffix_conflict,,customer not matched
+L0025153,INV-202511-X025153,2025-11-01,Vertex Energy GmbH,,,85.0,suffix_conflict,,customer not matched
+L0024974,INV-202511-X024974,2025-11-01,Red Construction B.V.,,,85.7,fuzzy,,customer not matched
+L0024860,INV-202511-X024860,2025-11-01,Silver Retail DAC,,,88.0,fuzzy,,customer not matched
+L0024950,INV-202511-X024950,2025-11-01,River Trading GmbH,,,88.9,fuzzy,,customer not matched
+L0024880,INV-202511-X024880,2025-11-01,Apex Energy DAC,Apex Energy Ltd,C0243,100.0,exact_normalised,,no active contract covers these products
+L0025188,INV-202511-X025188,2025-11-01,Granite Health Ltd,,,78.6,none,,customer not matched
+L0025068,INV-202511-X025068,2025-11-01,Coral Construction Pty Ltd,,,85.7,fuzzy,,customer not matched
+L0024874,INV-202511-X024874,2025-11-01,Desert Education FZE,,,83.9,none,,customer not matched
+L0025005,INV-202511-X025005,2025-11-01,Harbour Finance Ltd,Harbour Finance Ltd,C0290,100.0,exact_normalised,,no active contract covers these products
+L0024834,INV-202511-X024834,2025-11-01,Summit Trading Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014763,INV-202511-006717,2025-11-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024836,INV-202511-X024836,2025-11-01,Delta Energy FZE,Delta Energy LLC,C0135,100.0,exact_normalised,,no active contract covers these products
+L0024886,INV-202511-X024886,2025-11-01,North Pharma DAC,,,83.3,none,,customer not matched
+L0024797,INV-202511-X024797,2025-11-01,Cedar Motors AG,,,85.0,suffix_conflict,,customer not matched
+L0025033,INV-202511-X025033,2025-11-01,Crescent Pharma FZE,,,85.0,suffix_conflict,,customer not matched
+L0025117,INV-202511-X025117,2025-11-01,Emerald Construction Limited,,,82.1,none,,customer not matched
+L0025122,INV-202511-X025122,2025-11-01,Desert Properties FZE,,,85.0,suffix_conflict,,customer not matched
+L0024769,INV-202511-X024769,2025-11-01,Desert Labs DAC,Desert Labs Limited,C0244,100.0,exact_normalised,,no active contract covers these products
+L0025193,INV-202511-X025193,2025-11-01,River Media Pty Ltd,,,87.0,fuzzy,,customer not matched
+L0024984,INV-202511-X024984,2025-11-01,Apex Hospitality B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025059,INV-202511-X025059,2025-11-01,Sterling Construction Pty Ltd,,,80.0,none,,customer not matched
+L0025178,INV-202511-X025178,2025-11-01,Apex Hospitality AG,Apex Hospitality GmbH,C0210,100.0,exact_normalised,,no active contract covers these products
+L0024772,INV-202511-X024772,2025-11-01,Apex Construction LLC,,,85.0,suffix_conflict,,customer not matched
+L0024747,INV-202511-X024747,2025-11-01,Red Hospitality Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024799,INV-202512-X024799,2025-12-01,Cedar Health B.V.,,,75.0,none,,customer not matched
+L0025061,INV-202512-X025061,2025-12-01,Desert Systems GmbH,,,80.0,none,,customer not matched
+L0024866,INV-202512-X024866,2025-12-01,Summit Construction LLC,,,81.1,none,,customer not matched
+L0025194,INV-202512-X025194,2025-12-01,Blue Pharma Limited,,,72.0,none,,customer not matched
+L0024783,INV-202512-X024783,2025-12-01,River Pharma LLC,,,85.0,suffix_conflict,,customer not matched
+L0024936,INV-202512-X024936,2025-12-01,Blue Pharma Limited,,,72.0,none,,customer not matched
+L0024712,INV-202512-X024712,2025-12-01,Summit Hospitality GmbH,,,80.0,none,,customer not matched
+L0024776,INV-202512-X024776,2025-12-01,Iron Trading LLC,,,81.5,none,,customer not matched
+L0024957,INV-202512-X024957,2025-12-01,Nova Education Pty Ltd,,,82.8,none,,customer not matched
+L0024861,INV-202512-X024861,2025-12-01,Delta Media Limited,Delta Media Limited,C0008,100.0,exact_normalised,,no active contract covers these products
+L0025118,INV-202512-X025118,2025-12-01,Falcon Labs Limited,,,85.0,suffix_conflict,,customer not matched
+L0024751,INV-202512-X024751,2025-12-01,Cedar Logistics Pty Ltd,,,77.4,none,,customer not matched
+L0025143,INV-202512-X025143,2025-12-01,Granite Travel Ltd,,,78.6,none,,customer not matched
+L0024752,INV-202512-X024752,2025-12-01,Titan Telecom GmbH,,,85.0,suffix_conflict,,customer not matched
+L0024825,INV-202512-X024825,2025-12-01,Union Telecom AG,,,76.9,none,,customer not matched
+L0014764,INV-202512-006718,2025-12-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024811,INV-202512-X024811,2025-12-01,Nova Analytics Pty Ltd,,,82.8,none,,customer not matched
+L0024961,INV-202512-X024961,2025-12-01,Union Construction Ltd,,,91.4,fuzzy,,customer not matched
+L0025098,INV-202512-X025098,2025-12-01,Blue Properties FZ-LLC,,,80.0,none,,customer not matched
+L0024890,INV-202512-X024890,2025-12-01,Desert Energy B.V.,,,80.0,none,,customer not matched
+L0024965,INV-202601-X024965,2026-01-01,Zenith Motors LLC,,,80.0,none,,customer not matched
+L0024787,INV-202601-X024787,2026-01-01,Granite Motors Limited,Granite Motors Limited,C0080,100.0,exact_normalised,,no active contract covers these products
+L0014765,INV-202601-006719,2026-01-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025187,INV-202601-X025187,2026-01-01,Harbour Properties GmbH,,,85.0,suffix_conflict,,customer not matched
+L0025097,INV-202601-X025097,2026-01-01,Red Construction Limited,,,85.7,fuzzy,,customer not matched
+L0025012,INV-202601-X025012,2026-01-01,Quantum Energy B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024826,INV-202601-X024826,2026-01-01,Orbit Properties GmbH,,,84.8,none,,customer not matched
+L0024713,INV-202601-X024713,2026-01-01,North Travel LLC,,,83.3,none,,customer not matched
+L0024891,INV-202601-X024891,2026-01-01,Bright Education Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024761,INV-202601-X024761,2026-01-01,Falcon Retail LLC,,,85.0,suffix_conflict,,customer not matched
+L0024715,INV-202601-X024715,2026-01-01,Union Systems B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024795,INV-202601-X024795,2026-01-01,Delta Insurance DAC,,,85.7,fuzzy,,customer not matched
+L0024923,INV-202601-X024923,2026-01-01,Quantum Analytics Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024915,INV-202602-X024915,2026-02-01,Red Analytics DAC,,,85.7,fuzzy,,customer not matched
+L0024721,INV-202602-X024721,2026-02-01,Sterling Construction B.V.,,,80.0,none,,customer not matched
+L0014766,INV-202602-006720,2026-02-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025130,INV-202602-X025130,2026-02-01,Iron Finance LLC,,,88.0,fuzzy,,customer not matched
+L0024972,INV-202602-X024972,2026-02-01,Orbit Travel GmbH,Orbit Travel AG,C0155,100.0,exact_normalised,,no active contract covers these products
+L0024973,INV-202602-X024973,2026-02-01,River Trading LLC,,,88.9,fuzzy,,customer not matched
+L0025125,INV-202602-X025125,2026-02-01,Silver Logistics AG,,,81.2,none,,customer not matched
+L0024941,INV-202602-X024941,2026-02-01,Blue Education DAC,,,78.6,none,,customer not matched
+L0024876,INV-202602-X024876,2026-02-01,Emerald Systems Pty Ltd,,,78.6,none,,customer not matched
+L0025037,INV-202602-X025037,2026-02-01,Apex Education Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025050,INV-202602-X025050,2026-02-01,Blue Properties Pty Ltd,,,80.0,none,,customer not matched
+L0024958,INV-202602-X024958,2026-02-01,Zenith Telecom B.V.,Zenith Telecom B.V.,C0295,100.0,exact_normalised,,no active contract covers these products
+L0025191,INV-202603-X025191,2026-03-01,Quantum Foods B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024820,INV-202603-X024820,2026-03-01,Union Media FZ-LLC,,,76.2,none,,customer not matched
+L0024892,INV-202603-X024892,2026-03-01,Emerald Analytics LLC,,,85.0,suffix_conflict,,customer not matched
+L0025019,INV-202603-X025019,2026-03-01,Quantum Trading Limited,,,75.9,none,,customer not matched
+L0024746,INV-202603-X024746,2026-03-01,Bright Media Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024723,INV-202603-X024723,2026-03-01,Quantum Pharma B.V.,Quantum Pharma B.V.,C0073,100.0,exact_normalised,,no active contract covers these products
+L0025166,INV-202603-X025166,2026-03-01,Emerald Trading Limited,,,78.6,none,,customer not matched
+L0024949,INV-202603-X024949,2026-03-01,North Education Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0014767,INV-202603-006721,2026-03-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024878,INV-202603-X024878,2026-03-01,Blue Construction GmbH,Blue Construction GmbH,C0001,100.0,exact_normalised,,no active contract covers these products
+L0025020,INV-202603-X025020,2026-03-01,Iron Properties Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024818,INV-202603-X024818,2026-03-01,Harbour Travel AG,,,85.0,suffix_conflict,,customer not matched
+L0025104,INV-202603-X025104,2026-03-01,Nova Labs LLC,,,73.7,none,,customer not matched
+L0025138,INV-202603-X025138,2026-03-01,Union Pharma AG,,,85.0,suffix_conflict,,customer not matched
+L0024740,INV-202604-X024740,2026-04-01,Apex Insurance DAC,,,85.0,suffix_conflict,,customer not matched
+L0025016,INV-202604-X025016,2026-04-01,Sterling Travel Limited,Sterling Travel DAC,C0104,100.0,exact_normalised,,no active contract covers these products
+L0024743,INV-202604-X024743,2026-04-01,Crescent Trading Pty Ltd,,,73.3,none,,customer not matched
+L0014768,INV-202604-006722,2026-04-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024894,INV-202604-X024894,2026-04-01,Red Foods FZE,,,85.0,suffix_conflict,,customer not matched
+L0025076,INV-202604-X025076,2026-04-01,Pacific Travel Limited,,,78.6,none,,customer not matched
+L0024796,INV-202604-X024796,2026-04-01,Blue Hospitality DAC,,,81.2,none,,customer not matched
+L0024882,INV-202604-X024882,2026-04-01,Pioneer Analytics B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025070,INV-202604-X025070,2026-04-01,Silver Energy Pty Ltd,Silver Energy Pty Ltd,C0152,100.0,exact_normalised,,no active contract covers these products
+L0025071,INV-202604-X025071,2026-04-01,Union Insurance GmbH,,,89.7,fuzzy,,customer not matched
+L0024881,INV-202604-X024881,2026-04-01,Bright Labs B.V.,,,69.6,none,,customer not matched
+L0025184,INV-202604-X025184,2026-04-01,Quantum Trading DAC,,,75.9,none,,customer not matched
+L0024927,INV-202604-X024927,2026-04-01,Sterling Trading FZE,,,77.4,none,,customer not matched
+L0025171,INV-202604-X025171,2026-04-01,Sterling Energy Limited,,,85.0,suffix_conflict,,customer not matched
+L0025081,INV-202604-X025081,2026-04-01,Falcon Hospitality Ltd,,,80.0,none,,customer not matched
+L0024849,INV-202604-X024849,2026-04-01,Atlas Telecom B.V.,,,76.9,none,,customer not matched
+L0024993,INV-202604-X024993,2026-04-01,Willow Health Pty Ltd,,,75.0,none,,customer not matched
+L0024986,INV-202605-X024986,2026-05-01,North Pharma B.V.,,,83.3,none,,customer not matched
+L0024977,INV-202605-X024977,2026-05-01,Zenith Retail FZE,,,76.9,none,,customer not matched
+L0024851,INV-202605-X024851,2026-05-01,Summit Hospitality B.V.,,,80.0,none,,customer not matched
+L0024870,INV-202605-X024870,2026-05-01,Red Education AG,Red Education AG,C0018,100.0,exact_normalised,,no active contract covers these products
+L0025133,INV-202605-X025133,2026-05-01,Red Retail B.V.,,,76.2,none,,customer not matched
+L0024914,INV-202605-X024914,2026-05-01,Desert Systems B.V.,,,80.0,none,,customer not matched
+L0024887,INV-202605-X024887,2026-05-01,Quantum Travel Limited,,,85.0,suffix_conflict,,customer not matched
+L0014769,INV-202605-006723,2026-05-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024975,INV-202605-X024975,2026-05-01,Pioneer Construction B.V.,,,86.5,fuzzy,,customer not matched
+L0024810,INV-202605-X024810,2026-05-01,Blue Pharma Limited,,,72.0,none,,customer not matched
+L0025042,INV-202605-X025042,2026-05-01,Desert Telecom GmbH,,,85.0,suffix_conflict,,customer not matched
+L0024935,INV-202605-X024935,2026-05-01,Apex Insurance Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024765,INV-202605-X024765,2026-05-01,Crescent Health Limited,,,75.9,none,,customer not matched
+L0025075,INV-202605-X025075,2026-05-01,Zenith Media Limited,,,72.0,none,,customer not matched
+L0024942,INV-202605-X024942,2026-05-01,Blue Foods B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025168,INV-202606-X025168,2026-06-01,Willow Finance DAC,,,85.0,suffix_conflict,,customer not matched
+L0024879,INV-202606-X024879,2026-06-01,Granite Hospitality DAC,,,80.0,none,,customer not matched
+L0025102,INV-202606-X025102,2026-06-01,Pioneer Foods Pty Ltd,,,78.3,none,,customer not matched
+L0025169,INV-202606-X025169,2026-06-01,Blue Labs Pty Ltd,,,63.2,none,,customer not matched
+L0024863,INV-202606-X024863,2026-06-01,Apex Insurance Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024789,INV-202606-X024789,2026-06-01,Crescent Media B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025147,INV-202606-X025147,2026-06-01,Red Insurance GmbH,,,85.7,fuzzy,,customer not matched
+L0025121,INV-202606-X025121,2026-06-01,Emerald Retail Limited,,,78.6,none,,customer not matched
+L0024889,INV-202606-X024889,2026-06-01,Apex Media LLC,,,66.7,none,,customer not matched
+L0025179,INV-202606-X025179,2026-06-01,Red Insurance GmbH,,,85.7,fuzzy,,customer not matched
+L0024777,INV-202606-X024777,2026-06-01,Bright Analytics FZE,,,83.9,none,,customer not matched
+L0024968,INV-202606-X024968,2026-06-01,Coral Labs Ltd,,,70.0,none,,customer not matched
+L0025150,INV-202606-X025150,2026-06-01,Willow Retail Limited,,,76.9,none,,customer not matched
+L0014770,INV-202606-006724,2026-06-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024718,INV-202607-X024718,2026-07-01,Bright Energy B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024848,INV-202607-X024848,2026-07-01,Orbit Logistics FZ-LLC,,,85.0,suffix_conflict,,customer not matched
+L0024846,INV-202607-X024846,2026-07-01,Pacific Analytics GmbH,,,76.5,none,,customer not matched
+L0014771,INV-202607-006725,2026-07-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025115,INV-202607-X025115,2026-07-01,Bright Properties Limited,Bright Properties Limited,C0112,100.0,exact_normalised,,no active contract covers these products
+L0024821,INV-202607-X024821,2026-07-01,Titan Finance B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025038,INV-202607-X025038,2026-07-01,Summit Motors B.V.,,,80.0,none,,customer not matched
+L0024911,INV-202607-X024911,2026-07-01,Iron Insurance B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024917,INV-202607-X024917,2026-07-01,Vertex Energy FZ-LLC,,,85.0,suffix_conflict,,customer not matched
+L0025186,INV-202607-X025186,2026-07-01,Willow Travel B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025056,INV-202607-X025056,2026-07-01,Granite Systems Ltd,,,78.6,none,,customer not matched
+L0024760,INV-202607-X024760,2026-07-01,Silver Telecom GmbH,,,78.6,none,,customer not matched
+L0024955,INV-202607-X024955,2026-07-01,Apex Telecom Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024987,INV-202607-X024987,2026-07-01,Quantum Media Pty Ltd,,,74.1,none,,customer not matched
+L0024778,INV-202607-X024778,2026-07-01,Harbour Labs Pty Ltd,,,72.0,none,,customer not matched
+L0024794,INV-202607-X024794,2026-07-01,Vertex Retail B.V.,,,80.0,none,,customer not matched
+L0024938,INV-202607-X024938,2026-07-01,Emerald Pharma FZ-LLC,,,76.9,none,,customer not matched
+L0025045,INV-202607-X025045,2026-07-01,Zenith Finance AG,,,74.1,none,,customer not matched
+L0025064,INV-202608-X025064,2026-08-01,Coral Finance Limited,,,85.7,fuzzy,,customer not matched
+L0024883,INV-202608-X024883,2026-08-01,Willow Energy FZE,,,75.0,none,,customer not matched
+L0025009,INV-202608-X025009,2026-08-01,Desert Systems Ltd,,,80.0,none,,customer not matched
+L0025157,INV-202608-X025157,2026-08-01,Apex Labs Limited,,,63.2,none,,customer not matched
+L0014772,INV-202608-006726,2026-08-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025084,INV-202608-X025084,2026-08-01,Orbit Insurance Limited,,,85.7,fuzzy,,customer not matched
+L0024960,INV-202608-X024960,2026-08-01,North Health LLC,,,83.3,none,,customer not matched
+L0025195,INV-202608-X025195,2026-08-01,Red Trading B.V.,,,75.0,none,,customer not matched
+L0024971,INV-202608-X024971,2026-08-01,Quantum Logistics Limited,,,76.5,none,,customer not matched
+L0024717,INV-202608-X024717,2026-08-01,Pioneer Labs FZ-LLC,,,72.7,none,,customer not matched
+L0024773,INV-202608-X024773,2026-08-01,Silver Insurance DAC,Silver Insurance Limited,C0198,100.0,exact_normalised,,no active contract covers these products
+L0014773,INV-202609-006727,2026-09-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025151,INV-202609-X025151,2026-09-01,Coral Logistics GmbH,,,77.4,none,,customer not matched
+L0024735,INV-202609-X024735,2026-09-01,Zenith Pharma AG,,,85.0,suffix_conflict,,customer not matched
+L0024757,INV-202609-X024757,2026-09-01,Zenith Properties GmbH,,,85.0,suffix_conflict,,customer not matched
+L0024829,INV-202609-X024829,2026-09-01,Willow Motors B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024739,INV-202609-X024739,2026-09-01,Iron Finance AG,,,88.0,fuzzy,,customer not matched
+L0025060,INV-202609-X025060,2026-09-01,North Insurance Limited,,,77.4,none,,customer not matched
+L0025073,INV-202609-X025073,2026-09-01,Nova Construction LLC,Nova Construction LLC,C0047,100.0,exact_normalised,,no active contract covers these products
+L0024978,INV-202609-X024978,2026-09-01,Zenith Labs GmbH,,,85.0,suffix_conflict,,customer not matched
+L0024793,INV-202609-X024793,2026-09-01,Crescent Insurance Pty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0025043,INV-202609-X025043,2026-09-01,Apex Systems DAC,Apex Systems DAC,C0024,100.0,exact_normalised,,no active contract covers these products
+L0024901,INV-202609-X024901,2026-09-01,Atlas Logistics B.V.,,,77.4,none,,customer not matched
+L0024921,INV-202609-X024921,2026-09-01,Titan Labs DAC,Titan Labs DAC,C0021,100.0,exact_normalised,,no active contract covers these products
+L0025156,INV-202610-X025156,2026-10-01,Orbit Analytics Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024815,INV-202610-X024815,2026-10-01,Zenith Motors Ltd,,,80.0,none,,customer not matched
+L0025161,INV-202610-X025161,2026-10-01,Blue Foods B.V.,,,85.0,suffix_conflict,,customer not matched
+L0024791,INV-202610-X024791,2026-10-01,Orbit Education B.V.,,,85.0,suffix_conflict,,customer not matched
+L0014774,INV-202610-006728,2026-10-01,HarbourAnalyticsPty Ltd,,,85.0,suffix_conflict,,customer not matched
+L0024862,INV-202610-X024862,2026-10-01,Harbour Properties Limited,,,85.0,suffix_conflict,,customer not matched
+L0024853,INV-202610-X024853,2026-10-01,Apex Media DAC,,,66.7,none,,customer not matched
+L0024788,INV-202610-X024788,2026-10-01,Coral Motors Ltd,,,76.9,none,,customer not matched
+L0024956,INV-202610-X024956,2026-10-01,Orbit Analytics AG,,,85.0,suffix_conflict,,customer not matched
+L0025127,INV-202610-X025127,2026-10-01,Union Analytics B.V.,,,85.0,suffix_conflict,,customer not matched
+L0025107,INV-202610-X025107,2026-10-01,Blue Hospitality LLC,,,81.2,none,,customer not matched

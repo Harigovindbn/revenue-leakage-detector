@@ -36,6 +36,22 @@ def money(x: float) -> float:
     return round(x + 1e-9, 2)
 
 
+def escalations_applied(escalation_date: date | None, on: date) -> int:
+    """How many annual increases apply on date `on` (first on escalation_date, then yearly)."""
+    if escalation_date is None or on < escalation_date:
+        return 0
+    n, d = 0, escalation_date
+    while d <= on:
+        n += 1
+        d = add_months(d, 12)
+    return n
+
+
+def price_after(base_price: float, escalation_pct: float | None, years: int) -> float:
+    """Contract price after `years` compounding increases: base x (1 + pct)^years."""
+    return money(base_price * (1 + (escalation_pct or 0) / 100) ** years)
+
+
 def load_invoices() -> pd.DataFrame:
     df = pd.read_csv(config.INVOICES_CSV, dtype={"invoice_line_id": str, "invoice_id": str})
     df["invoice_date"] = pd.to_datetime(df["invoice_date"]).dt.date

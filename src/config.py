@@ -55,11 +55,13 @@ TAX_RATE_TOLERANCE = 0.0001    # L5: rates are compared as decimals
 # Customer matching (FR-05)
 # --------------------------------------------------------------------------
 MATCH_AUTO_ACCEPT = 90         # fuzzy score (0-100) to accept a match automatically
-MATCH_REVIEW_FLOOR = 75        # between floor and auto-accept: matched, but flagged for review
+MATCH_REVIEW_FLOOR = 85        # between floor and auto-accept: suggested for review, not used
+                               # (75 produced hundreds of wrong suggestions that only shared
+                               # one word, e.g. "Zenith Insurance" vs "Summit Insurance")
 LEGAL_SUFFIXES = [
     # longest first so "pty ltd" is removed before "ltd"
     "fz llc", "pty ltd", "pty limited", "limited", "corporation", "company",
-    "gmbh", "llc", "fze", "ltd", "inc", "corp", "bv", "dac", "ag", "co", "plc", "sdn bhd",
+    "gmbh", "llc", "fze", "ltd", "pty", "inc", "corp", "bv", "dac", "ag", "co", "plc", "sdn bhd",
 ]
 
 # --------------------------------------------------------------------------

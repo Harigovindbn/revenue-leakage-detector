@@ -1,0 +1,747 @@
+invoice_customer_name,matched_customer,suggested_customer,customer_id,score,method,status,invoice_lines
+Pioneer Trading LLC,Pioneer Trading LLC,,C0066,100.0,exact_normalised,matched,264
+Orbit Systems FZ-LLC,Orbit Systems FZ-LLC,,C0250,100.0,exact_normalised,matched,259
+Red Foods Limited,Red Foods Limited,,C0156,100.0,exact_normalised,matched,247
+Delta Labs Limited,Delta Labs Limited,,C0027,100.0,exact_normalised,matched,235
+Falcon Construction Pty Ltd,Falcon Construction Pty Ltd,,C0201,100.0,exact_normalised,matched,233
+Sterling Travel DAC,Sterling Travel DAC,,C0104,100.0,exact_normalised,matched,224
+Nova Media B.V.,Nova Media B.V.,,C0253,100.0,exact_normalised,matched,221
+Nova Construction,Nova Construction LLC,,C0047,100.0,exact_normalised,matched,219
+Harbour Construction Pty Ltd,Harbour Construction Pty Ltd,,C0168,100.0,exact_normalised,matched,211
+Sterling Media GmbH,Sterling Media GmbH,,C0220,100.0,exact_normalised,matched,206
+Iron Education Limited,Iron Education Limited,,C0235,100.0,exact_normalised,matched,206
+North Telecom B.V.,North Telecom B.V.,,C0209,100.0,exact_normalised,matched,203
+River Motors Ltd,River Motors Ltd,,C0131,100.0,exact_normalised,matched,194
+Pacific  Properties LLC,Pacific Properties LLC,,C0022,100.0,exact_normalised,matched,192
+Summit Media Limited,Summit Media Limited,,C0050,100.0,exact_normalised,matched,186
+Vertex Education Ltd,Vertex Education Ltd,,C0044,100.0,exact_normalised,matched,182
+Blue Finance DAC,Blue Finance DAC,,C0052,100.0,exact_normalised,matched,177
+North Labs FZ-LLC,North Labs FZ-LLC,,C0012,100.0,exact_normalised,matched,173
+Orbit Motors Pty Ltd,Orbit Motors Pty Ltd,,C0171,100.0,exact_normalised,matched,172
+Union Energy Corp.,Union Energy Limited,,C0190,100.0,exact_normalised,matched,170
+Silver Media Pty Ltd,Silver Media Pty Ltd,,C0116,100.0,exact_normalised,matched,165
+Iron Properties Pty Ltd,Iron Properties Pty Ltd,,C0233,100.0,exact_normalised,matched,164
+Union Systems FZ-LLC,Union Systems FZ-LLC,,C0109,100.0,exact_normalised,matched,163
+Red Hospitality Pty Ltd,Red Hospitality Pty Ltd,,C0134,100.0,exact_normalised,matched,161
+Delta Health B.V.,Delta Health B.V.,,C0266,100.0,exact_normalised,matched,160
+Emerald Telecom Pty Ltd,Emerald Telecom Pty Ltd,,C0157,100.0,exact_normalised,matched,160
+Pioneer Education GmbH,Pioneer Education GmbH,,C0096,100.0,exact_normalised,matched,159
+Coral Education B.V.,Coral Education B.V.,,C0089,100.0,exact_normalised,matched,157
+North Energy FZE,North Energy FZE,,C0164,100.0,exact_normalised,matched,156
+Desert Labs Limited,Desert Labs Limited,,C0244,100.0,exact_normalised,matched,150
+Union Foods LLC,Union Foods LLC,,C0030,100.0,exact_normalised,matched,149
+Crescent Telecom FZ-LLC,Crescent Telecom FZ-LLC,,C0076,100.0,exact_normalised,matched,149
+Apex Properties B.V.,Apex Properties B.V.,,C0192,100.0,exact_normalised,matched,146
+Nova Motors B.V.,Nova Motors B.V.,,C0228,100.0,exact_normalised,matched,142
+Harbour Insurance FZ-LLC,Harbour Insurance FZ-LLC,,C0300,100.0,exact_normalised,matched,142
+Vertex Construction Pty Ltd,Vertex Construction Pty Ltd,,C0046,100.0,exact_normalised,matched,140
+Atlas Systems Corp.,Atlas Systems B.V.,,C0245,100.0,exact_normalised,matched,138
+Crescent Analytics Limited,Crescent Analytics Limited,,C0049,100.0,exact_normalised,matched,136
+WILLOW TELECOM DAC,Willow Telecom DAC,,C0186,100.0,exact_normalised,matched,136
+Titan Finance Ltd,Titan Finance Ltd,,C0199,100.0,exact_normalised,matched,135
+Falcon Motors Limited,Falcon Motors Limited,,C0202,100.0,exact_normalised,matched,134
+Sterling Insurance AG,Sterling Insurance AG,,C0039,100.0,exact_normalised,matched,132
+BLUE ENERGY PTY LTD,Blue Energy Pty Ltd,,C0232,100.0,exact_normalised,matched,131
+Orbit Analytics Corp.,Orbit Analytics FZ-LLC,,C0231,100.0,exact_normalised,matched,130
+Granite Properties Pty Ltd,Granite Properties Pty Ltd,,C0247,100.0,exact_normalised,matched,130
+River Energy FZ-LLC,River Energy FZ-LLC,,C0127,100.0,exact_normalised,matched,130
+Quantum Energy Pty,Quantum Energy Pty Ltd,,C0214,100.0,exact_normalised,matched,129
+Titan Labs Corp.,Titan Labs DAC,,C0021,100.0,exact_normalised,matched,129
+Silver Foods B.V.,Silver Foods B.V.,,C0299,100.0,exact_normalised,matched,128
+River Analytics FZE,River Analytics FZE,,C0150,100.0,exact_normalised,matched,128
+Falcon Finance LLC,Falcon Finance LLC,,C0205,100.0,exact_normalised,matched,128
+Iron Construction Pty Ltd,Iron Construction Pty Ltd,,C0034,100.0,exact_normalised,matched,127
+Harbour Finance Ltd,Harbour Finance Ltd,,C0290,100.0,exact_normalised,matched,127
+River Travel Limited,River Travel Limited,,C0103,100.0,exact_normalised,matched,126
+Red Education AG,Red Education AG,,C0018,100.0,exact_normalised,matched,125
+Iron Energy LLC,Iron Energy LLC,,C0208,100.0,exact_normalised,matched,125
+Summit Insurance Corp.,Summit Insurance FZ-LLC,,C0042,100.0,exact_normalised,matched,125
+Apex Motors FZE,Apex Motors FZE,,C0121,100.0,exact_normalised,matched,120
+VertexHealth Limited,Vertex Health Limited,,C0106,100.0,exact_normalised,matched,119
+Quantum Foods Pty Ltd,Quantum Foods Pty Ltd,,C0058,100.0,exact_normalised,matched,118
+Bright Systems GmbH,Bright Systems GmbH,,C0288,100.0,exact_normalised,matched,117
+Nova Energy Pty Ltd,Nova Energy Pty Ltd,,C0140,100.0,exact_normalised,matched,116
+Cedar Labs,Cedar Labs FZE,,C0074,100.0,exact_normalised,matched,116
+Desert Pharma LLC,Desert Pharma LLC,,C0094,100.0,exact_normalised,matched,113
+Orbit Health B.V.,Orbit Health B.V.,,C0225,100.0,exact_normalised,matched,112
+Titan Retail B.V.,Titan Retail B.V.,,C0240,100.0,exact_normalised,matched,112
+Granite Education Pty Ltd,Granite Education Pty Ltd,,C0011,100.0,exact_normalised,matched,111
+Red Telecom FZ-LLC,Red Telecom FZ-LLC,,C0029,100.0,exact_normalised,matched,111
+Bright Health Ltd,Bright Health Ltd,,C0196,100.0,exact_normalised,matched,111
+Summit Retail FZ-LLC,Summit Retail FZ-LLC,,C0075,100.0,exact_normalised,matched,110
+Emerald Analytics Pty Ltd,Emerald Analytics Pty Ltd,,C0159,100.0,exact_normalised,matched,110
+Nova Properties Pty Ltd,Nova Properties Pty Ltd,,C0063,100.0,exact_normalised,matched,110
+Atlas Analytics Pty Ltd,Atlas Analytics Pty Ltd,,C0085,100.0,exact_normalised,matched,109
+Apex Systems DAC,Apex Systems DAC,,C0024,100.0,exact_normalised,matched,109
+Crescent Pharma Pty Ltd,Crescent Pharma Pty Ltd,,C0151,100.0,exact_normalised,matched,109
+Apex Health Pty,Apex Health Pty Ltd,,C0016,100.0,exact_normalised,matched,108
+DesertRetail Ltd,Desert Retail Ltd,,C0221,100.0,exact_normalised,matched,108
+Falcon Analytics LLC,Falcon Analytics LLC,,C0227,100.0,exact_normalised,matched,107
+Titan Telecom Pty Ltd,Titan Telecom Pty Ltd,,C0169,100.0,exact_normalised,matched,106
+Orbit Hospitality LLC,Orbit Hospitality LLC,,C0158,100.0,exact_normalised,matched,105
+Silver Trading Limited,Silver Trading Limited,,C0115,100.0,exact_normalised,matched,105
+Desert Hospitality Pty Ltd,Desert Hospitality Pty Ltd,,C0043,100.0,exact_normalised,matched,105
+Willow Pharma FZE,Willow Pharma FZE,,C0224,100.0,exact_normalised,matched,104
+Pioneer Energy AG,Pioneer Energy AG,,C0287,100.0,exact_normalised,matched,104
+Zenith Telecom B.V.,Zenith Telecom B.V.,,C0295,100.0,exact_normalised,matched,103
+Coral Properties Limited,Coral Properties Limited,,C0007,100.0,exact_normalised,matched,103
+Emerald Foods Pty Ltd,Emerald Foods Pty Ltd,,C0045,100.0,exact_normalised,matched,103
+Iron Pharma LLC,Iron Pharma LLC,,C0077,100.0,exact_normalised,matched,102
+ZenithLabs LLC,Zenith Labs LLC,,C0223,100.0,exact_normalised,matched,102
+Silver Insurance Limited.,Silver Insurance Limited,,C0198,100.0,exact_normalised,matched,102
+Delta Pharma Pty Ltd,Delta Pharma Pty Ltd,,C0105,100.0,exact_normalised,matched,101
+Bright Insurance FZ-LLC,Bright Insurance FZ-LLC,,C0166,100.0,exact_normalised,matched,100
+Delta Education Limited,Delta Education Limited,,C0137,100.0,exact_normalised,matched,100
+Orbit Education FZE,Orbit Education FZE,,C0048,100.0,exact_normalised,matched,99
+Crescent Properties Pty Ltd,Crescent Properties Pty Ltd,,C0092,100.0,exact_normalised,matched,99
+Apex Foods FZ-LLC,Apex Foods FZ-LLC,,C0068,100.0,exact_normalised,matched,99
+Pacific Hospitality,Pacific Hospitality Ltd,,C0298,100.0,exact_normalised,matched,98
+Blue Retail Pty Ltd,Blue Retail Pty Ltd,,C0097,100.0,exact_normalised,matched,98
+Falcon Telecom FZE,Falcon Telecom FZE,,C0143,100.0,exact_normalised,matched,98
+Atlas Energy Corp.,Atlas Energy LLC,,C0113,100.0,exact_normalised,matched,97
+Pacific Energy AG,Pacific Energy AG,,C0084,100.0,exact_normalised,matched,96
+Sterling Telecom Pty Ltd,Sterling Telecom Pty Ltd,,C0108,100.0,exact_normalised,matched,96
+Emerald Finance AG,Emerald Finance AG,,C0062,100.0,exact_normalised,matched,96
+EmeraldHealth Limited,Emerald Health Limited,,C0180,100.0,exact_normalised,matched,94
+Bright Media B.V..,Bright Media B.V.,,C0053,100.0,exact_normalised,matched,93
+Iron Health Pty Ltd,Iron Health Pty Ltd,,C0257,100.0,exact_normalised,matched,93
+Delta Retail DAC,Delta Retail DAC,,C0128,100.0,exact_normalised,matched,92
+Iron Retail AG,Iron Retail AG,,C0136,100.0,exact_normalised,matched,92
+Apex Logistics AG,Apex Logistics AG,,C0297,100.0,exact_normalised,matched,91
+Crescent Media Pty Ltd,Crescent Media Pty Ltd,,C0065,100.0,exact_normalised,matched,91
+Harbour Travel Pty Ltd,Harbour Travel Pty Ltd,,C0123,100.0,exact_normalised,matched,91
+Summit Travel Pty Ltd,Summit Travel Pty Ltd,,C0276,100.0,exact_normalised,matched,90
+Titan Logistics B.V.,Titan Logistics B.V.,,C0162,100.0,exact_normalised,matched,90
+Harbour Retail Pty Ltd,Harbour Retail Pty Ltd,,C0149,100.0,exact_normalised,matched,89
+Desert Telecom B.V.,Desert Telecom B.V.,,C0004,100.0,exact_normalised,matched,89
+Silver Energy Pty Ltd,Silver Energy Pty Ltd,,C0152,100.0,exact_normalised,matched,89
+Vertex Logistics FZ-LLC,Vertex Logistics FZ-LLC,,C0142,100.0,exact_normalised,matched,88
+Bright Pharma Limited,Bright Pharma Limited,,C0278,100.0,exact_normalised,matched,88
+Falcon Retail Pty Ltd,Falcon Retail Pty Ltd,,C0195,100.0,exact_normalised,matched,88
+North  Retail FZ-LLC,North Retail FZ-LLC,,C0294,100.0,exact_normalised,matched,87
+River Insurance DAC,River Insurance DAC,,C0280,100.0,exact_normalised,matched,87
+River Systems AG,River Systems AG,,C0003,100.0,exact_normalised,matched,86
+Zenith Health Ltd.,Zenith Health Ltd,,C0263,100.0,exact_normalised,matched,85
+Orbit Labs FZ-LLC,Orbit Labs FZ-LLC,,C0081,100.0,exact_normalised,matched,83
+Willow Media Pty Ltd.,Willow Media Pty Ltd,,C0185,100.0,exact_normalised,matched,83
+Falcon Education Pty Ltd,Falcon Education Pty Ltd,,C0061,100.0,exact_normalised,matched,83
+Apex Energy Ltd,Apex Energy Ltd,,C0243,100.0,exact_normalised,matched,83
+Red Properties Pty Ltd,Red Properties Pty Ltd,,C0270,100.0,exact_normalised,matched,82
+Silver Motors Pty Ltd,Silver Motors Pty Ltd,,C0188,100.0,exact_normalised,matched,82
+Sterling Labs Pty Ltd,Sterling Labs Pty Ltd,,C0261,100.0,exact_normalised,matched,81
+Union Finance FZE,Union Finance FZE,,C0010,100.0,exact_normalised,matched,81
+UNION ANALYTICS LIMITED,Union Analytics Limited,,C0285,100.0,exact_normalised,matched,81
+Quantum Telecom Pty Ltd,Quantum Telecom Pty Ltd,,C0292,100.0,exact_normalised,matched,80
+Union Labs Limited,Union Labs Limited,,C0203,100.0,exact_normalised,matched,80
+Nova Telecom Pty Corp.,Nova Telecom Pty Ltd,,C0241,100.0,exact_normalised,matched,79
+Harbour Trading Limited,Harbour Trading Limited,,C0260,100.0,exact_normalised,matched,79
+Apex Analytics Pty Ltd,Apex Analytics Pty Ltd,,C0165,100.0,exact_normalised,matched,78
+Delta Motors FZE,Delta Motors FZE,,C0141,100.0,exact_normalised,matched,78
+Vertex Media LLC,Vertex Media LLC,,C0264,100.0,exact_normalised,matched,78
+Zenith Logistics B.V.,Zenith Logistics B.V.,,C0178,100.0,exact_normalised,matched,77
+QUANTUM RETAIL LLC,Quantum Retail LLC,,C0037,100.0,exact_normalised,matched,77
+Granite Retail Limited,Granite Retail Limited,,C0041,100.0,exact_normalised,matched,77
+Vertex Foods DAC,Vertex Foods DAC,,C0060,100.0,exact_normalised,matched,77
+Delta Travel,Delta Travel Limited,,C0020,100.0,exact_normalised,matched,76
+Crescent Insurance B.V.,Crescent Insurance B.V.,,C0207,100.0,exact_normalised,matched,76
+Coral Insurance Limited,Coral Insurance Limited,,C0194,100.0,exact_normalised,matched,75
+Desert Construction Pty Ltd,Desert Construction Pty Ltd,,C0177,100.0,exact_normalised,matched,75
+Cedar Pharma Pty Ltd,Cedar Pharma Pty Ltd,,C0269,100.0,exact_normalised,matched,74
+Emerald Motors B.V.,Emerald Motors B.V.,,C0283,100.0,exact_normalised,matched,74
+Atlas Motors Pty Ltd,Atlas Motors Pty Ltd,,C0040,100.0,exact_normalised,matched,74
+Pioneer Pharma Limited,Pioneer Pharma Limited,,C0033,100.0,exact_normalised,matched,73
+Bright Travel FZE,Bright Travel FZE,,C0282,100.0,exact_normalised,matched,73
+North Education Limited,North Education Limited,,C0069,100.0,exact_normalised,matched,72
+RIVER RETAIL AG,River Retail AG,,C0002,100.0,exact_normalised,matched,72
+Cedar Foods FZE,Cedar Foods FZE,,C0216,100.0,exact_normalised,matched,72
+Desert Logistics Ltd,Desert Logistics Ltd,,C0110,100.0,exact_normalised,matched,72
+Apex Hospitality GmbH,Apex Hospitality GmbH,,C0210,100.0,exact_normalised,matched,72
+Zenith Pharma DAC,Zenith Pharma DAC,,C0146,100.0,exact_normalised,matched,72
+Bright Telecom Limited,Bright Telecom Limited,,C0176,100.0,exact_normalised,matched,72
+Sterling  Analytics Limited,Sterling Analytics Limited,,C0255,100.0,exact_normalised,matched,72
+Union Pharma LLC,Union Pharma LLC,,C0118,100.0,exact_normalised,matched,71
+Apex Construction Pty Ltd,Apex Construction Pty Ltd,,C0268,100.0,exact_normalised,matched,71
+Desert Analytics Pty Ltd,Desert Analytics Pty Ltd,,C0179,100.0,exact_normalised,matched,71
+Pacific Education GmbH,Pacific Education GmbH,,C0277,100.0,exact_normalised,matched,70
+Nova Finance AG,Nova Finance AG,,C0091,100.0,exact_normalised,matched,70
+Apex Travel FZE,Apex Travel FZE,,C0088,100.0,exact_normalised,matched,70
+Falcon Properties FZ-LLC,Falcon Properties FZ-LLC,,C0182,100.0,exact_normalised,matched,69
+Pacific Retail DAC,Pacific Retail DAC,,C0138,100.0,exact_normalised,matched,69
+TITAN HOSPITALITY B.V.,Titan Hospitality B.V.,,C0187,100.0,exact_normalised,matched,68
+Harbour Properties FZE,Harbour Properties FZE,,C0028,100.0,exact_normalised,matched,67
+Crescent Logistics B.V.,Crescent Logistics B.V.,,C0293,100.0,exact_normalised,matched,66
+Quantum Hospitality Pty Ltd,Quantum Hospitality Pty Ltd,,C0025,100.0,exact_normalised,matched,66
+Quantum Insurance LLC,Quantum Insurance LLC,,C0189,100.0,exact_normalised,matched,66
+Iron Media FZ-LLC.,Iron Media FZ-LLC,,C0132,100.0,exact_normalised,matched,66
+Iron Insurance DAC,Iron Insurance DAC,,C0215,100.0,exact_normalised,matched,66
+Silver Pharma Pty Ltd,Silver Pharma Pty Ltd,,C0082,100.0,exact_normalised,matched,64
+Pacific Health LLC,Pacific Health LLC,,C0274,100.0,exact_normalised,matched,64
+ATLAS HOSPITALITY PTY LTD,Atlas Hospitality Pty Ltd,,C0252,100.0,exact_normalised,matched,62
+River Foods Corp.,River Foods AG,,C0006,100.0,exact_normalised,matched,62
+Orbit Construction Pty Ltd,Orbit Construction Pty Ltd,,C0099,100.0,exact_normalised,matched,62
+Bright Properties Limited,Bright Properties Limited,,C0112,100.0,exact_normalised,matched,61
+CORAL ENERGY AG,Coral Energy AG,,C0172,100.0,exact_normalised,matched,60
+Pioneer Logistics Pty Ltd,Pioneer Logistics Pty Ltd,,C0154,100.0,exact_normalised,matched,60
+Willow Travel Pty Ltd,Willow Travel Pty Ltd,,C0126,100.0,exact_normalised,matched,60
+Zenith Energy Limited,Zenith Energy Limited,,C0051,100.0,exact_normalised,matched,59
+Emerald Insurance B.V.,Emerald Insurance B.V.,,C0071,100.0,exact_normalised,matched,59
+Sterling Motors Pty Ltd,Sterling Motors Pty Ltd,,C0015,100.0,exact_normalised,matched,59
+Emerald Properties Pty Ltd,Emerald Properties Pty Ltd,,C0038,100.0,exact_normalised,matched,58
+Willow Finance B.V.,Willow Finance B.V.,,C0238,100.0,exact_normalised,matched,58
+North Motors Ltd,North Motors Ltd,,C0222,100.0,exact_normalised,matched,58
+Cedar  Motors FZE,Cedar Motors FZE,,C0079,100.0,exact_normalised,matched,58
+Apex Retail LLC,Apex Retail LLC,,C0191,100.0,exact_normalised,matched,57
+Delta Telecom Pty Corp.,Delta Telecom Pty Ltd,,C0090,100.0,exact_normalised,matched,57
+Granite Pharma FZE,Granite Pharma FZE,,C0217,100.0,exact_normalised,matched,57
+Cedar Media LLC,Cedar Media LLC,,C0284,100.0,exact_normalised,matched,56
+Cedar Systems DAC,Cedar Systems DAC,,C0013,100.0,exact_normalised,matched,56
+Quantum Health Limited.,Quantum Health Limited,,C0259,100.0,exact_normalised,matched,55
+Quantum Analytics Pty Ltd,Quantum Analytics Pty Ltd,,C0242,100.0,exact_normalised,matched,55
+Iron Labs Pty Ltd,Iron Labs Pty Ltd,,C0267,100.0,exact_normalised,matched,55
+Nova  Trading FZ-LLC,Nova Trading FZ-LLC,,C0219,100.0,exact_normalised,matched,54
+Apex Telecom Limited,Apex Telecom Limited,,C0107,100.0,exact_normalised,matched,54
+Vertex Insurance B.V.,Vertex Insurance B.V.,,C0070,100.0,exact_normalised,matched,54
+Bright  Education DAC,Bright Education DAC,,C0153,100.0,exact_normalised,matched,54
+Delta Media Limited,Delta Media Limited,,C0008,100.0,exact_normalised,matched,54
+ATLAS TRADING LIMITED,Atlas Trading Limited,,C0258,100.0,exact_normalised,matched,53
+Red Media DAC,Red Media DAC,,C0144,100.0,exact_normalised,matched,53
+Harbour Energy LLC,Harbour Energy LLC,,C0206,100.0,exact_normalised,matched,53
+Willow Insurance Limited,Willow Insurance Limited,,C0213,100.0,exact_normalised,matched,53
+Titan Health Pty Ltd,Titan Health Pty Ltd,,C0183,100.0,exact_normalised,matched,52
+Pacific Logistics Limited,Pacific Logistics Limited,,C0026,100.0,exact_normalised,matched,52
+Summit Trading FZ-LLC,Summit Trading FZ-LLC,,C0147,100.0,exact_normalised,matched,49
+Silver Health LLC,Silver Health LLC,,C0083,100.0,exact_normalised,matched,48
+Falcon Logistics Pty Ltd,Falcon Logistics Pty Ltd,,C0262,100.0,exact_normalised,matched,48
+Quantum Construction Limited,Quantum Construction Limited,,C0129,100.0,exact_normalised,matched,48
+SilverHospitality Limited,Silver Hospitality Limited,,C0032,100.0,exact_normalised,matched,48
+Pioneer Analytics Pty Ltd,Pioneer Analytics Pty Ltd,,C0229,100.0,exact_normalised,matched,48
+Crescent Systems Limited,Crescent Systems Limited,,C0212,100.0,exact_normalised,matched,48
+Granite Insurance Limited,Granite Insurance Limited,,C0204,100.0,exact_normalised,matched,48
+Sterling Energy Pty Ltd,Sterling Energy Pty Ltd,,C0234,100.0,exact_normalised,matched,48
+Falcon Travel FZE,Falcon Travel FZE,,C0111,100.0,exact_normalised,matched,48
+Iron Foods FZ-LLC,Iron Foods FZ-LLC,,C0005,100.0,exact_normalised,matched,48
+Titan Travel FZE,Titan Travel FZE,,C0236,100.0,exact_normalised,matched,48
+Summit Energy Pty Corp.,Summit Energy Pty Ltd,,C0218,100.0,exact_normalised,matched,48
+ORBIT TRAVEL AG,Orbit Travel AG,,C0155,100.0,exact_normalised,matched,48
+Harbour Foods GmbH,Harbour Foods GmbH,,C0148,100.0,exact_normalised,matched,47
+Vertex Systems FZ-LLC,Vertex Systems FZ-LLC,,C0055,100.0,exact_normalised,matched,47
+Harbour Logistics GmbH,Harbour Logistics GmbH,,C0275,100.0,exact_normalised,matched,47
+Nova Health DAC,Nova Health DAC,,C0174,100.0,exact_normalised,matched,46
+Atlas Health LLC,Atlas Health LLC,,C0057,100.0,exact_normalised,matched,46
+Harbour Pharma B.V.,Harbour Pharma B.V.,,C0023,100.0,exact_normalised,matched,45
+Iron Motors Ltd,Iron Motors Ltd,,C0017,100.0,exact_normalised,matched,45
+Orbit Logistics Pty Ltd,Orbit Logistics Pty Ltd,,C0019,100.0,exact_normalised,matched,44
+Quantum Pharma B.V.,Quantum Pharma B.V.,,C0073,100.0,exact_normalised,matched,43
+Willow Systems GmbH,Willow Systems GmbH,,C0087,100.0,exact_normalised,matched,40
+Falcon Labs B.V..,Falcon Labs B.V.,,C0184,100.0,exact_normalised,matched,40
+Quantum Motors Pty Ltd,Quantum Motors Pty Ltd,,C0056,100.0,exact_normalised,matched,40
+Apex Insurance AG,Apex Insurance AG,,C0101,100.0,exact_normalised,matched,38
+Orbit Finance DAC,Orbit Finance DAC,,C0139,100.0,exact_normalised,matched,37
+Pioneer Media DAC,Pioneer Media DAC,,C0249,100.0,exact_normalised,matched,36
+Vertex Energy Pty Ltd,Vertex Energy Pty Ltd,,C0133,100.0,exact_normalised,matched,36
+Bright Energy DAC.,Bright Energy DAC,,C0271,100.0,exact_normalised,matched,36
+Silver Labs Pty Ltd,Silver Labs Pty Ltd,,C0230,100.0,exact_normalised,matched,35
+Crescent Education Limited,Crescent Education Limited,,C0120,100.0,exact_normalised,matched,34
+Crescent Motors Pty Ltd.,Crescent Motors Pty Ltd,,C0145,100.0,exact_normalised,matched,33
+Blue Construction GmbH,Blue Construction GmbH,,C0001,100.0,exact_normalised,matched,33
+River Education B.V.,River Education B.V.,,C0078,100.0,exact_normalised,matched,33
+SilverProperties Limited,Silver Properties Limited,,C0289,100.0,exact_normalised,matched,32
+Pacific Pharma B.V.,Pacific Pharma B.V.,,C0239,100.0,exact_normalised,matched,32
+Vertex Pharma Limited,Vertex Pharma Limited,,C0130,100.0,exact_normalised,matched,31
+Nova Foods DAC,Nova Foods DAC,,C0167,100.0,exact_normalised,matched,31
+Orbit Media Pty Ltd,Orbit Media Pty Ltd,,C0093,100.0,exact_normalised,matched,30
+Nova Pharma Pty Ltd,Nova Pharma Pty Ltd,,C0181,100.0,exact_normalised,matched,30
+Red Logistics,Red Logistics Limited,,C0163,100.0,exact_normalised,matched,29
+Zenith Education Pty Ltd,Zenith Education Pty Ltd,,C0100,100.0,exact_normalised,matched,29
+Blue Foods Corp.,Blue Foods AG,,C0256,100.0,exact_normalised,matched,29
+Pioneer Insurance Pty Ltd,Pioneer Insurance Pty Ltd,,C0197,100.0,exact_normalised,matched,29
+Apex Education GmbH,Apex Education GmbH,,C0170,100.0,exact_normalised,matched,28
+Summit Analytics DAC,Summit Analytics DAC,,C0211,100.0,exact_normalised,matched,28
+Zenith Properties LLC,Zenith Properties LLC,,C0273,100.0,exact_normalised,matched,28
+Orbit Pharma Pty Ltd,Orbit Pharma Pty Ltd,,C0254,100.0,exact_normalised,matched,28
+Summit  Foods Pty Ltd,Summit Foods Pty Ltd,,C0281,100.0,exact_normalised,matched,28
+Delta Analytics Pty Corp.,Delta Analytics Pty Ltd,,C0251,100.0,exact_normalised,matched,27
+Union Logistics B.V.,Union Logistics B.V.,,C0248,100.0,exact_normalised,matched,26
+Quantum Travel Pty Ltd,Quantum Travel Pty Ltd,,C0286,100.0,exact_normalised,matched,25
+Blue Travel Limited,Blue Travel Limited,,C0279,100.0,exact_normalised,matched,25
+Vertex Trading B.V.,Vertex Trading B.V.,,C0200,100.0,exact_normalised,matched,25
+Harbour Hospitality GmbH,Harbour Hospitality GmbH,,C0193,100.0,exact_normalised,matched,24
+VertexAnalytics FZE,Vertex Analytics FZE,,C0237,100.0,exact_normalised,matched,24
+Delta Energy LLC,Delta Energy LLC,,C0135,100.0,exact_normalised,matched,24
+RiverHealth Ltd,River Health Ltd,,C0036,100.0,exact_normalised,matched,24
+Desert Travel LLC,Desert Travel LLC,,C0102,100.0,exact_normalised,matched,24
+Falcon Insurance Pty Ltd,Falcon Insurance Pty Ltd,,C0226,100.0,exact_normalised,matched,24
+Willow Motors FZ-LLC,Willow Motors FZ-LLC,,C0067,100.0,exact_normalised,matched,24
+Coral Trading Pty Ltd,Coral Trading Pty Ltd,,C0122,100.0,exact_normalised,matched,24
+Cedar Telecom LLC,Cedar Telecom LLC,,C0265,100.0,exact_normalised,matched,23
+Pioneer Hospitality AG,Pioneer Hospitality AG,,C0072,100.0,exact_normalised,matched,23
+Harbour Media FZE,Harbour Media FZE,,C0014,100.0,exact_normalised,matched,23
+Summit Systems AG,Summit Systems AG,,C0272,100.0,exact_normalised,matched,22
+Willow Construction Limited,Willow Construction Limited,,C0095,100.0,exact_normalised,matched,22
+Crescent Hospitality Limited,Crescent Hospitality Limited,,C0160,100.0,exact_normalised,matched,22
+Bright Finance Limited,Bright Finance Limited,,C0064,100.0,exact_normalised,matched,22
+Blue Insurance GmbH,Blue Insurance GmbH,,C0059,100.0,exact_normalised,matched,22
+Summit Properties Limited,Summit Properties Limited,,C0161,100.0,exact_normalised,matched,22
+CRESCENT FINANCE FZ-LLC,Crescent Finance FZ-LLC,,C0086,100.0,exact_normalised,matched,22
+Sterling Pharma LLC,Sterling Pharma LLC,,C0291,100.0,exact_normalised,matched,22
+Coral Systems FZE,Coral Systems FZE,,C0009,100.0,exact_normalised,matched,22
+Apex Finance Ltd,Apex Finance Ltd,,C0117,100.0,exact_normalised,matched,22
+Crescent Foods FZ-LLC,Crescent Foods FZ-LLC,,C0125,100.0,exact_normalised,matched,22
+Summit Education,Summit Education FZ-LLC,,C0031,100.0,exact_normalised,matched,20
+River Pharma Limited,River Pharma Limited,,C0035,100.0,exact_normalised,matched,20
+Coral Pharma AG,Coral Pharma AG,,C0098,100.0,exact_normalised,matched,19
+Titan Media Limited,Titan Media Limited,,C0124,100.0,exact_normalised,matched,18
+Orbit Foods DAC,Orbit Foods DAC,,C0114,100.0,exact_normalised,matched,17
+Pacific Systems B.V.,Pacific Systems B.V.,,C0054,100.0,exact_normalised,matched,16
+Granite  Motors Limited,Granite Motors Limited,,C0080,100.0,exact_normalised,matched,14
+Delta Finance AG,Delta Finance AG,,C0119,100.0,exact_normalised,matched,14
+DesertProperties Limited,Desert Properties Limited,,C0246,100.0,exact_normalised,matched,14
+Pacific Foods Ltd,Pacific Foods Ltd,,C0175,100.0,exact_normalised,matched,14
+Sterling Education AG,Sterling Education AG,,C0173,100.0,exact_normalised,matched,14
+Desert Labs DAC,Desert Labs Limited,,C0244,100.0,exact_normalised,matched,2
+Summit Foods Pty Ltd,Summit Foods Pty Ltd,,C0281,100.0,exact_normalised,matched,1
+Willow Telecom Limited,Willow Telecom DAC,,C0186,100.0,exact_normalised,matched,1
+Cedar Telecom FZE,Cedar Telecom LLC,,C0265,100.0,exact_normalised,matched,1
+Harbour Hospitality AG,Harbour Hospitality GmbH,,C0193,100.0,exact_normalised,matched,1
+Union Energy Limited,Union Energy Limited,,C0190,100.0,exact_normalised,matched,1
+River Insurance Ltd,River Insurance DAC,,C0280,100.0,exact_normalised,matched,1
+Vertex Media FZ-LLC,Vertex Media LLC,,C0264,100.0,exact_normalised,matched,1
+North Motors Limited,North Motors Ltd,,C0222,100.0,exact_normalised,matched,1
+Apex Systems Limited,Apex Systems DAC,,C0024,100.0,exact_normalised,matched,1
+Silver Insurance Limited,Silver Insurance Limited,,C0198,100.0,exact_normalised,matched,1
+Summit Energy Pty Ltd,Summit Energy Pty Ltd,,C0218,100.0,exact_normalised,matched,1
+Blue Finance Ltd,Blue Finance DAC,,C0052,100.0,exact_normalised,matched,1
+Apex Energy DAC,Apex Energy Ltd,,C0243,100.0,exact_normalised,matched,1
+Delta Energy FZE,Delta Energy LLC,,C0135,100.0,exact_normalised,matched,1
+Apex Hospitality AG,Apex Hospitality GmbH,,C0210,100.0,exact_normalised,matched,1
+Granite Motors Limited,Granite Motors Limited,,C0080,100.0,exact_normalised,matched,1
+Orbit Travel GmbH,Orbit Travel AG,,C0155,100.0,exact_normalised,matched,1
+Sterling Travel Limited,Sterling Travel DAC,,C0104,100.0,exact_normalised,matched,1
+Silver Insurance DAC,Silver Insurance Limited,,C0198,100.0,exact_normalised,matched,1
+Nova Construction LLC,Nova Construction LLC,,C0047,100.0,exact_normalised,matched,1
+Titan Labs DAC,Titan Labs DAC,,C0021,100.0,exact_normalised,matched,1
+HarbourAnalyticsPty Ltd,,Harbour Analytics Pty Ltd,,85.0,suffix_conflict,needs_review,17
+Orbit Travel B.V.,,Orbit Travel AG,,85.0,suffix_conflict,needs_review,2
+Quantum Foods B.V.,,Quantum Foods Pty Ltd,,85.0,suffix_conflict,needs_review,2
+Bright Education Pty Ltd,,Bright Education DAC,,85.0,suffix_conflict,needs_review,2
+Apex Insurance Pty Ltd,,Apex Insurance AG,,85.0,suffix_conflict,needs_review,2
+Blue Foods B.V.,,Blue Foods AG,,85.0,suffix_conflict,needs_review,2
+Union Foods DAC,,Union Foods LLC,,85.0,suffix_conflict,needs_review,1
+Silver Insurance LLC,,Silver Insurance Limited,,85.0,suffix_conflict,needs_review,1
+Blue Foods Limited,,Blue Foods AG,,85.0,suffix_conflict,needs_review,1
+Orbit Foods Pty Ltd,,Orbit Foods DAC,,85.0,suffix_conflict,needs_review,1
+Blue Insurance Limited,,Blue Insurance GmbH,,85.0,suffix_conflict,needs_review,1
+Harbour Construction B.V.,,Harbour Construction Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Emerald Motors Pty Ltd,,Emerald Motors B.V.,,85.0,suffix_conflict,needs_review,1
+River Energy Ltd,,River Energy FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Pioneer Insurance B.V.,,Pioneer Insurance Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Vertex Systems B.V.,,Vertex Systems FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Delta Pharma Ltd,,Delta Pharma Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Sterling Pharma Ltd,,Sterling Pharma LLC,,85.0,suffix_conflict,needs_review,1
+Silver Energy Ltd,,Silver Energy Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Falcon Travel B.V.,,Falcon Travel FZE,,85.0,suffix_conflict,needs_review,1
+Iron Properties B.V.,,Iron Properties Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Emerald Telecom FZ-LLC,,Emerald Telecom Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Pacific Hospitality Pty Ltd,,Pacific Hospitality Ltd,,85.0,suffix_conflict,needs_review,1
+Blue Finance Pty Ltd,,Blue Finance DAC,,85.0,suffix_conflict,needs_review,1
+Iron Motors AG,,Iron Motors Ltd,,85.0,suffix_conflict,needs_review,1
+Apex Telecom AG,,Apex Telecom Limited,,85.0,suffix_conflict,needs_review,1
+Apex Analytics B.V.,,Apex Analytics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Cedar Media DAC,,Cedar Media LLC,,85.0,suffix_conflict,needs_review,1
+Summit Energy FZ-LLC,,Summit Energy Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Red Hospitality Limited,,Red Hospitality Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Apex Insurance Limited,,Apex Insurance AG,,85.0,suffix_conflict,needs_review,1
+Falcon Construction DAC,,Falcon Construction Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Red Media GmbH,,Red Media DAC,,85.0,suffix_conflict,needs_review,1
+Bright Systems DAC,,Bright Systems GmbH,,85.0,suffix_conflict,needs_review,1
+Apex Systems B.V.,,Apex Systems DAC,,85.0,suffix_conflict,needs_review,1
+Atlas Hospitality FZE,,Atlas Hospitality Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Bright Media AG,,Bright Media B.V.,,85.0,suffix_conflict,needs_review,1
+Crescent Telecom Pty Ltd,,Crescent Telecom FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Quantum Pharma DAC,,Quantum Pharma B.V.,,85.0,suffix_conflict,needs_review,1
+Iron Foods B.V.,,Iron Foods FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Quantum Hospitality Ltd,,Quantum Hospitality Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Iron Health GmbH,,Iron Health Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Desert Analytics Limited,,Desert Analytics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Coral Insurance LLC,,Coral Insurance Limited,,85.0,suffix_conflict,needs_review,1
+Falcon Retail B.V.,,Falcon Retail Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Nova Pharma Limited,,Nova Pharma Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Apex Construction B.V.,,Apex Construction Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Sterling Insurance Limited,,Sterling Insurance AG,,85.0,suffix_conflict,needs_review,1
+Falcon Logistics Ltd,,Falcon Logistics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Iron Media DAC,,Iron Media FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Iron Labs B.V.,,Iron Labs Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Cedar Media Limited,,Cedar Media LLC,,85.0,suffix_conflict,needs_review,1
+Titan Logistics AG,,Titan Logistics B.V.,,85.0,suffix_conflict,needs_review,1
+Iron Media B.V.,,Iron Media FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Red Foods LLC,,Red Foods Limited,,85.0,suffix_conflict,needs_review,1
+Emerald Analytics DAC,,Emerald Analytics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Iron Energy Pty Ltd,,Iron Energy LLC,,85.0,suffix_conflict,needs_review,1
+Emerald Foods FZE,,Emerald Foods Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Iron Pharma Limited,,Iron Pharma LLC,,85.0,suffix_conflict,needs_review,1
+Falcon Finance Pty Ltd,,Falcon Finance LLC,,85.0,suffix_conflict,needs_review,1
+Union Systems Pty Ltd,,Union Systems FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Harbour Construction Limited,,Harbour Construction Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Union Finance AG,,Union Finance FZE,,85.0,suffix_conflict,needs_review,1
+Atlas Motors B.V.,,Atlas Motors Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Emerald Health B.V.,,Emerald Health Limited,,85.0,suffix_conflict,needs_review,1
+Vertex Trading Ltd,,Vertex Trading B.V.,,85.0,suffix_conflict,needs_review,1
+North Motors Pty Ltd,,North Motors Ltd,,85.0,suffix_conflict,needs_review,1
+Willow Systems Limited,,Willow Systems GmbH,,85.0,suffix_conflict,needs_review,1
+Vertex Construction B.V.,,Vertex Construction Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Harbour Media Limited,,Harbour Media FZE,,85.0,suffix_conflict,needs_review,1
+Desert Construction B.V.,,Desert Construction Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Coral Insurance Pty Ltd,,Coral Insurance Limited,,85.0,suffix_conflict,needs_review,1
+Crescent Pharma Limited,,Crescent Pharma Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Granite Insurance GmbH,,Granite Insurance Limited,,85.0,suffix_conflict,needs_review,1
+Vertex Pharma B.V.,,Vertex Pharma Limited,,85.0,suffix_conflict,needs_review,1
+River Health B.V.,,River Health Ltd,,85.0,suffix_conflict,needs_review,1
+Orbit Hospitality Ltd,,Orbit Hospitality LLC,,85.0,suffix_conflict,needs_review,1
+Sterling Education LLC,,Sterling Education AG,,85.0,suffix_conflict,needs_review,1
+Delta Travel B.V.,,Delta Travel Limited,,85.0,suffix_conflict,needs_review,1
+North Education LLC,,North Education Limited,,85.0,suffix_conflict,needs_review,1
+Pioneer Logistics B.V.,,Pioneer Logistics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Quantum Analytics Limited,,Quantum Analytics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Titan Labs GmbH,,Titan Labs DAC,,85.0,suffix_conflict,needs_review,1
+Titan Finance FZ-LLC,,Titan Finance Ltd,,85.0,suffix_conflict,needs_review,1
+Quantum Telecom GmbH,,Quantum Telecom Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Vertex Foods Pty Ltd,,Vertex Foods DAC,,85.0,suffix_conflict,needs_review,1
+Harbour Construction GmbH,,Harbour Construction Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Silver Pharma LLC,,Silver Pharma Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Bright Travel Limited,,Bright Travel FZE,,85.0,suffix_conflict,needs_review,1
+Pioneer Pharma LLC,,Pioneer Pharma Limited,,85.0,suffix_conflict,needs_review,1
+Pioneer Logistics Limited,,Pioneer Logistics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Iron Media Pty Ltd,,Iron Media FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Crescent Motors Limited,,Crescent Motors Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Nova Trading B.V.,,Nova Trading FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Vertex Logistics Limited,,Vertex Logistics FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Summit Trading GmbH,,Summit Trading FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Cedar Telecom Pty Ltd,,Cedar Telecom LLC,,85.0,suffix_conflict,needs_review,1
+Falcon Construction Limited,,Falcon Construction Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Sterling Motors FZ-LLC,,Sterling Motors Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Pacific Hospitality GmbH,,Pacific Hospitality Ltd,,85.0,suffix_conflict,needs_review,1
+Desert Logistics B.V.,,Desert Logistics Ltd,,85.0,suffix_conflict,needs_review,1
+Harbour Retail B.V.,,Harbour Retail Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Harbour Finance Pty Ltd,,Harbour Finance Ltd,,85.0,suffix_conflict,needs_review,1
+Cedar Systems Pty Ltd,,Cedar Systems DAC,,85.0,suffix_conflict,needs_review,1
+Titan Logistics FZE,,Titan Logistics B.V.,,85.0,suffix_conflict,needs_review,1
+Granite Education Limited,,Granite Education Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Falcon Education Ltd,,Falcon Education Pty Ltd,,85.0,suffix_conflict,needs_review,1
+River Motors Pty Ltd,,River Motors Ltd,,85.0,suffix_conflict,needs_review,1
+Falcon Motors Pty Ltd,,Falcon Motors Limited,,85.0,suffix_conflict,needs_review,1
+Pioneer Insurance DAC,,Pioneer Insurance Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Orbit Logistics Ltd,,Orbit Logistics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Crescent Foods AG,,Crescent Foods FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Sterling Analytics Pty Ltd,,Sterling Analytics Limited,,85.0,suffix_conflict,needs_review,1
+Vertex Media Pty Ltd,,Vertex Media LLC,,85.0,suffix_conflict,needs_review,1
+North Energy B.V.,,North Energy FZE,,85.0,suffix_conflict,needs_review,1
+Willow Media DAC,,Willow Media Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Pioneer Education B.V.,,Pioneer Education GmbH,,85.0,suffix_conflict,needs_review,1
+Silver Energy LLC,,Silver Energy Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Pacific Health Ltd,,Pacific Health LLC,,85.0,suffix_conflict,needs_review,1
+Iron Motors FZ-LLC,,Iron Motors Ltd,,85.0,suffix_conflict,needs_review,1
+Harbour Pharma Ltd,,Harbour Pharma B.V.,,85.0,suffix_conflict,needs_review,1
+Crescent Media Limited,,Crescent Media Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Nova Health GmbH,,Nova Health DAC,,85.0,suffix_conflict,needs_review,1
+Willow Pharma Pty Ltd,,Willow Pharma FZE,,85.0,suffix_conflict,needs_review,1
+Pacific Education FZ-LLC,,Pacific Education GmbH,,85.0,suffix_conflict,needs_review,1
+Nova Motors Limited,,Nova Motors B.V.,,85.0,suffix_conflict,needs_review,1
+Nova Health Pty Ltd,,Nova Health DAC,,85.0,suffix_conflict,needs_review,1
+Orbit Pharma Limited,,Orbit Pharma Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Crescent Foods Limited,,Crescent Foods FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Vertex Energy GmbH,,Vertex Energy Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Summit Trading Ltd,,Summit Trading FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Cedar Motors AG,,Cedar Motors FZE,,85.0,suffix_conflict,needs_review,1
+Crescent Pharma FZE,,Crescent Pharma Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Desert Properties FZE,,Desert Properties Limited,,85.0,suffix_conflict,needs_review,1
+Apex Hospitality B.V.,,Apex Hospitality GmbH,,85.0,suffix_conflict,needs_review,1
+Apex Construction LLC,,Apex Construction Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Red Hospitality Ltd,,Red Hospitality Pty Ltd,,85.0,suffix_conflict,needs_review,1
+River Pharma LLC,,River Pharma Limited,,85.0,suffix_conflict,needs_review,1
+Falcon Labs Limited,,Falcon Labs B.V.,,85.0,suffix_conflict,needs_review,1
+Titan Telecom GmbH,,Titan Telecom Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Harbour Properties GmbH,,Harbour Properties FZE,,85.0,suffix_conflict,needs_review,1
+Quantum Energy B.V.,,Quantum Energy Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Falcon Retail LLC,,Falcon Retail Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Union Systems B.V.,,Union Systems FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Quantum Analytics Ltd,,Quantum Analytics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Apex Education Ltd,,Apex Education GmbH,,85.0,suffix_conflict,needs_review,1
+Emerald Analytics LLC,,Emerald Analytics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Bright Media Ltd,,Bright Media B.V.,,85.0,suffix_conflict,needs_review,1
+North Education Pty Ltd,,North Education Limited,,85.0,suffix_conflict,needs_review,1
+Iron Properties Ltd,,Iron Properties Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Harbour Travel AG,,Harbour Travel Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Union Pharma AG,,Union Pharma LLC,,85.0,suffix_conflict,needs_review,1
+Apex Insurance DAC,,Apex Insurance AG,,85.0,suffix_conflict,needs_review,1
+Red Foods FZE,,Red Foods Limited,,85.0,suffix_conflict,needs_review,1
+Pioneer Analytics B.V.,,Pioneer Analytics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Sterling Energy Limited,,Sterling Energy Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Quantum Travel Limited,,Quantum Travel Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Desert Telecom GmbH,,Desert Telecom B.V.,,85.0,suffix_conflict,needs_review,1
+Willow Finance DAC,,Willow Finance B.V.,,85.0,suffix_conflict,needs_review,1
+Crescent Media B.V.,,Crescent Media Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Bright Energy B.V.,,Bright Energy DAC,,85.0,suffix_conflict,needs_review,1
+Orbit Logistics FZ-LLC,,Orbit Logistics Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Titan Finance B.V.,,Titan Finance Ltd,,85.0,suffix_conflict,needs_review,1
+Iron Insurance B.V.,,Iron Insurance DAC,,85.0,suffix_conflict,needs_review,1
+Vertex Energy FZ-LLC,,Vertex Energy Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Willow Travel B.V.,,Willow Travel Pty Ltd,,85.0,suffix_conflict,needs_review,1
+Apex Telecom Pty Ltd,,Apex Telecom Limited,,85.0,suffix_conflict,needs_review,1
+Zenith Pharma AG,,Zenith Pharma DAC,,85.0,suffix_conflict,needs_review,1
+Zenith Properties GmbH,,Zenith Properties LLC,,85.0,suffix_conflict,needs_review,1
+Willow Motors B.V.,,Willow Motors FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Zenith Labs GmbH,,Zenith Labs LLC,,85.0,suffix_conflict,needs_review,1
+Crescent Insurance Pty Ltd,,Crescent Insurance B.V.,,85.0,suffix_conflict,needs_review,1
+Orbit Analytics Ltd,,Orbit Analytics FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Orbit Education B.V.,,Orbit Education FZE,,85.0,suffix_conflict,needs_review,1
+Harbour Properties Limited,,Harbour Properties FZE,,85.0,suffix_conflict,needs_review,1
+Orbit Analytics AG,,Orbit Analytics FZ-LLC,,85.0,suffix_conflict,needs_review,1
+Union Analytics B.V.,,Union Analytics Limited,,85.0,suffix_conflict,needs_review,1
+Red Insurance GmbH,,River Insurance DAC,,85.7,fuzzy,needs_review,2
+Iron Hospitality FZ-LLC,,Pioneer Hospitality AG,,85.7,fuzzy,needs_review,1
+River Logistics Pty Ltd,,Red Logistics Limited,,85.7,fuzzy,needs_review,1
+Red Analytics Pty Ltd,,River Analytics FZE,,85.7,fuzzy,needs_review,1
+Orbit Insurance Pty Ltd,,Orbit Finance DAC,,85.7,fuzzy,needs_review,1
+Titan Insurance Pty Ltd,,Titan Finance Ltd,,85.7,fuzzy,needs_review,1
+Titan Insurance Limited,,Titan Finance Ltd,,85.7,fuzzy,needs_review,1
+Iron Hospitality B.V.,,Pioneer Hospitality AG,,85.7,fuzzy,needs_review,1
+Titan Construction Pty Ltd,,Iron Construction Pty Ltd,,85.7,fuzzy,needs_review,1
+River Logistics B.V.,,Red Logistics Limited,,85.7,fuzzy,needs_review,1
+Red Construction B.V.,,Vertex Construction Pty Ltd,,85.7,fuzzy,needs_review,1
+Coral Construction Pty Ltd,,Nova Construction LLC,,85.7,fuzzy,needs_review,1
+Red Construction Limited,,Vertex Construction Pty Ltd,,85.7,fuzzy,needs_review,1
+Delta Insurance DAC,,Delta Finance AG,,85.7,fuzzy,needs_review,1
+Red Analytics DAC,,River Analytics FZE,,85.7,fuzzy,needs_review,1
+Coral Finance Limited,,Coral Insurance Limited,,85.7,fuzzy,needs_review,1
+Orbit Insurance Limited,,Orbit Finance DAC,,85.7,fuzzy,needs_review,1
+River Construction Pty Ltd,,Vertex Construction Pty Ltd,,86.5,fuzzy,needs_review,1
+Delta Construction GmbH,,Desert Construction Pty Ltd,,86.5,fuzzy,needs_review,1
+Pioneer Construction DAC,,Iron Construction Pty Ltd,,86.5,fuzzy,needs_review,1
+Pioneer Construction B.V.,,Iron Construction Pty Ltd,,86.5,fuzzy,needs_review,1
+North Logistics LLC,,Orbit Logistics Pty Ltd,,86.7,fuzzy,needs_review,1
+Union Health LLC,,Iron Health Pty Ltd,,87.0,fuzzy,needs_review,2
+Union Health GmbH,,Iron Health Pty Ltd,,87.0,fuzzy,needs_review,1
+River Media Pty Ltd,,Silver Media Pty Ltd,,87.0,fuzzy,needs_review,1
+Silver Travel Limited,,River Travel Limited,,88.0,fuzzy,needs_review,2
+Silver Retail DAC,,River Retail AG,,88.0,fuzzy,needs_review,1
+Iron Finance LLC,,Union Finance FZE,,88.0,fuzzy,needs_review,1
+Iron Finance AG,,Union Finance FZE,,88.0,fuzzy,needs_review,1
+Sterling Finance LLC,,Sterling Insurance AG,,88.2,fuzzy,needs_review,1
+Silver Systems B.V.,,River Systems AG,,88.9,fuzzy,needs_review,1
+North Construction DAC,,Orbit Construction Pty Ltd,,88.9,fuzzy,needs_review,1
+River Trading GmbH,,Silver Trading Limited,,88.9,fuzzy,needs_review,1
+River Trading LLC,,Silver Trading Limited,,88.9,fuzzy,needs_review,1
+Union Insurance B.V.,,Iron Insurance DAC,,89.7,fuzzy,needs_review,1
+Union Insurance GmbH,,Iron Insurance DAC,,89.7,fuzzy,needs_review,1
+Union Construction Ltd,,Iron Construction Pty Ltd,,91.4,fuzzy,needs_review,1
+Blue Labs Limited,,,,63.2,none,unmatched,1
+Blue Labs AG,,,,63.2,none,unmatched,1
+Blue Labs B.V.,,,,63.2,none,unmatched,1
+Blue Labs Pty Ltd,,,,63.2,none,unmatched,1
+Apex Labs Limited,,,,63.2,none,unmatched,1
+Union Trading LLC,,,,64.0,none,unmatched,1
+Apex Media LLC,,,,66.7,none,unmatched,2
+Apex Media DAC,,,,66.7,none,unmatched,1
+Summit Labs Limited,,,,69.6,none,unmatched,1
+Bright Labs B.V.,,,,69.6,none,unmatched,1
+Coral Labs Ltd,,,,70.0,none,unmatched,1
+Crescent Energy Limited,,,,71.0,none,unmatched,1
+Zenith Trading Pty Ltd,,,,71.4,none,unmatched,2
+Zenith Trading B.V.,,,,71.4,none,unmatched,1
+Blue Pharma Limited,,,,72.0,none,unmatched,3
+Union Travel DAC,,,,72.0,none,unmatched,2
+Blue Pharma FZ-LLC,,,,72.0,none,unmatched,1
+Quantum Labs Limited,,,,72.0,none,unmatched,1
+Harbour Labs DAC,,,,72.0,none,unmatched,1
+Emerald Labs AG,,,,72.0,none,unmatched,1
+Pacific Labs B.V.,,,,72.0,none,unmatched,1
+Zenith Media Ltd,,,,72.0,none,unmatched,1
+Zenith Media Limited,,,,72.0,none,unmatched,1
+Harbour Labs Pty Ltd,,,,72.0,none,unmatched,1
+Nova Travel Pty Ltd,,,,72.7,none,unmatched,1
+Pioneer Labs FZ-LLC,,,,72.7,none,unmatched,1
+Crescent Trading B.V.,,,,73.3,none,unmatched,1
+Crescent Trading Pty Ltd,,,,73.3,none,unmatched,1
+Nova Labs Ltd,,,,73.7,none,unmatched,1
+Nova Labs LLC,,,,73.7,none,unmatched,1
+Quantum Media LLC,,,,74.1,none,unmatched,1
+Granite Media AG,,,,74.1,none,unmatched,1
+Vertex Travel Ltd,,,,74.1,none,unmatched,1
+Vertex Travel DAC,,,,74.1,none,unmatched,1
+Summit Telecom B.V.,,,,74.1,none,unmatched,1
+Bright Motors AG,,,,74.1,none,unmatched,1
+Quantum Media Pty Ltd,,,,74.1,none,unmatched,1
+Zenith Finance AG,,,,74.1,none,unmatched,1
+Zenith Insurance Pty Ltd,,,,75.0,none,unmatched,2
+Atlas Travel Limited,,,,75.0,none,unmatched,1
+Union Retail DAC,,,,75.0,none,unmatched,1
+Crescent Labs Limited,,,,75.0,none,unmatched,1
+Coral Retail Ltd,,,,75.0,none,unmatched,1
+Union Retail B.V.,,,,75.0,none,unmatched,1
+Blue Systems B.V.,,,,75.0,none,unmatched,1
+Red Finance B.V.,,,,75.0,none,unmatched,1
+Atlas Retail DAC,,,,75.0,none,unmatched,1
+Union Retail Limited,,,,75.0,none,unmatched,1
+Willow Energy Limited,,,,75.0,none,unmatched,1
+Cedar Health B.V.,,,,75.0,none,unmatched,1
+Willow Health Pty Ltd,,,,75.0,none,unmatched,1
+Willow Energy FZE,,,,75.0,none,unmatched,1
+Red Trading B.V.,,,,75.0,none,unmatched,1
+Quantum Trading Limited,,,,75.9,none,unmatched,2
+Quantum Trading Pty Ltd,,,,75.9,none,unmatched,1
+Granite Trading DAC,,,,75.9,none,unmatched,1
+Granite Trading Limited,,,,75.9,none,unmatched,1
+Sterling Health LLC,,,,75.9,none,unmatched,1
+Sterling Health AG,,,,75.9,none,unmatched,1
+Crescent Health B.V.,,,,75.9,none,unmatched,1
+Pacific Trading LLC,,,,75.9,none,unmatched,1
+Pioneer Telecom GmbH,,,,75.9,none,unmatched,1
+Quantum Trading DAC,,,,75.9,none,unmatched,1
+Crescent Health Limited,,,,75.9,none,unmatched,1
+Union Media Pty Ltd,,,,76.2,none,unmatched,1
+Union Media FZ-LLC,,,,76.2,none,unmatched,1
+Red Retail B.V.,,,,76.2,none,unmatched,1
+Pacific Analytics Ltd,,,,76.5,none,unmatched,1
+Quantum Education GmbH,,,,76.5,none,unmatched,1
+Pacific Analytics GmbH,,,,76.5,none,unmatched,1
+Quantum Logistics Limited,,,,76.5,none,unmatched,1
+Willow Retail Limited,,,,76.9,none,unmatched,2
+Atlas Telecom B.V.,,,,76.9,none,unmatched,2
+Cedar Finance GmbH,,,,76.9,none,unmatched,1
+Granite Energy AG,,,,76.9,none,unmatched,1
+Blue Trading Ltd,,,,76.9,none,unmatched,1
+Emerald Energy LLC,,,,76.9,none,unmatched,1
+Zenith Retail Pty Ltd,,,,76.9,none,unmatched,1
+Pioneer Travel Ltd,,,,76.9,none,unmatched,1
+Emerald Energy GmbH,,,,76.9,none,unmatched,1
+Cedar Trading Limited,,,,76.9,none,unmatched,1
+Orbit Trading Ltd,,,,76.9,none,unmatched,1
+Pioneer Motors DAC,,,,76.9,none,unmatched,1
+Cedar Trading B.V.,,,,76.9,none,unmatched,1
+Pioneer Motors AG,,,,76.9,none,unmatched,1
+Coral Motors Pty Ltd,,,,76.9,none,unmatched,1
+Atlas Telecom DAC,,,,76.9,none,unmatched,1
+Coral Motors B.V.,,,,76.9,none,unmatched,1
+Pacific Construction FZ-LLC,,,,76.9,none,unmatched,1
+Titan Trading Limited,,,,76.9,none,unmatched,1
+Union Telecom AG,,,,76.9,none,unmatched,1
+Zenith Retail FZE,,,,76.9,none,unmatched,1
+Emerald Pharma FZ-LLC,,,,76.9,none,unmatched,1
+Coral Motors Ltd,,,,76.9,none,unmatched,1
+Willow Analytics FZ-LLC,,,,77.4,none,unmatched,2
+Summit Logistics Ltd,,,,77.4,none,unmatched,1
+Coral Logistics LLC,,,,77.4,none,unmatched,1
+Summit Logistics B.V.,,,,77.4,none,unmatched,1
+Cedar Logistics Pty Ltd,,,,77.4,none,unmatched,1
+Sterling Trading FZE,,,,77.4,none,unmatched,1
+Coral Logistics GmbH,,,,77.4,none,unmatched,1
+North Insurance Limited,,,,77.4,none,unmatched,1
+Atlas Logistics B.V.,,,,77.4,none,unmatched,1
+Bright Hospitality DAC,,,,77.8,none,unmatched,1
+Bright Construction Pty Ltd,,,,77.8,none,unmatched,1
+Bright Hospitality AG,,,,77.8,none,unmatched,1
+Willow Hospitality Limited,,,,77.8,none,unmatched,1
+Nova Retail AG,,,,78.3,none,unmatched,1
+Union Motors AG,,,,78.3,none,unmatched,1
+Union Motors Limited,,,,78.3,none,unmatched,1
+Desert Media B.V.,,,,78.3,none,unmatched,1
+Nova Retail GmbH,,,,78.3,none,unmatched,1
+Atlas Foods Limited,,,,78.3,none,unmatched,1
+Union Motors Pty Ltd,,,,78.3,none,unmatched,1
+Pioneer Foods Pty Ltd,,,,78.3,none,unmatched,1
+Emerald Systems Pty Ltd,,,,78.6,none,unmatched,2
+Emerald Systems LLC,,,,78.6,none,unmatched,1
+Granite Health FZE,,,,78.6,none,unmatched,1
+Blue Logistics Pty Ltd,,,,78.6,none,unmatched,1
+Blue Analytics Ltd,,,,78.6,none,unmatched,1
+Blue Logistics DAC,,,,78.6,none,unmatched,1
+Granite Health Ltd,,,,78.6,none,unmatched,1
+Granite Travel Ltd,,,,78.6,none,unmatched,1
+Blue Education DAC,,,,78.6,none,unmatched,1
+Emerald Trading Limited,,,,78.6,none,unmatched,1
+Pacific Travel Limited,,,,78.6,none,unmatched,1
+Emerald Retail Limited,,,,78.6,none,unmatched,1
+Granite Systems Ltd,,,,78.6,none,unmatched,1
+Silver Telecom GmbH,,,,78.6,none,unmatched,1
+Titan Properties B.V.,,,,78.8,none,unmatched,1
+Sterling Logistics Limited,,,,78.8,none,unmatched,1
+Union Properties Limited,,,,78.8,none,unmatched,1
+Sterling Logistics AG,,,,78.8,none,unmatched,1
+North Trading Limited,,,,80.0,none,unmatched,1
+Atlas Insurance B.V.,,,,80.0,none,unmatched,1
+Cedar Construction Ltd,,,,80.0,none,unmatched,1
+Summit Motors Pty Ltd,,,,80.0,none,unmatched,1
+Falcon Hospitality LLC,,,,80.0,none,unmatched,1
+Cedar Insurance Ltd,,,,80.0,none,unmatched,1
+Granite Hospitality Ltd,,,,80.0,none,unmatched,1
+Cedar Construction B.V.,,,,80.0,none,unmatched,1
+Atlas Construction FZ-LLC,,,,80.0,none,unmatched,1
+Desert Motors LLC,,,,80.0,none,unmatched,1
+Blue Properties B.V.,,,,80.0,none,unmatched,1
+Emerald Education FZE,,,,80.0,none,unmatched,1
+Titan Analytics Pty Ltd,,,,80.0,none,unmatched,1
+Cedar Hospitality DAC,,,,80.0,none,unmatched,1
+Falcon Foods B.V.,,,,80.0,none,unmatched,1
+Titan Analytics Limited,,,,80.0,none,unmatched,1
+Desert Motors B.V.,,,,80.0,none,unmatched,1
+Nova Systems Limited,,,,80.0,none,unmatched,1
+Sterling Construction Pty Ltd,,,,80.0,none,unmatched,1
+Desert Systems GmbH,,,,80.0,none,unmatched,1
+Summit Hospitality GmbH,,,,80.0,none,unmatched,1
+Blue Properties FZ-LLC,,,,80.0,none,unmatched,1
+Desert Energy B.V.,,,,80.0,none,unmatched,1
+Zenith Motors LLC,,,,80.0,none,unmatched,1
+Sterling Construction B.V.,,,,80.0,none,unmatched,1
+Blue Properties Pty Ltd,,,,80.0,none,unmatched,1
+Falcon Hospitality Ltd,,,,80.0,none,unmatched,1
+Summit Hospitality B.V.,,,,80.0,none,unmatched,1
+Desert Systems B.V.,,,,80.0,none,unmatched,1
+Granite Hospitality DAC,,,,80.0,none,unmatched,1
+Summit Motors B.V.,,,,80.0,none,unmatched,1
+Vertex Retail B.V.,,,,80.0,none,unmatched,1
+Desert Systems Ltd,,,,80.0,none,unmatched,1
+Zenith Motors Ltd,,,,80.0,none,unmatched,1
+Summit Construction B.V.,,,,81.1,none,unmatched,1
+Summit Construction Ltd,,,,81.1,none,unmatched,1
+Summit Construction LLC,,,,81.1,none,unmatched,1
+Granite Analytics Limited,,,,81.2,none,unmatched,2
+Blue Hospitality LLC,,,,81.2,none,unmatched,2
+Granite Analytics LLC,,,,81.2,none,unmatched,1
+Blue Hospitality Pty Ltd,,,,81.2,none,unmatched,1
+Coral Analytics DAC,,,,81.2,none,unmatched,1
+Silver Logistics GmbH,,,,81.2,none,unmatched,1
+Silver Logistics AG,,,,81.2,none,unmatched,1
+Blue Hospitality DAC,,,,81.2,none,unmatched,1
+Desert Finance Limited,,,,81.5,none,unmatched,1
+Iron Trading LLC,,,,81.5,none,unmatched,1
+Red Energy Pty Ltd,,,,81.8,none,unmatched,2
+North Foods Limited,,,,81.8,none,unmatched,1
+Red Pharma B.V.,,,,81.8,none,unmatched,1
+Red Motors FZE,,,,81.8,none,unmatched,1
+Red Pharma Limited,,,,81.8,none,unmatched,1
+Emerald Construction B.V.,,,,82.1,none,unmatched,1
+Emerald Construction Limited,,,,82.1,none,unmatched,1
+Desert Insurance Pty Ltd,,,,82.4,none,unmatched,1
+Nova Logistics B.V.,,,,82.8,none,unmatched,1
+Nova Education Pty Ltd,,,,82.8,none,unmatched,1
+Nova Analytics Pty Ltd,,,,82.8,none,unmatched,1
+Orbit Energy AG,,,,83.3,none,unmatched,1
+Red Systems Pty Ltd,,,,83.3,none,unmatched,1
+North Pharma LLC,,,,83.3,none,unmatched,1
+Union Hospitality DAC,,,,83.3,none,unmatched,1
+North Health B.V.,,,,83.3,none,unmatched,1
+North Health FZ-LLC,,,,83.3,none,unmatched,1
+Orbit Energy Pty Ltd,,,,83.3,none,unmatched,1
+North Pharma DAC,,,,83.3,none,unmatched,1
+North Travel LLC,,,,83.3,none,unmatched,1
+North Pharma B.V.,,,,83.3,none,unmatched,1
+North Health LLC,,,,83.3,none,unmatched,1
+Bright Analytics FZE,,,,83.9,none,unmatched,2
+Vertex Properties Limited,,,,83.9,none,unmatched,1
+Delta Logistics GmbH,,,,83.9,none,unmatched,1
+Delta Logistics Limited,,,,83.9,none,unmatched,1
+Desert Education FZE,,,,83.9,none,unmatched,1
+North Systems Pty Ltd,,,,84.6,none,unmatched,1
+Orbit Telecom B.V.,,,,84.6,none,unmatched,1
+Delta Properties FZ-LLC,,,,84.8,none,unmatched,1
+Orbit Properties GmbH,,,,84.8,none,unmatched,1
