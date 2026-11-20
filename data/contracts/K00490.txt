@@ -1,0 +1,23 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00490
+Customer: Union Foods LLC
+Registered country: United Arab Emirates
+Effective Date: 01 December 2024
+Term: until 30 November 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 227 units at USD 56.42 per unit per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 197 units at USD 84.38 per unit per month
+- Platform licence (per seat) [PLAT-BASE]: 163 units at USD 40.74 per unit per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 3% to the Fees, effective from the first anniversary (01 December 2025).
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

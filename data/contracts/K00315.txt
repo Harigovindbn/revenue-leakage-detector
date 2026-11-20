@@ -1,0 +1,25 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00315
+Customer: Pacific Hospitality Ltd
+Registered country: New Zealand
+Effective Date: 01 August 2024
+Term: until 31 July 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- API calls bundle [API-CALLS]: USD 802.41 per month
+- Data storage (per TB) [DATA-STOR]: 133 units at USD 55.07 per unit per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 4% on each anniversary of the Effective Date.
+
+4. USAGE ALLOWANCES
+The monthly allowance for API calls bundle is 100,000 units; excess units are charged at 0.006 USD each.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

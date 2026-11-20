@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00020
+Customer: Delta Travel Limited
+Registered country: Ireland
+Effective Date: 01 January 2024
+Term: until 31 December 2025
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- API calls bundle [API-CALLS]: USD 766.67 per month
+- Premium support (flat) [SUPP-PREM]: USD 1,035.25 per month
+- Data storage (per TB) [DATA-STOR]: 67 units at USD 59.15 per unit per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 4% commencing 01 January 2025.
+
+4. USAGE ALLOWANCES
+The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

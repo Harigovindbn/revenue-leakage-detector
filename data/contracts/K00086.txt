@@ -1,0 +1,27 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00086
+Customer: Crescent Finance FZ-LLC
+Registered country: United Arab Emirates
+Effective Date: 01 May 2025
+Term: until 30 April 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- API calls bundle [API-CALLS]: USD 885.12 per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 5% to the Fees, effective from the first anniversary (01 May 2026).
+
+3. DISCOUNTS
+A promotional discount of 15% applies to API calls bundle until 31 August 2025.
+
+4. USAGE ALLOWANCES
+Overage: any API calls bundle usage beyond 100,000 units in a calendar month incurs a fee of USD 0.006 per additional unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

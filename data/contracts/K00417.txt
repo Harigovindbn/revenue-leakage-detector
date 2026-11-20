@@ -1,0 +1,27 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00417
+Customer: Titan Finance Ltd
+Registered country: New Zealand
+Effective Date: 01 August 2024
+Term: until 31 July 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 186 units at USD 58.79 per unit per month
+- Premium support (flat) [SUPP-PREM]: USD 1,135.90 per month
+- Platform licence (per seat) [PLAT-BASE]: 133 units at USD 43.32 per unit per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 4% commencing 01 August 2025.
+
+3. DISCOUNTS
+Introductory pricing: Data storage (per TB) is discounted by 15 percent through 28 February 2025, after which standard rates apply.
+Introductory pricing: Premium support (flat) is discounted by 5 percent through 28 February 2025, after which standard rates apply.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

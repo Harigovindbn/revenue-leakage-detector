@@ -1,0 +1,29 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00364
+Customer: Nova Construction LLC
+Registered country: United Arab Emirates
+Effective Date: 01 August 2024
+Term: until 31 July 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- SMS messages bundle [SMS-MSG]: USD 396.13 per month
+- Data storage (per TB) [DATA-STOR]: 70 units at USD 54.96 per unit per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 141 units at USD 72.96 per unit per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 4% commencing 01 August 2025.
+
+3. DISCOUNTS
+Customer will receive 10% off the contracted price of SMS messages bundle for invoices dated on or before 30 November 2024.
+
+4. USAGE ALLOWANCES
+SMS messages bundle includes up to 20,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

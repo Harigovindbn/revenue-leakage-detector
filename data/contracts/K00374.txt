@@ -1,0 +1,28 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00374
+Customer: Iron Education Limited
+Registered country: Ireland
+Effective Date: 01 March 2024
+Term: until 28 February 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- SMS messages bundle [SMS-MSG]: USD 381.21 per month
+- Data storage (per TB) [DATA-STOR]: 157 units at USD 54.81 per unit per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 5% to the Fees, effective from the first anniversary (01 March 2025).
+
+3. DISCOUNTS
+Customer will receive 5% off the contracted price of Data storage (per TB) for invoices dated on or before 30 September 2024.
+
+4. USAGE ALLOWANCES
+SMS messages bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

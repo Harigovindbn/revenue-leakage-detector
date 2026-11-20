@@ -1,0 +1,22 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00494
+Customer: Vertex Construction Pty Ltd
+Registered country: Australia
+Effective Date: 01 April 2024
+Term: until 31 March 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 70 units at USD 52.98 per unit per month
+- Premium support (flat) [SUPP-PREM]: USD 1,191.27 per month
+
+2. PRICE ADJUSTMENT
+On 01 April 2025 and annually thereafter, all unit prices will rise by 7 percent.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

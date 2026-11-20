@@ -1,0 +1,22 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00158
+Customer: Orbit Hospitality LLC
+Registered country: United Arab Emirates
+Effective Date: 01 July 2025
+Term: until 30 June 2028
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 155 units at USD 59.02 per unit per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 123 units at USD 75.96 per unit per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 7% to the Fees, effective from the first anniversary (01 July 2026).
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

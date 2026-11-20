@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00208
+Customer: Iron Energy LLC
+Registered country: United Arab Emirates
+Effective Date: 01 December 2024
+Term: until 30 November 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 15 units at USD 53.26 per unit per month
+- Premium support (flat) [SUPP-PREM]: USD 1,098.75 per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 87 units at USD 79.18 per unit per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 7% on each anniversary of the Effective Date.
+
+3. DISCOUNTS
+A promotional discount of 20% applies to Premium support (flat) until 31 March 2025.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

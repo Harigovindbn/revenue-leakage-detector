@@ -1,0 +1,25 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00497
+Customer: Pioneer Trading LLC
+Registered country: United Arab Emirates
+Effective Date: 01 November 2024
+Term: until 31 October 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Platform licence (per seat) [PLAT-BASE]: 221 units at USD 41.87 per unit per month
+- API calls bundle [API-CALLS]: USD 822.20 per month
+
+2. PRICE ADJUSTMENT
+On 01 November 2025 and annually thereafter, all unit prices will rise by 6 percent.
+
+4. USAGE ALLOWANCES
+API calls bundle includes up to 250,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

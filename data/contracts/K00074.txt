@@ -1,0 +1,22 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00074
+Customer: Cedar Labs FZE
+Registered country: United Arab Emirates
+Effective Date: 01 July 2025
+Term: until 30 June 2028
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Platform Pro licence (per seat) [PLAT-PRO]: 231 units at USD 74.79 per unit per month
+- Data storage (per TB) [DATA-STOR]: 210 units at USD 53.24 per unit per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 3% on each anniversary of the Effective Date.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

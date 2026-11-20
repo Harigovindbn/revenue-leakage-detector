@@ -1,0 +1,25 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00385
+Customer: Apex Foods FZ-LLC
+Registered country: United Arab Emirates
+Effective Date: 01 January 2025
+Term: until 31 December 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 149 units at USD 55.29 per unit per month
+- SMS messages bundle [SMS-MSG]: USD 345.41 per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 4% to the Fees, effective from the first anniversary (01 January 2026).
+
+4. USAGE ALLOWANCES
+The monthly allowance for SMS messages bundle is 50,000 units; excess units are charged at 0.015 USD each.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

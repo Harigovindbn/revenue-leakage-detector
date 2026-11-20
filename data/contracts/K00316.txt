@@ -1,0 +1,30 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00316
+Customer: Nova Properties Pty Ltd
+Registered country: Australia
+Effective Date: 01 April 2025
+Term: until 31 March 2028
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- SMS messages bundle [SMS-MSG]: USD 393.51 per month
+- Platform licence (per seat) [PLAT-BASE]: 32 units at USD 44.71 per unit per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 57 units at USD 74.17 per unit per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 5% commencing 01 April 2026.
+
+3. DISCOUNTS
+Customer will receive 20% off the contracted price of SMS messages bundle for invoices dated on or before 31 July 2025.
+Introductory pricing: Platform licence (per seat) is discounted by 5 percent through 30 November 2025, after which standard rates apply.
+
+4. USAGE ALLOWANCES
+Overage: any SMS messages bundle usage beyond 50,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

@@ -1,0 +1,25 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00386
+Customer: Pioneer Education GmbH
+Registered country: Germany
+Effective Date: 01 March 2025
+Term: until 29 February 2028
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 187 units at USD 56.83 per unit per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 79 units at USD 78.94 per unit per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 3% to the Fees, effective from the first anniversary (01 March 2026).
+
+3. DISCOUNTS
+A promotional discount of 20% applies to Data storage (per TB) until 30 September 2025.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

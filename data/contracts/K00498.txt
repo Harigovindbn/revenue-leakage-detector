@@ -1,0 +1,23 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00498
+Customer: Crescent Media Pty Ltd
+Registered country: Australia
+Effective Date: 01 June 2025
+Term: until 31 May 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 80 units at USD 58.35 per unit per month
+- Premium support (flat) [SUPP-PREM]: USD 1,109.97 per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 42 units at USD 79.92 per unit per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 3% to the Fees, effective from the first anniversary (01 June 2026).
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

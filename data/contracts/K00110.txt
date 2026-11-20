@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00110
+Customer: Desert Logistics Ltd
+Registered country: New Zealand
+Effective Date: 01 May 2024
+Term: until 30 April 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 51 units at USD 58.76 per unit per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 166 units at USD 78.47 per unit per month
+- Premium support (flat) [SUPP-PREM]: USD 1,076.41 per month
+
+2. PRICE ADJUSTMENT
+On 01 May 2025 and annually thereafter, all unit prices will rise by 4 percent.
+
+3. DISCOUNTS
+Customer will receive 20% off the contracted price of Premium support (flat) for invoices dated on or before 30 September 2024.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

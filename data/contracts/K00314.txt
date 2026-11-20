@@ -1,0 +1,29 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00314
+Customer: Red Telecom FZ-LLC
+Registered country: United Arab Emirates
+Effective Date: 01 June 2025
+Term: until 31 May 2028
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 98 units at USD 51.37 per unit per month
+- API calls bundle [API-CALLS]: USD 792.64 per month
+
+2. PRICE ADJUSTMENT
+On 01 June 2026 and annually thereafter, all unit prices will rise by 3 percent.
+
+3. DISCOUNTS
+Introductory pricing: Data storage (per TB) is discounted by 5 percent through 31 December 2025, after which standard rates apply.
+Customer will receive 5% off the contracted price of API calls bundle for invoices dated on or before 31 January 2026.
+
+4. USAGE ALLOWANCES
+The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

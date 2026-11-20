@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00116
+Customer: Silver Media Pty Ltd
+Registered country: Australia
+Effective Date: 01 August 2025
+Term: until 31 July 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Platform licence (per seat) [PLAT-BASE]: 164 units at USD 43.46 per unit per month
+- Data storage (per TB) [DATA-STOR]: 17 units at USD 58.53 per unit per month
+- Premium support (flat) [SUPP-PREM]: USD 1,095.02 per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 3% on each anniversary of the Effective Date.
+
+3. DISCOUNTS
+Customer will receive 5% off the contracted price of Platform licence (per seat) for invoices dated on or before 31 March 2026.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

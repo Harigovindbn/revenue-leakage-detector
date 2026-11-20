@@ -1,0 +1,25 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00242
+Customer: Quantum Analytics Pty Ltd
+Registered country: Australia
+Effective Date: 01 June 2024
+Term: until 31 May 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- SMS messages bundle [SMS-MSG]: USD 345.12 per month
+- Premium support (flat) [SUPP-PREM]: USD 1,162.39 per month
+
+2. PRICE ADJUSTMENT
+On 01 June 2025 and annually thereafter, all unit prices will rise by 3 percent.
+
+4. USAGE ALLOWANCES
+SMS messages bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

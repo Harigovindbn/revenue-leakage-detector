@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00008
+Customer: Delta Media Limited
+Registered country: Ireland
+Effective Date: 01 August 2025
+Term: until 31 July 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Premium support (flat) [SUPP-PREM]: USD 1,193.97 per month
+- SMS messages bundle [SMS-MSG]: USD 369.44 per month
+- Data storage (per TB) [DATA-STOR]: 40 units at USD 54.17 per unit per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 5% on each anniversary of the Effective Date.
+
+4. USAGE ALLOWANCES
+SMS messages bundle includes up to 20,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

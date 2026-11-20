@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00178
+Customer: Zenith Logistics B.V.
+Registered country: Netherlands
+Effective Date: 01 December 2024
+Term: until 30 November 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- API calls bundle [API-CALLS]: USD 895.42 per month
+- Premium support (flat) [SUPP-PREM]: USD 1,063.79 per month
+- Data storage (per TB) [DATA-STOR]: 179 units at USD 57.98 per unit per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 6% on each anniversary of the Effective Date.
+
+4. USAGE ALLOWANCES
+API calls bundle includes up to 500,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

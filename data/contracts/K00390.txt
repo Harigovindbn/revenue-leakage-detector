@@ -1,0 +1,30 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00390
+Customer: Orbit Systems FZ-LLC
+Registered country: United Arab Emirates
+Effective Date: 01 November 2024
+Term: until 31 October 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- SMS messages bundle [SMS-MSG]: USD 345.26 per month
+- Data storage (per TB) [DATA-STOR]: 224 units at USD 59.73 per unit per month
+- Premium support (flat) [SUPP-PREM]: USD 1,063.52 per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 7% on each anniversary of the Effective Date.
+
+3. DISCOUNTS
+A promotional discount of 5% applies to SMS messages bundle until 31 July 2025.
+A promotional discount of 20% applies to Data storage (per TB) until 30 June 2025.
+
+4. USAGE ALLOWANCES
+Overage: any SMS messages bundle usage beyond 20,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

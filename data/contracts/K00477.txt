@@ -1,0 +1,25 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00477
+Customer: Sterling Travel DAC
+Registered country: Ireland
+Effective Date: 01 October 2024
+Term: until 30 September 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 117 units at USD 52.51 per unit per month
+- SMS messages bundle [SMS-MSG]: USD 376.56 per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 3% commencing 01 October 2025.
+
+4. USAGE ALLOWANCES
+Overage: any SMS messages bundle usage beyond 50,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

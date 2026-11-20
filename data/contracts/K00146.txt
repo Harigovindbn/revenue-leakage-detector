@@ -1,0 +1,29 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00146
+Customer: Zenith Pharma DAC
+Registered country: Ireland
+Effective Date: 01 January 2025
+Term: until 31 December 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Premium support (flat) [SUPP-PREM]: USD 1,112.58 per month
+- Platform licence (per seat) [PLAT-BASE]: 80 units at USD 41.54 per unit per month
+- SMS messages bundle [SMS-MSG]: USD 351.55 per month
+
+2. PRICE ADJUSTMENT
+On 01 January 2026 and annually thereafter, all unit prices will rise by 5 percent.
+
+3. DISCOUNTS
+A promotional discount of 5% applies to SMS messages bundle until 30 April 2025.
+
+4. USAGE ALLOWANCES
+SMS messages bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

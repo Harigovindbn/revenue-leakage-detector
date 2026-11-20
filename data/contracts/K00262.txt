@@ -1,0 +1,22 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00262
+Customer: Falcon Logistics Pty Ltd
+Registered country: Australia
+Effective Date: 01 February 2024
+Term: until 31 January 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 233 units at USD 57.34 per unit per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 184 units at USD 82.91 per unit per month
+
+2. PRICE ADJUSTMENT
+On 01 February 2025 and annually thereafter, all unit prices will rise by 5 percent.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

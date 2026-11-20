@@ -1,0 +1,22 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00456
+Customer: Delta Health B.V.
+Registered country: Netherlands
+Effective Date: 01 January 2024
+Term: until 31 December 2025
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 38 units at USD 59.91 per unit per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 22 units at USD 78.35 per unit per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 4% commencing 01 January 2025.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

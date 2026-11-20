@@ -1,0 +1,30 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00458
+Customer: Falcon Finance LLC
+Registered country: United Arab Emirates
+Effective Date: 01 September 2025
+Term: until 31 August 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 193 units at USD 56.19 per unit per month
+- SMS messages bundle [SMS-MSG]: USD 382.70 per month
+- API calls bundle [API-CALLS]: USD 876.16 per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 6% on each anniversary of the Effective Date.
+
+3. DISCOUNTS
+Introductory pricing: Data storage (per TB) is discounted by 20 percent through 31 January 2026, after which standard rates apply.
+
+4. USAGE ALLOWANCES
+The monthly allowance for SMS messages bundle is 50,000 units; excess units are charged at 0.015 USD each.
+Overage: any API calls bundle usage beyond 100,000 units in a calendar month incurs a fee of USD 0.006 per additional unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

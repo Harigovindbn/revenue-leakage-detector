@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00221
+Customer: Desert Retail Ltd
+Registered country: New Zealand
+Effective Date: 01 May 2024
+Term: until 30 April 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Platform licence (per seat) [PLAT-BASE]: 15 units at USD 40.31 per unit per month
+- Data storage (per TB) [DATA-STOR]: 88 units at USD 56.08 per unit per month
+- SMS messages bundle [SMS-MSG]: USD 353.25 per month
+
+2. PRICE ADJUSTMENT
+On 01 May 2025 and annually thereafter, all unit prices will rise by 7 percent.
+
+4. USAGE ALLOWANCES
+SMS messages bundle includes up to 20,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

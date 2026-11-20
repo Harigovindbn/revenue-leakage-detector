@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00176
+Customer: Bright Telecom Limited
+Registered country: New Zealand
+Effective Date: 01 February 2025
+Term: until 31 January 2028
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Platform Pro licence (per seat) [PLAT-PRO]: 22 units at USD 81.65 per unit per month
+- API calls bundle [API-CALLS]: USD 839.20 per month
+- Platform licence (per seat) [PLAT-BASE]: 94 units at USD 44.43 per unit per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 7% commencing 01 February 2026.
+
+4. USAGE ALLOWANCES
+The monthly allowance for API calls bundle is 500,000 units; excess units are charged at 0.006 USD each.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

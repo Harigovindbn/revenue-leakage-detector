@@ -1,0 +1,30 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00370
+Customer: Emerald Telecom Pty Ltd
+Registered country: Australia
+Effective Date: 01 November 2024
+Term: until 31 October 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- SMS messages bundle [SMS-MSG]: USD 387.56 per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 39 units at USD 83.39 per unit per month
+- Data storage (per TB) [DATA-STOR]: 99 units at USD 51.76 per unit per month
+
+2. PRICE ADJUSTMENT
+On 01 November 2025 and annually thereafter, all unit prices will rise by 3 percent.
+
+3. DISCOUNTS
+Customer will receive 15% off the contracted price of Platform Pro licence (per seat) for invoices dated on or before 31 July 2025.
+Customer will receive 20% off the contracted price of Data storage (per TB) for invoices dated on or before 31 July 2025.
+
+4. USAGE ALLOWANCES
+The monthly allowance for SMS messages bundle is 50,000 units; excess units are charged at 0.015 USD each.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

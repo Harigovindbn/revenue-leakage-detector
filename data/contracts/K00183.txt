@@ -1,0 +1,28 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00183
+Customer: Titan Health Pty Ltd
+Registered country: Australia
+Effective Date: 01 January 2024
+Term: until 31 December 2025
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 130 units at USD 58.82 per unit per month
+- API calls bundle [API-CALLS]: USD 842.85 per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 5% to the Fees, effective from the first anniversary (01 January 2025).
+
+3. DISCOUNTS
+Introductory pricing: Data storage (per TB) is discounted by 15 percent through 30 June 2024, after which standard rates apply.
+
+4. USAGE ALLOWANCES
+The monthly allowance for API calls bundle is 100,000 units; excess units are charged at 0.006 USD each.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

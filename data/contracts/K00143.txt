@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00143
+Customer: Falcon Telecom FZE
+Registered country: United Arab Emirates
+Effective Date: 01 September 2025
+Term: until 31 August 2028
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Premium support (flat) [SUPP-PREM]: USD 1,114.57 per month
+- Platform licence (per seat) [PLAT-BASE]: 206 units at USD 41.76 per unit per month
+- SMS messages bundle [SMS-MSG]: USD 364.96 per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 5% on each anniversary of the Effective Date.
+
+4. USAGE ALLOWANCES
+Overage: any SMS messages bundle usage beyond 100,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

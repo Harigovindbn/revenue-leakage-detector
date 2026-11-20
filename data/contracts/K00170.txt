@@ -1,0 +1,24 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00170
+Customer: Apex Education GmbH
+Registered country: Germany
+Effective Date: 01 July 2024
+Term: until 30 June 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 69 units at USD 56.86 per unit per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 5% commencing 01 July 2025.
+
+3. DISCOUNTS
+A promotional discount of 20% applies to Data storage (per TB) until 31 January 2025.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

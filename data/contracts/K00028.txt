@@ -1,0 +1,29 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00028
+Customer: Harbour Properties FZE
+Registered country: United Arab Emirates
+Effective Date: 01 June 2025
+Term: until 31 May 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- SMS messages bundle [SMS-MSG]: USD 381.43 per month
+- API calls bundle [API-CALLS]: USD 768.32 per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 5% to the Fees, effective from the first anniversary (01 June 2026).
+
+3. DISCOUNTS
+Introductory pricing: API calls bundle is discounted by 5 percent through 31 August 2025, after which standard rates apply.
+
+4. USAGE ALLOWANCES
+Overage: any SMS messages bundle usage beyond 20,000 units in a calendar month incurs a fee of USD 0.015 per additional unit.
+API calls bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

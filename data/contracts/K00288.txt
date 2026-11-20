@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00288
+Customer: Bright Systems GmbH
+Registered country: Germany
+Effective Date: 01 April 2024
+Term: until 31 March 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Platform licence (per seat) [PLAT-BASE]: 182 units at USD 43.44 per unit per month
+- Data storage (per TB) [DATA-STOR]: 87 units at USD 57.93 per unit per month
+- Premium support (flat) [SUPP-PREM]: USD 1,088.90 per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 4% commencing 01 April 2025.
+
+3. DISCOUNTS
+A promotional discount of 5% applies to Data storage (per TB) until 31 August 2024.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

@@ -1,0 +1,30 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00030
+Customer: Union Foods LLC
+Registered country: United Arab Emirates
+Effective Date: 01 February 2024
+Term: until 31 January 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Platform licence (per seat) [PLAT-BASE]: 146 units at USD 41.73 per unit per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 52 units at USD 77.41 per unit per month
+- API calls bundle [API-CALLS]: USD 847.90 per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 3% to the Fees, effective from the first anniversary (01 February 2025).
+
+3. DISCOUNTS
+Customer will receive 20% off the contracted price of Platform licence (per seat) for invoices dated on or before 31 July 2024.
+Customer will receive 20% off the contracted price of Platform Pro licence (per seat) for invoices dated on or before 31 July 2024.
+
+4. USAGE ALLOWANCES
+API calls bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

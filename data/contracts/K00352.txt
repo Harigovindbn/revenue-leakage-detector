@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00352
+Customer: Iron Construction Pty Ltd
+Registered country: Australia
+Effective Date: 01 November 2024
+Term: until 31 October 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Premium support (flat) [SUPP-PREM]: USD 1,138.40 per month
+- Platform licence (per seat) [PLAT-BASE]: 112 units at USD 41.72 per unit per month
+- Data storage (per TB) [DATA-STOR]: 151 units at USD 53.85 per unit per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 4% commencing 01 November 2025.
+
+3. DISCOUNTS
+Introductory pricing: Platform licence (per seat) is discounted by 20 percent through 31 May 2025, after which standard rates apply.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

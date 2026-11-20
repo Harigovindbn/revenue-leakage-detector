@@ -1,0 +1,25 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00345
+Customer: Falcon Finance LLC
+Registered country: United Arab Emirates
+Effective Date: 01 December 2024
+Term: until 30 November 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 201 units at USD 53.51 per unit per month
+- API calls bundle [API-CALLS]: USD 781.50 per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 7% to the Fees, effective from the first anniversary (01 December 2025).
+
+4. USAGE ALLOWANCES
+The monthly allowance for API calls bundle is 250,000 units; excess units are charged at 0.006 USD each.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

@@ -1,0 +1,27 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00326
+Customer: Emerald Foods Pty Ltd
+Registered country: Australia
+Effective Date: 01 June 2025
+Term: until 31 May 2028
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- API calls bundle [API-CALLS]: USD 887.64 per month
+- SMS messages bundle [SMS-MSG]: USD 382.96 per month
+- Platform licence (per seat) [PLAT-BASE]: 77 units at USD 40.77 per unit per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 3.5% on each anniversary of the Effective Date.
+
+4. USAGE ALLOWANCES
+Overage: any API calls bundle usage beyond 250,000 units in a calendar month incurs a fee of USD 0.006 per additional unit.
+SMS messages bundle includes up to 50,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

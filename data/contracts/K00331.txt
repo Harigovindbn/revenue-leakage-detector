@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00331
+Customer: Pacific Energy AG
+Registered country: Germany
+Effective Date: 01 August 2025
+Term: until 31 July 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Platform Pro licence (per seat) [PLAT-PRO]: 97 units at USD 72.92 per unit per month
+- Premium support (flat) [SUPP-PREM]: USD 1,184.18 per month
+- SMS messages bundle [SMS-MSG]: USD 357.39 per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 3.5% on each anniversary of the Effective Date.
+
+4. USAGE ALLOWANCES
+SMS messages bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.015 per unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

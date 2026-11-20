@@ -1,0 +1,24 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00256
+Customer: Blue Foods AG
+Registered country: Germany
+Effective Date: 01 January 2025
+Term: until 31 December 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- API calls bundle [API-CALLS]: USD 780.77 per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 6% on each anniversary of the Effective Date.
+
+4. USAGE ALLOWANCES
+API calls bundle includes up to 250,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

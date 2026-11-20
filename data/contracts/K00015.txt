@@ -1,0 +1,26 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00015
+Customer: Sterling Motors Pty Ltd
+Registered country: Australia
+Effective Date: 01 May 2025
+Term: until 30 April 2028
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Premium support (flat) [SUPP-PREM]: USD 1,052.28 per month
+- API calls bundle [API-CALLS]: USD 767.11 per month
+- Platform licence (per seat) [PLAT-BASE]: 187 units at USD 43.33 per unit per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 3% on each anniversary of the Effective Date.
+
+4. USAGE ALLOWANCES
+API calls bundle includes up to 100,000 units per month. Usage above this allowance is billed at USD 0.006 per unit.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

@@ -1,0 +1,301 @@
+customer_id,name,billing_country,segment
+C0001,Blue Construction GmbH,DE,Enterprise
+C0002,River Retail AG,DE,Enterprise
+C0003,River Systems AG,DE,SMB
+C0004,Desert Telecom B.V.,NL,Mid-market
+C0005,Iron Foods FZ-LLC,AE,SMB
+C0006,River Foods AG,DE,Enterprise
+C0007,Coral Properties Limited,IE,Mid-market
+C0008,Delta Media Limited,IE,Mid-market
+C0009,Coral Systems FZE,AE,Enterprise
+C0010,Union Finance FZE,AE,Mid-market
+C0011,Granite Education Pty Ltd,AU,SMB
+C0012,North Labs FZ-LLC,AE,Enterprise
+C0013,Cedar Systems DAC,IE,Mid-market
+C0014,Harbour Media FZE,AE,Enterprise
+C0015,Sterling Motors Pty Ltd,AU,Enterprise
+C0016,Apex Health Pty Ltd,AU,Mid-market
+C0017,Iron Motors Ltd,NZ,SMB
+C0018,Red Education AG,DE,Mid-market
+C0019,Orbit Logistics Pty Ltd,AU,Enterprise
+C0020,Delta Travel Limited,IE,Enterprise
+C0021,Titan Labs DAC,IE,Mid-market
+C0022,Pacific Properties LLC,AE,Enterprise
+C0023,Harbour Pharma B.V.,NL,Mid-market
+C0024,Apex Systems DAC,IE,Mid-market
+C0025,Quantum Hospitality Pty Ltd,AU,SMB
+C0026,Pacific Logistics Limited,NZ,SMB
+C0027,Delta Labs Limited,IE,Mid-market
+C0028,Harbour Properties FZE,AE,Mid-market
+C0029,Red Telecom FZ-LLC,AE,Enterprise
+C0030,Union Foods LLC,AE,SMB
+C0031,Summit Education FZ-LLC,AE,SMB
+C0032,Silver Hospitality Limited,IE,SMB
+C0033,Pioneer Pharma Limited,IE,SMB
+C0034,Iron Construction Pty Ltd,AU,Enterprise
+C0035,River Pharma Limited,IE,SMB
+C0036,River Health Ltd,NZ,Enterprise
+C0037,Quantum Retail LLC,AE,SMB
+C0038,Emerald Properties Pty Ltd,AU,Mid-market
+C0039,Sterling Insurance AG,DE,Enterprise
+C0040,Atlas Motors Pty Ltd,AU,Mid-market
+C0041,Granite Retail Limited,IE,SMB
+C0042,Summit Insurance FZ-LLC,AE,SMB
+C0043,Desert Hospitality Pty Ltd,AU,Enterprise
+C0044,Vertex Education Ltd,NZ,SMB
+C0045,Emerald Foods Pty Ltd,AU,Enterprise
+C0046,Vertex Construction Pty Ltd,AU,SMB
+C0047,Nova Construction LLC,AE,Mid-market
+C0048,Orbit Education FZE,AE,Enterprise
+C0049,Crescent Analytics Limited,IE,SMB
+C0050,Summit Media Limited,IE,Mid-market
+C0051,Zenith Energy Limited,IE,SMB
+C0052,Blue Finance DAC,IE,Enterprise
+C0053,Bright Media B.V.,NL,SMB
+C0054,Pacific Systems B.V.,NL,SMB
+C0055,Vertex Systems FZ-LLC,AE,Mid-market
+C0056,Quantum Motors Pty Ltd,AU,Mid-market
+C0057,Atlas Health LLC,AE,Mid-market
+C0058,Quantum Foods Pty Ltd,AU,SMB
+C0059,Blue Insurance GmbH,DE,Enterprise
+C0060,Vertex Foods DAC,IE,Mid-market
+C0061,Falcon Education Pty Ltd,AU,Mid-market
+C0062,Emerald Finance AG,DE,Mid-market
+C0063,Nova Properties Pty Ltd,AU,SMB
+C0064,Bright Finance Limited,NZ,Enterprise
+C0065,Crescent Media Pty Ltd,AU,SMB
+C0066,Pioneer Trading LLC,AE,Enterprise
+C0067,Willow Motors FZ-LLC,AE,Enterprise
+C0068,Apex Foods FZ-LLC,AE,Enterprise
+C0069,North Education Limited,NZ,SMB
+C0070,Vertex Insurance B.V.,NL,Enterprise
+C0071,Emerald Insurance B.V.,NL,SMB
+C0072,Pioneer Hospitality AG,DE,Mid-market
+C0073,Quantum Pharma B.V.,NL,Mid-market
+C0074,Cedar Labs FZE,AE,Enterprise
+C0075,Summit Retail FZ-LLC,AE,Mid-market
+C0076,Crescent Telecom FZ-LLC,AE,Enterprise
+C0077,Iron Pharma LLC,AE,Mid-market
+C0078,River Education B.V.,NL,Mid-market
+C0079,Cedar Motors FZE,AE,Enterprise
+C0080,Granite Motors Limited,NZ,Mid-market
+C0081,Orbit Labs FZ-LLC,AE,Mid-market
+C0082,Silver Pharma Pty Ltd,AU,Mid-market
+C0083,Silver Health LLC,AE,SMB
+C0084,Pacific Energy AG,DE,SMB
+C0085,Atlas Analytics Pty Ltd,AU,Enterprise
+C0086,Crescent Finance FZ-LLC,AE,Enterprise
+C0087,Willow Systems GmbH,DE,SMB
+C0088,Apex Travel FZE,AE,Enterprise
+C0089,Coral Education B.V.,NL,Enterprise
+C0090,Delta Telecom Pty Ltd,AU,Mid-market
+C0091,Nova Finance AG,DE,Mid-market
+C0092,Crescent Properties Pty Ltd,AU,SMB
+C0093,Orbit Media Pty Ltd,AU,Mid-market
+C0094,Desert Pharma LLC,AE,Mid-market
+C0095,Willow Construction Limited,IE,SMB
+C0096,Pioneer Education GmbH,DE,Mid-market
+C0097,Blue Retail Pty Ltd,AU,Mid-market
+C0098,Coral Pharma AG,DE,Mid-market
+C0099,Orbit Construction Pty Ltd,AU,SMB
+C0100,Zenith Education Pty Ltd,AU,Mid-market
+C0101,Apex Insurance AG,DE,Mid-market
+C0102,Desert Travel LLC,AE,SMB
+C0103,River Travel Limited,IE,SMB
+C0104,Sterling Travel DAC,IE,SMB
+C0105,Delta Pharma Pty Ltd,AU,SMB
+C0106,Vertex Health Limited,NZ,SMB
+C0107,Apex Telecom Limited,IE,Mid-market
+C0108,Sterling Telecom Pty Ltd,AU,Enterprise
+C0109,Union Systems FZ-LLC,AE,SMB
+C0110,Desert Logistics Ltd,NZ,Mid-market
+C0111,Falcon Travel FZE,AE,SMB
+C0112,Bright Properties Limited,IE,Enterprise
+C0113,Atlas Energy LLC,AE,Enterprise
+C0114,Orbit Foods DAC,IE,Mid-market
+C0115,Silver Trading Limited,NZ,Enterprise
+C0116,Silver Media Pty Ltd,AU,Mid-market
+C0117,Apex Finance Ltd,NZ,Mid-market
+C0118,Union Pharma LLC,AE,Mid-market
+C0119,Delta Finance AG,DE,Enterprise
+C0120,Crescent Education Limited,IE,Mid-market
+C0121,Apex Motors FZE,AE,Mid-market
+C0122,Coral Trading Pty Ltd,AU,SMB
+C0123,Harbour Travel Pty Ltd,AU,SMB
+C0124,Titan Media Limited,IE,SMB
+C0125,Crescent Foods FZ-LLC,AE,SMB
+C0126,Willow Travel Pty Ltd,AU,Mid-market
+C0127,River Energy FZ-LLC,AE,Enterprise
+C0128,Delta Retail DAC,IE,Mid-market
+C0129,Quantum Construction Limited,IE,Enterprise
+C0130,Vertex Pharma Limited,NZ,Mid-market
+C0131,River Motors Ltd,NZ,Enterprise
+C0132,Iron Media FZ-LLC,AE,Mid-market
+C0133,Vertex Energy Pty Ltd,AU,Enterprise
+C0134,Red Hospitality Pty Ltd,AU,Enterprise
+C0135,Delta Energy LLC,AE,Mid-market
+C0136,Iron Retail AG,DE,Mid-market
+C0137,Delta Education Limited,IE,Enterprise
+C0138,Pacific Retail DAC,IE,Enterprise
+C0139,Orbit Finance DAC,IE,Mid-market
+C0140,Nova Energy Pty Ltd,AU,SMB
+C0141,Delta Motors FZE,AE,Enterprise
+C0142,Vertex Logistics FZ-LLC,AE,SMB
+C0143,Falcon Telecom FZE,AE,SMB
+C0144,Red Media DAC,IE,Enterprise
+C0145,Crescent Motors Pty Ltd,AU,SMB
+C0146,Zenith Pharma DAC,IE,Mid-market
+C0147,Summit Trading FZ-LLC,AE,Enterprise
+C0148,Harbour Foods GmbH,DE,Enterprise
+C0149,Harbour Retail Pty Ltd,AU,SMB
+C0150,River Analytics FZE,AE,SMB
+C0151,Crescent Pharma Pty Ltd,AU,SMB
+C0152,Silver Energy Pty Ltd,AU,Mid-market
+C0153,Bright Education DAC,IE,SMB
+C0154,Pioneer Logistics Pty Ltd,AU,SMB
+C0155,Orbit Travel AG,DE,Mid-market
+C0156,Red Foods Limited,IE,Mid-market
+C0157,Emerald Telecom Pty Ltd,AU,Mid-market
+C0158,Orbit Hospitality LLC,AE,Enterprise
+C0159,Emerald Analytics Pty Ltd,AU,SMB
+C0160,Crescent Hospitality Limited,IE,Enterprise
+C0161,Summit Properties Limited,IE,SMB
+C0162,Titan Logistics B.V.,NL,SMB
+C0163,Red Logistics Limited,NZ,SMB
+C0164,North Energy FZE,AE,SMB
+C0165,Apex Analytics Pty Ltd,AU,Enterprise
+C0166,Bright Insurance FZ-LLC,AE,SMB
+C0167,Nova Foods DAC,IE,SMB
+C0168,Harbour Construction Pty Ltd,AU,Mid-market
+C0169,Titan Telecom Pty Ltd,AU,Enterprise
+C0170,Apex Education GmbH,DE,Mid-market
+C0171,Orbit Motors Pty Ltd,AU,Mid-market
+C0172,Coral Energy AG,DE,SMB
+C0173,Sterling Education AG,DE,Enterprise
+C0174,Nova Health DAC,IE,Enterprise
+C0175,Pacific Foods Ltd,NZ,Mid-market
+C0176,Bright Telecom Limited,NZ,Enterprise
+C0177,Desert Construction Pty Ltd,AU,SMB
+C0178,Zenith Logistics B.V.,NL,Mid-market
+C0179,Desert Analytics Pty Ltd,AU,Enterprise
+C0180,Emerald Health Limited,NZ,Mid-market
+C0181,Nova Pharma Pty Ltd,AU,Enterprise
+C0182,Falcon Properties FZ-LLC,AE,SMB
+C0183,Titan Health Pty Ltd,AU,SMB
+C0184,Falcon Labs B.V.,NL,SMB
+C0185,Willow Media Pty Ltd,AU,Mid-market
+C0186,Willow Telecom DAC,IE,SMB
+C0187,Titan Hospitality B.V.,NL,Enterprise
+C0188,Silver Motors Pty Ltd,AU,SMB
+C0189,Quantum Insurance LLC,AE,Enterprise
+C0190,Union Energy Limited,IE,Enterprise
+C0191,Apex Retail LLC,AE,Mid-market
+C0192,Apex Properties B.V.,NL,Enterprise
+C0193,Harbour Hospitality GmbH,DE,Mid-market
+C0194,Coral Insurance Limited,NZ,SMB
+C0195,Falcon Retail Pty Ltd,AU,Mid-market
+C0196,Bright Health Ltd,NZ,SMB
+C0197,Pioneer Insurance Pty Ltd,AU,Mid-market
+C0198,Silver Insurance Limited,IE,Mid-market
+C0199,Titan Finance Ltd,NZ,Mid-market
+C0200,Vertex Trading B.V.,NL,SMB
+C0201,Falcon Construction Pty Ltd,AU,SMB
+C0202,Falcon Motors Limited,IE,Mid-market
+C0203,Union Labs Limited,NZ,Enterprise
+C0204,Granite Insurance Limited,IE,Mid-market
+C0205,Falcon Finance LLC,AE,SMB
+C0206,Harbour Energy LLC,AE,Enterprise
+C0207,Crescent Insurance B.V.,NL,Enterprise
+C0208,Iron Energy LLC,AE,Enterprise
+C0209,North Telecom B.V.,NL,Mid-market
+C0210,Apex Hospitality GmbH,DE,Mid-market
+C0211,Summit Analytics DAC,IE,Mid-market
+C0212,Crescent Systems Limited,NZ,Mid-market
+C0213,Willow Insurance Limited,IE,Mid-market
+C0214,Quantum Energy Pty Ltd,AU,Mid-market
+C0215,Iron Insurance DAC,IE,Mid-market
+C0216,Cedar Foods FZE,AE,SMB
+C0217,Granite Pharma FZE,AE,Mid-market
+C0218,Summit Energy Pty Ltd,AU,SMB
+C0219,Nova Trading FZ-LLC,AE,SMB
+C0220,Sterling Media GmbH,DE,SMB
+C0221,Desert Retail Ltd,NZ,Enterprise
+C0222,North Motors Ltd,NZ,Mid-market
+C0223,Zenith Labs LLC,AE,Enterprise
+C0224,Willow Pharma FZE,AE,Enterprise
+C0225,Orbit Health B.V.,NL,SMB
+C0226,Falcon Insurance Pty Ltd,AU,Mid-market
+C0227,Falcon Analytics LLC,AE,SMB
+C0228,Nova Motors B.V.,NL,SMB
+C0229,Pioneer Analytics Pty Ltd,AU,SMB
+C0230,Silver Labs Pty Ltd,AU,Mid-market
+C0231,Orbit Analytics FZ-LLC,AE,Mid-market
+C0232,Blue Energy Pty Ltd,AU,Enterprise
+C0233,Iron Properties Pty Ltd,AU,Mid-market
+C0234,Sterling Energy Pty Ltd,AU,SMB
+C0235,Iron Education Limited,IE,Mid-market
+C0236,Titan Travel FZE,AE,SMB
+C0237,Vertex Analytics FZE,AE,Mid-market
+C0238,Willow Finance B.V.,NL,SMB
+C0239,Pacific Pharma B.V.,NL,Mid-market
+C0240,Titan Retail B.V.,NL,Enterprise
+C0241,Nova Telecom Pty Ltd,AU,Mid-market
+C0242,Quantum Analytics Pty Ltd,AU,Enterprise
+C0243,Apex Energy Ltd,NZ,SMB
+C0244,Desert Labs Limited,NZ,Mid-market
+C0245,Atlas Systems B.V.,NL,SMB
+C0246,Desert Properties Limited,NZ,Enterprise
+C0247,Granite Properties Pty Ltd,AU,Enterprise
+C0248,Union Logistics B.V.,NL,Enterprise
+C0249,Pioneer Media DAC,IE,SMB
+C0250,Orbit Systems FZ-LLC,AE,Enterprise
+C0251,Delta Analytics Pty Ltd,AU,SMB
+C0252,Atlas Hospitality Pty Ltd,AU,Mid-market
+C0253,Nova Media B.V.,NL,Enterprise
+C0254,Orbit Pharma Pty Ltd,AU,Mid-market
+C0255,Sterling Analytics Limited,NZ,Enterprise
+C0256,Blue Foods AG,DE,Mid-market
+C0257,Iron Health Pty Ltd,AU,Mid-market
+C0258,Atlas Trading Limited,NZ,Mid-market
+C0259,Quantum Health Limited,NZ,Mid-market
+C0260,Harbour Trading Limited,NZ,SMB
+C0261,Sterling Labs Pty Ltd,AU,SMB
+C0262,Falcon Logistics Pty Ltd,AU,Enterprise
+C0263,Zenith Health Ltd,NZ,Mid-market
+C0264,Vertex Media LLC,AE,SMB
+C0265,Cedar Telecom LLC,AE,Enterprise
+C0266,Delta Health B.V.,NL,Enterprise
+C0267,Iron Labs Pty Ltd,AU,Enterprise
+C0268,Apex Construction Pty Ltd,AU,Enterprise
+C0269,Cedar Pharma Pty Ltd,AU,Enterprise
+C0270,Red Properties Pty Ltd,AU,Mid-market
+C0271,Bright Energy DAC,IE,Mid-market
+C0272,Summit Systems AG,DE,SMB
+C0273,Zenith Properties LLC,AE,Enterprise
+C0274,Pacific Health LLC,AE,SMB
+C0275,Harbour Logistics GmbH,DE,Mid-market
+C0276,Summit Travel Pty Ltd,AU,SMB
+C0277,Pacific Education GmbH,DE,SMB
+C0278,Bright Pharma Limited,IE,Mid-market
+C0279,Blue Travel Limited,IE,Mid-market
+C0280,River Insurance DAC,IE,Enterprise
+C0281,Summit Foods Pty Ltd,AU,Enterprise
+C0282,Bright Travel FZE,AE,Enterprise
+C0283,Emerald Motors B.V.,NL,Enterprise
+C0284,Cedar Media LLC,AE,Mid-market
+C0285,Union Analytics Limited,IE,SMB
+C0286,Quantum Travel Pty Ltd,AU,Mid-market
+C0287,Pioneer Energy AG,DE,Mid-market
+C0288,Bright Systems GmbH,DE,SMB
+C0289,Silver Properties Limited,NZ,SMB
+C0290,Harbour Finance Ltd,NZ,Enterprise
+C0291,Sterling Pharma LLC,AE,SMB
+C0292,Quantum Telecom Pty Ltd,AU,Enterprise
+C0293,Crescent Logistics B.V.,NL,Enterprise
+C0294,North Retail FZ-LLC,AE,SMB
+C0295,Zenith Telecom B.V.,NL,Mid-market
+C0296,Harbour Analytics Pty Ltd,AU,SMB
+C0297,Apex Logistics AG,DE,Mid-market
+C0298,Pacific Hospitality Ltd,NZ,Enterprise
+C0299,Silver Foods B.V.,NL,SMB
+C0300,Harbour Insurance FZ-LLC,AE,Enterprise

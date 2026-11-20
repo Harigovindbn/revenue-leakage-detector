@@ -1,0 +1,25 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00238
+Customer: Willow Finance B.V.
+Registered country: Netherlands
+Effective Date: 01 June 2024
+Term: until 31 May 2027
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 203 units at USD 54.85 per unit per month
+- Platform Pro licence (per seat) [PLAT-PRO]: 195 units at USD 80.05 per unit per month
+
+2. PRICE ADJUSTMENT
+Pricing is subject to a yearly adjustment of 6% commencing 01 June 2025.
+
+3. DISCOUNTS
+Introductory pricing: Data storage (per TB) is discounted by 20 percent through 31 January 2025, after which standard rates apply.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

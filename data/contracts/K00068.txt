@@ -1,0 +1,25 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00068
+Customer: Apex Foods FZ-LLC
+Registered country: United Arab Emirates
+Effective Date: 01 June 2024
+Term: until 31 May 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 202 units at USD 55.82 per unit per month
+- Platform licence (per seat) [PLAT-BASE]: 45 units at USD 39.06 per unit per month
+
+2. PRICE ADJUSTMENT
+Fees shall increase by 3.5% on each anniversary of the Effective Date.
+
+3. DISCOUNTS
+Introductory pricing: Data storage (per TB) is discounted by 15 percent through 30 November 2024, after which standard rates apply.
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

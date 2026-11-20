@@ -1,0 +1,23 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00062
+Customer: Emerald Finance AG
+Registered country: Germany
+Effective Date: 01 April 2025
+Term: until 31 March 2028
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 149 units at USD 52.81 per unit per month
+- Platform licence (per seat) [PLAT-BASE]: 67 units at USD 43.24 per unit per month
+- Premium support (flat) [SUPP-PREM]: USD 1,126.50 per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 4% to the Fees, effective from the first anniversary (01 April 2026).
+
+5. TAXES
+All Fees are exclusive of VAT, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.

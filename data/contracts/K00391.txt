@@ -1,0 +1,24 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+Agreement No.: K00391
+Customer: Summit Travel Pty Ltd
+Registered country: Australia
+Effective Date: 01 July 2024
+Term: until 30 June 2026
+
+1. SERVICES AND FEES
+The Customer subscribes to the following services. Fees are in USD, exclusive of tax, billed monthly in arrears.
+
+- Data storage (per TB) [DATA-STOR]: 34 units at USD 54.80 per unit per month
+
+2. PRICE ADJUSTMENT
+The Supplier may apply an annual uplift of 4% to the Fees, effective from the first anniversary (01 July 2025).
+
+3. DISCOUNTS
+A promotional discount of 10% applies to Data storage (per TB) until 28 February 2025.
+
+5. TAXES
+All Fees are exclusive of GST, which will be charged at the applicable rate.
+
+6. GENERAL
+This Agreement is governed by the laws of the Customer's registered country.
