@@ -1,0 +1,1 @@
+invoice_id,invoice_line_id,customer,rule_id,leak_type,expected_amount,billed_amount,difference,evidence_clause
