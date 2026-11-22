@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
   "name": "bar_disc_wording",
   "position": {
     "x": 768,
     "y": 328,
     "z": 5000,
-    "width": 496,
     "height": 190,
+    "width": 496,
     "tabOrder": 5000
   },
   "visual": {
@@ -27,7 +27,8 @@
                 }
               },
               "queryRef": "dim_contract.discount_wording",
-              "nativeQueryRef": "discount_wording"
+              "nativeQueryRef": "discount_wording",
+              "active": true
             }
           ]
         },
@@ -65,8 +66,7 @@
             },
             "direction": "Descending"
           }
-        ],
-        "isDefaultSort": false
+        ]
       }
     },
     "visualContainerObjects": {
@@ -92,5 +92,37 @@
       ]
     },
     "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "e9b588174943b0a03141",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "dim_contract"
+              }
+            },
+            "Property": "discount_wording"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "7ab9bce7487a815ecad4",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "fact_flags"
+              }
+            },
+            "Property": "L2 Leakage"
+          }
+        },
+        "type": "Advanced"
+      }
+    ]
   }
 }

@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
   "name": "line_type_month",
   "position": {
     "x": 16,
     "y": 56,
     "z": 1000,
-    "width": 740,
     "height": 260,
+    "width": 740,
     "tabOrder": 1000
   },
   "visual": {
@@ -27,25 +27,8 @@
                 }
               },
               "queryRef": "dim_date.year_month",
-              "nativeQueryRef": "year_month"
-            }
-          ]
-        },
-        "Y": {
-          "projections": [
-            {
-              "field": {
-                "Measure": {
-                  "Expression": {
-                    "SourceRef": {
-                      "Entity": "fact_flags"
-                    }
-                  },
-                  "Property": "Total Leakage"
-                }
-              },
-              "queryRef": "fact_flags.Total Leakage",
-              "nativeQueryRef": "Total Leakage"
+              "nativeQueryRef": "year_month",
+              "active": true
             }
           ]
         },
@@ -64,6 +47,24 @@
               },
               "queryRef": "dim_leak_type.leak_type",
               "nativeQueryRef": "leak_type"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_flags"
+                    }
+                  },
+                  "Property": "Total Leakage"
+                }
+              },
+              "queryRef": "fact_flags.Total Leakage",
+              "nativeQueryRef": "Total Leakage"
             }
           ]
         }

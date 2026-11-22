@@ -1,41 +1,50 @@
 table dim_leak_type
+	lineageTag: 38d70919-f8f5-4918-a9fc-0591e911bed6
 
 	column rule_id
 		dataType: string
+		lineageTag: 48b550c6-4128-4703-a30e-d56f5cb1f5cb
 		summarizeBy: none
 		sourceColumn: rule_id
 
 	column leak_type
 		dataType: string
+		lineageTag: 90f7f75f-fbe7-41ad-8c5b-d977fb1aad97
 		summarizeBy: none
 		sourceColumn: leak_type
 		sortByColumn: sort_order
 
 	column severity
 		dataType: string
+		lineageTag: dc056197-6d3f-473a-b10e-e9c1b3fe7889
 		summarizeBy: none
 		sourceColumn: severity
 
 	column rule
 		dataType: string
+		lineageTag: 3f493c80-67b4-4277-82c8-2f15dc359af2
 		summarizeBy: none
 		sourceColumn: rule
 
 	column impact_formula
 		dataType: string
+		lineageTag: 21b01deb-86e2-4ce0-89a9-28b5d338e3b9
 		summarizeBy: none
 		sourceColumn: impact_formula
 
 	column process_owner
 		dataType: string
+		lineageTag: a6d0e196-87d7-4fe6-b31d-43b76ecf7f89
 		summarizeBy: none
 		sourceColumn: process_owner
 
 	column sort_order
 		dataType: int64
+		lineageTag: 8ba03ac0-3291-4ec3-abcd-ba20c1ee7687
 		summarizeBy: none
 		sourceColumn: sort_order
 
 	partition dim_leak_type = m
 		mode: import
 		source = let Source = Csv.Document(File.Contents(DataFolder & "dim_leak_type.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]), Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]), Typed = Table.TransformColumnTypes(Promoted, {{"rule_id", type text}, {"leak_type", type text}, {"severity", type text}, {"rule", type text}, {"impact_formula", type text}, {"process_owner", type text}, {"sort_order", Int64.Type}}, "en-US") in Typed
+

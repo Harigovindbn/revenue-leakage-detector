@@ -1,45 +1,55 @@
 table dim_customer
+	lineageTag: bdef579d-ca7c-4f27-aaa4-b909ce27aea9
 
 	column customer_key
 		dataType: string
+		lineageTag: 29620614-8215-4b98-9342-9a1982cb9f9c
 		summarizeBy: none
 		sourceColumn: customer_key
 
 	column customer_name
 		dataType: string
+		lineageTag: dfb80992-5379-43ed-84dc-dc19e5d372c9
 		summarizeBy: none
 		sourceColumn: customer_name
 
 	column country_code
 		dataType: string
+		lineageTag: 5f58aa9e-9263-46da-8d74-824f4932e1fa
 		summarizeBy: none
 		sourceColumn: country_code
 
 	column segment
 		dataType: string
+		lineageTag: 957f9e21-594d-4a1d-a8d8-8d2f26eec6c7
 		summarizeBy: none
 		sourceColumn: segment
 
 	column country_name
 		dataType: string
+		lineageTag: a23a9738-a6d1-4b18-8835-09b55faeaeb8
 		summarizeBy: none
 		sourceColumn: country_name
 
 	column tax_label
 		dataType: string
+		lineageTag: 9b033b98-605b-4a60-acff-38147aba451a
 		summarizeBy: none
 		sourceColumn: tax_label
 
 	column standard_tax_rate
 		dataType: double
+		lineageTag: 92bfb8cb-5b86-4817-81a8-3c042dcc48f4
 		summarizeBy: none
 		sourceColumn: standard_tax_rate
 
 	column contracts
 		dataType: int64
+		lineageTag: afdef74f-6072-4782-be72-8344f3149735
 		summarizeBy: none
 		sourceColumn: contracts
 
 	partition dim_customer = m
 		mode: import
 		source = let Source = Csv.Document(File.Contents(DataFolder & "dim_customer.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]), Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]), Typed = Table.TransformColumnTypes(Promoted, {{"customer_key", type text}, {"customer_name", type text}, {"country_code", type text}, {"segment", type text}, {"country_name", type text}, {"tax_label", type text}, {"standard_tax_rate", type number}, {"contracts", Int64.Type}}, "en-US") in Typed
+

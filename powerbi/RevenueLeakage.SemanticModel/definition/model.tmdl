@@ -1,8 +1,10 @@
 model Model
 	culture: en-US
 	defaultPowerBIDataSourceVersion: powerBI_V3
-	sourceQueryCulture: en-US
 	discourageImplicitMeasures
+	sourceQueryCulture: en-US
+
+annotation PBI_ProTooling = ["DevMode"]
 
 ref table fact_flags
 ref table fact_invoice_lines
@@ -11,3 +13,4 @@ ref table dim_contract
 ref table dim_leak_type
 ref table dim_date
 ref table eval_results
+

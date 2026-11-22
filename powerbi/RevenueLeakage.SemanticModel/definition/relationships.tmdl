@@ -29,3 +29,4 @@ relationship rel_07_fact_invoice_lines_dim_contract
 relationship rel_08_eval_results_dim_leak_type
 	fromColumn: eval_results.rule_id
 	toColumn: dim_leak_type.rule_id
+

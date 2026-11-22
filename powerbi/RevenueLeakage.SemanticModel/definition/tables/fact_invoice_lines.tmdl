@@ -1,105 +1,126 @@
 table fact_invoice_lines
+	lineageTag: 67b5fc7d-31f3-4717-9fdd-90451d73ba3a
 
 	column invoice_line_id
 		dataType: string
+		lineageTag: 78f72e0f-b6ba-470d-83ad-52309af6a0f0
 		summarizeBy: none
 		sourceColumn: invoice_line_id
 
 	column invoice_id
 		dataType: string
+		lineageTag: 7c35979d-878b-404b-ad67-acad304c94c7
 		summarizeBy: none
 		sourceColumn: invoice_id
 
 	column date_key
 		dataType: dateTime
 		formatString: yyyy-mm-dd
+		lineageTag: 96bae53f-d137-4065-a19d-4f1d8c651708
 		summarizeBy: none
 		sourceColumn: date_key
 
 	column customer_key
 		dataType: string
+		lineageTag: e717a9a2-f4b2-4bbf-8f6b-c4e523eb448b
 		summarizeBy: none
 		sourceColumn: customer_key
 
 	column contract_id
 		dataType: string
+		lineageTag: 42ec8d48-72e3-49cf-8a3c-c70802e12901
 		summarizeBy: none
 		sourceColumn: contract_id
 
 	column invoice_customer_name
 		dataType: string
+		lineageTag: 0019379a-ae7f-43ca-9875-7f32e327a64e
 		summarizeBy: none
 		sourceColumn: invoice_customer_name
 
 	column product_code
 		dataType: string
+		lineageTag: 25c0eb64-30f0-4b15-a1db-c9f8b2430c5c
 		summarizeBy: none
 		sourceColumn: product_code
 
 	column description
 		dataType: string
+		lineageTag: 2f8fb20e-6369-494f-b514-e596c29a2367
 		summarizeBy: none
 		sourceColumn: description
 
 	column quantity
 		dataType: int64
+		lineageTag: bdabf108-7098-4a3a-86c0-1a6a974b2074
 		summarizeBy: sum
 		sourceColumn: quantity
 
 	column unit_price
 		dataType: double
 		formatString: $#,0.00
+		lineageTag: 01ae18d1-0fba-455b-a9f6-64d2bb5b2990
 		summarizeBy: none
 		sourceColumn: unit_price
 
 	column discount_amount
 		dataType: double
 		formatString: $#,0.00
+		lineageTag: 1925b71b-6e76-4e82-ab85-1a60b3acd839
 		summarizeBy: sum
 		sourceColumn: discount_amount
 
 	column net_amount
 		dataType: double
 		formatString: $#,0.00
+		lineageTag: f82186b3-042f-4b14-ba01-5cc000f9c22f
 		summarizeBy: sum
 		sourceColumn: net_amount
 
 	column tax_rate
 		dataType: double
+		lineageTag: f0c444ae-22bf-45e4-8c95-cba88e1df965
 		summarizeBy: none
 		sourceColumn: tax_rate
 
 	column tax_amount
 		dataType: double
 		formatString: $#,0.00
+		lineageTag: dd026e15-11a6-4fe9-855b-5def985a7ae4
 		summarizeBy: sum
 		sourceColumn: tax_amount
 
 	column match_status
 		dataType: string
+		lineageTag: 80b4d0f2-54ae-4a56-8ccd-6e0a8eb6ce47
 		summarizeBy: none
 		sourceColumn: match_status
 
 	column match_method
 		dataType: string
+		lineageTag: ab20b535-8e06-437b-a5a4-2eb27b91ec24
 		summarizeBy: none
 		sourceColumn: match_method
 
 	column match_score
 		dataType: double
+		lineageTag: 4c891a44-cb7e-4278-a4f7-4e79a252992f
 		summarizeBy: none
 		sourceColumn: match_score
 
 	column unmatched_reason
 		dataType: string
+		lineageTag: ad6aead7-03d7-4caa-ae25-2b45dc3211f4
 		summarizeBy: none
 		sourceColumn: unmatched_reason
 
 	column flag_count
 		dataType: int64
+		lineageTag: 8408af16-e116-4da5-bcc5-0de06f8291c7
 		summarizeBy: none
 		sourceColumn: flag_count
 
 	partition fact_invoice_lines = m
 		mode: import
 		source = let Source = Csv.Document(File.Contents(DataFolder & "fact_invoice_lines.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]), Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]), Typed = Table.TransformColumnTypes(Promoted, {{"invoice_line_id", type text}, {"invoice_id", type text}, {"date_key", type date}, {"customer_key", type text}, {"contract_id", type text}, {"invoice_customer_name", type text}, {"product_code", type text}, {"description", type text}, {"quantity", Int64.Type}, {"unit_price", type number}, {"discount_amount", type number}, {"net_amount", type number}, {"tax_rate", type number}, {"tax_amount", type number}, {"match_status", type text}, {"match_method", type text}, {"match_score", type number}, {"unmatched_reason", type text}, {"flag_count", Int64.Type}}, "en-US") in Typed
+

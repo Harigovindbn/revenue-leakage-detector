@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
   "name": "card_over",
   "position": {
     "x": 1012,
     "y": 124,
     "z": 8000,
-    "width": 252,
     "height": 100,
+    "width": 252,
     "tabOrder": 8000
   },
   "visual": {
@@ -56,5 +56,23 @@
       ]
     },
     "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "65076594626290dad90e",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "fact_flags"
+              }
+            },
+            "Property": "Over-billing"
+          }
+        },
+        "type": "Advanced"
+      }
+    ]
   }
 }

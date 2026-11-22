@@ -1,237 +1,291 @@
 table fact_flags
+	lineageTag: 2c773d09-e08a-4367-ae1e-85bf508603e0
 
 	measure 'Total Leakage' = CALCULATE(SUM(fact_flags[impact_usd]), fact_flags[direction] = "Under-billed", fact_flags[is_visible] = TRUE(), KEEPFILTERS(fact_flags[status] <> "False alarm"))
 		formatString: $#,0
 		displayFolder: 1 Leakage
+		lineageTag: d909530d-b5e2-41b6-bab2-b6926885b6a9
 
 	measure 'Confirmed Leakage' = CALCULATE([Total Leakage], fact_flags[status] = "Confirmed")
 		formatString: $#,0
 		displayFolder: 1 Leakage
+		lineageTag: 51cc75c4-6304-4fd8-bbd9-8182342cd34b
 
 	measure 'Unreviewed Leakage' = CALCULATE([Total Leakage], fact_flags[status] = "Unreviewed")
 		formatString: $#,0
 		displayFolder: 1 Leakage
+		lineageTag: be315c78-5196-4c0c-ad85-c469a91a588c
 
 	measure 'Needs Info Leakage' = CALCULATE([Total Leakage], fact_flags[status] = "Needs info")
 		formatString: $#,0
 		displayFolder: 1 Leakage
+		lineageTag: 36f7b5db-d5cc-4874-ba35-dd741075ff9d
 
 	measure 'Total Revenue' = SUM(fact_invoice_lines[net_amount])
 		formatString: $#,0
 		displayFolder: 1 Leakage
+		lineageTag: 9cc20685-f1da-47ac-b5f1-0a779f77fa68
 
 	measure 'Leakage % of Revenue' = DIVIDE([Total Leakage], [Total Revenue])
 		formatString: 0.00%
 		displayFolder: 1 Leakage
+		lineageTag: 7f419bf8-c9e5-4424-bb1f-1eae74646551
 
 	measure 'Leakage Flags' = CALCULATE(COUNTROWS(fact_flags), fact_flags[direction] = "Under-billed", fact_flags[is_visible] = TRUE(), KEEPFILTERS(fact_flags[status] <> "False alarm"))
 		formatString: #,0
 		displayFolder: 1 Leakage
+		lineageTag: 418330e4-9c73-4f3d-801f-3780a4ab173d
 
 	measure 'Hidden Flags' = CALCULATE(COUNTROWS(fact_flags), fact_flags[is_visible] = FALSE())
 		formatString: #,0
 		displayFolder: 1 Leakage
+		lineageTag: c1bf22b9-42f3-47aa-9bf5-801f61210984
 
-	measure 'Over-billing' = CALCULATE(-SUM(fact_flags[impact_usd]), fact_flags[direction] = "Over-billed", fact_flags[is_visible] = TRUE())
+	measure Over-billing = CALCULATE(-SUM(fact_flags[impact_usd]), fact_flags[direction] = "Over-billed", fact_flags[is_visible] = TRUE())
 		formatString: $#,0
 		displayFolder: 1 Leakage
+		lineageTag: aaf503dc-7c50-438a-8aa0-a5e13516c862
 
 	measure 'L1 Leakage' = CALCULATE([Total Leakage], fact_flags[rule_id] = "L1")
 		formatString: $#,0
 		displayFolder: 2 Root causes
+		lineageTag: 90702daa-d908-4534-b2f3-4049f66f7ef5
 
 	measure 'L2 Leakage' = CALCULATE([Total Leakage], fact_flags[rule_id] = "L2")
 		formatString: $#,0
 		displayFolder: 2 Root causes
+		lineageTag: a3537780-1187-4f31-8b14-30fd6f80ad59
 
 	measure 'Leakage Prev Month' = CALCULATE([Total Leakage], DATEADD(dim_date[date_key], -1, MONTH))
 		formatString: $#,0
 		displayFolder: 2 Root causes
+		lineageTag: ceea94c8-4cc6-4484-8148-3092a81075f5
 
 	measure 'Leakage MoM Change' = [Total Leakage] - [Leakage Prev Month]
 		formatString: $#,0
 		displayFolder: 2 Root causes
+		lineageTag: 3493b312-2d43-4d93-9d61-3e5e3223f3b6
 
 	measure 'Leakage MoM %' = DIVIDE([Leakage MoM Change], [Leakage Prev Month])
 		formatString: 0.0%
 		displayFolder: 2 Root causes
+		lineageTag: 0a0651df-1536-41fa-889c-a1a4c8cc9f71
 
 	measure 'Tax Under-charged' = CALCULATE(SUM(fact_flags[impact_usd]), fact_flags[rule_id] = "L5", fact_flags[tax_direction] = "Under-charged", fact_flags[is_visible] = TRUE())
 		formatString: $#,0
 		displayFolder: 3 Tax
+		lineageTag: 201cfe24-9bde-493d-9e41-8b57fe72923c
 
 	measure 'Tax Over-charged' = CALCULATE(-SUM(fact_flags[impact_usd]), fact_flags[rule_id] = "L5", fact_flags[tax_direction] = "Over-charged", fact_flags[is_visible] = TRUE())
 		formatString: $#,0
 		displayFolder: 3 Tax
+		lineageTag: 89cb0cad-fa32-48b3-ab9f-2b6de388218a
 
 	measure 'L5 Flags' = CALCULATE(COUNTROWS(fact_flags), fact_flags[rule_id] = "L5", fact_flags[is_visible] = TRUE())
 		formatString: #,0
 		displayFolder: 3 Tax
+		lineageTag: 2bef8a31-083c-41e6-a01d-67747f7abec5
 
 	measure 'Priority Score' = SUM(fact_flags[priority_score])
 		formatString: #,0
 		displayFolder: 4 Flag review
+		lineageTag: 828630e1-c523-412a-87b8-a3076568ea1f
 
 	measure 'Avg Confidence' = AVERAGE(fact_flags[confidence])
 		formatString: 0.00
 		displayFolder: 4 Flag review
+		lineageTag: 4b520ef8-8d2c-41bd-b9e2-c86fddcd013e
 
 	measure 'Expected Amount' = SUM(fact_flags[expected_amount])
 		formatString: $#,0.00
 		displayFolder: 4 Flag review
+		lineageTag: 230edc97-1a2f-49b2-b876-cd03035375e8
 
 	measure 'Billed Amount' = SUM(fact_flags[billed_amount])
 		formatString: $#,0.00
 		displayFolder: 4 Flag review
+		lineageTag: 586170c8-6d25-4c28-849c-983a325ab3c2
 
 	measure 'Flag Impact' = SUM(fact_flags[impact_usd])
 		formatString: $#,0.00
 		displayFolder: 4 Flag review
+		lineageTag: ccd0b5e9-41f1-4c9e-9a93-5c2baa44e276
 
-	measure 'Evidence' = IF(HASONEVALUE(fact_flags[flag_id]), SELECTEDVALUE(fact_flags[evidence_clause]), "Click one flag in the table to see the contract clause it relied on.")
+	measure Evidence = IF(HASONEVALUE(fact_flags[flag_id]), SELECTEDVALUE(fact_flags[evidence_clause]), "Click one flag in the table to see the contract clause it relied on.")
 		displayFolder: 4 Flag review
+		lineageTag: aa78e5a3-ffd8-4eac-9f58-ba470bcb8ad5
 
 	measure 'Rule Detail' = IF(HASONEVALUE(fact_flags[flag_id]), SELECTEDVALUE(fact_flags[rule_detail]), "")
 		displayFolder: 4 Flag review
+		lineageTag: 81735b7e-f908-4c22-9562-d4ac734f725d
 
 	measure 'Invoice Match Rate' = DIVIDE(CALCULATE(COUNTROWS(fact_invoice_lines), fact_invoice_lines[match_status] = "Matched"), COUNTROWS(fact_invoice_lines))
 		formatString: 0.0%
 		displayFolder: 5 Quality
+		lineageTag: d32636bd-c6ca-46a8-bfe2-cf360895a8c1
 
 	measure 'Unmatched Revenue' = CALCULATE([Total Revenue], fact_invoice_lines[match_status] = "Unmatched")
 		formatString: $#,0
 		displayFolder: 5 Quality
+		lineageTag: 0f1af59e-fcac-4174-a81e-da40a2e6a977
 
-	measure 'Recall' = DIVIDE(CALCULATE(COUNTROWS(eval_results), eval_results[outcome] = "TP", eval_results[direction] = "Under-billed"), CALCULATE(COUNTROWS(eval_results), eval_results[outcome] IN {"TP", "FN"}, eval_results[direction] = "Under-billed"))
+	measure Recall = DIVIDE(CALCULATE(COUNTROWS(eval_results), eval_results[outcome] = "TP", eval_results[direction] = "Under-billed"), CALCULATE(COUNTROWS(eval_results), eval_results[outcome] IN {"TP", "FN"}, eval_results[direction] = "Under-billed"))
 		formatString: 0.0%
 		displayFolder: 5 Quality
+		lineageTag: 95779aa1-a3b0-4ce3-862b-130e21ab2606
 
-	measure 'Precision' = DIVIDE(CALCULATE(COUNTROWS(eval_results), eval_results[outcome] = "TP", eval_results[direction] = "Under-billed"), CALCULATE(COUNTROWS(eval_results), eval_results[outcome] IN {"TP", "FP"}, eval_results[direction] = "Under-billed"))
+	measure Precision = DIVIDE(CALCULATE(COUNTROWS(eval_results), eval_results[outcome] = "TP", eval_results[direction] = "Under-billed"), CALCULATE(COUNTROWS(eval_results), eval_results[outcome] IN {"TP", "FP"}, eval_results[direction] = "Under-billed"))
 		formatString: 0.0%
 		displayFolder: 5 Quality
+		lineageTag: b78884bd-9c9c-455f-a1f9-0ff5d5351882
 
 	measure 'USD Captured %' = DIVIDE(CALCULATE(SUM(eval_results[planted_usd]), eval_results[outcome] = "TP", eval_results[direction] = "Under-billed"), CALCULATE(SUM(eval_results[planted_usd]), eval_results[outcome] IN {"TP", "FN"}, eval_results[direction] = "Under-billed"))
 		formatString: 0.0%
 		displayFolder: 5 Quality
+		lineageTag: a778f86f-392c-40aa-8508-cae61c71c49b
 
 	measure 'Review Precision' = DIVIDE(CALCULATE(COUNTROWS(fact_flags), fact_flags[status] = "Confirmed"), CALCULATE(COUNTROWS(fact_flags), fact_flags[status] IN {"Confirmed", "False alarm"}))
 		formatString: 0.0%
 		displayFolder: 5 Quality
+		lineageTag: 646617c4-fa58-434f-a87b-1400cdcc35e1
 
 	column flag_id
 		dataType: string
+		lineageTag: 339c4de4-2fd6-4442-8d4b-fe1d097a3e7d
 		summarizeBy: none
 		sourceColumn: flag_id
 
 	column invoice_line_id
 		dataType: string
+		lineageTag: fdd71ef2-c8ee-49ba-adff-98efc7e0e6a5
 		summarizeBy: none
 		sourceColumn: invoice_line_id
 
 	column invoice_id
 		dataType: string
+		lineageTag: 275cd3b9-14ef-4571-8eeb-5b542776467e
 		summarizeBy: none
 		sourceColumn: invoice_id
 
 	column date_key
 		dataType: dateTime
 		formatString: yyyy-mm-dd
+		lineageTag: c6685580-f0aa-4c67-94ac-dc316ff4eed0
 		summarizeBy: none
 		sourceColumn: date_key
 
 	column customer_key
 		dataType: string
+		lineageTag: b66632f4-28ae-41da-8b13-95bd8dcf03d2
 		summarizeBy: none
 		sourceColumn: customer_key
 
 	column contract_id
 		dataType: string
+		lineageTag: d532f053-7997-49f1-832b-799477096b9c
 		summarizeBy: none
 		sourceColumn: contract_id
 
 	column invoice_customer_name
 		dataType: string
+		lineageTag: c1258e4d-a349-4a04-acb5-00803e18ea5f
 		summarizeBy: none
 		sourceColumn: invoice_customer_name
 
 	column product_code
 		dataType: string
+		lineageTag: 3e90fd2c-565c-410d-a3e8-fb37cf93dbd0
 		summarizeBy: none
 		sourceColumn: product_code
 
 	column rule_id
 		dataType: string
+		lineageTag: f5353b6b-4ecd-4850-b006-589c2c8ef0b4
 		summarizeBy: none
 		sourceColumn: rule_id
 
 	column direction
 		dataType: string
+		lineageTag: ab1d32d3-e031-4661-bfb6-337ef208ca12
 		summarizeBy: none
 		sourceColumn: direction
 
 	column tax_direction
 		dataType: string
+		lineageTag: fc0f164b-a6a1-424e-9c02-8114d4427ff2
 		summarizeBy: none
 		sourceColumn: tax_direction
 
 	column expected_amount
 		dataType: double
 		formatString: $#,0.00
+		lineageTag: 21f99bbe-c291-41fa-90ab-a15529433cbd
 		summarizeBy: none
 		sourceColumn: expected_amount
 
 	column billed_amount
 		dataType: double
 		formatString: $#,0.00
+		lineageTag: f3eb1793-fdfa-4611-af1c-9362f0a25a51
 		summarizeBy: none
 		sourceColumn: billed_amount
 
 	column impact_usd
 		dataType: double
 		formatString: $#,0.00
+		lineageTag: 2032e803-7fe2-4bd3-b4f6-df69a5ea4aa9
 		summarizeBy: none
 		sourceColumn: impact_usd
 
 	column confidence
 		dataType: double
+		lineageTag: aa09e470-9c0d-4a23-a75f-30be2122bdc2
 		summarizeBy: none
 		sourceColumn: confidence
 
 	column priority_score
 		dataType: double
+		lineageTag: 01b1bb91-505c-432a-940e-567ed8a856e0
 		summarizeBy: none
 		sourceColumn: priority_score
 
 	column is_visible
 		dataType: boolean
+		lineageTag: 1f0e2342-dfb4-4e7b-bce0-8f77ec1f57d3
 		summarizeBy: none
 		sourceColumn: is_visible
 
 	column status
 		dataType: string
+		lineageTag: f8c5ec1d-39af-41b9-a4ba-f0bf14625f0c
 		summarizeBy: none
 		sourceColumn: status
 
 	column reviewed_by
 		dataType: string
+		lineageTag: 81ebbf65-823e-411d-ac5b-6afc337f0f40
 		summarizeBy: none
 		sourceColumn: reviewed_by
 
 	column note
 		dataType: string
+		lineageTag: c592650a-2d8a-4f07-893a-67197d32df56
 		summarizeBy: none
 		sourceColumn: note
 
 	column evidence_clause
 		dataType: string
+		lineageTag: 3bec182a-748d-4882-a7d1-8fc7b9a05066
 		summarizeBy: none
 		sourceColumn: evidence_clause
 
 	column rule_detail
 		dataType: string
+		lineageTag: ddb73f82-3e5f-4f73-8dd7-0845d407865b
 		summarizeBy: none
 		sourceColumn: rule_detail
 
 	partition fact_flags = m
 		mode: import
 		source = let Source = Csv.Document(File.Contents(DataFolder & "fact_flags.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]), Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]), Typed = Table.TransformColumnTypes(Promoted, {{"flag_id", type text}, {"invoice_line_id", type text}, {"invoice_id", type text}, {"date_key", type date}, {"customer_key", type text}, {"contract_id", type text}, {"invoice_customer_name", type text}, {"product_code", type text}, {"rule_id", type text}, {"direction", type text}, {"tax_direction", type text}, {"expected_amount", type number}, {"billed_amount", type number}, {"impact_usd", type number}, {"confidence", type number}, {"priority_score", type number}, {"is_visible", type logical}, {"status", type text}, {"reviewed_by", type text}, {"note", type text}, {"evidence_clause", type text}, {"rule_detail", type text}}, "en-US") in Typed
+

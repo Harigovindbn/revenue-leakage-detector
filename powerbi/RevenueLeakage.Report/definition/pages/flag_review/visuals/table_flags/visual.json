@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
   "name": "table_flags",
   "position": {
     "x": 16,
     "y": 124,
     "z": 4000,
-    "width": 820,
     "height": 588,
+    "width": 820,
     "tabOrder": 4000
   },
   "visual": {
@@ -145,8 +145,7 @@
             },
             "direction": "Descending"
           }
-        ],
-        "isDefaultSort": false
+        ]
       }
     },
     "visualContainerObjects": {

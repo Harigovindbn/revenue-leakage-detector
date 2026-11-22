@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
   "name": "donut_status",
   "position": {
     "x": 768,
     "y": 480,
     "z": 12000,
-    "width": 496,
     "height": 232,
+    "width": 496,
     "tabOrder": 12000
   },
   "visual": {
@@ -27,7 +27,8 @@
                 }
               },
               "queryRef": "fact_flags.status",
-              "nativeQueryRef": "status"
+              "nativeQueryRef": "status",
+              "active": true
             }
           ]
         },

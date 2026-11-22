@@ -1,37 +1,45 @@
 table eval_results
+	lineageTag: e8713b8a-d000-405f-abd7-848ca5226584
 
 	column invoice_line_id
 		dataType: string
+		lineageTag: f981fd7f-4d2a-4233-8e57-f75caf538f76
 		summarizeBy: none
 		sourceColumn: invoice_line_id
 
 	column rule_id
 		dataType: string
+		lineageTag: 770ca8e0-e7e0-4560-9175-37e8df84829e
 		summarizeBy: none
 		sourceColumn: rule_id
 
 	column direction
 		dataType: string
+		lineageTag: 13f67faf-2511-4f73-939d-640a7ffd477b
 		summarizeBy: none
 		sourceColumn: direction
 
 	column outcome
 		dataType: string
+		lineageTag: de15f16f-cf88-4b15-a8aa-ceb807f4938a
 		summarizeBy: none
 		sourceColumn: outcome
 
 	column planted_usd
 		dataType: double
 		formatString: $#,0.00
+		lineageTag: 2804a482-69b1-4a8a-82c9-f6a90d20806a
 		summarizeBy: none
 		sourceColumn: planted_usd
 
 	column flagged_usd
 		dataType: double
 		formatString: $#,0.00
+		lineageTag: fccf867a-69f1-464c-82a7-e63e29481c62
 		summarizeBy: none
 		sourceColumn: flagged_usd
 
 	partition eval_results = m
 		mode: import
 		source = let Source = Csv.Document(File.Contents(DataFolder & "eval_results.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]), Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]), Typed = Table.TransformColumnTypes(Promoted, {{"invoice_line_id", type text}, {"rule_id", type text}, {"direction", type text}, {"outcome", type text}, {"planted_usd", type number}, {"flagged_usd", type number}}, "en-US") in Typed
+
