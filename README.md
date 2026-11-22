@@ -208,7 +208,11 @@ Real contract and invoice data is confidential, so `generate_data.py` builds a r
 
 Requirements elicitation · stakeholder analysis · process mapping · business rules definition · user stories & acceptance criteria · data modelling · Python · LLMs for document extraction · evaluation design · Power BI · UAT planning
 
+## How this was built
+
+Built with AI assistance (Claude) for code generation and drafting. I defined the business problem, requirements, rules and analysis approach, and reviewed and validated all outputs.
+
 ## Author
 
 **Hari** · MSc in Artificial Intelligence · aspiring Business Analyst
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:you@example.com)
+[GitHub](https://github.com/Harigovindbn) · [LinkedIn](https://www.linkedin.com/in/harigovind-b-nair-7b99b0373/)
